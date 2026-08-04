@@ -61,6 +61,11 @@ def render_site(settings: dict) -> None:
     days = archive.list_days()
     reports = [r for d in days if (r := archive.load_report(d))]
 
+    # 清理 data/ 中已不存在的日期页面，避免残留过期文件
+    for stale in (SITE_DIR / "days").glob("????-??-??.html"):
+        if stale.stem not in days:
+            stale.unlink()
+
     for report in reports:
         html = day_tpl.render(**_day_context(report, days, site_title, "../"))
         (SITE_DIR / "days" / f"{report.date}.html").write_text(html, encoding="utf-8")
