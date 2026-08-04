@@ -1,108 +1,51 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T16:34:00+08:00",
-  "briefing": "今日AI新闻聚焦于巨头与新兴企业的资金动向，以及技术和政策的多重变化。关键事件包括前海母基金大额投资Om AI、阿里巴巴发布Qwen3.8-Max，以及欧盟AI透明度新规的出台。",
-  "highlights": "今日的行业信号显示，AI领域仍在快速变革中。前海母基金的投资显示端侧AI商业化加速，阿里巴巴与Anthropic等公司在AI模型竞争中不断推出新产品，欧盟的新规则显示出对AI透明度和安全性的重视。这些动向表明，无论是技术开发还是政策监管，AI行业正向更成熟方向迈进。",
+  "generated_at": "2026-08-04T16:41:33+08:00",
+  "briefing": "今日导读：科技巨头阿里巴巴发布强大AI模型Qwen3.8-Max，OpenAI推出实时语音系统GPT-Live，亚马逊巨额投资OpenAI。欧盟对AI透明度的法规已生效。",
+  "highlights": "今日看点：阿里巴巴与OpenAI发布的新AI产品显示技术进步迅速，推动行业能力边界。亚马逊对OpenAI的500亿美元投资则彰显了AI领域的市场热度和竞争力。欧盟AI法规的生效则显示出政策框架对AI透明度与安全性的重视，这三方面共同说明AI技术应用与监管正在双轨并行，行业格局在快速变化。",
   "events": [
     {
-      "id": "e71bb3e1763",
-      "title": "前海母基金数亿元押注Om AI",
-      "summary": "前海母基金对端侧物理AI领域进行数亿元投资，支持Om AI的商业化落地。这一投资旨在加速新技术的应用落地，推动AI在端侧的广泛应用。",
+      "id": "e92f8a54631",
+      "title": "阿里巴巴发布Qwen3.8-Max AI模型",
+      "summary": "中国科技巨头阿里巴巴发布了其迄今为止最大和最强大的AI模型Qwen3.8-Max，声称其性能可与美国的Anthropic和OpenAI等前沿实验室的最佳系统媲美。阿里巴巴在周一的博客中宣布将广泛提供该模型，此前公司在上个月预览了该模型，称其“仅次于Anthropic的Fable 5”。",
       "tier": "must_read",
-      "insight": "### 一句话本质\n前海母基金向Om AI注入数亿元资金，推动端侧物理AI的发展。### 为什么令人兴奋\n这是对边缘计算的重大投资，有助于降低延迟和节省带宽。### 产品机会\n这加速了端侧产品的发展，特别是在智能设备上的应用。### 格局影响\n对Om AI来说，这是一大步，对竞争对手增加了压力。### 冷静判断\n投资虽有助于技术扩展，但商业落地仍需时间。### 趋势坐标\n显示市场对边缘计算的兴趣持续增长，呼应了全球端侧AI技术的进步。",
+      "insight": "### 一句话本质\n阿里巴巴发布了新一代AI模型Qwen3.8-Max，声称其性能媲美全球最强AI系统。\n\n### 为什么令人兴奋\n该模型在多任务处理、专业工作及多模态分析方面的能力达到了新高度，这将显著提升AI在复杂应用中的效能。\n\n### 产品机会\nQwen3.8-Max可增强阿里在云服务、自动驾驶、智能客服等领域的产品竞争力，并带来创新商业模式。\n\n### 格局影响\n这对OpenAI、Anthropic等前沿实验室形成了竞争压力，也代表中国AI企业在全球市场的实力展现。\n\n### 冷静判断\n虽然性能卓越，但大规模商用推广中仍需验证其稳定性和可用性，预计需要数月的商业化尝试。\n\n### 趋势坐标\n符合大规模AI模型演进趋势，与各巨头争相推出强大模型的步伐一致，并促使其他企业聚焦于API开放和商用落地进程。",
       "articles": [
         {
-          "source_id": "qbitai",
-          "source_name": "量子位",
-          "category": "中文媒体",
-          "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
-          "url": "https://www.qbitai.com/2026/08/465785.html",
-          "published_at": "2026-08-04T06:47:06+00:00",
-          "text": "",
-          "id": "a71bb3e1763"
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "published_at": "2026-08-03T11:01:11+00:00",
+          "text": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship. The open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washin … Read the full story at The Verge.",
+          "id": "a92f8a54631"
         }
       ]
     },
     {
-      "id": "ea2157f235d",
-      "title": "阿里Qwen3.8发布，推理能力增强",
-      "summary": "阿里巴巴正式发布了新一代基座大模型Qwen3.8，整体性能达到全球大模型第一梯队。预计下周将开源Qwen3.8-Max和Qwen3.8-27B。",
+      "id": "e8d39fe4568",
+      "title": "亚马逊完成对OpenAI 500亿美元投资",
+      "summary": "亚马逊完成了对人工智能公司OpenAI的500亿美元投资。这一投资将推动OpenAI在人工智能领域的发展和创新。",
       "tier": "must_read",
-      "insight": "### 一句话本质\n阿里巴巴推出了新一代AI模型Qwen3.8，提升了推理能力。### 为什么令人兴奋\n该模型在多个性能指标上已接近国际领先水平，预期提升实际应用。### 产品机会\n可用于复杂的交互式应用，从商业聊天机器人到专业咨询。### 格局影响\n阿里的动作凸显中美AI领域日益激烈的性能竞争。### 冷静判断\n技术展示水准高，但广泛应用需时间检验。### 趋势坐标\n印证了中国AI企业在全球舞台上逐渐增强的技术能力。",
+      "insight": "### 一句话本质\n亚马逊完成了对OpenAI的500亿美元投资。\n\n### 为什么令人兴奋\n这是一笔巨额投资，显示出亚马逊对AI市场的重视和对OpenAI未来潜力的信赖。\n\n### 产品机会\n此投资可能使得OpenAI可以快速扩展其AI技术和市场应用，加速推动更多创新型功能产品的推出。\n\n### 格局影响\n巨额投资提升了OpenAI在市场中的资金储备和竞争力，也为亚马逊争取到了与OpenAI更密切合作的机会。\n\n### 冷静判断\n投资对未来技术影响需时间验证，而市场也在关注此资金具体将如何落地应用。\n\n### 趋势坐标\n强化了大科技公司对AI领域的投资趋势，且预示着未来更多跨界合作的可能性。",
       "articles": [
         {
-          "source_id": "qbitai",
-          "source_name": "量子位",
-          "category": "中文媒体",
-          "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
-          "url": "https://www.qbitai.com/2026/08/465215.html",
-          "published_at": "2026-08-03T04:58:17+00:00",
-          "text": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
-          "id": "aa2157f235d"
-        }
-      ]
-    },
-    {
-      "id": "ee4de17615c",
-      "title": "亿级日活App的算力挣扎",
-      "summary": "出海AI面临“三重算力锁链”的困扰，推理成本出现倒挂现象。为降低开支，相关企业通过跨云架构成功减少了75%的GPU集群使用。",
-      "tier": "worth_reading",
-      "insight": null,
-      "articles": [
-        {
-          "source_id": "qbitai",
-          "source_name": "量子位",
-          "category": "中文媒体",
-          "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
-          "url": "https://www.qbitai.com/2026/08/465732.html",
-          "published_at": "2026-08-04T01:27:41+00:00",
-          "text": "出海AI，正被“三重算力锁链\"捆死",
-          "id": "ae4de17615c"
-        }
-      ]
-    },
-    {
-      "id": "e2b53ceafa8",
-      "title": "Palantir CEO称AI行业‘马克思主义’",
-      "summary": "在刚刚结束的财季中，Palantir 实现了 10 亿美元的利润。首席执行官 Alex Karp 再次警告说，AI 前沿实验室对于企业而言过于不可信。",
-      "tier": "worth_reading",
-      "insight": null,
-      "articles": [
-        {
-          "source_id": "techcrunch_ai",
-          "source_name": "TechCrunch AI",
-          "category": "英文媒体",
-          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-          "published_at": "2026-08-03T23:19:50+00:00",
-          "text": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-          "id": "a2b53ceafa8"
-        }
-      ]
-    },
-    {
-      "id": "e52116e7a3a",
-      "title": "Design Arena 获 790 万美元融资",
-      "summary": "Design Arena 的创始团队筹集了 790 万美元，以提升 AI 模型的品味。该平台在全球有 530 万用户，为前沿实验室提供关键的人类评估。",
-      "tier": "worth_reading",
-      "insight": null,
-      "articles": [
-        {
-          "source_id": "techcrunch_ai",
-          "source_name": "TechCrunch AI",
-          "category": "英文媒体",
-          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-          "published_at": "2026-08-03T19:28:57+00:00",
-          "text": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-          "id": "a52116e7a3a"
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Amazon completes $50B investment in OpenAI",
+          "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9",
+          "published_at": "2026-08-03T02:07:06+00:00",
+          "text": "Amazon completes $50B investment in OpenAI（HN 22 points，讨论: https://news.ycombinator.com/item?id=49150420）",
+          "id": "a8d39fe4568"
         }
       ]
     },
     {
       "id": "e153c499b04",
-      "title": "欧盟AI标签透明度新规生效",
-      "summary": "欧盟于8月2日启用了新规定，要求公司在用户与AI模型互动时进行披露，并标示由AI生成或修改的内容。这些透明度规定适用于AI系统的提供者和使用者，例如Meta和SpaceXAI等公司。提供者必须设计AI系统，以明确显示其为AI驱动的。",
+      "title": "欧盟AI标签与透明规则生效",
+      "summary": "欧盟的AI法案新透明度规则于8月2日生效，旨在帮助用户识别在线聊天机器人和AI深度伪造内容。公司必须披露何时与AI模型互动，以及内容是否由AI生成或修改。不同的规则适用于AI系统提供者和使用这些系统的平台与服务。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -119,49 +62,11 @@
       ]
     },
     {
-      "id": "e06e62134a2",
-      "title": "国会青睐AI工具：ChatGPT",
-      "summary": "国会支出记录显示，OpenAI 的 ChatGPT 在华盛顿的付费 AI 使用中占主导地位。国会议员办公室利用该聊天机器人撰写备忘录、总结立法内容，并协助处理选民沟通。",
-      "tier": "worth_reading",
-      "insight": null,
-      "articles": [
-        {
-          "source_id": "techcrunch_ai",
-          "source_name": "TechCrunch AI",
-          "category": "英文媒体",
-          "title": "Congress’ favorite AI tool? ChatGPT",
-          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-          "published_at": "2026-08-03T16:40:55+00:00",
-          "text": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-          "id": "a06e62134a2"
-        }
-      ]
-    },
-    {
-      "id": "e92f8a54631",
-      "title": "阿里巴巴发布新AI模型Qwen3.8-Max",
-      "summary": "中国科技巨头阿里巴巴发布了其迄今为止最大、最强大的AI模型Qwen3.8-Max，并声称其性能可与美国前沿实验室的Anthropic和OpenAI等最佳系统相媲美。该模型的公开发布预计将在硅谷和华盛顿引发更多紧张局势。",
-      "tier": "worth_reading",
-      "insight": null,
-      "articles": [
-        {
-          "source_id": "theverge_ai",
-          "source_name": "The Verge AI",
-          "category": "英文媒体",
-          "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "published_at": "2026-08-03T11:01:11+00:00",
-          "text": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was \"second only to Fable 5,\" Anthropic's flagship. The open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washin … Read the full story at The Verge.",
-          "id": "a92f8a54631"
-        }
-      ]
-    },
-    {
       "id": "ed04cc35bd3",
-      "title": "OpenAI 发布实时语音 AI 系统",
-      "summary": "OpenAI 在六个月内构建了 GPT-Live，一个支持实时连续语音交互的系统。该系统采用无回合语音模型和低延迟架构，旨在实现更快速、更自然的对话。",
+      "title": "OpenAI 发布 GPT-Live 实时语音 AI",
+      "summary": "OpenAI 在六个月内开发了实时语音 AI 系统 GPT-Live。该系统采用无轮次语音模型和低延迟架构，实现更快、更自然的对话。",
       "tier": "worth_reading",
-      "insight": null,
+      "insight": "### 一句话本质\nOpenAI发布了GPT-Live，一个支持实时语音交互的AI系统。\n\n### 为什么令人兴奋\n此AI系统支持更自然、更快的语音交互，提升了语音助理的用户体验。\n\n### 产品机会\nGPT-Live可以应用于更智能的客服中心、实时翻译和智能家居助手中，提升产品的语音交互能力。\n\n### 格局影响\n这增强了OpenAI在C端市场的领先地位，同时对苹果、亚马逊等公司在语音助手方面构成挑战。\n\n### 冷静判断\n该产品展示出强大的实时语音处理能力，但要被大规模集成到已有语音产品中仍需要时间推进和技术优化。\n\n### 趋势坐标\n印证了语音AI向实时化和自然化发展的趋势，推动市场整体对便捷人机交互的关注。",
       "articles": [
         {
           "source_id": "openai_blog",
@@ -177,8 +82,8 @@
     },
     {
       "id": "ec6d9f7ff2f",
-      "title": "阿里Qwen3.8-Max上线",
-      "summary": "阿里巴巴推出了Qwen3.8-Max模型，该模型在编程、专业工作、长程任务和多模态分析等方面表现出色。此版本的性能已接近Claude，标志着其在全球模型竞争中的进一步提升。",
+      "title": "阿里 Qwen3.8-Max 发布",
+      "summary": "阿里的 Qwen3.8-Max 模型发布，正式进入全球 AI 领域第一梯队。该模型在编程、专业工作、长程任务和多模态分析等方面表现突出，性能直逼 Claude。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -195,47 +100,28 @@
       ]
     },
     {
-      "id": "e8d39fe4568",
-      "title": "亚马逊完成对OpenAI的500亿美元投资",
-      "summary": "亚马逊已完成对人工智能公司OpenAI的500亿美元投资。这标志着亚马逊在AI领域深化布局的重要一步。",
+      "id": "ea2157f235d",
+      "title": "阿里Qwen3.8发布，功能全面升级",
+      "summary": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。同时，Qwen3.8-Max预计下周开源，并将开源Qwen3.8-27B。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
         {
-          "source_id": "hackernews",
-          "source_name": "Hacker News",
-          "category": "英文社区",
-          "title": "Amazon completes $50B investment in OpenAI",
-          "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9",
-          "published_at": "2026-08-03T02:07:06+00:00",
-          "text": "Amazon completes $50B investment in OpenAI（HN 22 points，讨论: https://news.ycombinator.com/item?id=49150420）",
-          "id": "a8d39fe4568"
-        }
-      ]
-    },
-    {
-      "id": "e54e616a32e",
-      "title": "Circles 借助 OpenAI 技术实现个性化",
-      "summary": "Circles 利用 OpenAI API 和 Codex 技术，实现电信行业的 AI 原生体验，平均每用户收入（ARPU）提升了 22%，用户流失率降低了 9%，开发效率也得到了改善。",
-      "tier": "worth_reading",
-      "insight": null,
-      "articles": [
-        {
-          "source_id": "openai_blog",
-          "source_name": "OpenAI Blog",
-          "category": "官方",
-          "title": "Circles powers telco personalization with OpenAI technology",
-          "url": "https://openai.com/index/circles",
-          "published_at": "2026-08-03T00:00:00+00:00",
-          "text": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-          "id": "a54e616a32e"
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "阿里Qwen3.8正式发布，编程与办公再进化，推理更快更稳定",
+          "url": "https://www.qbitai.com/2026/08/465215.html",
+          "published_at": "2026-08-03T04:58:17+00:00",
+          "text": "阿里巴巴正式发布新一代基座大模型Qwen3.8，整体性能处于全球大模型第一梯队。Qwen3.8-Max预计下周开源，同时还将开源 Qwen3.8-27B。",
+          "id": "aa2157f235d"
         }
       ]
     },
     {
       "id": "ecfdd2789b4",
-      "title": "欧盟AI模型规则开始实施",
-      "summary": "欧盟新的AI模型规则现已生效，旨在对人工智能技术的开发和应用进行监管。这些规则将对AI模型的透明度、安全性和责任性等方面提出具体要求。预计这一举措将对AI产业产生深远影响。",
+      "title": "欧盟AI模型新规正式生效",
+      "summary": "欧盟关于AI模型的新规已正式生效。这些新规旨在提高AI系统的安全性和透明度，为开发者和企业设定明确的合规要求。此举可能会改变AI技术的开发和使用方式。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -253,8 +139,8 @@
     },
     {
       "id": "ee75df1016a",
-      "title": "Anthropic 发布 Claude Opus 5",
-      "summary": "Anthropic 于 2026 年 7 月 24 日推出了 Claude Opus 5 产品。Opus 5 在 Opus 系列中实现了显著的改进，提升了对长期运行代理的支持，并在编码和专业工作方面提供了更好的性能。",
+      "title": "Claude Opus 5 产品发布",
+      "summary": "2026年7月24日，Anthropic 发布了 Claude Opus 5 产品。Opus 5 在 Opus 系列中带来了显著的改进，支持长时间运行的智能体，并在编码和专业工作方面实现了提升。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -272,8 +158,8 @@
     },
     {
       "id": "e5e689a6493",
-      "title": "Anthropic 向公众征集AI问题",
-      "summary": "2026年7月9日，Anthropic 宣布邀请公众提出关于人工智能的难题，并承诺在解决这些问题的过程中展示他们的工作。该举措旨在增强透明度和公众参与。",
+      "title": "Anthropic 邀请公众提问AI问题",
+      "summary": "Anthropic 于2026年7月9日宣布，邀请公众提交关于人工智能的难题，并承诺在解决这些问题的过程中展示他们的工作。这一行动旨在增加透明度和公众参与度。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -291,8 +177,8 @@
     },
     {
       "id": "eff1300aa6c",
-      "title": "Fable 5 全球回归",
-      "summary": "Fable 5 将于 7 月 1 日在全球范围内重新上线。Anthropic 与亚马逊、微软、谷歌等 Glasswing 伙伴共同提议建立一个行业范围内的越狱严重性评分框架。",
+      "title": "Fable 5 全球重返市场",
+      "summary": "Fable 5 将于 7 月 1 日在全球范围内重返市场。此外，Anthropic与亚马逊、微软、谷歌及其他 Glasswing 合作伙伴共同提出一个行业框架，用于评估越狱的严重程度。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -310,8 +196,8 @@
     },
     {
       "id": "e0f764e9bc7",
-      "title": "Anthropic 推出 Claude Sonnet 5",
-      "summary": "Anthropic 于 2026 年 6 月 30 日推出了 Claude Sonnet 5。这款产品在编程、智能体和大规模专业工作方面提供了前沿性能。",
+      "title": "Anthropic 发布 Claude Sonnet 5",
+      "summary": "Anthropic 于 2026 年 6 月 30 日推出了 Claude Sonnet 5。这款新产品在编码、智能体和大规模专业工作中提供了前沿性能。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -329,8 +215,8 @@
     },
     {
       "id": "ed382e1dba0",
-      "title": "Anthropic 网络安全评估事件调查",
-      "summary": "2026年7月30日，Anthropic 对三起真实世界的网络安全事件进行了调查。这些事件是公司在网络安全评估中发现的重要案例，目的是提高防御能力和安全性。",
+      "title": "Anthropic 评估网络安全事件",
+      "summary": "在2026年7月30日，Anthropic公布了对三起真实网络安全事件的调查结果。这些评估旨在识别并改善其产品在面临网络攻击时的安全性和应对能力。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -349,7 +235,7 @@
     {
       "id": "e80d8760fd0",
       "title": "Anthropic 发布开放权重模型声明",
-      "summary": "2026年7月27日，Anthropic 发布了一份关于开放权重模型的立场声明。该声明阐述了公司对开放权重模型的看法，以及相关的政策和考量。",
+      "summary": "2026年7月27日，Anthropic 发布了关于开放权重模型的正式声明。该公司阐明了其在这一领域的立场和策略，强调了开放权重模型的重要性。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -367,8 +253,8 @@
     },
     {
       "id": "ebe0b73b30b",
-      "title": "Cognizant 与 Anthropic 扩展合作",
-      "summary": "Cognizant 和 Anthropic 宣布扩大合作，计划将 Claude 这一 AI 产品引入企业客户。此次合作旨在为企业提供更智能的解决方案，帮助它们提高效率和创新能力。",
+      "title": "Cognizant 与 Anthropic 拓展合作",
+      "summary": "Cognizant 与 Anthropic 宣布扩展合作，旨在将 Claude 引入企业客户。此次合作将推动 Claude 的应用，为企业提供更智能的解决方案。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -386,8 +272,8 @@
     },
     {
       "id": "e85aa09c15e",
-      "title": "Anthropic推出经济指数",
-      "summary": "Anthropic 于 2026 年 7 月 22 日发布了新的产品——Anthropic 经济指数，用户可以通过 Claude 进行查询。该指数旨在提供有关经济状况的深入见解。",
+      "title": "Anthropic 发布经济指数",
+      "summary": "2026年7月22日，Anthropic推出了《Anthropic经济指数》。用户可以通过Claude询问与该指数相关的信息，了解最新的经济趋势和数据。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -405,8 +291,8 @@
     },
     {
       "id": "e92c58c1b95",
-      "title": "Anthropic 捐赠2000万美元",
-      "summary": "Anthropic再次向Public First Action捐赠了2000万美元。这是该公司持续支持公共事业的一部分，旨在促进社会行动与公共政策的发展。",
+      "title": "Anthropic 再捐 2000 万美元",
+      "summary": "Anthropic 决定向 Public First Action 再捐赠 2000 万美元。此次捐款旨在支持该组织的相关项目和活动。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -424,8 +310,8 @@
     },
     {
       "id": "ef23573f8ba",
-      "title": "Anthropic 发布罕见病研究资助",
-      "summary": "Anthropic 宣布开放 AI for Science 罕见病研究的资助申请。该项目旨在支持利用人工智能技术推动罕见疾病研究的创新和进展。",
+      "title": "Anthropic推出罕见疾病研究资助",
+      "summary": "Anthropic于2026年7月20日宣布，开放申请AI for Science罕见疾病研究资助。该计划旨在利用人工智能技术推动疾病研究，支持相关领域的学术和科学进展。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -443,8 +329,8 @@
     },
     {
       "id": "ed37ce11fa5",
-      "title": "阿索普发布Claude for Teachers",
-      "summary": "2026年7月14日，人工智能公司Anthropic推出了面向教师的新产品Claude for Teachers。该产品旨在为教育工作者提供更为高效的工具支持，帮助他们提升教学效果。",
+      "title": "Anthropic 发布 Claude for Teachers",
+      "summary": "2026年7月14日，Anthropic 发布了新的教育产品 Claude for Teachers。该产品旨在为教师提供更为高效的教学辅助工具，帮助提高课堂教学效果。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -462,8 +348,8 @@
     },
     {
       "id": "e42ba56cb55",
-      "title": "Anthropic 投资千万元加拿大 AI 研究",
-      "summary": "Anthropic 宣布将投资 1000 万美元用于加拿大的人工智能研究。这项举措旨在支持本地创新和技术发展。",
+      "title": "Anthropic 投资 1000 万加元于 AI 研究",
+      "summary": "Anthropic 宣布向加拿大的人工智能研究投入 1000 万加元。这项投资旨在推动当地的 AI 创新和发展。",
       "tier": "worth_reading",
       "insight": null,
       "articles": [
@@ -480,9 +366,66 @@
       ]
     },
     {
+      "id": "e6d76bdb9b9",
+      "title": "经济未来研究基金发布议程",
+      "summary": "2026年7月22日，Anthropic公布了经济未来研究基金的研究议程。该议程旨在促进经济领域的前沿研究与探索，并为相关学者和企业提供指导。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+          "published_at": "",
+          "text": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+          "id": "a6d76bdb9b9"
+        }
+      ]
+    },
+    {
+      "id": "e71bb3e1763",
+      "title": "前海母基金数亿押注Om AI",
+      "summary": "日前，前海母基金对端侧物理AI项目进行了数亿元的投资。Om AI联汇正在加速推进其端侧AI的商业化落地。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "资本重仓端侧物理AI：前海母基金数亿元押注，Om AI联汇加速端侧AI商业化落地",
+          "url": "https://www.qbitai.com/2026/08/465785.html",
+          "published_at": "2026-08-04T06:47:06+00:00",
+          "text": "",
+          "id": "a71bb3e1763"
+        }
+      ]
+    },
+    {
+      "id": "ee4de17615c",
+      "title": "亿级日活App算力危机分析",
+      "summary": "随着出海AI的兴起，亿级日活App正面临“三重算力锁链”的困扰。它们通过跨云架构成功削减了75% GPU集群的推理成本，缓解了算力资源紧张的局面。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+          "url": "https://www.qbitai.com/2026/08/465732.html",
+          "published_at": "2026-08-04T01:27:41+00:00",
+          "text": "出海AI，正被“三重算力锁链\"捆死",
+          "id": "ae4de17615c"
+        }
+      ]
+    },
+    {
       "id": "e2163b41330",
-      "title": "OpenAI 回应 Apple 诉讼",
-      "summary": "OpenAI 对 Apple 的无根据诉讼做出回应，矫正了关于其员工的错误说法，并分享了记录事件经过的消息。",
+      "title": "OpenAI 回应苹果诉讼",
+      "summary": "OpenAI 对苹果的无根据诉讼进行了回应，纠正了关于其员工的错误说法，并分享了记录事件经过的消息。该公司强调了其立场，并澄清了相关细节。",
       "tier": "skim",
       "insight": null,
       "articles": [
@@ -499,40 +442,59 @@
       ]
     },
     {
-      "id": "e0cde03794f",
-      "title": "AI 债务飙升至 1.65 万亿美元",
-      "summary": "AI行业的债务扩张情况堪忧，隐性借款已达到1.65万亿美元。分析指出，这一趋势不可持续，未来可能面临风险。",
+      "id": "e52116e7a3a",
+      "title": "Design Arena 获 790 万美元融资",
+      "summary": "Design Arena 的创始团队成功筹集了 790 万美元，以提升 AI 模型的品味。该平台全球有 530 万用户，为前沿实验室提供关键的人类评估。",
       "tier": "skim",
       "insight": null,
       "articles": [
         {
-          "source_id": "hackernews",
-          "source_name": "Hacker News",
-          "category": "英文社区",
-          "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-          "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-          "published_at": "2026-08-03T20:02:21+00:00",
-          "text": "AI's debt binge can't last, hidden borrowing reaches $1.65T（HN 126 points，讨论: https://news.ycombinator.com/item?id=49160699）",
-          "id": "a0cde03794f"
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "published_at": "2026-08-03T19:28:57+00:00",
+          "text": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "id": "a52116e7a3a"
         }
       ]
     },
     {
-      "id": "e6d76bdb9b9",
-      "title": "经济未来研究基金新研究议程",
-      "summary": "2026年7月22日，Anthropic发布了关于经济未来研究基金的新研究议程。该议程旨在探索经济前景的不同领域，推动相关经济研究的发展。",
+      "id": "e06e62134a2",
+      "title": "国会青睐的AI工具：ChatGPT",
+      "summary": "国会的支出记录显示，OpenAI的ChatGPT在国会山上被广泛使用，成为各个议员办公室的主要AI工具。它被用来起草备忘录、总结立法内容以及协助与选民的沟通。",
       "tier": "skim",
       "insight": null,
       "articles": [
         {
-          "source_id": "anthropic_news",
-          "source_name": "Anthropic News",
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Congress’ favorite AI tool? ChatGPT",
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "published_at": "2026-08-03T16:40:55+00:00",
+          "text": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+          "id": "a06e62134a2"
+        }
+      ]
+    },
+    {
+      "id": "e54e616a32e",
+      "title": "Circles 利用 OpenAI 技术提升电信服务",
+      "summary": "Circles 使用 OpenAI API 和 Codex 提供 AI 原生电信体验，使每用户平均收入（ARPU）提升 22%，客户流失率下降 9%，同时提高了开发效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
           "category": "官方",
-          "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
-          "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-          "published_at": "",
-          "text": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
-          "id": "a6d76bdb9b9"
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "url": "https://openai.com/index/circles",
+          "published_at": "2026-08-03T00:00:00+00:00",
+          "text": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "id": "a54e616a32e"
         }
       ]
     }
@@ -555,11 +517,11 @@
   ],
   "stats": {
     "articles_fetched": 68,
-    "articles_new": 28,
-    "articles_filtered": 22,
+    "articles_new": 26,
+    "articles_filtered": 2,
     "tokens": {
-      "prompt_tokens": 11018,
-      "completion_tokens": 2681
+      "prompt_tokens": 9997,
+      "completion_tokens": 3067
     }
   },
   "mock": false
