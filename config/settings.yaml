@@ -12,7 +12,11 @@ llm:
   max_articles_per_run: 120   # 单次流水线最多处理的文章数（按发布时间取最新）
 
 clustering:
-  similarity_threshold: 0.82  # 事件聚合的余弦相似度阈值，调低会合并更激进
+  similarity_threshold: 0.78  # 事件聚合的余弦相似度阈值，调低会合并更激进
+
+relevance_filter:
+  enabled: true               # 用 fast model 剔除与 AI 无关的内容
+  skip_categories: ["官方"]   # 这些类别默认全相关，不过滤
 
 fetch:
   lookback_hours: 36          # 抓取窗口；配合 seen-url 记录做跨天去重
@@ -31,5 +35,4 @@ email:
 
 site:
   title: AI News Delivery
-  # 部署后填 Dashboard 地址（用于邮件底部链接），如 https://peiyanlai.github.io/AI-News-Delivery
-  base_url: ""
+  base_url: https://peiyanlai.github.io/AI-News-Delivery

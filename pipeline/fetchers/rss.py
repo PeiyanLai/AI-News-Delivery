@@ -11,10 +11,21 @@ from .util import http_get, strip_html
 
 
 def fetch(src: dict, lookback_hours: int) -> list[Article]:
-    resp = http_get(src["url"])
-    feed = feedparser.parse(resp.content)
-    if feed.bozo and not feed.entries:
-        raise RuntimeError(f"RSS 解析失败: {feed.bozo_exception}")
+    # url 可以是字符串或列表（备用端点，依次尝试）
+    urls = src["url"] if isinstance(src["url"], list) else [src["url"]]
+    feed, last_err = None, None
+    for url in urls:
+        try:
+            resp = http_get(url)
+            parsed = feedparser.parse(resp.content)
+            if parsed.bozo and not parsed.entries:
+                raise RuntimeError(f"RSS 解析失败: {parsed.bozo_exception}")
+            feed = parsed
+            break
+        except Exception as exc:
+            last_err = exc
+    if feed is None:
+        raise RuntimeError(str(last_err))
 
     cutoff = datetime.now(timezone.utc) - timedelta(hours=lookback_hours)
     articles = []

@@ -75,7 +75,10 @@ sources:
     name: Meta AI Blog
     category: 官方
     type: rss
-    url: https://ai.meta.com/blog/rss/
+    # 列表 = 备用端点，依次尝试
+    url:
+      - https://ai.meta.com/blog/rss/
+      - https://ai.meta.com/blog/rss.xml
 
   - id: hf_blog
     name: Hugging Face Blog

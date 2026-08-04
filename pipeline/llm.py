@@ -28,6 +28,10 @@ class BaseLLM:
         """返回 {"title": ..., "summary": ...}"""
         raise NotImplementedError
 
+    def filter_relevant(self, titles: list[str]) -> list[bool]:
+        """逐条判断标题是否与 AI 相关。"""
+        raise NotImplementedError
+
     def daily_analysis(self, events: list[Event], recent_digest: str,
                        focus_areas: list[str], max_cards: int) -> dict:
         """返回 {"briefing": ..., "highlights": ..., "events": [{id, tier, insight}]}"""
@@ -97,6 +101,23 @@ class OpenAILLM(BaseLLM):
         out = self._chat_json(self.fast_model, prompt)
         return {"title": str(out.get("title", "")), "summary": str(out.get("summary", ""))}
 
+    def filter_relevant(self, titles: list[str]) -> list[bool]:
+        flags: list[bool] = []
+        template = load_prompt("relevance_filter")
+        for i in range(0, len(titles), 60):
+            batch = titles[i:i + 60]
+            items = "\n".join(f"{j}. {t}" for j, t in enumerate(batch))
+            prompt = template.replace("{{", "\x00").replace("}}", "\x01") \
+                .format(items=items).replace("\x00", "{").replace("\x01", "}")
+            try:
+                out = self._chat_json(self.fast_model, prompt)
+                keep = {int(x) for x in out.get("relevant_ids", [])}
+            except Exception as exc:
+                log.warning("相关性过滤失败，该批全部保留: %s", exc)
+                keep = set(range(len(batch)))
+            flags.extend(j in keep for j in range(len(batch)))
+        return flags
+
     def daily_analysis(self, events, recent_digest, focus_areas, max_cards):
         prompt = load_prompt("daily_analysis").replace("{{", "\x00").replace("}}", "\x01") \
             .format(
@@ -131,6 +152,15 @@ class MockLLM(BaseLLM):
     def summarize_event(self, articles: list[Article]) -> dict:
         first = articles[0]
         return {"title": first.title[:40], "summary": (first.text or first.title)[:150] + "……（mock 摘要）"}
+
+    AI_PATTERN = re.compile(
+        r"\b(ai|llm|gpt|claude|gemini|openai|anthropic|deepmind|agent|rag|"
+        r"transformer|ml|model|inference)s?\b", re.IGNORECASE)
+    AI_CJK = ("模型", "智能体", "大模型", "机器学习", "推理", "多模态")
+
+    def filter_relevant(self, titles: list[str]) -> list[bool]:
+        return [bool(self.AI_PATTERN.search(t)) or any(k in t for k in self.AI_CJK)
+                for t in titles]
 
     def daily_analysis(self, events, recent_digest, focus_areas, max_cards):
         card = (

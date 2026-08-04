@@ -54,14 +54,30 @@ def run(args: argparse.Namespace) -> int:
     # 2. 跨天去重（fixtures 演示模式不读写 seen 记录）
     seen = {} if args.fixtures else archive.load_seen()
     articles = [a for a in articles if a.url not in seen]
+    handled_urls = [a.url for a in articles]  # 本次见过的都记入 seen，含被过滤/截断的
+
+    llm = make_llm(settings, mock=args.mock)
+
+    # 3. 相关性过滤：非 AI 内容在进入聚合前剔除（官方源等类别可豁免）
+    filtered_count = 0
+    rf = settings.get("relevance_filter", {})
+    if rf.get("enabled", True) and articles:
+        skip_cats = set(rf.get("skip_categories", []))
+        check_idx = [i for i, a in enumerate(articles) if a.category not in skip_cats]
+        flags = llm.filter_relevant([articles[i].title for i in check_idx])
+        drop = {check_idx[j] for j, ok in enumerate(flags) if not ok}
+        filtered_count = len(drop)
+        if drop:
+            log.info("相关性过滤剔除 %d 篇非 AI 内容", filtered_count)
+        articles = [a for i, a in enumerate(articles) if i not in drop]
+
     max_n = settings["llm"]["max_articles_per_run"]
     articles.sort(key=lambda a: a.published_at, reverse=True)
     if len(articles) > max_n:
         log.warning("文章数 %d 超上限，截取最新 %d 篇", len(articles), max_n)
         articles = articles[:max_n]
 
-    # 3. 聚合 → 摘要 → 分级与洞察
-    llm = make_llm(settings, mock=args.mock)
+    # 4. 聚合 → 摘要 → 分级与洞察
     events = cluster_articles(articles, llm, settings["clustering"]["similarity_threshold"])
     summarize_events(events, llm)
     digest = archive.recent_digest(today, settings["insight"]["trend_context_days"])
@@ -77,17 +93,18 @@ def run(args: argparse.Namespace) -> int:
         stats={
             "articles_fetched": fetched_count,
             "articles_new": len(articles),
+            "articles_filtered": filtered_count,
             "tokens": llm.usage,
         },
     )
     report.sort_events()
 
-    # 4. 落盘 + 渲染 + 邮件
+    # 5. 落盘 + 渲染 + 邮件
     path = archive.save_report(report)
     log.info("日报已写入 %s", path)
     if not args.fixtures:
-        for a in articles:
-            seen[a.url] = today
+        for url in handled_urls:
+            seen[url] = today
         archive.save_seen(seen, today)
     render_site(settings)
     log.info("Dashboard 已生成到 docs/")

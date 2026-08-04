@@ -1,6 +1,7 @@
 """Hacker News 适配器：Algolia API，按 AI 关键词 + 分数过滤。"""
 from __future__ import annotations
 
+import re
 from datetime import datetime, timedelta, timezone
 
 from ..models import Article
@@ -12,7 +13,11 @@ API = "https://hn.algolia.com/api/v1/search_by_date"
 def fetch(src: dict, lookback_hours: int) -> list[Article]:
     cutoff = int((datetime.now(timezone.utc) - timedelta(hours=lookback_hours)).timestamp())
     min_points = src.get("min_points", 20)
-    keywords = [k.lower() for k in src.get("keywords", [])]
+    # 词边界匹配（允许复数 s），避免 "ai" 命中 "wait"/"mail" 这类词
+    keywords = src.get("keywords", [])
+    pattern = re.compile(
+        r"\b(" + "|".join(re.escape(k.lower()) for k in keywords) + r")s?\b"
+    ) if keywords else None
 
     seen: dict[str, Article] = {}
     # 拉最近窗口内的高分 story，再按关键词过滤（比逐关键词查询省请求且不易漏）
@@ -27,7 +32,7 @@ def fetch(src: dict, lookback_hours: int) -> list[Article]:
             if not title:
                 continue
             haystack = (title + " " + (h.get("url") or "")).lower()
-            if keywords and not any(k in haystack for k in keywords):
+            if pattern and not pattern.search(haystack):
                 continue
             url = h.get("url") or f"https://news.ycombinator.com/item?id={h['objectID']}"
             if url in seen:

@@ -73,7 +73,9 @@
 {% endif %}
 
 <section class="stats">
-  抓取 {{ report.stats.get('articles_fetched', 0) }} 篇 → 去重后 {{ report.stats.get('articles_new', 0) }} 篇 →
+  抓取 {{ report.stats.get('articles_fetched', 0) }} 篇 →
+  {% if report.stats.get('articles_filtered') %}过滤无关内容 {{ report.stats.get('articles_filtered') }} 篇 → {% endif %}
+  去重后 {{ report.stats.get('articles_new', 0) }} 篇 →
   聚合为 {{ report.events | length }} 个事件
   {% if report.empty_sources %} · 今日无新内容的源：{{ report.empty_sources | join('、') }}{% endif %}
   · 生成于 {{ report.generated_at[:16].replace('T', ' ') }}
