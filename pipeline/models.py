@@ -2,7 +2,14 @@
 from __future__ import annotations
 
 import hashlib
+import re
 from dataclasses import dataclass, field, asdict
+
+
+def normalize_insight_md(text: str) -> str:
+    """洞察卡片的 Markdown 容错：模型偶尔会把小节标题挤在一行里，
+    渲染前把每个 ### 前强制补换行，保证六个小节都渲染成标题。"""
+    return re.sub(r"\s*#{2,4}\s*", "\n\n### ", text).strip()
 
 
 @dataclass

@@ -17,15 +17,40 @@ from email.utils import formataddr
 import markdown
 import requests
 
-from .models import DailyReport
+from .models import DailyReport, normalize_insight_md
 
 log = logging.getLogger(__name__)
 
 RESEND_API = "https://api.resend.com/emails"
 
 
+TIER_META = {
+    "must_read": ("必读", "#b5432a"),
+    "worth_reading": ("值得看", "#8a6d1d"),
+    "skim": ("可略过", "#999999"),
+}
+
+
+def _source_links(e) -> str:
+    return " · ".join(
+        f'<a href="{a.url}" style="color:#6b6b6b">{a.source_name}</a>' for a in e.articles
+    )
+
+
+def _event_block(e, color: str) -> str:
+    return (
+        f'<div style="border-left:3px solid {color};padding:2px 14px;margin:16px 0">'
+        f'<p style="margin:4px 0;font-size:16px"><strong>{e.title}</strong></p>'
+        f'<p style="margin:4px 0;font-size:14px">{e.summary}</p>'
+        + (f'<div style="font-size:13px;color:#444;background:#fdf0ec;'
+           f'border-radius:6px;padding:2px 12px;margin:8px 0">'
+           f'{markdown.markdown(normalize_insight_md(e.insight))}</div>' if e.insight else "")
+        + f'<p style="margin:4px 0;font-size:12.5px">{_source_links(e)}</p></div>'
+    )
+
+
 def build_email_html(report: DailyReport, site_url: str) -> str:
-    must_reads = [e for e in report.events if e.tier == "must_read"]
+    """全量邮件：所有事件按分级展示，不需要跳转即可读完当天内容。"""
     parts = [
         f'<div style="font-family:-apple-system,\'PingFang SC\',\'Microsoft YaHei\',sans-serif;'
         f'max-width:640px;margin:0 auto;color:#1a1a1a;line-height:1.7">',
@@ -39,20 +64,32 @@ def build_email_html(report: DailyReport, site_url: str) -> str:
     if report.highlights:
         parts.append(f'<p><strong style="color:#b5432a">今日看点</strong><br>{report.highlights}</p>')
 
-    for e in must_reads:
-        link = e.articles[0].url if e.articles else "#"
-        parts.append(
-            f'<div style="border-left:3px solid #b5432a;padding:2px 14px;margin:18px 0">'
-            f'<p style="margin:4px 0"><strong>{e.title}</strong></p>'
-            f'<p style="margin:4px 0;font-size:14px">{e.summary}</p>'
-            + (f'<div style="font-size:13px;color:#444">{markdown.markdown(e.insight)}</div>' if e.insight else "")
-            + f'<p style="margin:4px 0;font-size:13px"><a href="{link}">阅读原文 →</a></p></div>'
-        )
+    for tier in ("must_read", "worth_reading"):
+        events = [e for e in report.events if e.tier == tier]
+        if not events:
+            continue
+        name, color = TIER_META[tier]
+        parts.append(f'<h2 style="font-size:16px;border-bottom:2px solid #1a1a1a;'
+                     f'padding-bottom:6px;margin:26px 0 6px">{name}'
+                     f'<span style="color:#999;font-size:13px;font-weight:400">（{len(events)}）</span></h2>')
+        parts.extend(_event_block(e, color) for e in events)
 
-    other = sum(1 for e in report.events if e.tier != "must_read")
+    # 可略过：紧凑列表，一行一条
+    skims = [e for e in report.events if e.tier == "skim"]
+    if skims:
+        parts.append(f'<h2 style="font-size:16px;border-bottom:2px solid #1a1a1a;'
+                     f'padding-bottom:6px;margin:26px 0 6px">可略过'
+                     f'<span style="color:#999;font-size:13px;font-weight:400">（{len(skims)}）</span></h2>')
+        rows = "".join(
+            f'<p style="margin:6px 0;font-size:13px;color:#555">· {e.title}'
+            f'　<span style="font-size:12px">{_source_links(e)}</span></p>'
+            for e in skims
+        )
+        parts.append(rows)
+
     if site_url:
-        parts.append(f'<p style="font-size:14px">另有 {other} 条动态，'
-                     f'<a href="{site_url}">在 Dashboard 查看全部 →</a></p>')
+        parts.append(f'<p style="font-size:13px;color:#999;margin-top:24px">'
+                     f'<a href="{site_url}" style="color:#999">历史归档 →</a></p>')
     parts.append('<p style="color:#999;font-size:12px">由 AI-News-Delivery 自动生成 · 摘要与洞察由 LLM 生成，请核对原文</p></div>')
     return "\n".join(parts)
 

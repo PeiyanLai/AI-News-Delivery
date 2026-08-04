@@ -11,7 +11,7 @@ from markupsafe import Markup
 
 from . import archive
 from .config import SITE_DIR
-from .models import DailyReport
+from .models import DailyReport, normalize_insight_md
 
 TEMPLATE_DIR = Path(__file__).parent / "templates"
 TIER_NAMES = {"must_read": "必读", "worth_reading": "值得看", "skim": "可略过"}
@@ -33,7 +33,7 @@ def _day_context(report: DailyReport, days: list[str], site_title: str, path_pre
     ]
     for _, evs in grouped:
         for e in evs:
-            e.insight_html = Markup(markdown.markdown(e.insight)) if e.insight else None
+            e.insight_html = Markup(markdown.markdown(normalize_insight_md(e.insight))) if e.insight else None
     return {
         "report": report,
         "grouped": grouped,
