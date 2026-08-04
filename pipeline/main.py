@@ -56,6 +56,15 @@ def run(args: argparse.Namespace) -> int:
     articles = [a for a in articles if a.url not in seen]
     handled_urls = [a.url for a in articles]  # 本次见过的都记入 seen，含被过滤/截断的
 
+    # 同日重跑：并入当天已有报告的文章，避免覆盖丢内容
+    prior = archive.load_report(today)
+    if prior:
+        known = {a.url for a in articles}
+        prior_articles = [a for e in prior.events for a in e.articles if a.url not in known]
+        if prior_articles:
+            log.info("并入当天已有报告的 %d 篇文章", len(prior_articles))
+            articles = prior_articles + articles
+
     llm = make_llm(settings, mock=args.mock)
 
     # 3. 相关性过滤：非 AI 内容在进入聚合前剔除（官方源等类别可豁免）
