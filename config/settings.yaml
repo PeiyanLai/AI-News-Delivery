@@ -29,9 +29,14 @@ insight:
   trend_context_days: 14      # 「趋势坐标」回看多少天的事件档案
 
 email:
-  enabled: true               # 还需在 GitHub Secrets 配置 RESEND_API_KEY 才会真正发送
-  to: peiyanl@umich.edu
-  from: "AI News Delivery <onboarding@resend.dev>"  # 用 Resend 验证过的域名后再改
+  enabled: true
+  provider: smtp              # smtp（QQ/163 等普通邮箱）或 resend
+  to: peiyanl@umich.edu       # 收件地址，可改成任何你方便收的邮箱
+  # --- smtp 方式：账号和授权码放 GitHub Secrets（SMTP_USER / SMTP_PASS）---
+  smtp_host: smtp.qq.com      # 163 邮箱改为 smtp.163.com
+  smtp_port: 465
+  # --- resend 方式（备选）：key 放 RESEND_API_KEY secret ---
+  from: "AI News Delivery <onboarding@resend.dev>"
 
 site:
   title: AI News Delivery

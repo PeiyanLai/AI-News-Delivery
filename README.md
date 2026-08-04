@@ -21,7 +21,7 @@ GitHub Actions（每日 07:00 北京时间）
 
 1. **配置 Secrets**：仓库 Settings → Secrets and variables → Actions，添加
    - `OPENAI_API_KEY`（必需）
-   - `RESEND_API_KEY`（可选，不配则跳过邮件）
+   - 邮件（可选，不配则跳过）：SMTP 方式加 `SMTP_USER`（完整邮箱地址）和 `SMTP_PASS`（邮箱的 SMTP 授权码，不是登录密码）；或改用 Resend（`config/settings.yaml` 里 `email.provider: resend`）加 `RESEND_API_KEY`
 2. **启用 GitHub Pages**：Settings → Pages → Source 选 `Deploy from a branch`，分支选默认分支的 `/docs` 目录。部署后把地址填入 `config/settings.yaml` 的 `site.base_url`（用于邮件底部链接）。
 3. **手动触发一次**：Actions → Daily AI briefing → Run workflow，验证全链路。之后每天自动运行。
 

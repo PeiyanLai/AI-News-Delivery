@@ -29,6 +29,8 @@ jobs:
       - name: Run pipeline
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: python -m pipeline.main run
 

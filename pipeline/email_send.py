@@ -1,11 +1,18 @@
-"""每日邮件简报：当日精简版（导读 + 看点 + 必读事件），经 Resend 发送。
+"""每日邮件简报：当日精简版（导读 + 看点 + 必读事件）。
 
-未配置 RESEND_API_KEY 或 email.enabled=false 时静默跳过（记日志）。
+两种发送方式（settings.yaml 的 email.provider）：
+  smtp   —— 普通邮箱 SMTP（QQ/163 等，凭据放 SMTP_USER / SMTP_PASS secrets）
+  resend —— Resend API（凭据放 RESEND_API_KEY secret）
+缺少对应凭据或 email.enabled=false 时静默跳过（记日志）。
 """
 from __future__ import annotations
 
 import logging
 import os
+import smtplib
+from email.header import Header
+from email.mime.text import MIMEText
+from email.utils import formataddr
 
 import markdown
 import requests
@@ -50,27 +57,41 @@ def build_email_html(report: DailyReport, site_url: str) -> str:
     return "\n".join(parts)
 
 
-def send_daily_email(report: DailyReport, settings: dict) -> bool:
-    cfg = settings.get("email", {})
-    if not cfg.get("enabled"):
-        log.info("邮件未启用，跳过")
+def _send_smtp(cfg: dict, subject: str, html: str) -> bool:
+    user = os.environ.get("SMTP_USER")
+    password = os.environ.get("SMTP_PASS")
+    if not user or not password:
+        log.info("未配置 SMTP_USER/SMTP_PASS，跳过邮件发送")
         return False
+
+    msg = MIMEText(html, "html", "utf-8")
+    msg["Subject"] = Header(subject, "utf-8")
+    msg["From"] = formataddr((str(Header("AI News Delivery", "utf-8")), user))
+    msg["To"] = cfg["to"]
+
+    host = cfg.get("smtp_host", "smtp.qq.com")
+    port = int(cfg.get("smtp_port", 465))
+    if port == 465:
+        server = smtplib.SMTP_SSL(host, port, timeout=30)
+    else:
+        server = smtplib.SMTP(host, port, timeout=30)
+        server.starttls()
+    with server:
+        server.login(user, password)
+        server.sendmail(user, [cfg["to"]], msg.as_string())
+    log.info("邮件已通过 SMTP 发送至 %s", cfg["to"])
+    return True
+
+
+def _send_resend(cfg: dict, subject: str, html: str) -> bool:
     api_key = os.environ.get("RESEND_API_KEY")
     if not api_key:
         log.info("未配置 RESEND_API_KEY，跳过邮件发送")
         return False
-
-    must = sum(1 for e in report.events if e.tier == "must_read")
-    subject = f"AI 每日简报 {report.date}：{len(report.events)} 个事件，{must} 条必读"
     resp = requests.post(
         RESEND_API,
         headers={"Authorization": f"Bearer {api_key}"},
-        json={
-            "from": cfg["from"],
-            "to": [cfg["to"]],
-            "subject": subject,
-            "html": build_email_html(report, settings["site"].get("base_url", "")),
-        },
+        json={"from": cfg["from"], "to": [cfg["to"]], "subject": subject, "html": html},
         timeout=30,
     )
     if resp.status_code >= 300:
@@ -78,3 +99,21 @@ def send_daily_email(report: DailyReport, settings: dict) -> bool:
         return False
     log.info("邮件已发送至 %s", cfg["to"])
     return True
+
+
+def send_daily_email(report: DailyReport, settings: dict) -> bool:
+    cfg = settings.get("email", {})
+    if not cfg.get("enabled"):
+        log.info("邮件未启用，跳过")
+        return False
+
+    must = sum(1 for e in report.events if e.tier == "must_read")
+    subject = f"AI 每日简报 {report.date}：{len(report.events)} 个事件，{must} 条必读"
+    html = build_email_html(report, settings["site"].get("base_url", ""))
+    try:
+        if cfg.get("provider", "smtp") == "smtp":
+            return _send_smtp(cfg, subject, html)
+        return _send_resend(cfg, subject, html)
+    except Exception as exc:
+        log.error("邮件发送失败: %s", exc)
+        return False
