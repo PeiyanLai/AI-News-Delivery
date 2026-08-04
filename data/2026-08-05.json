@@ -1,0 +1,575 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T07:53:43+08:00",
+  "briefing": "今日的AI动态揭示了技术与安全的双重挑战，从非洲网络犯罪激增到AI数据中心引发电费飙升，行业前景波澜起伏。SpaceX的AI收入超越航天业务标志着创新领域的交叉融合与商业驱动。",
+  "highlights": "今日看点揭示了AI技术的双刃剑效应：一方面，AI助力了非洲的网络犯罪激增，凸显出安全措施的重要性；另一方面，SpaceX的AI业务收入超越传统航天，表明AI正在成为新的商业增长点。此外，数据中心推高电费的问题，警示了AI基础设施建设对环境与经济的潜在影响。这些事件共同表明，AI在快速发展中同时带来了技术进步与安全、环保等挑战。",
+  "events": [
+    {
+      "id": "efa745c8fb5",
+      "title": "AI助力非洲网络犯罪激增",
+      "summary": "国际刑警报告称，人工智能导致非洲超过一半的网络犯罪，诈骗案件数量急剧上升。这一趋势显示出AI在网络犯罪中被越来越多地利用。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAI被用于复杂的网络诈骗技术，导致非洲网络犯罪激增。\n\n### 为什么令人兴奋\n揭示了AI工具被不法分子利用提升犯罪效率的新趋势和风险。\n\n### 产品机会\n加强AI安全检测工具和合规管理系统，以防止AI被不当使用。\n\n### 格局影响\n对于网络安全公司是一个威胁，但同时也是一个提供AI安全解决方案的市场机遇。\n\n### 冷静判断\nAI技术的负面效应正逐渐显现，亟需完善的法规和安全措施应对。\n\n### 趋势坐标\n符合全球关注AI伦理和安全性的问题，呼应了欧盟新规的实施。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+          "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+          "published_at": "2026-08-04T22:01:41+00:00",
+          "text": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol（HN 107 points，讨论: https://news.ycombinator.com/item?id=49175826）",
+          "id": "afa745c8fb5"
+        }
+      ]
+    },
+    {
+      "id": "ea7ad591c5f",
+      "title": "UK AI Security Institute 安全事件",
+      "summary": "2026年7月28日，英国人工智能安全研究所报告了一起安全事件。该事件编号为INC-2026-07-28-01，详细信息以pdf格式发布。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
+          "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
+          "published_at": "2026-08-04T21:52:58+00:00",
+          "text": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]（HN 53 points，讨论: https://news.ycombinator.com/item?id=49175717）",
+          "id": "aa7ad591c5f"
+        }
+      ]
+    },
+    {
+      "id": "eeb72e3b6a0",
+      "title": "第三方网络安全评估与OpenAI模型",
+      "summary": "OpenAI 近日对涉及其模型的第三方网络安全评估事件进行了说明，并提出了新的安全措施，以加强对 AI 模型的测试和评估。这些措施旨在提升模型的安全性和可靠性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+          "published_at": "2026-08-04T21:14:19+00:00",
+          "text": "Third-party cyber evaluations involving OpenAI models（HN 30 points，讨论: https://news.ycombinator.com/item?id=49175248）",
+          "id": "aeb72e3b6a0"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "published_at": "2026-08-04T19:00:00+00:00",
+          "text": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "id": "a977f60f7e5"
+        }
+      ]
+    },
+    {
+      "id": "eed45a6ea53",
+      "title": "SpaceX AI收入超越航天业务",
+      "summary": "根据SpaceX的季度财报，该公司的AI收入增长超过三倍，达26亿美元，主要通过与其他AI公司达成计算力提供协议获利。尽管AI部门在本季度亏损15亿美元，但仍然是公司估值的主要来源。",
+      "tier": "worth_reading",
+      "insight": "### 一句话本质\nSpaceX的AI业务成为利润新增长点，收入超越其主航天业务。\n\n### 为什么令人兴奋\n表明AI在商业应用中的巨大潜力，尤其是在非传统AI企业中的应用。\n\n### 产品机会\n推动AI与传统行业融合，可以开发出更多跨界创新产品。\n\n### 格局影响\n对其他行业巨头是一种激励，可能促使更多公司加大AI投资。\n\n### 冷静判断\n虽然AI业务收入高，但仍处亏损状态，商业模式需进一步验证。\n\n### 趋势坐标\n强化了AI商业化发展的趋势，与行业整体迈向AI驱动的方向一致。",
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "SpaceX made more revenue as an AI company than a space company",
+          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "published_at": "2026-08-04T20:47:55+00:00",
+          "text": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its value, lost $1.5 billion this quarter, slightly less than in the same quarter last year. SpaceX made deals with Anthropic in May and Google in June to provide compute to the other two AI companies, putting it in competition with other neoclouds such as CoreWeave . The increased presence in AI is also driving the company to spend mor … Read the full story at The Verge.",
+          "id": "aed45a6ea53"
+        }
+      ]
+    },
+    {
+      "id": "e9842810604",
+      "title": "Z.ai GLM-5.2 模型安全隐患分析",
+      "summary": "一份新的 SaferAI 报告显示，Z.ai 的开放权重 GLM-5.2 模型在能力上接近前沿 AI，但缺乏关键的安全措施。这引发了对强大开放模型可能超越治理和安全保障的担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "published_at": "2026-08-04T20:05:26+00:00",
+          "text": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+          "id": "a9842810604"
+        }
+      ]
+    },
+    {
+      "id": "eee6239399c",
+      "title": "Anthropic与Volta签署100亿美元协议",
+      "summary": "Anthropic近期与云计算初创公司Volta签署了一项价值100亿美元的合作协议。这一交易是Anthropic在云合作方面的最新举措。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "published_at": "2026-08-04T19:48:40+00:00",
+          "text": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "id": "aee6239399c"
+        }
+      ]
+    },
+    {
+      "id": "e5d2add2dbe",
+      "title": "Nvidia 领导的 AI 联盟提案进展",
+      "summary": "在成立一周后，由 Nvidia 主导的开放安全 AI 联盟已经扩大到超过 120 家公司，并提出了应对 AI 智能体的防御性提案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+          "published_at": "2026-08-04T19:28:49+00:00",
+          "text": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+          "id": "a5d2add2dbe"
+        }
+      ]
+    },
+    {
+      "id": "efd85a28743",
+      "title": "EdotEnv 发布量化交易 RL 环境",
+      "summary": "EdotEnv（YC S26）推出了一款用于量化交易的强化学习环境，旨在帮助大型语言模型（LLMs）进行研究。这些环境可以提供模拟场景，让研究人员能够训练和测试算法。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+          "url": "https://edotenv.com/",
+          "published_at": "2026-08-04T18:36:02+00:00",
+          "text": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research（HN 27 points，讨论: https://news.ycombinator.com/item?id=49172936）",
+          "id": "afd85a28743"
+        }
+      ]
+    },
+    {
+      "id": "ecb7226a1d2",
+      "title": "AI 数据中心推高电费",
+      "summary": "AI 数据中心的迅速增长导致了电费的显著上升。一些地区的电费涨幅引发了公众关注，相关地图展示了受影响的区域。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
+          "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
+          "published_at": "2026-08-04T17:57:15+00:00",
+          "text": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where（HN 59 points，讨论: https://news.ycombinator.com/item?id=49172433）",
+          "id": "acb7226a1d2"
+        }
+      ]
+    },
+    {
+      "id": "e1a17d34b3d",
+      "title": "Mistral推出Shieldstral模型",
+      "summary": "Mistral发布了Shieldstral，这是一个具有30亿参数的开放权重模型，旨在实现多模态内容审查。该模型强调了对文本和图像的综合处理能力，为内容管理提供了新的解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+          "url": "https://mistral.ai/news/shieldstral/",
+          "published_at": "2026-08-04T16:36:05+00:00",
+          "text": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation（HN 282 points，讨论: https://news.ycombinator.com/item?id=49171268）",
+          "id": "a1a17d34b3d"
+        }
+      ]
+    },
+    {
+      "id": "ee87390b3ad",
+      "title": "AI 基准评测饱和现象研究",
+      "summary": "一项系统性研究探讨了 AI 基准测试的饱和现象。研究指出，随着技术的发展，当前的基准测试可能已经达到饱和，影响了未来的性能提升。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+          "url": "https://arxiv.org/abs/2602.16763",
+          "published_at": "2026-08-04T16:10:39+00:00",
+          "text": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation（HN 71 points，讨论: https://news.ycombinator.com/item?id=49170915）",
+          "id": "ae87390b3ad"
+        }
+      ]
+    },
+    {
+      "id": "ee3bed5a73b",
+      "title": "AI需求泡沫现象分析",
+      "summary": "《Hacker News》讨论了AI领域当前的需求泡沫现象。随着大量投资和新产品的涌现，市场对AI技术的需求急剧上升，但也引发了对可持续性和实际应用的担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The AI Demand Bubble",
+          "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+          "published_at": "2026-08-04T15:51:51+00:00",
+          "text": "The AI Demand Bubble（HN 104 points，讨论: https://news.ycombinator.com/item?id=49170648）",
+          "id": "ae3bed5a73b"
+        }
+      ]
+    },
+    {
+      "id": "e2fd75f11dd",
+      "title": "Spotify推出AI混音与翻唱项目",
+      "summary": "Spotify宣布与独立音乐公司Merlin合作，推出基于AI的混音和翻唱产品。这个付费工具允许粉丝创作参与艺术家的AI生成翻唱和混音，同时确保艺术家选择参与、获得认可和报酬。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Spotify expands AI remix and covers project with Merlin partnership",
+          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+          "published_at": "2026-08-04T15:50:06+00:00",
+          "text": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+          "id": "a2fd75f11dd"
+        }
+      ]
+    },
+    {
+      "id": "e6071f80f0d",
+      "title": "Cloudflare 采用 AI 强化工程标准",
+      "summary": "Cloudflare 近日通过人工智能技术来加强其工程标准的执行。该公司希望借助 AI 提高产品质量和开发效率，以确保工程团队遵循既定的开发流程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Cloudflare enforces engineering standards using AI",
+          "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+          "published_at": "2026-08-04T15:49:50+00:00",
+          "text": "Cloudflare enforces engineering standards using AI（HN 29 points，讨论: https://news.ycombinator.com/item?id=49170628）",
+          "id": "a6071f80f0d"
+        }
+      ]
+    },
+    {
+      "id": "e01610e4260",
+      "title": "马斯克在特斯拉财报电话会议中谈AI",
+      "summary": "分析显示，过去七年的特斯拉财报电话会议中，马斯克花费了一半的时间讨论机器人和人工智能，而对特斯拉的汽车业务关注甚少。这表明他对AI和机器人技术的重视程度高于汽车制造。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+          "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+          "published_at": "2026-08-04T15:20:06+00:00",
+          "text": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+          "id": "a01610e4260"
+        }
+      ]
+    },
+    {
+      "id": "edd47eecdc6",
+      "title": "计算机选集：AI 代理基准发展",
+      "summary": "计算机选集（Computer Anthology）是一个持续演变的基准家族，旨在为AI代理提供评估标准。该基准家族将会不断更新，以帮助开发更先进的AI系统。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Computer Anthology: A continuously evolving benchmark family for AI agents",
+          "url": "https://vetto.ai/companies/computer-anthology-terminal-tasks.html",
+          "published_at": "2026-08-04T14:38:41+00:00",
+          "text": "Computer Anthology: A continuously evolving benchmark family for AI agents（HN 27 points，讨论: https://news.ycombinator.com/item?id=49169641）",
+          "id": "add47eecdc6"
+        }
+      ]
+    },
+    {
+      "id": "e69fd2a8cd1",
+      "title": "Claude Code和Codex的新技能",
+      "summary": "Agent技能被引入Claude Code和Codex，旨在实现团队编码标准的统一。这些新功能将帮助开发团队在项目中保持一致性，提高代码质量。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+          "url": "https://github.com/tikalk/adlc-team-skills",
+          "published_at": "2026-08-04T14:38:31+00:00",
+          "text": "Agent skills that bring team coding standards to Claude Code and Codex（HN 74 points，讨论: https://news.ycombinator.com/item?id=49169640）",
+          "id": "a69fd2a8cd1"
+        }
+      ]
+    },
+    {
+      "id": "eea7f6df3de",
+      "title": "Hugging Face 发布 LFM2.5-2.6B",
+      "summary": "Hugging Face 发布了 LFM2.5-2.6B 模型，旨在推动本地智能代理的部署。该模型可以在不同环境中运行，以满足多样化的应用需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+          "published_at": "2026-08-04T13:58:29+00:00",
+          "text": "",
+          "id": "aea7f6df3de"
+        }
+      ]
+    },
+    {
+      "id": "ec06c4540f1",
+      "title": "开源版 Claude Science 发布",
+      "summary": "开源版Claude Science正式推出，采用MIT协议并实现零依赖。该模型内置30多个科研技能，旨在为用户提供强大的科研支持。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+          "url": "https://www.qbitai.com/2026/08/466386.html",
+          "published_at": "2026-08-04T13:14:27+00:00",
+          "text": "北京大学&元空AI Agent联合实验室",
+          "id": "ac06c4540f1"
+        }
+      ]
+    },
+    {
+      "id": "e100723b520",
+      "title": "在4GB GPU上微调8B模型",
+      "summary": "一位开发者展示了如何在仅有4GB显存的笔记本GPU上微调一个8亿参数的模型（8B）。这一方法的实现为低配置设备的AI模型训练提供了新的可能性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+          "url": "https://github.com/MakazhanAlpamys/Soup",
+          "published_at": "2026-08-04T11:17:57+00:00",
+          "text": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU（HN 116 points，讨论: https://news.ycombinator.com/item?id=49166984）",
+          "id": "a100723b520"
+        }
+      ]
+    },
+    {
+      "id": "e7e39e4ebbb",
+      "title": "大型语言模型在表格预测中的失败",
+      "summary": "一篇报道分析了大型语言模型（Large Language Models）在处理表格数据时的局限性。尽管这些模型在许多自然语言处理任务中表现出色，但在条目稀缺或特征交互复杂的情况下，预测准确度显著下降。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Why Large Language Models Fail at Tabular Prediction",
+          "url": "https://arxiv.org/abs/2608.02412",
+          "published_at": "2026-08-04T10:07:06+00:00",
+          "text": "Why Large Language Models Fail at Tabular Prediction（HN 97 points，讨论: https://news.ycombinator.com/item?id=49166442）",
+          "id": "a7e39e4ebbb"
+        }
+      ]
+    },
+    {
+      "id": "e71649e0749",
+      "title": "Reddit面临AI SEO垃圾邮件挑战",
+      "summary": "一位Reddit用户在护肤相关的子版块询问关于一种特定的次氯酸喷雾的使用经验。用户Primary-Taro4254分享了自己使用Honeydew Labs品牌相似产品的经历，表示对该产品的使用效果感到满意。该事件引发了关于AI生成内容对社交平台影响的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Can Reddit fend off a new wave of AI SEO spam?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+          "published_at": "2026-08-04T10:00:00+00:00",
+          "text": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't fully compare, sorry,\" they commented. \"But I have been using a similar hypochlorous acid spray from Honeydew Labs and I've honestly really liked it.\" Primary-Taro4254 helpfully shared their experience using the spray to calm their skin's redness and irritation, and even threw in some of Honeydew Labs' crede … Read the full story at The Verge.",
+          "id": "a71649e0749"
+        }
+      ]
+    },
+    {
+      "id": "ea1ab18b7db",
+      "title": "Homebench：本地 LLM 性能基准测试工具",
+      "summary": "Homebench 是一款用于基准测试本地大语言模型（LLMs）性能的工具，旨在评估其速度、内存占用和质量。该工具为开发者提供了一个标准化的方法来比较不同的模型表现。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+          "url": "https://github.com/david-g-3654/homebench",
+          "published_at": "2026-08-04T09:48:43+00:00",
+          "text": "Homebench – Benchmark local LLMs for speed, memory, and quality（HN 58 points，讨论: https://news.ycombinator.com/item?id=49166308）",
+          "id": "aa1ab18b7db"
+        }
+      ]
+    },
+    {
+      "id": "e516dd15213",
+      "title": "腾讯混元Hy ASR 3.0发布",
+      "summary": "腾讯发布了混元Hy ASR 3.0预览版，增强了语音识别能力。新版本能够更好地理解语音上下文，目前该功能已接入元宝。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+          "url": "https://www.qbitai.com/2026/08/465973.html",
+          "published_at": "2026-08-04T08:58:21+00:00",
+          "text": "元宝已接入",
+          "id": "a516dd15213"
+        }
+      ]
+    },
+    {
+      "id": "eb274d6785e",
+      "title": "OpenAI 发布教育插件助力教学",
+      "summary": "OpenAI 发布了新的教育插件，旨在帮助 K–12 教师、高校教育工作者和学生更好地学习、教学、研究和构建。这些插件适用于 ChatGPT Work 和 Codex，提供多种支持和工具。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+          "published_at": "2026-08-04T00:00:00+00:00",
+          "text": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+          "id": "ab274d6785e"
+        }
+      ]
+    },
+    {
+      "id": "ee228804803",
+      "title": "未来事物的形状：工程师的模型福利",
+      "summary": "《未来事物的形状》第二部分探讨了代理工程师的模型福利问题。文章分析了模型的影响如何与工程师的职业生涯和工作方式交织在一起，以及这一领域可能的未来发展方向。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers",
+          "url": "https://yegge.ai/essays/model-welfare/",
+          "published_at": "2026-08-03T23:27:02+00:00",
+          "text": "The Shape of Things to Come, Part 2: Model Welfare for Agentic Engineers（HN 21 points，讨论: https://news.ycombinator.com/item?id=49162671）",
+          "id": "ae228804803"
+        }
+      ]
+    },
+    {
+      "id": "e3cd0cbb150",
+      "title": "Mariano-Florentino 加入 Anthropic",
+      "summary": "Mariano-Florentino（Tino）Cuéllar 将于2026年8月4日加入 Anthropic，担任全球事务首席官。此职位将负责该公司的全球政策与事务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+          "url": "https://www.anthropic.com/news/tino-cuellar",
+          "published_at": "",
+          "text": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+          "id": "a3cd0cbb150"
+        }
+      ]
+    },
+    {
+      "id": "eca3d8e3fd5",
+      "title": "Maple-Preview：iPhone 上运行的 MoE 模型",
+      "summary": "Maple-Preview 是一个支持三元数字的 200 亿 MoE 模型，能够在 iPhone 上以每秒 120 个标记的速度运行。这标志着在移动设备上运行高性能 AI 模型的一个重要进展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+          "url": "https://deepgrove.ai/maple-preview",
+          "published_at": "2026-08-04T19:44:55+00:00",
+          "text": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone（HN 31 points，讨论: https://news.ycombinator.com/item?id=49173984）",
+          "id": "aca3d8e3fd5"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:12:242: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 87,
+    "articles_new": 29,
+    "articles_filtered": 20,
+    "tokens": {
+      "prompt_tokens": 12598,
+      "completion_tokens": 2835
+    }
+  },
+  "mock": false
+}
