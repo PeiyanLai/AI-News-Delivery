@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page_title }} · {{ site_title }}</title>
+<link rel="stylesheet" href="{{ path_prefix }}style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="{{ path_prefix }}index.html">{{ site_title }}</a>
+    <nav>
+      <a href="{{ path_prefix }}archive.html">历史归档</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="wrap footer">
+  <p>由 AI-News-Delivery 流水线自动生成 · 摘要与洞察由 LLM 生成，重要决策请核对原文</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,35 @@
+# 全局配置。改这里即可，不需要改代码。
+
+timezone: Asia/Shanghai   # "今天"按此时区计算；调度时间改 .github/workflows/daily.yml 的 cron
+
+llm:
+  provider: openai
+  # 批量任务（逐事件摘要、翻译）用便宜快的模型；每日一次的洞察用强模型。
+  # 可换成 gpt-5-mini / gpt-5 等，只要你的 key 有权限。
+  fast_model: gpt-4o-mini
+  smart_model: gpt-4o
+  embedding_model: text-embedding-3-small
+  max_articles_per_run: 120   # 单次流水线最多处理的文章数（按发布时间取最新）
+
+clustering:
+  similarity_threshold: 0.82  # 事件聚合的余弦相似度阈值，调低会合并更激进
+
+fetch:
+  lookback_hours: 36          # 抓取窗口；配合 seen-url 记录做跨天去重
+
+# 关注方向，如 ["LLM", "Agent", "多模态"]。留空则按通用行业重要性排序。
+focus_areas: []
+
+insight:
+  max_cards: 4                # 每日最多几张洞察卡片（只给必读级事件）
+  trend_context_days: 14      # 「趋势坐标」回看多少天的事件档案
+
+email:
+  enabled: true               # 还需在 GitHub Secrets 配置 RESEND_API_KEY 才会真正发送
+  to: peiyanl@umich.edu
+  from: "AI News Delivery <onboarding@resend.dev>"  # 用 Resend 验证过的域名后再改
+
+site:
+  title: AI News Delivery
+  # 部署后填 Dashboard 地址（用于邮件底部链接），如 https://peiyanlai.github.io/AI-News-Delivery
+  base_url: ""

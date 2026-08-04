@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="day-head">
+  <h1>{{ report.date }} <span class="weekday">{{ weekday }}</span></h1>
+  <div class="day-nav">
+    {% if prev_day %}<a href="{{ path_prefix }}days/{{ prev_day }}.html">← {{ prev_day }}</a>{% endif %}
+    {% if next_day %}<a href="{{ path_prefix }}days/{{ next_day }}.html">{{ next_day }} →</a>{% endif %}
+  </div>
+</div>
+
+{% if report.mock %}
+<div class="banner warn">当前为 mock 演示数据：摘要与洞察为占位内容，配置 OPENAI_API_KEY 后由真实模型生成。</div>
+{% endif %}
+{% if report.failed_sources %}
+<div class="banner error">
+  今日 {{ report.failed_sources | length }} 个源抓取失败，信息可能不完整：
+  {% for f in report.failed_sources %}<strong>{{ f.name }}</strong>{% if not loop.last %}、{% endif %}{% endfor %}
+</div>
+{% endif %}
+
+{% if report.briefing %}
+<section class="card lead">
+  <h2>今日导读</h2>
+  <p>{{ report.briefing }}</p>
+</section>
+{% endif %}
+{% if report.highlights %}
+<section class="card lead">
+  <h2>今日看点</h2>
+  <p>{{ report.highlights }}</p>
+</section>
+{% endif %}
+
+{% macro event_block(e) %}
+<article class="event {{ e.tier }}">
+  <div class="event-head">
+    <span class="tier-badge">{{ tier_names[e.tier] }}</span>
+    <h3>{{ e.title }}</h3>
+  </div>
+  <p class="summary">{{ e.summary }}</p>
+  {% if e.insight_html %}
+  <div class="insight">
+    <div class="insight-label">洞察</div>
+    {{ e.insight_html }}
+  </div>
+  {% endif %}
+  <div class="links">
+    {% for a in e.articles %}
+    <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.source_name }}{% if e.articles|length > 1 %} · {{ a.title | truncate(24, True) }}{% endif %}</a>
+    {% endfor %}
+  </div>
+</article>
+{% endmacro %}
+
+{% for tier, evs in grouped %}
+  {% if evs %}
+  <section class="tier-section">
+    <h2 class="tier-title">{{ tier_names[tier] }} <span class="count">{{ evs | length }}</span></h2>
+    {% if tier == 'skim' %}
+    <details>
+      <summary>展开 {{ evs | length }} 条常规动态</summary>
+      {% for e in evs %}{{ event_block(e) }}{% endfor %}
+    </details>
+    {% else %}
+      {% for e in evs %}{{ event_block(e) }}{% endfor %}
+    {% endif %}
+  </section>
+  {% endif %}
+{% endfor %}
+
+{% if not report.events %}
+<p class="empty">今日各源均无新内容。</p>
+{% endif %}
+
+<section class="stats">
+  抓取 {{ report.stats.get('articles_fetched', 0) }} 篇 → 去重后 {{ report.stats.get('articles_new', 0) }} 篇 →
+  聚合为 {{ report.events | length }} 个事件
+  {% if report.empty_sources %} · 今日无新内容的源：{{ report.empty_sources | join('、') }}{% endif %}
+  · 生成于 {{ report.generated_at[:16].replace('T', ' ') }}
+</section>
+{% endblock %}

@@ -1,0 +1,84 @@
+# 信息源清单。每个源是一个独立适配器实例：单源失败不影响整体，且会在早报中标注。
+#
+# type 取值：
+#   rss        —— 标准 RSS/Atom（feedparser 解析）
+#   hackernews —— HN Algolia API，按 AI 关键词 + 分数过滤
+#   html_list  —— 通用网页列表解析（CSS 选择器），用于没有 RSS 的站点
+#
+# 新增一个 RSS 源只需要加一段配置，不需要写代码。
+
+sources:
+  # ---- 中文 AI 媒体 ----
+  - id: qbitai
+    name: 量子位
+    category: 中文媒体
+    type: rss
+    url: https://www.qbitai.com/feed
+
+  - id: jiqizhixin
+    name: 机器之心
+    category: 中文媒体
+    type: rss
+    url: https://www.jiqizhixin.com/rss
+
+  - id: xinzhiyuan
+    name: 新智元
+    category: 中文媒体
+    type: rss
+    # 新智元以微信公众号为主，无稳定官方 RSS。需要可用的 RSSHub 路由后再启用，
+    # 例如自建 RSSHub 实例的 /wechat 路由。
+    url: ""
+    enabled: false
+
+  # ---- 英文媒体 / 社区 ----
+  - id: hackernews
+    name: Hacker News
+    category: 英文社区
+    type: hackernews
+    min_points: 20
+    keywords: [AI, LLM, GPT, Claude, Gemini, OpenAI, Anthropic, DeepMind, model, agent]
+
+  - id: techcrunch_ai
+    name: TechCrunch AI
+    category: 英文媒体
+    type: rss
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+
+  - id: theverge_ai
+    name: The Verge AI
+    category: 英文媒体
+    type: rss
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+
+  # ---- 官方一手来源 ----
+  - id: openai_blog
+    name: OpenAI Blog
+    category: 官方
+    type: rss
+    url: https://openai.com/news/rss.xml
+
+  - id: anthropic_news
+    name: Anthropic News
+    category: 官方
+    type: html_list
+    url: https://www.anthropic.com/news
+    base_url: https://www.anthropic.com
+    item_selector: "a[href^='/news/']"
+
+  - id: deepmind_blog
+    name: Google DeepMind
+    category: 官方
+    type: rss
+    url: https://deepmind.google/blog/feed/basic/
+
+  - id: meta_ai_blog
+    name: Meta AI Blog
+    category: 官方
+    type: rss
+    url: https://ai.meta.com/blog/rss/
+
+  - id: hf_blog
+    name: Hugging Face Blog
+    category: 官方
+    type: rss
+    url: https://huggingface.co/blog/feed.xml

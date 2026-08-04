@@ -1,0 +1,79 @@
+[
+  {
+    "source_id": "qbitai", "source_name": "量子位", "category": "中文媒体",
+    "title": "Nova Labs 发布 Orion-2：推理能力超越上代 40%",
+    "url": "https://example.com/qbitai/orion-2",
+    "published_at": "2026-08-04T02:10:00+00:00",
+    "text": "示例数据：Nova Labs 今日发布新一代大模型 Orion-2，官方称其在 AGI-Bench 上得分 91.2，推理能力较上一代提升 40%，API 价格下调 50%。Orion-2 支持 100 万 token 上下文，面向智能体场景优化，即日起通过 API 开放。"
+  },
+  {
+    "source_id": "jiqizhixin", "source_name": "机器之心", "category": "中文媒体",
+    "title": "刚刚，Nova Labs 的 Orion-2 来了：价格砍半，性能拉满",
+    "url": "https://example.com/jiqizhixin/orion-2",
+    "published_at": "2026-08-04T02:40:00+00:00",
+    "text": "示例数据：Nova Labs 今日发布新一代大模型 Orion-2，官方称其在 AGI-Bench 上得分 91.2，推理能力较上一代提升 40%，API 价格下调 50%。Orion-2 支持 100 万 token 上下文，面向智能体场景优化，即日起通过 API 开放。"
+  },
+  {
+    "source_id": "techcrunch_ai", "source_name": "TechCrunch AI", "category": "英文媒体",
+    "title": "Quark AI raises $200M to build coding agents for enterprises",
+    "url": "https://example.com/techcrunch/quark-funding",
+    "published_at": "2026-08-04T01:00:00+00:00",
+    "text": "Sample data: Quark AI announced a $200M Series B round led by Example Ventures to expand its enterprise coding agent platform. The startup claims its agents autonomously resolve 30% of routine tickets in pilot deployments across 50 companies."
+  },
+  {
+    "source_id": "theverge_ai", "source_name": "The Verge AI", "category": "英文媒体",
+    "title": "Coding agent startup Quark AI lands $200M as enterprise demand surges",
+    "url": "https://example.com/verge/quark-funding",
+    "published_at": "2026-08-04T03:20:00+00:00",
+    "text": "Sample data: Quark AI announced a $200M Series B round led by Example Ventures to expand its enterprise coding agent platform. The startup claims its agents autonomously resolve 30% of routine tickets in pilot deployments across 50 companies."
+  },
+  {
+    "source_id": "hackernews", "source_name": "Hacker News", "category": "英文社区",
+    "title": "Show HN: An open-source local-first RAG engine in 2k lines of Rust",
+    "url": "https://example.com/hn/rag-engine",
+    "published_at": "2026-08-04T04:05:00+00:00",
+    "text": "Show HN: An open-source local-first RAG engine in 2k lines of Rust（HN 342 points，讨论: https://news.ycombinator.com/item?id=0）"
+  },
+  {
+    "source_id": "openai_blog", "source_name": "OpenAI Blog", "category": "官方",
+    "title": "Introducing structured memory for the Assistants API",
+    "url": "https://example.com/openai/structured-memory",
+    "published_at": "2026-08-03T22:00:00+00:00",
+    "text": "Sample data: We are introducing structured memory, a new capability that lets assistants persist and query user-scoped facts across sessions with fine-grained retention controls."
+  },
+  {
+    "source_id": "deepmind_blog", "source_name": "Google DeepMind", "category": "官方",
+    "title": "Scaling world models for embodied agents",
+    "url": "https://example.com/deepmind/world-models",
+    "published_at": "2026-08-03T18:00:00+00:00",
+    "text": "Sample data: New research on scaling world models shows simulated pre-training improves real-robot sample efficiency by an order of magnitude across manipulation benchmarks."
+  },
+  {
+    "source_id": "hf_blog", "source_name": "Hugging Face Blog", "category": "官方",
+    "title": "State of open models: August 2026",
+    "url": "https://example.com/hf/state-of-open",
+    "published_at": "2026-08-03T20:30:00+00:00",
+    "text": "Sample data: Our monthly review of the open model ecosystem: notable releases, benchmark movements, and licensing changes across the community."
+  },
+  {
+    "source_id": "meta_ai_blog", "source_name": "Meta AI Blog", "category": "官方",
+    "title": "Efficient on-device inference with quantization-aware distillation",
+    "url": "https://example.com/meta/on-device",
+    "published_at": "2026-08-03T16:00:00+00:00",
+    "text": "Sample data: We share techniques combining quantization-aware training and distillation that run 8B-class models on flagship phones at interactive latency."
+  },
+  {
+    "source_id": "qbitai", "source_name": "量子位", "category": "中文媒体",
+    "title": "国产端侧模型密集上新：手机厂商竞逐 3B 赛道",
+    "url": "https://example.com/qbitai/on-device-cn",
+    "published_at": "2026-08-04T05:30:00+00:00",
+    "text": "示例数据：多家国内手机厂商本周相继发布 3B 参数级端侧模型，主打离线语音助手与相册语义搜索，端侧推理与隐私成为新一轮卖点。"
+  },
+  {
+    "source_id": "jiqizhixin", "source_name": "机器之心", "category": "中文媒体",
+    "title": "一文读懂智能体评测：为什么现有 benchmark 都在失效",
+    "url": "https://example.com/jiqizhixin/agent-eval",
+    "published_at": "2026-08-04T06:00:00+00:00",
+    "text": "示例数据：随着智能体能力快速提升，静态评测集正在迅速饱和。本文梳理了动态评测、对抗评测与真实任务回放三条技术路线的进展与局限。"
+  }
+]

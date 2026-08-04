@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>历史归档</h1>
+<ul class="archive-list">
+  {% for day in days %}
+  <li><a href="days/{{ day.date }}.html">{{ day.date }}</a>
+      <span class="meta">{{ day.events }} 个事件{% if day.must_read %} · {{ day.must_read }} 条必读{% endif %}</span></li>
+  {% endfor %}
+</ul>
+{% if not days %}<p class="empty">暂无数据，等待第一次流水线运行。</p>{% endif %}
+{% endblock %}
