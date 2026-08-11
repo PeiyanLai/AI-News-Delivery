@@ -1,0 +1,508 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T07:28:49+08:00",
+  "briefing": "今日导读，AI行业动态包括OpenAI完成70亿美元股权出售，这表明其潜在上市计划。同时，SpaceXAI推出Grok Bot，预示着AI在用户交互方面的创新。River AI获得11亿美元融资，展现了资本对AI初创公司的关注。",
+  "highlights": "今日看点：OpenAI、Anthropic、Google之间的用户数量激增显示AI产品的市场接受度明显增强。此外，River AI的高额融资及AI工具Suzanne推动产品设计制造，表明AI在商业应用中的重要性不断提升，尤其是在加速产品开发和上市方面。SpaceXAI的Grok Bot推出，则强调了在用户交互体验上AI的广泛潜力。",
+  "events": [
+    {
+      "id": "e72f52ad1b9",
+      "title": "ChatGPT 与 Gemini 用户破亿",
+      "summary": "谷歌 CEO 桑达尔·皮查伊宣布，Gemini 每月用户超过十亿，成为谷歌增长最快的产品。几周前，OpenAI 的 ChatGPT 也达到了十亿用户，虽然该公司在一篇普通的博客中低调提及这一消息。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nGemini用户破亿，表明AI工具在广泛市场中的接受度与日俱增。\n\n### 为什么令人兴奋\n这是一个重大的用户基数增长，显示了市场对AI工具强烈的需求和使用意向。\n\n### 产品机会\n在如此庞大的用户基础上，可以开发更多细分功能及个性化服务，提升用户粘性。\n\n### 格局影响\n这增强了Google在AI市场的竞争力，可能对OpenAI及其他竞争者构成压力。\n\n### 冷静判断\n尽管用户破亿是重大里程碑，但长期用户留存率和满意度仍需关注。\n\n### 趋势坐标\n与OpenAI近期用户突破相呼应，反映了全球范围内对AI工具的需求加速增长。",
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "ChatGPT and Gemini both just passed 1 billion users",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "published_at": "2026-08-11T19:41:42+00:00",
+          "text": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT hit the mark a few weeks ago, though the company buried the announcement that \"more than 1 billion people are putting ChatGPT to work\" in an otherwise anodyne blog post about how people use AI. External data suggested ChatGPT crossed 1 billion users as early as this June, but OpenAI hadn't announced anything until that post on August 6th. … Read the full story at The Verge.",
+          "id": "a72f52ad1b9"
+        }
+      ]
+    },
+    {
+      "id": "e76fde13897",
+      "title": "River AI 获 11 亿美元融资",
+      "summary": "River AI 是由 xAI 联合创始人 Igor Babuschkin 创立的初创公司，专注于个人代理的愿景。该公司在成立仅两个月内便成功融资 11 亿美元。",
+      "tier": "must_read",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+          "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+          "published_at": "2026-08-11T17:41:22+00:00",
+          "text": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+          "id": "a76fde13897"
+        }
+      ]
+    },
+    {
+      "id": "e80d4856154",
+      "title": "AI工具Suzanne助力产品设计制造",
+      "summary": "Suzanne是一款用于设计和制造实体产品的AI工具。该工具旨在提高产品开发的效率和准确性，帮助企业加速其产品上市时间。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Suzanne: AI tool for designing and manufacturing physical products",
+          "url": "https://www.suzanne3d.com/",
+          "published_at": "2026-08-11T21:28:26+00:00",
+          "text": "Suzanne: AI tool for designing and manufacturing physical products（HN 21 points，讨论: https://news.ycombinator.com/item?id=49264755）",
+          "id": "a80d4856154"
+        }
+      ]
+    },
+    {
+      "id": "eb1770b5350",
+      "title": "SpaceXAI 推出 Grok Bot",
+      "summary": "SpaceXAI 推出了新的聊天机器人产品 Grok Bot。该机器人旨在提升用户交互体验，提供智能化解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Grok Bot by SpaceXAI",
+          "url": "https://x.ai/news/introducing-grok-bot",
+          "published_at": "2026-08-11T17:24:49+00:00",
+          "text": "Grok Bot by SpaceXAI（HN 59 points，讨论: https://news.ycombinator.com/item?id=49261532）",
+          "id": "ab1770b5350"
+        }
+      ]
+    },
+    {
+      "id": "ee29a45fb4b",
+      "title": "Go语言在AI助力软件工程中的应用",
+      "summary": "Go被认为是AI辅助软件工程的理想语言。由于其高效性和简洁性，Go适合用于构建智能工具和自动化流程，提升开发效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Go is an ideal language for AI-assisted software engineering",
+          "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+          "published_at": "2026-08-11T16:57:09+00:00",
+          "text": "Go is an ideal language for AI-assisted software engineering（HN 202 points，讨论: https://news.ycombinator.com/item?id=49261133）",
+          "id": "ae29a45fb4b"
+        }
+      ]
+    },
+    {
+      "id": "e5570c557a3",
+      "title": "Anthropic 模型在黎曼猜想上取得进展",
+      "summary": "黎曼猜想是数学上一个重大未解问题，已有超过150年的历史。尽管Anthropic并没有解决这个问题，但其模型在此领域取得了超出预期的进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+          "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+          "published_at": "2026-08-11T16:25:20+00:00",
+          "text": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+          "id": "a5570c557a3"
+        }
+      ]
+    },
+    {
+      "id": "e5eb3c49c62",
+      "title": "Hugging Face 新技术减少 ACE 令牌使用",
+      "summary": "Hugging Face 提出了一种新方法，可以在使用 ACE（自动化代码生成）时减少令牌的数量。此技术旨在提高效率，减少计算资源的消耗，同时保持生成内容的质量。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "published_at": "2026-08-11T13:37:10+00:00",
+          "text": "",
+          "id": "a5eb3c49c62"
+        }
+      ]
+    },
+    {
+      "id": "efe459dc13f",
+      "title": "Claude 将为生成内容添加水印",
+      "summary": "Anthropic 宣布将为 Claude 生成的文本和图像应用不可见的水印，以遵守欧洲的 AI 透明度规定。生成的文本将包含嵌入式水印，文件将包括数字签名的来源元数据。这些更新将来会实施，而非立即生效。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Claude will apply invisible watermarks to AI text and images",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+          "published_at": "2026-08-11T12:22:20+00:00",
+          "text": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page . The changes are invisible to human eyes, but will make it easier for people and online platforms to detect if content was generated by Claude models. These updates are a future commitment rather than something that will go into effect immediately. New AI labeling and transparency obligations under the … Read the full story at The Verge.",
+          "id": "afe459dc13f"
+        }
+      ]
+    },
+    {
+      "id": "e6899735f13",
+      "title": "Anthropic 推出 AI 生成文本水印",
+      "summary": "Anthropic 表示将为其 AI 模型生成的文本添加水印，以便更好地识别其来源。此外，计划还将扩展对旧版本模型的水印支持。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic says it will watermark text generated by its AI models",
+          "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+          "published_at": "2026-08-11T12:13:47+00:00",
+          "text": "Anthropic will extend support for watermarking AI generations for older models as well.",
+          "id": "a6899735f13"
+        }
+      ]
+    },
+    {
+      "id": "eafe9e75565",
+      "title": "新能源大厂助力AI算力竞争",
+      "summary": "一家新能源大厂正在支持全球最大的AI算力超级单体的建设。算力竞赛正逐渐向电力供应倾斜，显示出新能源在此领域的重要性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+          "url": "https://www.qbitai.com/2026/08/470621.html",
+          "published_at": "2026-08-11T11:36:42+00:00",
+          "text": "算力竞赛的天平，正在向电力倾斜",
+          "id": "aafe9e75565"
+        }
+      ]
+    },
+    {
+      "id": "e69a3ccd0de",
+      "title": "AI 开始接管数学领域",
+      "summary": "牛津大学的数学家詹姆斯·梅纳德表示，他对数学未来的适应感到迷惘。就在他发言前，OpenAI 公开了10个长期以来困扰学术界的数学问题的解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "The AI takeover of mathematics has begun",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+          "published_at": "2026-08-11T11:00:00+00:00",
+          "text": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, OpenAI revealed it had produced the solutions to 10 long-standing mathematics problems, some of which had confounded academics for decades. Like generative AI used to produce text and images or propose ideas in science and medicine , the technology learns patterns and connections from the vast amount of material it' … Read the full story at The Verge.",
+          "id": "a69a3ccd0de"
+        }
+      ]
+    },
+    {
+      "id": "ede2ca3d757",
+      "title": "OpenAI 在 ChatGPT 中测试广告",
+      "summary": "OpenAI 开始在 ChatGPT 中测试广告，以支持免费使用。广告将有明确标识，确保回答的独立性，并提供强有力的隐私保护和用户控制。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Testing ads in ChatGPT",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt",
+          "published_at": "2026-08-11T10:00:00+00:00",
+          "text": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "id": "ade2ca3d757"
+        }
+      ]
+    },
+    {
+      "id": "eb274e00978",
+      "title": "OpenAI 和 AWS 推出 Daybreak 模型",
+      "summary": "OpenAI 和 AWS 通过 Amazon Bedrock 将 Daybreak 网络安全功能提供给用户，以支持企业安全工作流程。这一合作旨在增强企业的网络安全能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Daybreak models are now available on AWS",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "published_at": "2026-08-11T10:00:00+00:00",
+          "text": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "id": "ab274e00978"
+        }
+      ]
+    },
+    {
+      "id": "e93dae741a5",
+      "title": "布林接管Gemini团队",
+      "summary": "谷歌创始人布林紧急接管Gemini团队，此举因谷歌内部算力分配内耗严重。同时，原定的“3.5 Pro”版本已被取消。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "谷歌创始人布林紧急接管Gemini团队，但“3.5 Pro已被取消”",
+          "url": "https://www.qbitai.com/2026/08/470576.html",
+          "published_at": "2026-08-11T09:24:44+00:00",
+          "text": "谷歌算力分配内耗严重",
+          "id": "a93dae741a5"
+        }
+      ]
+    },
+    {
+      "id": "eed2866b920",
+      "title": "OpenAI 完成 70 亿美元股权出售",
+      "summary": "OpenAI 最近完成了一轮 70 亿美元的股权销售，为即将到来的潜在上市铺平了道路。这笔资金将帮助公司进一步发展其人工智能产品和技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI wraps $7B share sale ahead of potential IPO",
+          "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+          "published_at": "2026-08-11T05:40:35+00:00",
+          "text": "OpenAI wraps $7B share sale ahead of potential IPO（HN 22 points，讨论: https://news.ycombinator.com/item?id=49253785）",
+          "id": "aed2866b920"
+        }
+      ]
+    },
+    {
+      "id": "e64bf77fd57",
+      "title": "Claude 打破黎曼猜想新纪录",
+      "summary": "百年未解的黎曼猜想被 AI 模型 Claude 破了新纪录。新模型显著提高了下界，推动了该领域的进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+          "url": "https://www.qbitai.com/2026/08/470485.html",
+          "published_at": "2026-08-11T05:12:20+00:00",
+          "text": "把下界推高了一大截",
+          "id": "a64bf77fd57"
+        }
+      ]
+    },
+    {
+      "id": "e5a2ef06cc6",
+      "title": "GPU金融化：黄仁勋融资5000亿美元",
+      "summary": "黄仁勋与华尔街合作，推动GPU金融化，筹集资金高达5000亿美元。此次融资将GPU视为理财产品，可能改变其在金融市场中的角色。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+          "url": "https://www.qbitai.com/2026/08/470254.html",
+          "published_at": "2026-08-11T04:31:39+00:00",
+          "text": "真就把GPU当理财产品了～",
+          "id": "a5a2ef06cc6"
+        }
+      ]
+    },
+    {
+      "id": "efbc4573903",
+      "title": "全球AI安全实战测评中国方案入围",
+      "summary": "在全球AI安全实战化测评中，中国方案DoGNAVY名列前三。此次测评考察了人工智能系统的安全性，着重于如何防止AI的自主行为。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "当AI开始“自作主张”，谁来为智能体戴上“项圈”？全球AI安全实战化大考，中国方案打入前三",
+          "url": "https://www.qbitai.com/2026/08/469869.html",
+          "published_at": "2026-08-11T03:11:12+00:00",
+          "text": "全球AI安全实战化测评，中国方案DoGNAVY位列前三",
+          "id": "afbc4573903"
+        }
+      ]
+    },
+    {
+      "id": "ec1d381bf28",
+      "title": "OpenAI 推出新网络安全 AI 模型",
+      "summary": "OpenAI 正在扩大其 AI 网络安全防御项目 Daybreak，并推出一个新的网络训练 AI 模型。该模型旨在应对日益增多的 AI 驱动攻击。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "published_at": "2026-08-10T23:56:15+00:00",
+          "text": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+          "id": "ac1d381bf28"
+        }
+      ]
+    },
+    {
+      "id": "e25809d3aff",
+      "title": "OpenAI 推出 ChatGPT Linux 桌面应用",
+      "summary": "OpenAI 宣布推出 ChatGPT 的 Linux 桌面应用，旨在为 Linux 用户提供更方便的人工智能聊天体验。这一新应用将支持多种功能，提升用户互动效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI launches ChatGPT desktop app for Linux",
+          "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+          "published_at": "2026-08-11T20:54:25+00:00",
+          "text": "OpenAI launches ChatGPT desktop app for Linux（HN 29 points，讨论: https://news.ycombinator.com/item?id=49264334）",
+          "id": "a25809d3aff"
+        }
+      ]
+    },
+    {
+      "id": "e6fe167f815",
+      "title": "PyTorch 一览图发布",
+      "summary": "一张页面展示了整个 PyTorch 框架的所有功能和组件。该资料旨在为开发者提供快速参考，方便理解和使用 PyTorch.",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The whole of PyTorch on one page",
+          "url": "https://tensor.khalilli.ai/blog/part-0-the-map/",
+          "published_at": "2026-08-11T19:05:10+00:00",
+          "text": "The whole of PyTorch on one page（HN 32 points，讨论: https://news.ycombinator.com/item?id=49262961）",
+          "id": "a6fe167f815"
+        }
+      ]
+    },
+    {
+      "id": "e800ebb0d78",
+      "title": "Apple Silicon 加速 llama.cpp 推理",
+      "summary": "Apple Silicon 和 macOS 虚拟机支持之下，利用 llama.cpp 实现了更快的大型语言模型（LLM）推理性能。这一技术进步有望提升开发者在使用这些设备进行 AI 应用时的效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+          "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+          "published_at": "2026-08-11T14:50:33+00:00",
+          "text": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp（HN 274 points，讨论: https://news.ycombinator.com/item?id=49259339）",
+          "id": "a800ebb0d78"
+        }
+      ]
+    },
+    {
+      "id": "e6120ff2811",
+      "title": "Claude Code 定价提升至 40 倍",
+      "summary": "Claude Code 的定价策略更新，虽然使用的 tokens 和模型保持不变，但价格却提高了最高达 40 倍。此变化引发了广泛关注，可能影响用户的使用决策。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+          "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+          "published_at": "2026-08-11T08:34:54+00:00",
+          "text": "Claude Code pricing: same tokens, same model, up to 40x the price（HN 29 points，讨论: https://news.ycombinator.com/item?id=49254999）",
+          "id": "a6120ff2811"
+        }
+      ]
+    },
+    {
+      "id": "e0fd3610617",
+      "title": "AI 的水足迹分析",
+      "summary": "一项研究探讨了人工智能（AI）领域的水资源消耗问题。不同训练模型的水足迹差异显著，指出水资源的使用在AI发展中不可忽视。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The Water Footprint of AI",
+          "url": "https://doi.org/10.1016/j.watres.2026.125866",
+          "published_at": "2026-08-11T07:00:57+00:00",
+          "text": "The Water Footprint of AI（HN 44 points，讨论: https://news.ycombinator.com/item?id=49254351）",
+          "id": "a0fd3610617"
+        }
+      ]
+    },
+    {
+      "id": "e84d02c40ce",
+      "title": "Claude推出隐形水印技术",
+      "summary": "Claude在用户骂声中启动了「隐形水印」功能，所有生成的文本将全量嵌入水印。这一新模型的推出标志着大水印时代的到来。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
+          "url": "https://www.qbitai.com/2026/08/470228.html",
+          "published_at": "2026-08-11T03:51:24+00:00",
+          "text": "大水印时代来了",
+          "id": "a84d02c40ce"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:23:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 90,
+    "articles_new": 25,
+    "articles_filtered": 26,
+    "tokens": {
+      "prompt_tokens": 17550,
+      "completion_tokens": 2492
+    }
+  },
+  "mock": false
+}
