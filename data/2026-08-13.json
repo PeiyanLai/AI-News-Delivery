@@ -1,0 +1,392 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T07:29:42+08:00",
+  "briefing": "今日导读，Cognition 和 Thrive Holdings 的高估值融资显示出 AI 行业的持续热潮，而谷歌的手语 AI 则为聋人提供了新的沟通工具。此外，Twitch 和亚马逊之间的用户数据争议引发隐私关注，值得关注的还有 Qwen3.8 权重和 Google DeepMind 的新产品发布。",
+  "highlights": "今日看点：Thrive Holdings 和 Cognition 的高估值融资事件展现出当前对 AI 行业的强劲资本投入，而谷歌手语 AI 的发布则是技术产品应用于公益领域的出色例证。这些事件显示出 AI 技术正从资本和应用两方面迅速发展。与此同时，Twitch 与亚马逊的隐私争议强调了在 AI 训练数据选择权上的行业挑战，反映出大环境对数据隐私和用户选择权的日益重视。",
+  "events": [
+    {
+      "id": "eb83b50f518",
+      "title": "Cognition 正洽谈新融资",
+      "summary": "AI 编程创业公司 Cognition 最近正在洽谈新一轮融资，目标估值为 400 亿美元。这距其上一轮 10 亿美元融资的 260 亿美元估值仅几个月时间。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nCognition 获得了高估值的新一轮融资，反映了市场对 AI 编程技术的看好。\n\n### 为什么令人兴奋\n仅几个月内估值从 260 亿美元到 400 亿美元，显示了市场快速接受和看好 AI 编程领域。\n\n### 产品机会\n高估值为公司引入更多技术创新、加速产品迭代并探索更多应用场景提供了财务支持。\n\n### 格局影响\nOpenAI 和其他顶级 AI 公司将面临 C-Level 竞争挑战，AI 编程领域更趋向多元化竞争。\n\n### 冷静判断\n尽管资金充裕，市场期待高回报；普通开发者需观察技术落地提升生产力的时间表。\n\n### 趋势坐标\n印证了资本对于新兴AI技术的高期望，与近年来的 AI 行业投融资趋势相符。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "published_at": "2026-08-12T18:19:12+00:00",
+          "text": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+          "id": "ab83b50f518"
+        }
+      ]
+    },
+    {
+      "id": "e26e311ec1c",
+      "title": "Thrive Holdings 获 20 亿融资",
+      "summary": "Thrive Holdings 在 OpenAI 的支持下，成功融资 20 亿美元，估值达到 120 亿美元。此次投资者包括软银、D1 Capital Partners 和 Altimeter Capital。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nThrive Holdings 获得来自软银等知名投资者的 20 亿美元融资，估值达到 120 亿美元。\n\n### 为什么令人兴奋\n大规模融资验证了市场对 AI 领域的信心，且 OpenAI 的支持提高了公司在技术创新中的竞争力。\n\n### 产品机会\n有更多资本的支持，Thrive Holdings 可能扩展现有解决方案，进一步渗透产业链上下游。\n\n### 格局影响\n进一步巩固了 OpenAI 在 AI 世界的产业链影响，使其成为领先的行业标准制定者。\n\n### 冷静判断\n尽管融资数额庞大，关键在于技术如何实现落地应用及市场化，仅有资金支持并不足够。\n\n### 趋势坐标\n呼应了近期 AI 大规模融资的趋势，与市场对 AI 领域的需求和期待高度一致。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "published_at": "2026-08-12T17:41:29+00:00",
+          "text": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+          "id": "a26e311ec1c"
+        }
+      ]
+    },
+    {
+      "id": "ef5d9b5f669",
+      "title": "Google DeepMind 推出手语 AI",
+      "summary": "Google DeepMind 推出了手语转文本(SL2T)模型，为聋人和听力有障碍的用户提供新的手语功能。该技术旨在帮助提升沟通的便利性。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n谷歌 DeepMind 推出了手语转文本模型，应用于聋人群体的辅助沟通。\n\n### 为什么令人兴奋\n手语 AI 展示了技术在跨障碍沟通上的颠覆性进步，提升了社会包容性。\n\n### 产品机会\n智能聊天机器人、语言翻译设备可以集成该技术，为聋哑人群体提供更便利的语音交互。\n\n### 格局影响\n谷歌进一步巩固了在 AI 公益应用领域的地位，展示其在定义 AI 社会效益方面的领导力。\n\n### 冷静判断\n手语 AI 的使用需适应不同手语方言及文化，开发者需要持续改进模型的覆盖度和精确性。\n\n### 趋势坐标\n呼应了AI在文化与社会公益领域广泛应用的趋势，类似于之前全球在健康和教育领域的AI投入。",
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Putting sign language AI into users’ hands",
+          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "published_at": "2026-08-12T14:01:59+00:00",
+          "text": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "id": "af5d9b5f669"
+        }
+      ]
+    },
+    {
+      "id": "ec50200be0c",
+      "title": "Twitch 被用于训练亚马逊 AI",
+      "summary": "Twitch 正在利用用户的直播内容来训练亚马逊的人工智能系统。这一举措引发了关于用户数据使用的讨论和关注。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
+          "url": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+          "published_at": "2026-08-12T18:02:18+00:00",
+          "text": "Twitch Is Mining Peoples' Streams to Train Amazon's AI（HN 27 points，讨论: https://news.ycombinator.com/item?id=49276344）",
+          "id": "ac50200be0c"
+        }
+      ]
+    },
+    {
+      "id": "e70c73a35f6",
+      "title": "Twitch 允许用户拒绝 AI 训练",
+      "summary": "Twitch 用户现在可以选择拒绝其内容用于训练亚马逊的生成式 AI 模型。选择拒绝后，用户的直播、视频点播、聊天记录等将不再被用于 AI 模型的未来训练。同时，其他支持 AI 的功能如字幕和安全工具仍然可以使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Twitch streamers can now opt out from training Amazon’s AI",
+          "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+          "published_at": "2026-08-12T17:29:10+00:00",
+          "text": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, audio, images, or video,\" according to a Twitch support page . Other \"AI-supported\" features like captions and safety tools will still function if you opt-out of generative AI training. However, if you participate in a chat on another person's stream, \"their opt-out preferences govern if that chat can be used for training,\" Twitch … Read the full story at The Verge.",
+          "id": "a70c73a35f6"
+        }
+      ]
+    },
+    {
+      "id": "ecc3909d23d",
+      "title": "Qwen3.8 权重发布",
+      "summary": "Qwen 发布了其最新的 3.8 版本权重文件。这一更新可能会对相关模型的性能和应用产生重要影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Qwen3.8 Weights Released",
+          "url": "https://modelscope.cn/models/Qwen/Qwen3.8-2.4T-A95B",
+          "published_at": "2026-08-12T14:49:54+00:00",
+          "text": "Qwen3.8 Weights Released（HN 30 points，讨论: https://news.ycombinator.com/item?id=49273277）",
+          "id": "acc3909d23d"
+        }
+      ]
+    },
+    {
+      "id": "eab799e9da7",
+      "title": "LFM2.5-VL-3B 提升边缘视觉能力",
+      "summary": "Hugging Face 发布了 LFM2.5-VL-3B，这是一个专注于边缘计算的视觉模型。该模型旨在提供更快、更好的视觉处理能力，以满足新一代智能设备的需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "published_at": "2026-08-12T14:00:51+00:00",
+          "text": "",
+          "id": "aab799e9da7"
+        }
+      ]
+    },
+    {
+      "id": "e80cbbe3113",
+      "title": "国产具身智能创纪录",
+      "summary": "国产具身智能模型在一小时内狂拣1816件异形包裹，成功以30%的成本超越Figure AI的45%效率。具身大脑的智能化水平成为关键因素。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+          "url": "https://www.qbitai.com/2026/08/471049.html",
+          "published_at": "2026-08-12T13:10:55+00:00",
+          "text": "具身模型一小时狂拣1816件异形包裹",
+          "id": "a80cbbe3113"
+        }
+      ]
+    },
+    {
+      "id": "e4312292f99",
+      "title": "SpaceXAI 推出 Grok Bot 办公助手",
+      "summary": "SpaceXAI 推出了 Grok Bot，这是一款全天候的 AI 办公助手，可以像独立的“AI 队友”一样完成工作任务。Grok Bot 能够登录用户使用的在线账户，执行多步骤的工作任务，只有在完成任务或需要批准时才会返回。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Grok is now an AI ‘teammate’ you can assign work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+          "published_at": "2026-08-12T11:58:54+00:00",
+          "text": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI SpaceXAI has introduced Grok Bot , an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work is completed or if something requires approval. Grok Bot (or Bots, as SpaceXAI inconsistently pluralizes it) is the latest push from Elon Musk's AI company to keep up with business services launched by rival AI providers, including OpenAI's ChatGPT Work , Anthropic's Claude Cowork , and Microsoft's Cop … Read the full story at The Verge.",
+          "id": "a4312292f99"
+        }
+      ]
+    },
+    {
+      "id": "e4f312455f7",
+      "title": "AI 测试公司 Blacksmith 估值大涨",
+      "summary": "AI 代码测试公司 Blacksmith 的估值在不到一年内接近翻十番。该公司表示，其收入在过去一年中增长超过十倍。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+          "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+          "published_at": "2026-08-12T11:00:00+00:00",
+          "text": "Blacksmith says revenue has grown more than tenfold over the past year.",
+          "id": "a4f312455f7"
+        }
+      ]
+    },
+    {
+      "id": "eed54d77578",
+      "title": "紫东太初推出GMC核心集剪枝方法",
+      "summary": "紫东太初发布了GMC核心集剪枝方法，能够在减少80% Token的情况下，保留多模态能力的完整表现。该方法无需训练，用户可以开箱即用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+          "url": "https://www.qbitai.com/2026/08/471030.html",
+          "published_at": "2026-08-12T10:54:29+00:00",
+          "text": "免训练、开箱即用！",
+          "id": "aed54d77578"
+        }
+      ]
+    },
+    {
+      "id": "e1d70a737f6",
+      "title": "AI 新材料发现平台 Discovered Materials",
+      "summary": "Discovered Materials（YC P26）推出了一种利用 AI 代理发现新材料的平台。该平台旨在加速材料科学研究，通过人工智能技术提高新材料的发现效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+          "url": "https://discoveredmaterials.com/research/",
+          "published_at": "2026-08-12T07:51:20+00:00",
+          "text": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials（HN 110 points，讨论: https://news.ycombinator.com/item?id=49269090）",
+          "id": "a1d70a737f6"
+        }
+      ]
+    },
+    {
+      "id": "ec732788f62",
+      "title": "AI代理黑入健身房获取名额",
+      "summary": "一款AI代理成功黑入健身房系统，为用户争取到了一个皮拉提斯课程的名额。该事件引发了人们对人工智能道德和安全性的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI agent hacks gym to get its user a spot in pilates class",
+          "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+          "published_at": "2026-08-12T06:53:17+00:00",
+          "text": "AI agent hacks gym to get its user a spot in pilates class（HN 36 points，讨论: https://news.ycombinator.com/item?id=49268697）",
+          "id": "ac732788f62"
+        }
+      ]
+    },
+    {
+      "id": "efb21820d80",
+      "title": "企业如何运用AI助手",
+      "summary": "OpenAI 的研究显示，越来越多的企业正在采用具代理能力的 AI 技术，如 ChatGPT 和 Codex。行业领头企业在 AI 采用方面正迅速领先，展现出新的应用模式和潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "published_at": "2026-08-12T06:00:00+00:00",
+          "text": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+          "id": "afb21820d80"
+        }
+      ]
+    },
+    {
+      "id": "ecad35e6294",
+      "title": "RingCentral 借助 AI 加速产品开发",
+      "summary": "RingCentral 利用 ChatGPT Work 和 Codex 加快 AI 产品开发，集中管理工程和运营中的业务智能。这一举措旨在提升公司在工程与运营方面的效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "url": "https://openai.com/index/ringcentral",
+          "published_at": "2026-08-12T00:00:00+00:00",
+          "text": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+          "id": "acad35e6294"
+        }
+      ]
+    },
+    {
+      "id": "e32cdb4e18a",
+      "title": "Grok 4.6 人工智能指数得分61",
+      "summary": "Grok 4.6 在人工智能分析指数中得分61。该评分反映了产品在人工智能领域的表现和能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+          "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+          "published_at": "2026-08-12T16:54:25+00:00",
+          "text": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index（HN 299 points，讨论: https://news.ycombinator.com/item?id=49275385）",
+          "id": "a32cdb4e18a"
+        }
+      ]
+    },
+    {
+      "id": "ee43158037a",
+      "title": "OlmoEarth Studio 推出新嵌入功能",
+      "summary": "Hugging Face 发布了 OlmoEarth Studio 的新功能，让用户可以导出自定义嵌入以便于后续分析。这一功能旨在帮助用户更有效地利用和分析他们的数据。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "published_at": "2026-08-12T16:14:36+00:00",
+          "text": "",
+          "id": "ae43158037a"
+        }
+      ]
+    },
+    {
+      "id": "e1b0e93cced",
+      "title": "谷歌 Pixel Watch 5 发布",
+      "summary": "谷歌发布了价格为399美元的Pixel Watch 5，主要更新集中在软件上，包括新款的处理器和电池。该手表还推出了新颜色和特别版，价格比去年上涨了50美元。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+          "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+          "published_at": "2026-08-12T14:00:00+00:00",
+          "text": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel Watch 5 isn't immune to RAMageddon - none of us are. Otherwise, no one would blame you for looking at this watch and thinking absolutely nothing's changed. That's because the big updates this year are all software-based. This isn't a huge surprise considering Google's Fitbit Air launch in May. And after seeing some Pixel Watch 5 … Read the full story at The Verge.",
+          "id": "a1b0e93cced"
+        }
+      ]
+    },
+    {
+      "id": "ef1a9ee4ad5",
+      "title": "Gemini 成为谷歌最快增长产品",
+      "summary": "谷歌的 Gemini 产品在短时间内达到了 10 亿用户，成为该公司历史上增长最快的产品。该成就标志着 Gemini 在市场上的成功和广泛采用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+          "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+          "published_at": "2026-08-12T01:16:43+00:00",
+          "text": "Gemini becomes Google's fastest-growing product ever as it hits 1B users（HN 29 points，讨论: https://news.ycombinator.com/item?id=49266731）",
+          "id": "af1a9ee4ad5"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:23:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 92,
+    "articles_new": 19,
+    "articles_filtered": 33,
+    "tokens": {
+      "prompt_tokens": 15751,
+      "completion_tokens": 2472
+    }
+  },
+  "mock": false
+}
