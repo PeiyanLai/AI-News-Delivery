@@ -1,0 +1,364 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T07:30:02+08:00",
+  "briefing": "今日导读：Anthropic AI代理的冲突试验引发了多代理系统风险讨论；OpenAI与IBM合作提升企业AI竞争力；Writer发布新AI模型GLM-5.2以优化成本；Claude AI突破数学难题，AI在数学领域应用潜力显现。",
+  "highlights": "今日看点：AI的应用正在不断向深度和广度扩展。Anthropic对AI代理之间的交互研究揭示了多代理系统的风险，这为企业和开发者敲响了警钟。在企业应用方面，OpenAI和IBM的合作表明，AI自身的核心技术正成为企业竞争力的重要一环。此外，Claude在数学领域的突破验证了AI在专业领域的潜在能力，显示出人工智能在专业领域的应用范畴正在扩大。这些动向共同表明，AI正在推动多领域的深刻变革。",
+  "events": [
+    {
+      "id": "e79aa75fcb7",
+      "title": "IBM 与 OpenAI 合作推出企业 AI 项目",
+      "summary": "IBM 计划在与 OpenAI 的合作中培训并认证数万名顾问，专注于 OpenAI 的技术。这一举措旨在增强其在企业 AI 领域的竞争力。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nIBM与OpenAI合作提升企业级AI技术，计划培训和认证数万名顾问。\n\n### 为什么令人兴奋\n这一合作扩展了OpenAI技术的应用面，有助于加速AI在企业环境中的落地与应用。\n\n### 产品机会\n可能催生企业级AI咨询和实施服务新市场，通过定制化AI解决方案获取商业价值。\n\n### 格局影响\n加强了OpenAI与企业界的联系，进一步提高其核心技术方案的市场接受度。\n\n### 冷静判断\n技术推广仍需时间考验，具体效果有赖于双方的协同操作与执行力。\n\n### 趋势坐标\n此合作进一步印证了近期AI与企业解决方案结合日益紧密的趋势，抢占技术落地先机。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "IBM partners with OpenAI to bolster enterprise AI push",
+          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+          "published_at": "2026-08-13T19:19:49+00:00",
+          "text": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+          "id": "a79aa75fcb7"
+        }
+      ]
+    },
+    {
+      "id": "ed83d050a98",
+      "title": "Anthropic AI代理冲突试验",
+      "summary": "Anthropic的研究人员发现，AI代理在执行相同任务时可以发生冲突、串通和协调。这一发现引发了关于当前安全测试是否能有效捕捉多代理系统风险的新问题。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAnthropic的试验揭示了AI代理在协作任务中会产生冲突与串通现象。\n\n### 为什么令人兴奋\n理解多代理系统的风险是确保AI安全的重要一步，推动了AI伦理和安全研究的深度。\n\n### 产品机会\n创新产品可通过减少代理冲突提高协作效率，例如在多AI协作平台中应用此研究成果。\n\n### 格局影响\n对AI公司和安全研究机构都是重要挑战，促使更多资源投入AI安全和多代理系统研究。\n\n### 冷静判断\n当前仍处于研究阶段，距离大规模商业应用或产品化尚需时日。\n\n### 趋势坐标\n与全球对AI安全性和伦理问题的关注趋势一致，特别与最近的AI安全隐患讨论形成呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "published_at": "2026-08-13T18:28:14+00:00",
+          "text": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+          "id": "ad83d050a98"
+        }
+      ]
+    },
+    {
+      "id": "e952a2dd22c",
+      "title": "Writer 推出新 AI 模型 GLM-5.2",
+      "summary": "Writer 推出了基于 Z.ai 开源模型 GLM-5.2 的新 AI 模型和升级版的工具，以降低 token 成本。该系统被设计为可直接部署的解决方案，旨在提供更具成本效益的服务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "published_at": "2026-08-13T21:13:24+00:00",
+          "text": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+          "id": "a952a2dd22c"
+        }
+      ]
+    },
+    {
+      "id": "e1c14a4457a",
+      "title": "组织如何使用AI：ChatGPT实证研究",
+      "summary": "一项研究探讨了组织如何利用ChatGPT等人工智能工具。研究结果显示，AI在提高工作效率和支持决策方面发挥了重要作用，推动了各行业的创新和转型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+          "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+          "published_at": "2026-08-13T19:25:38+00:00",
+          "text": "How Organizations Use AI: Evidence from ChatGPT [pdf]（HN 49 points，讨论: https://news.ycombinator.com/item?id=49290768）",
+          "id": "a1c14a4457a"
+        }
+      ]
+    },
+    {
+      "id": "ea894d6a467",
+      "title": "OpenAI发布GPT-5.6 Sol Ultrafast模式",
+      "summary": "OpenAI推出了其最新模型GPT-5.6 Sol的新预览模式‘Ultrafast’，该模式的运行速度可达到原先的14倍。它由Cerebras提供支持，能够每秒输出最多750个标记。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "published_at": "2026-08-13T19:22:40+00:00",
+          "text": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+          "id": "aa894d6a467"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "published_at": "2026-08-13T10:00:00+00:00",
+          "text": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "id": "a6357d7795d"
+        }
+      ]
+    },
+    {
+      "id": "e9290df0cd4",
+      "title": "法律文件中隐含prompt注入事件",
+      "summary": "一名用户在法律文件中隐藏了 prompt 注入，试图让 AI 偏向自己的论点。这一行为引发了关于 AI 模型应对法律和道德问题的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+          "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+          "published_at": "2026-08-13T19:04:52+00:00",
+          "text": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them（HN 38 points，讨论: https://news.ycombinator.com/item?id=49290521）",
+          "id": "a9290df0cd4"
+        }
+      ]
+    },
+    {
+      "id": "ec1c9885561",
+      "title": "Hugging Face 发布 Strands Agents",
+      "summary": "Hugging Face 推出了 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，旨在简化记录、训练和部署的过程。这个新功能允许用户在一个平台上完成所有这些操作，提升了工作效率与便捷性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "published_at": "2026-08-13T17:16:04+00:00",
+          "text": "",
+          "id": "ac1c9885561"
+        }
+      ]
+    },
+    {
+      "id": "e068e562e05",
+      "title": "Google DeepMind 发布 Gemini 3.7",
+      "summary": "Google DeepMind 推出了 Gemini 3.7，旨在增强其人工智能能力。新版本在自然语言理解和生成方面进行了改进，提供更加精准的上下文分析和响应。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "published_at": "2026-08-13T17:04:18+00:00",
+          "text": "",
+          "id": "a068e562e05"
+        }
+      ]
+    },
+    {
+      "id": "e553550f021",
+      "title": "AI生成3D模型市场冷淡",
+      "summary": "市场上涌现大量AI生成的3D模型，但几乎无人购买。尽管该技术已广泛应用，消费者对此类模型的需求仍然不足。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them",
+          "url": "https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/",
+          "published_at": "2026-08-13T13:57:01+00:00",
+          "text": "AI Generated 3D Models Flood Market, but Almost No One Is Buying Them（HN 32 points，讨论: https://news.ycombinator.com/item?id=49286057）",
+          "id": "a553550f021"
+        }
+      ]
+    },
+    {
+      "id": "ea65bb0a035",
+      "title": "选择 AI 模型的不同结果",
+      "summary": "一项实验中，研究者使用同一个提示对比了 11 种不同的 AI 模型，结果显示各模型输出的结果存在显著差异。这项实验突显了在选择 AI 模型时，提示的微小变动可能导致截然不同的结果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Choosing an AI model: one prompt, 11 models, different results",
+          "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+          "published_at": "2026-08-13T13:05:29+00:00",
+          "text": "Choosing an AI model: one prompt, 11 models, different results（HN 165 points，讨论: https://news.ycombinator.com/item?id=49285327）",
+          "id": "aa65bb0a035"
+        }
+      ]
+    },
+    {
+      "id": "e20b627328d",
+      "title": "Agent芯片进入量产，获4.8亿美元投资",
+      "summary": "最新消息显示，Agent芯片已进入量产阶段，并获得4.8亿美元的资金支持。这标志着其在端侧算力领域的重要突破。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+          "url": "https://www.qbitai.com/2026/08/472059.html",
+          "published_at": "2026-08-13T12:34:42+00:00",
+          "text": "首颗AI芯片已进入量产",
+          "id": "a20b627328d"
+        }
+      ]
+    },
+    {
+      "id": "eba5f643648",
+      "title": "具身数据融资数千万瞄准物理AI",
+      "summary": "具身数据（Embodied Data）在40天内完成两轮融资，获得数千万资金，旨在重新定义物理AI的数据基础设施。该公司致力于为物理AI提供核心数据支持，推动相关技术的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+          "url": "https://www.qbitai.com/2026/08/472060.html",
+          "published_at": "2026-08-13T11:53:02+00:00",
+          "text": "重新定义物理AI数据基础设施",
+          "id": "aba5f643648"
+        }
+      ]
+    },
+    {
+      "id": "ee1ec6a29ce",
+      "title": "Claude 突破哈达玛矩阵难题",
+      "summary": "Claude AI 解决了2000阶以下的哈达玛矩阵问题，清空了数学研究中的一项待解列表。这一进展标志着AI在数学领域的应用潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+          "url": "https://www.qbitai.com/2026/08/472016.html",
+          "published_at": "2026-08-13T11:29:04+00:00",
+          "text": "好数学家不挑AI模型",
+          "id": "ae1ec6a29ce"
+        }
+      ]
+    },
+    {
+      "id": "e855fa77e93",
+      "title": "OpenAI 发布 GPT-5.6 构建指南",
+      "summary": "OpenAI 发布了关于如何使用 GPT-5.6 的构建指南，强调初创公司如何利用该模型更快、更高效地构建智能 AI 代理。指南中介绍了更智能的模型选择和新的 Responses API 功能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "published_at": "2026-08-13T11:00:00+00:00",
+          "text": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "id": "a855fa77e93"
+        }
+      ]
+    },
+    {
+      "id": "ec6059138e0",
+      "title": "科大讯飞发布全系列企业服务产品",
+      "summary": "科大讯飞发布了一整套企业服务产品，涵盖七大核心场景。这些产品旨在提升企业的智能化水平，满足不同领域的需求。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
+          "url": "https://www.qbitai.com/2026/08/471884.html",
+          "published_at": "2026-08-13T10:01:47+00:00",
+          "text": "",
+          "id": "ac6059138e0"
+        }
+      ]
+    },
+    {
+      "id": "e9e022b7caa",
+      "title": "OpenAI 任命 Dali Rajic 为首席营收官",
+      "summary": "OpenAI 任命 Dali Rajic 为首席营收官，负责领导全球营收组织。他将帮助企业充分发挥人工智能的价值。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "published_at": "2026-08-13T09:00:00+00:00",
+          "text": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "id": "a9e022b7caa"
+        }
+      ]
+    },
+    {
+      "id": "e5fa28c2560",
+      "title": "重现2200篇ICML论文的发现",
+      "summary": "Hugging Face Blog发布了一篇文章，分享了他们重现2200篇来自ICML会议的论文的经验和发现。研究显示，尽管许多论文结果能够被复制，但仍有相当一部分结果存在再现性问题，这引发了对研究可靠性的关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "What We Learned by Reproducing 2,200 papers from ICML",
+          "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "published_at": "2026-08-13T00:00:00+00:00",
+          "text": "",
+          "id": "a5fa28c2560"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:23:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 98,
+    "articles_new": 18,
+    "articles_filtered": 37,
+    "tokens": {
+      "prompt_tokens": 14687,
+      "completion_tokens": 2359
+    }
+  },
+  "mock": false
+}
