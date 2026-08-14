@@ -1,0 +1,366 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T07:11:27+08:00",
+  "briefing": "今日导读：Claude引入新型文本水印技术，提升AI生成内容的安全性与识别度。同时，谷歌通过同态加密技术推动私有AI的发展，保证用户数据隐私。GLM-5.3发布，大幅提升模型安全性。百度文库库库AI用户数突破2500万，反映其AI办公解决方案的广泛应用。",
+  "highlights": "今日看点：Claude的文本水印和谷歌的同态加密技术均显示出AI行业对安全与隐私的重视。这些技术进步代表着AI在产品责任和用户数据保护方面的提升。与此同时，GLM-5.3模型的推出标志着AI技术在安全边界上的进一步拓展，这可能强化用户信任。百度文库平台的成功也表明AI在提升日常办公效率方面的潜力。",
+  "events": [
+    {
+      "id": "eab1f720db0",
+      "title": "谷歌借同态加密推进私有AI",
+      "summary": "谷歌正在通过同态加密技术使私有人工智能（AI）变得可行。该技术允许在加密数据上进行计算，而无需解密，从而保护用户隐私并提高安全性。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n谷歌通过同态加密推动AI技术的数据隐私保护，支持在加密数据上进行安全计算。\n\n### 为什么令人兴奋\n同态加密技术提供了一种在不解密数据的情况下完成计算的方式，大幅度提升了用户隐私保护的标准。\n\n### 产品机会\n可以将同态加密技术应用于医疗和金融行业，在确保数据隐私的同时，提供定制化AI分析服务。\n\n### 格局影响\n谷歌在私有AI和数据隐私领域的投入进一步加剧了行业竞争，有可能形成新的竞争壁垒。\n\n### 冷静判断\n此技术应用潜力巨大，但其计算复杂性和性能仍需在特定业务场景中验证。\n\n### 趋势坐标\n吻合全球逐渐加强数据隐私和安全合规性的发展趋势，与此同时也预示了更多企业将探索数据安全与AI的深度结合。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Google is making private AI practical with homomorphic encryption",
+          "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+          "published_at": "2026-08-14T15:43:10+00:00",
+          "text": "Google is making private AI practical with homomorphic encryption（HN 235 points，讨论: https://news.ycombinator.com/item?id=49300314）",
+          "id": "aab1f720db0"
+        }
+      ]
+    },
+    {
+      "id": "e8a4a811ddf",
+      "title": "Claude 的文本水印技术解析",
+      "summary": "Claude 引入了一种新的文本水印技术，旨在识别和追踪生成的文本内容。这一技术利用独特的编码模式，确保生成的文本可以被安全地标识，避免内容被未经授权的使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "How Claude's text watermarking works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "published_at": "2026-08-14T19:15:51+00:00",
+          "text": "How Claude's text watermarking works（HN 40 points，讨论: https://news.ycombinator.com/item?id=49303350）",
+          "id": "a8a4a811ddf"
+        },
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "How AI text watermarking works",
+          "url": "https://declaude.org/watermarking/",
+          "published_at": "2026-08-13T23:16:55+00:00",
+          "text": "How AI text watermarking works（HN 129 points，讨论: https://news.ycombinator.com/item?id=49292932）",
+          "id": "a32b7deaf3a"
+        }
+      ]
+    },
+    {
+      "id": "ee258971350",
+      "title": "LLM 生成 GPU 内核的契约级验证器",
+      "summary": "一款新的验证器推出，旨在确保由大型语言模型（LLM）生成的GPU内核的合同级别正确性。这一工具可用于提高自动生成代码的可靠性，支持开发者在使用AI生成代码时提高工作效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+          "url": "https://arxiv.org/abs/2608.12700",
+          "published_at": "2026-08-14T16:57:14+00:00",
+          "text": "A Contract-Grade Verifier for LLM-Generated GPU Kernels（HN 29 points，讨论: https://news.ycombinator.com/item?id=49301417）",
+          "id": "ae258971350"
+        }
+      ]
+    },
+    {
+      "id": "ef51202f872",
+      "title": "Google 允许用户去除AI水印",
+      "summary": "Google 现已允许用户移除其 AI 生成内容中的可见水印。关闭此设置不会影响用于识别 AI 生成文件的隐性基准。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google will now allow users to remove visible watermark from its AI generations",
+          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "published_at": "2026-08-14T16:13:40+00:00",
+          "text": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+          "id": "af51202f872"
+        }
+      ]
+    },
+    {
+      "id": "e243a357f3c",
+      "title": "Qwen3.8-27B 开源发布",
+      "summary": "Qwen3.8-27B 现已开源，所有人均可免费下载、部署及商用。该模型支持家用显卡运行，进一步降低了技术门槛。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+          "url": "https://www.qbitai.com/2026/08/473379.html",
+          "published_at": "2026-08-14T15:41:12+00:00",
+          "text": "所有人都可免费下载部署及商用。",
+          "id": "a243a357f3c"
+        }
+      ]
+    },
+    {
+      "id": "ea8d30f7063",
+      "title": "苹果与阿里巴巴合作开发AI模型",
+      "summary": "据报道，苹果与国内科技巨头阿里巴巴合作，为中国市场训练了一款定制的AI模型。这一罕见的跨境合作突显了在北京与华盛顿日益紧张的关系下，苹果在中国市场的战略调整。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Apple trained its own AI model for China with help from Alibaba",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "published_at": "2026-08-14T09:21:17+00:00",
+          "text": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports , citing three unnamed people familiar with the matter. Developing a custom model of its own marks a departure from Apple's previous strategy in the country and would give the company more control over its products in the competitive Chinese smartphone market. Historically, Apple has used domestic Chines … Read the full story at The Verge.",
+          "id": "aa8d30f7063"
+        }
+      ]
+    },
+    {
+      "id": "e03b9ed46a5",
+      "title": "GLM-5.3发布：安全性提升",
+      "summary": "GLM-5.3版本刚刚发布，新增功能使编码更接近Fable 5。同时，该版本成功修复了潜伏了40年的bug，标志着开源安全模型的重大进步。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+          "url": "https://www.qbitai.com/2026/08/473038.html",
+          "published_at": "2026-08-14T08:47:51+00:00",
+          "text": "顺手拿下最强开源安全模型",
+          "id": "a03b9ed46a5"
+        }
+      ]
+    },
+    {
+      "id": "e1a5d39b025",
+      "title": "百度文库库库AI MAU超2500万",
+      "summary": "百度文库网盘的AI办公平台库库AI日活跃用户超过2500万。为了进一步提升用户体验，库库AI推出了独立的办公端。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+          "url": "https://www.qbitai.com/2026/08/473144.html",
+          "published_at": "2026-08-14T08:36:00+00:00",
+          "text": "",
+          "id": "a1a5d39b025"
+        }
+      ]
+    },
+    {
+      "id": "ea71c6ee85b",
+      "title": "机器人算力需求飙升，效率大幅提升",
+      "summary": "随着算力需求在两年内增长10倍，机器人正在积极整合到真实物理世界中。研发过程中，机器人可以减少50%的成本，同时部署效率提升了80%。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "算力需求两年涨10倍，机器人为了走进真实物理世界，正在疯狂「吃算力」",
+          "url": "https://www.qbitai.com/2026/08/472722.html",
+          "published_at": "2026-08-14T07:29:22+00:00",
+          "text": "少花一半成本，部署效率提升80%！机器人研发可以不用重复造轮子了。",
+          "id": "aa71c6ee85b"
+        }
+      ]
+    },
+    {
+      "id": "e95272d3840",
+      "title": "谷歌重组DeepMind团队",
+      "summary": "谷歌开始对其子公司DeepMind进行重组，多个团队被划归至谷歌总部。联合创始人布林亲自参与这项变动，确保项目持续推进。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "谷歌开始肢解DeepMind，数个团队被划归总部",
+          "url": "https://www.qbitai.com/2026/08/473153.html",
+          "published_at": "2026-08-14T14:51:48+00:00",
+          "text": "布林亲自下场督战",
+          "id": "a95272d3840"
+        }
+      ]
+    },
+    {
+      "id": "e3076486213",
+      "title": "AI Model Atlas: 3D 可视化 ML 模型",
+      "summary": "AI Model Atlas 是一个新工具，旨在将机器学习模型以相互连接的 3D 图形形式进行可视化。该工具帮助用户更好地理解和分析大量的 ML 模型及其相互关系。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+          "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+          "published_at": "2026-08-14T14:22:39+00:00",
+          "text": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph（HN 50 points，讨论: https://news.ycombinator.com/item?id=49299102）",
+          "id": "a3076486213"
+        }
+      ]
+    },
+    {
+      "id": "e9351d217fc",
+      "title": "HashAgent 让 AI 代理分享更便捷",
+      "summary": "HashAgent 是一个新的工具，可以将 AI 代理以 URL 的形式分享。这个代理在本地通过 WebGPU 运行，增强了其性能和灵活性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+          "url": "https://hashagent.pages.dev/",
+          "published_at": "2026-08-14T12:57:02+00:00",
+          "text": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU（HN 45 points，讨论: https://news.ycombinator.com/item?id=49298088）",
+          "id": "a9351d217fc"
+        }
+      ]
+    },
+    {
+      "id": "e0fb927bf42",
+      "title": "太初元碁助力AI+教育大赛",
+      "summary": "太初元碁宣布参与国家级“AI+教育”大赛，并开启‘AI+加速卡模型适配赛道’的招募。这项赛事旨在推动人工智能在教育领域的应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+          "url": "https://www.qbitai.com/2026/08/473149.html",
+          "published_at": "2026-08-14T10:25:36+00:00",
+          "text": "",
+          "id": "a0fb927bf42"
+        }
+      ]
+    },
+    {
+      "id": "e4c11dc5b6d",
+      "title": "德塔智能与舞肌科技战略合作",
+      "summary": "德塔智能与舞肌科技达成战略合作，旨在联合规范全身协同灵巧操作的数据采集。此次合作将推动相关技术的研发与应用，提升数据采集的标准化和效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "德塔智能与舞肌科技达成战略合作，联合规范全身协同灵巧操作数据采集",
+          "url": "https://www.qbitai.com/2026/08/472718.html",
+          "published_at": "2026-08-14T06:18:56+00:00",
+          "text": "",
+          "id": "a4c11dc5b6d"
+        }
+      ]
+    },
+    {
+      "id": "ee6c53596b4",
+      "title": "GLM-5.3：前沿编码与网络能力",
+      "summary": "GLM-5.3 是一款新推出的模型，具有先进的网络能力。该模型展示了在编程和网络安全领域的最新技术进展，标志着人工智能应用的新里程碑。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+          "url": "https://z.ai/blog/glm-5.3",
+          "published_at": "2026-08-14T05:19:59+00:00",
+          "text": "GLM-5.3: Frontier coding with emergent cyber capabilities（HN 1016 points，讨论: https://news.ycombinator.com/item?id=49294997）",
+          "id": "ae6c53596b4"
+        }
+      ]
+    },
+    {
+      "id": "ed556a48bac",
+      "title": "Hugging Face 开放模型现状分析",
+      "summary": "在2026年夏季，Hugging Face 发布了关于开放模型的观察报告。报告总结了当前开放模型的发展趋势以及行业内的主要变化，强调了模型的可用性和社区参与度。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "State of Open Models: Summer 2026 Observations",
+          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "published_at": "2026-08-14T00:00:00+00:00",
+          "text": "",
+          "id": "ad556a48bac"
+        }
+      ]
+    },
+    {
+      "id": "e8a4a811ddf",
+      "title": "Claude文本水印工作原理解析",
+      "summary": "Anthropic于2026年8月14日发布了Claude的文本水印技术细节。该技术旨在为生成的文本内容提供可识别的水印，以帮助保护知识产权。",
+      "tier": "skim",
+      "insight": "### 一句话本质\nClaude的文本水印技术提供了一种嵌入式识别方法，以加密标签保护AI生成内容。\n\n### 为什么令人兴奋\n这项技术可有效防止内容的未经授权使用，实现了生成内容的可追溯性，是AI知识产权保护的一大步。\n\n### 产品机会\n水印技术可推广到法律、教育及内容创作行业，提供内容真实性与来源认证功能，防止假新闻和盗版。\n\n### 格局影响\n这为Anthropic树立了在AI内容安全领域的领先者形象，可能促使其他公司加快类似技术的研发。\n\n### 冷静判断\n虽然水印技术具有显著潜力，但在大规模应用中可能仍需面对解码复杂性和成本问题。\n\n### 趋势坐标\n呼应最近AI领域的安全性及可追溯性趋势，同时可能与谷歌的去除水印技术形成对比。",
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+          "url": "https://www.anthropic.com/news/claude-text-watermark",
+          "published_at": "",
+          "text": "Aug 14, 2026 Announcements How Claude’s text watermark works",
+          "id": "a8a4a811ddf"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog"
+  ],
+  "stats": {
+    "articles_fetched": 82,
+    "articles_new": 18,
+    "articles_filtered": 17,
+    "tokens": {
+      "prompt_tokens": 14523,
+      "completion_tokens": 2300
+    }
+  },
+  "mock": false
+}
