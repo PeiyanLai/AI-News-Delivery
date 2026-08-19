@@ -1,0 +1,470 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T07:12:59+08:00",
+  "briefing": "今日导读：OpenAI重磅推出一系列隐私政策和零数据保留措施，并计划于2027年前上市。与此同时，核反应堆在AI数据中心的应用也在逐步实现。AI技术影响力日益显著，企业间的竞争更趋激烈。",
+  "highlights": "今日看点：OpenAI与Anthropic在隐私保护领域展开激烈比拼，标志着企业在数据隐私上的投入力度加大。同时，OpenAI的零数据保留政策和即将上市的计划显示其对未来发展的清晰战略。此外，TerraPower通过核反应堆为AI数据中心供电，体现了能源与计算技术整合的新趋势，或将改变AI基础设施的布局。这些事件共同展示了AI行业在技术、安全和商业模式上的多元化发展。",
+  "events": [
+    {
+      "id": "e36c53ad4b6",
+      "title": "OpenAI 推出新隐私保护措施",
+      "summary": "OpenAI 正在与 Anthropic 竞争，争夺哪个公司能为企业客户提供更好的隐私保护措施。两者都在努力提升其产品在保护客户数据方面的能力。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI与Anthropic围绕数据隐私展开竞争，提升企业客户信心。\n\n### 为什么令人兴奋\n新政策提供更强的数据保护，可能使企业更愿与AI公司合作，推动行业标准提高。\n\n### 产品机会\n数据隐私提升有望衍生出更多安全合规的企业级AI服务，特别是对敏感数据处理的应用。\n\n### 格局影响\n对OpenAI和Anthropic意味着护城河的强化，可能压缩小公司进入高端企业市场的空间。\n\n### 冷静判断\n新措施需时间验证实际效果，可能尚需几轮改进才能普遍被接受。预计一年内开发者能看到初步成效。\n\n### 趋势坐标\n印证企业AI客户对隐私和数据安全的重视在持续增加，与近期其他企业数据安全新闻相呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published_at": "2026-08-19T22:10:46+00:00",
+          "text": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "id": "a36c53ad4b6"
+        }
+      ]
+    },
+    {
+      "id": "e7c21626e9d",
+      "title": "OpenAI 将于 2027 年前上市",
+      "summary": "OpenAI 财务总监 Friar 在员工会议上透露，OpenAI 预计将在 2027 年之前成为一家上市公司。这标志着公司在发展战略和融资方面的重大转变。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI宣布2027年前上市的计划，标志着向资本市场开放以融资和发展。\n\n### 为什么令人兴奋\n上市能够为OpenAI带来更多资金支持以加速创新和扩展，标志着其发展进入新阶段。\n\n### 产品机会\n上市融资将提高OpenAI对技术研发和产品多样化的投入能力，推动新产品和服务上线的频度。\n\n### 格局影响\n可能改变AI领域投资格局，使得OpenAI获得新的战略合作机会，同时为其他AI公司树立目标。\n\n### 冷静判断\n上市计划提供了四年时间缓冲，实际执行效果需观察市场条件与公司内生变量。\n\n### 趋势坐标\n趋势上，OpenAI的动向再次凸显AI企业通过资本市场进行规模化增长的意图，与Nvidia的对OpenAI态度变化构成对比。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+          "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "published_at": "2026-08-19T19:42:35+00:00",
+          "text": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees（HN 20 points，讨论: https://news.ycombinator.com/item?id=49366252）",
+          "id": "a7c21626e9d"
+        }
+      ]
+    },
+    {
+      "id": "ef5e18ad6f0",
+      "title": "硅数据助力华尔街定价AI计算",
+      "summary": "AI建设的步伐没有放缓，数据显示，每年投入数据中心和GPU的资金达数千亿美元，而计算成本已经成为构建AI产品的最大开支。尽管如此，目前仍缺乏一种直接的方式来对计算成本进行定价，或者让公司在价格变动时进行对冲。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAI计算成本高昂，缺乏定价机制让厂商面临财政压力。\n\n### 为什么令人兴奋\n揭露行业痛点，数据中心和GPU投入激增，显示对AI基础设施需求不断攀升。\n\n### 产品机会\n开发AI计算成本的对冲工具或动态定价平台，以帮助企业更灵活应对市场变化。\n\n### 格局影响\n暴露AI公司必须优化运营支出的难题，或促使关联系统和优化工具的发展。\n\n### 冷静判断\n短期内不易实现精准定价，但会推动市场对解决方案的探索和投资。\n\n### 趋势坐标\n与近期行业对AI计算资源需求猛增及相关融资活动相映成趣，预示未来几年在技术和服务上的竞争加剧。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "published_at": "2026-08-19T17:26:48+00:00",
+          "text": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data […]",
+          "id": "af5e18ad6f0"
+        }
+      ]
+    },
+    {
+      "id": "ed829edc693",
+      "title": "Anthropic 拒绝支持 Agents.md",
+      "summary": "Anthropic 公司宣布不支持 Agents.md，这是一个与其产品相关的开发工具。该决定引发了行业内的讨论和关注。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic Refuses to Support Agents.md",
+          "url": "https://github.com/anthropics/claude-code/issues/6235",
+          "published_at": "2026-08-19T21:19:50+00:00",
+          "text": "Anthropic Refuses to Support Agents.md（HN 52 points，讨论: https://news.ycombinator.com/item?id=49367350）",
+          "id": "ad829edc693"
+        }
+      ]
+    },
+    {
+      "id": "eef913e9fda",
+      "title": "OpenAI 宣布零数据保留政策",
+      "summary": "OpenAI重申对符合条件的API客户实施零数据保留政策，并预览了私密安全处理技术，以在不影响数据隐私的情况下提升先进AI的安全性。这一措施旨在进一步保障用户数据的安全性和隐私。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "published_at": "2026-08-19T19:00:00+00:00",
+          "text": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "id": "aef913e9fda"
+        }
+      ]
+    },
+    {
+      "id": "e7815289e17",
+      "title": "TerraPower 核反应堆助力 AI 数据中心",
+      "summary": "TerraPower 的核电站在追求数据中心交易时，具备相较于竞争对手的战略优势。该核反应堆被称为有能力支持高性能计算和大规模数据处理的理想能源解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+          "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+          "published_at": "2026-08-19T15:44:53+00:00",
+          "text": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+          "id": "a7815289e17"
+        }
+      ]
+    },
+    {
+      "id": "ee0f06e61eb",
+      "title": "AI 时代的数学变革",
+      "summary": "在 AI 时代，数学的应用和重要性正在发生变化。随着 AI 技术的发展，传统的数学方法和思维方式面临挑战，同时也在新的应用场景中发挥着关键作用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Mathematics in the age of AI",
+          "url": "https://arxiv.org/abs/2608.16753",
+          "published_at": "2026-08-19T15:14:25+00:00",
+          "text": "Mathematics in the age of AI（HN 103 points，讨论: https://news.ycombinator.com/item?id=49362728）",
+          "id": "ae0f06e61eb"
+        }
+      ]
+    },
+    {
+      "id": "e21c2455c8e",
+      "title": "亚马逊Fire TV免费升级Alexa+",
+      "summary": "亚马逊宣布在美国的所有兼容Fire TV设备上免费提供AI助手Alexa+，用户无需Prime订阅即可自动升级。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+          "published_at": "2026-08-19T15:00:00+00:00",
+          "text": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+          "id": "a21c2455c8e"
+        }
+      ]
+    },
+    {
+      "id": "e22e214c525",
+      "title": "LFM2.5 Q4_0 量化感知蒸馏发布",
+      "summary": "Hugging Face 发布了 LFM2.5 Q4_0 的检查点，这是通过量化感知蒸馏技术生成的。该更新旨在提升模型性能和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "url": "https://huggingface.co/blog/LiquidAI/qad",
+          "published_at": "2026-08-19T13:48:49+00:00",
+          "text": "",
+          "id": "a22e214c525"
+        }
+      ]
+    },
+    {
+      "id": "e9a2ace51b4",
+      "title": "AI 让书籍出版行业陷入混乱",
+      "summary": "据报道，AI 技术的迅猛发展对书籍出版行业造成了深远的影响，行业内出现了前所未有的混乱。许多出版社正在面临自出版和AI生成内容的竞争，这使得传统出版模式受到挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Has Plunged the Book Publishing Industry into Utter Chaos",
+          "url": "https://www.wsj.com/arts-culture/books/generative-ai-book-publishing-be79a287",
+          "published_at": "2026-08-19T13:28:44+00:00",
+          "text": "AI Has Plunged the Book Publishing Industry into Utter Chaos（HN 20 points，讨论: https://news.ycombinator.com/item?id=49361352）",
+          "id": "a9a2ace51b4"
+        }
+      ]
+    },
+    {
+      "id": "ee1154d108a",
+      "title": "章鱼动力携技术亮相WRC 2026",
+      "summary": "章鱼动力在2026年世界拉力锦标赛（WRC）上展示了其“脑-手-数据”技术体系，探索具身智能的未来范式。该技术旨在增强智能设备与人类之间的交互和协作能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
+          "url": "https://www.qbitai.com/2026/08/475931.html",
+          "published_at": "2026-08-19T10:54:07+00:00",
+          "text": "",
+          "id": "ae1154d108a"
+        }
+      ]
+    },
+    {
+      "id": "ecc3c0083f9",
+      "title": "超维动力KAI展示乒乓球对局",
+      "summary": "在2026世界机器人大会上，超维动力KAI展示了全球首个能够自主进行完整乒乓球对局的人形机器人。该机器人展现了全栈具身智能技术，为人形机器人的发展树立了新标杆。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+          "url": "https://www.qbitai.com/2026/08/475907.html",
+          "published_at": "2026-08-19T10:12:09+00:00",
+          "text": "超维动力KAI全栈具身智能硬核登场",
+          "id": "acc3c0083f9"
+        }
+      ]
+    },
+    {
+      "id": "e79389076a4",
+      "title": "量子位推出新型机器人训练数据",
+      "summary": "量子位正式发布具身数据底座，售价为5100元。该产品旨在为机器人训练提供一种全新的数据解决方案，构建全面的物理AI基础设施。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+          "url": "https://www.qbitai.com/2026/08/475477.html",
+          "published_at": "2026-08-19T07:42:27+00:00",
+          "text": "构建全栈物理AI基础设施",
+          "id": "a79389076a4"
+        }
+      ]
+    },
+    {
+      "id": "ed30dd74b72",
+      "title": "AI视频创作进入预演时代",
+      "summary": "AI技术已能够严格根据运镜需求生成视频，开启了AI视频创作的新阶段。当前，AI生成3D白模的能力有所提升，推动了视频预演的可能性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+          "url": "https://www.qbitai.com/2026/08/475476.html",
+          "published_at": "2026-08-19T07:22:19+00:00",
+          "text": "AI终于能听严格执行运镜需求",
+          "id": "ad30dd74b72"
+        }
+      ]
+    },
+    {
+      "id": "e9ac0643f24",
+      "title": "Replit 推出 GPT-5.6 Luna 免费模式",
+      "summary": "Replit 推出了由 GPT-5.6 Luna 驱动的免费模式，任何人都可以在不担心费用的情况下，将创意转化为可工作的软件。此举旨在扩大软件创作的访问权限。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "url": "https://openai.com/index/replit",
+          "published_at": "2026-08-19T07:00:00+00:00",
+          "text": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "id": "a9ac0643f24"
+        }
+      ]
+    },
+    {
+      "id": "e0feaaf7fba",
+      "title": "AI for Science：机器人入驻实验室",
+      "summary": "源络科技的AI for Science项目已正式在国家级实验室中应用，标志着该项目进入了实验室3.0阶段。此次进驻旨在利用机器人技术推动科学研究的进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AI for Science开始“动手”了：机器人正式走进国家级实验室",
+          "url": "https://www.qbitai.com/2026/08/475332.html",
+          "published_at": "2026-08-19T06:29:57+00:00",
+          "text": "源络科技，推动AI for Science走进实验室3.0",
+          "id": "a0feaaf7fba"
+        }
+      ]
+    },
+    {
+      "id": "e80ddadb83a",
+      "title": "AI对儿童学习的影响",
+      "summary": "有讨论认为，AI可能会妨碍儿童的学习能力。有关人士提出，过度依赖技术可能会影响孩子们的独立思考和解决问题的能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Does AI stop children from learning?",
+          "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+          "published_at": "2026-08-19T06:13:31+00:00",
+          "text": "Does AI stop children from learning?（HN 25 points，讨论: https://news.ycombinator.com/item?id=49357530）",
+          "id": "a80ddadb83a"
+        }
+      ]
+    },
+    {
+      "id": "ed3c89fb31d",
+      "title": "软件团队的AI使用模式",
+      "summary": "研究显示，不同软件团队在使用AI工具时展现出多样化的模式和习惯。这些模式反映出团队如何利用AI提升工作效率和协作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI usage patterns in software teams",
+          "url": "https://linear.app/data",
+          "published_at": "2026-08-18T22:08:07+00:00",
+          "text": "AI usage patterns in software teams（HN 178 points，讨论: https://news.ycombinator.com/item?id=49353432）",
+          "id": "ad3c89fb31d"
+        }
+      ]
+    },
+    {
+      "id": "ee456387186",
+      "title": "ChatGPT Ads 在欧洲扩展至31个市场",
+      "summary": "ChatGPT Ads 正在扩展到31个欧洲市场。广告商可以利用这一平台在用户探索、比较选项和做出决策时进行宣传。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "ChatGPT Ads expands across Europe",
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "published_at": "2026-08-18T22:00:00+00:00",
+          "text": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "id": "ae456387186"
+        }
+      ]
+    },
+    {
+      "id": "e974d0dbc00",
+      "title": "OpenAI 暂停前沿模型训练",
+      "summary": "OpenAI 宣布暂停其前沿模型的训练，原因尚未明确。此决定可能会影响其未来的研究进展和产品发布计划。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI pauses frontier model training",
+          "url": "https://twitter.com/sama/status/2089787807611195475",
+          "published_at": "2026-08-18T21:24:35+00:00",
+          "text": "OpenAI pauses frontier model training（HN 25 points，讨论: https://news.ycombinator.com/item?id=49352930）",
+          "id": "a974d0dbc00"
+        }
+      ]
+    },
+    {
+      "id": "e106bb3a924",
+      "title": "Palantir 与 USA Today 的 AI 数据合作",
+      "summary": "Palantir 与 USA Today 达成了一项关于 AI 数据的合作协议，此举引发了新闻编辑部的反对声浪。员工们对这种合作方式表示担忧，认为可能影响新闻的独立性和质量。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+          "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+          "published_at": "2026-08-18T19:24:05+00:00",
+          "text": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt（HN 21 points，讨论: https://news.ycombinator.com/item?id=49351223）",
+          "id": "a106bb3a924"
+        }
+      ]
+    },
+    {
+      "id": "e25fc5991b1",
+      "title": "360入选IDC2026中国AI50强",
+      "summary": "根据IDC发布的数据，360凭借企业级智能体与AI安全的全栈布局，成功入选2026中国人工智能50强。该公司成为人工智能产业发展的代表企业之一。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+          "url": "https://www.qbitai.com/2026/08/475901.html",
+          "published_at": "2026-08-19T08:34:36+00:00",
+          "text": "凭借企业级智能体与AI安全的全栈布局，360成为中国人工智能产业发展的代表企业之一。",
+          "id": "a25fc5991b1"
+        }
+      ]
+    },
+    {
+      "id": "ec0e4bffc16",
+      "title": "Cerebras发布CS-4处理器",
+      "summary": "Cerebras Technologies推出了其最新的CS-4处理器。这款处理器集成了新一代技术，旨在提供更强大的计算能力，以满足人工智能应用的需求。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Cerebras CS-4",
+          "url": "https://www.cerebras.ai/cs4",
+          "published_at": "2026-08-19T00:28:18+00:00",
+          "text": "Cerebras CS-4（HN 449 points，讨论: https://news.ycombinator.com/item?id=49354949）",
+          "id": "ac0e4bffc16"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 86,
+    "articles_new": 23,
+    "articles_filtered": 25,
+    "tokens": {
+      "prompt_tokens": 16382,
+      "completion_tokens": 2635
+    }
+  },
+  "mock": false
+}
