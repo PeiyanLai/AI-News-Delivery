@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T07:10:30+08:00",
+  "briefing": "今日导读：AI领域面临版权法律纠纷，英伟达AI服务器成本上涨，Qwen 3.8 27B展示了强大的任务处理能力，双足人形机器人实现自主驾驶，AI的信任危机引发关注。",
+  "highlights": "今日看点：版权与AI模型训练的法律纠纷，说明AI工具开发面临法律与道德的挑战。英伟达AI服务器价格上涨，反映出硬件成本对AI技术经济可行性的影响。双足人形机器人自主驾驶的成功，预示机器人应用的新拓展。多条事件显示，AI的信任和成本问题成为当前行业的重要关注点，同时，复杂任务的解决能力正在显著提升。",
+  "events": [
+    {
+      "id": "ebadce92339",
+      "title": "版权著作权与AI模型训练的法律纠纷",
+      "summary": "许多已出版的作者在不知情和未同意的情况下，意外成为发展AI工具的贡献者。这一现象引发了版权合法性的问题，许多人认为这是不合法的。",
+      "tier": "must_read",
+      "insight": "{'一句话本质': 'AI工具发展的过程中，版权著作权的问题浮出水面，许多作者未授权却贡献了内容，法律的灰色地带需要厘清。', '为什么令人兴奋': '这一法律纠纷可能推动AI训练数据使用的规范化，促进透明度和责任制的提升。', '产品机会': '强化版权管理的AI工具有市场需求，帮助公司合规使用版权材料。', '格局影响': '法律风险增加可能促使大公司更加谨慎，而中小型企业可能因合规资源不足受影响。', '冷静判断': '此事还处于讨论阶段，法律解决与行业共识需要时间形成。', '趋势坐标': '这与AI领域的数据透明化趋势相呼应，需关注未来法规的调整。'}",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+          "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "published_at": "2026-08-23T15:00:00+00:00",
+          "text": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+          "id": "abadce92339"
+        }
+      ]
+    },
+    {
+      "id": "ed191ca370d",
+      "title": "Qwen 3.8 27B 完成反向工程任务",
+      "summary": "一位用户为 Qwen 3.8 27B 提供了一项反向工程的工作，该模型在 30 分钟内完成了任务。这表明 Qwen 3.8 27B 在处理复杂任务方面表现出色。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+          "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+          "published_at": "2026-08-23T10:02:51+00:00",
+          "text": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes（HN 159 points，讨论: https://news.ycombinator.com/item?id=49407507）",
+          "id": "ad191ca370d"
+        }
+      ]
+    },
+    {
+      "id": "e61b9335c1b",
+      "title": "英伟达AI服务器涨价15%",
+      "summary": "由于内存成本飙升，英伟达宣布其AI服务器价格将上涨15%。同时，1GW数据中心的整体成本预计将激增50亿美元。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+          "url": "https://www.qbitai.com/2026/08/478164.html",
+          "published_at": "2026-08-23T09:51:49+00:00",
+          "text": "内存成本飙升逼涨硬件",
+          "id": "a61b9335c1b"
+        }
+      ]
+    },
+    {
+      "id": "eaa93682b95",
+      "title": "双足人形机器人实现自主驾驶",
+      "summary": "一群研究生团队推出了一款双足人形机器人，具备一体化大脑系统。该机器人能够在卡丁车赛道上全自主驾驶，连续顺利过弯，展示了其先进的自主控制能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
+          "url": "https://www.qbitai.com/2026/08/478020.html",
+          "published_at": "2026-08-23T09:29:59+00:00",
+          "text": "机器人开卡丁车连续过弯，一镜到底全自主",
+          "id": "aaa93682b95"
+        }
+      ]
+    },
+    {
+      "id": "e5a1370cfd1",
+      "title": "AI 信任危机与制造商问题",
+      "summary": "研究显示，AI 未能赢得公众的信任，而其制造商的信任度也在下降。这一趋势指出了人们对 AI 技术及其开发者的深刻担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI has failed to win people's trust. Its makers? less trusted",
+          "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+          "published_at": "2026-08-22T23:30:20+00:00",
+          "text": "AI has failed to win people's trust. Its makers? less trusted（HN 28 points，讨论: https://news.ycombinator.com/item?id=49404869）",
+          "id": "a5a1370cfd1"
+        }
+      ]
+    },
+    {
+      "id": "e350d6348d6",
+      "title": "WRC 展台：沉浸式机器人咖啡店",
+      "summary": "在 WRC 展会上，唯一展现人机共生的展台是一家沉浸式机器人咖啡店。这个展台展示了机器人与人类的互动，吸引了众多参观者的关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+          "url": "https://www.qbitai.com/2026/08/478319.html",
+          "published_at": "2026-08-23T13:20:00+00:00",
+          "text": "玩的就是真实",
+          "id": "a350d6348d6"
+        }
+      ]
+    },
+    {
+      "id": "ee2e86f41e0",
+      "title": "匿名牛与智谱血缘事件",
+      "summary": "近日，匿名牛大模型被曝光与智谱有血缘关系。报道还提到，Cursor 可能使用开源 GLM 进行训练，并对 Tokenizer、视频编码及 API 报错等进行了详细分析。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+          "url": "https://www.qbitai.com/2026/08/478191.html",
+          "published_at": "2026-08-23T09:56:12+00:00",
+          "text": "Tokenizer、视频编码、API报错全扒一遍",
+          "id": "ae2e86f41e0"
+        }
+      ]
+    },
+    {
+      "id": "e44ec17e24a",
+      "title": "无界动力参与WRC主论坛",
+      "summary": "无界动力深度参与了WRC主论坛及多场同期活动，展示了其在从世界模型到现实生产力方面的技术能力和应用。此次活动旨在探索新技术对生产力的推动作用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动",
+          "url": "https://www.qbitai.com/2026/08/478007.html",
+          "published_at": "2026-08-23T07:12:22+00:00",
+          "text": "",
+          "id": "a44ec17e24a"
+        }
+      ]
+    },
+    {
+      "id": "e68a541e1c8",
+      "title": "荷兰监管机构罚Uber 8.25亿欧元",
+      "summary": "荷兰监管机构对Uber处以825百万欧元的罚款，原因是其使用人工智能系统自动停用司机账户。这一举措引发了对AI使用伦理的广泛关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+          "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+          "published_at": "2026-08-22T11:27:29+00:00",
+          "text": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts（HN 21 points，讨论: https://news.ycombinator.com/item?id=49398609）",
+          "id": "a68a541e1c8"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "The Verge AI",
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 40,
+    "articles_new": 9,
+    "articles_filtered": 9,
+    "tokens": {
+      "prompt_tokens": 11681,
+      "completion_tokens": 1289
+    }
+  },
+  "mock": false
+}
