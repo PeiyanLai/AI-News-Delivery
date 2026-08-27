@@ -1,0 +1,611 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T12:07:55+08:00",
+  "briefing": "今日导读：西门子推出Xcelerator工业AI平台，强化其在工业场景中的应用能力。Instinct公司融资3.5亿美元，引发隐私担忧。比尔·盖茨警告AI动荡时代到来，社会尚未充分准备。Anthropic与Nscale达成45亿美元协议，持续扩张计算资源。",
+  "highlights": "今日看点：西门子的Xcelerator与Instinct的巨额融资凸显出工业AI和隐私问题的重要性。此外，比尔·盖茨的警告表明，AI的动荡不仅关乎技术，还涉及社会准备和伦理考量。Anthropic与Nscale的协议则显示AI企业对计算资源的高度依赖，正在重塑行业竞赛格局。这些事件共同昭示了AI在多领域的深远影响。",
+  "events": [
+    {
+      "id": "e02e1be7d46",
+      "title": "西门子Xcelerator推出工业AI",
+      "summary": "西门子发布了Xcelerator，强调其与普通软件的不同之处在于，旨在让产品在真实工业场景中持续生长，而非仅仅实现销售。该产品融合了西门子百年的行业经验，旨在提升工业AI的应用效果。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n西门子推出了一个工业AI平台Xcelerator，旨在增强其在工业场景中的应用能力。\n\n### 为什么令人兴奋\nXcelerator首次标志着工业AI能够在实际场景中持续成长，这可能提高了工业自动化的效率和精度。\n\n### 产品机会\n此能力或带来新的智能工厂管理系统，并可能革新预测维护和流程自动化应用。\n\n### 格局影响\n对于工业AI领域的领军者如西门子来说，这进一步巩固其市场地位，增强了对新兴市场创业公司的威胁。\n\n### 冷静判断\n尽管官方宣称技术成熟，但大规模工业应用实施可能需要更多时间和整合工作。\n\n### 趋势坐标\n呼应了对工业自动化需求增强的趋势，以及与制造业开放数据平台的结合可能。",
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+          "url": "https://www.qbitai.com/2026/08/480005.html",
+          "published_at": "2026-08-27T02:46:35+00:00",
+          "text": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+          "id": "a02e1be7d46"
+        }
+      ]
+    },
+    {
+      "id": "e32ffc25cf5",
+      "title": "人工智能动荡时代来临",
+      "summary": "比尔·盖茨强调，人工智能的动荡时代已经到来，并表示这一变化会对社会和经济产生深远影响。专家们对未来的发展持有不同看法，探讨了人工智能对各行各业的潜在影响。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n比尔·盖茨指出，AI技术正进入一个更为动荡的时代，社会和经济准备不充分。\n\n### 为什么令人兴奋\n警告可能促使更多企业和国家开始在技术及政策上进行调整，以应对未来的不确定性。\n\n### 产品机会\n可能催生新型AI伦理审查和安全保障产品，以及个人与企业的风险预知系统。\n\n### 格局影响\n对巨头公司如OpenAI和Anthropic意味着社会责任和技术安全性成为关注焦点，可能限制技术扩展的步伐。\n\n### 冷静判断\n虽是长期趋势警告，但短期内可能不会显著改变当前技术开发与应用路径。\n\n### 趋势坐标\n与近期对AI应用伦理及全球AI政策制定需求的探讨形成呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The turbulent AI era is here",
+          "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+          "published_at": "2026-08-26T15:55:15+00:00",
+          "text": "The turbulent AI era is here（HN 184 points，讨论: https://news.ycombinator.com/item?id=49451313）",
+          "id": "a32ffc25cf5"
+        },
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Bill Gates: The turbulent AI era is here",
+          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+          "published_at": "2026-08-26T12:47:47+00:00",
+          "text": "Bill Gates: The turbulent AI era is here（HN 183 points，讨论: https://news.ycombinator.com/item?id=49448137）",
+          "id": "a4a4eb0f76b"
+        }
+      ]
+    },
+    {
+      "id": "e4595a6eb24",
+      "title": "Laion 发布大型视频数据集",
+      "summary": "Laion 发布了一个名为 Laion Big Video Dataset 的大型视频数据集。该数据集包含丰富的视频内容，旨在支持计算机视觉和深度学习研究。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Laion Big Video Dataset",
+          "url": "https://projects.laion.ai/bvd/",
+          "published_at": "2026-08-27T01:50:26+00:00",
+          "text": "Laion Big Video Dataset（HN 23 points，讨论: https://news.ycombinator.com/item?id=49458478）",
+          "id": "a4595a6eb24"
+        }
+      ]
+    },
+    {
+      "id": "efa7623ee1b",
+      "title": "Hacker News CEO 解雇开发者以腾出 AI 空间",
+      "summary": "Hacker News 的首席执行官解雇了一些开发者，以便为人工智能的发展腾出空间。这些被解雇的开发者随后创建了一个开源的 AI 首席执行官。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "published_at": "2026-08-27T01:46:22+00:00",
+          "text": "CEO fired developers to make room for AI. Developers create open source AI CEO（HN 176 points，讨论: https://news.ycombinator.com/item?id=49458418）",
+          "id": "afa7623ee1b"
+        }
+      ]
+    },
+    {
+      "id": "ec08fc3e84f",
+      "title": "千问办公发布Qwen3.8-Flash模型",
+      "summary": "8月26日晚，千问办公首发上线Qwen3.8-Flash模型，并推出标准模式。该模型的生成速度提升了100%，而Token消耗减少了75%。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+          "url": "https://www.qbitai.com/2026/08/480001.html",
+          "published_at": "2026-08-27T01:45:08+00:00",
+          "text": "8月26日晚，千问办公首发上线刚刚发布的Qwen3.8-Flash模型，同时推出标准模式。",
+          "id": "ac08fc3e84f"
+        }
+      ]
+    },
+    {
+      "id": "e9180d12bb8",
+      "title": "AI 初创公司 Instinct 融资 3.5 亿美元",
+      "summary": "初创公司 Instinct 创立仅一年，就获得了 3.5 亿美元融资，估值达到 25 亿美元。这家公司在创造巨大 hype 的同时，也引发了隐私方面的担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "published_at": "2026-08-27T00:24:57+00:00",
+          "text": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+          "id": "a9180d12bb8"
+        }
+      ]
+    },
+    {
+      "id": "e54c6ad305d",
+      "title": "亚马逊将增购 Nvidia 芯片",
+      "summary": "亚马逊计划在未来两年内再增加200万块Nvidia GPU芯片到其数据中心。此次延长的合作关系不仅限于购买更多芯片。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "published_at": "2026-08-26T23:47:18+00:00",
+          "text": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+          "id": "a54c6ad305d"
+        }
+      ]
+    },
+    {
+      "id": "e9951d4d161",
+      "title": "Anthropic与Nscale达成45亿美元协议",
+      "summary": "Anthropic与基础设施提供商Nscale达成了一项价值45亿美元的交易。这是Anthropic在计算资源上持续扩张的又一例证。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "published_at": "2026-08-26T21:37:39+00:00",
+          "text": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "id": "a9951d4d161"
+        }
+      ]
+    },
+    {
+      "id": "eb35f9ff8de",
+      "title": "可控的AI风险探讨",
+      "summary": "文章指出AI的风险是真实存在的，但可以通过有效管理来降低。从讨论中可以看出，对AI风险的认识和应对策略将是未来发展的关键。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The risks of AI are real but manageable (2023)",
+          "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+          "published_at": "2026-08-26T19:44:33+00:00",
+          "text": "The risks of AI are real but manageable (2023)（HN 36 points，讨论: https://news.ycombinator.com/item?id=49454742）",
+          "id": "ab35f9ff8de"
+        }
+      ]
+    },
+    {
+      "id": "e5069764c86",
+      "title": "Google Gemini 面临品牌问题",
+      "summary": "Google 的 Gemini 以及其他消费者 AI 应用面临品牌认知困难。这些应用需要改进用户体验，使用户更容易理解其产品架构。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "published_at": "2026-08-26T19:37:34+00:00",
+          "text": "Consumer AI apps need to stop making users learn their product architecture.",
+          "id": "a5069764c86"
+        }
+      ]
+    },
+    {
+      "id": "e83abfc0828",
+      "title": "Google DeepMind 推出 Gemini 3.5 Transcribe",
+      "summary": "Google DeepMind 发布了 Gemini 3.5 Transcribe，这是一款更智能的语音转文本服务。用户现在可以享受更高效、准确的转录体验，提升工作效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "published_at": "2026-08-26T17:01:00+00:00",
+          "text": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+          "id": "a83abfc0828"
+        }
+      ]
+    },
+    {
+      "id": "e26ffecbc12",
+      "title": "GLM发布首个多模态模型",
+      "summary": "智谱发布了GLM-5.3 Flash，这是其首个原生多模态模型。该模型的训练使用了国产显卡，展现出强大的性能和应用潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+          "url": "https://www.qbitai.com/2026/08/479919.html",
+          "published_at": "2026-08-26T16:48:12+00:00",
+          "text": "GLM-5.3 Flash",
+          "id": "a26ffecbc12"
+        }
+      ]
+    },
+    {
+      "id": "e5d91555804",
+      "title": "WebMCP：让网站与AI交流",
+      "summary": "WebMCP是一款新工具，旨在帮助网站与AI代理进行对话。该工具通过简化网站与AI之间的沟通，实现更智能的用户交互。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+          "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+          "published_at": "2026-08-26T15:02:15+00:00",
+          "text": "WebMCP: Teaching Your Website to Talk to AI Agents（HN 55 points，讨论: https://news.ycombinator.com/item?id=49450417）",
+          "id": "a5d91555804"
+        }
+      ]
+    },
+    {
+      "id": "e163e994b55",
+      "title": "GLM-5.3-Flash 性能分析",
+      "summary": "GLM-5.3-Flash 发布了针对其智能性、性能和价格的详细分析。该分析展示了模型在多个任务中的表现和效率，提供了相关的技术细节和比较数据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+          "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+          "published_at": "2026-08-26T14:58:54+00:00",
+          "text": "GLM-5.3-Flash Intelligence, Performance and Price Analysis（HN 134 points，讨论: https://news.ycombinator.com/item?id=49450353）",
+          "id": "a163e994b55"
+        }
+      ]
+    },
+    {
+      "id": "ed807f10db6",
+      "title": "Z.ai公布Ox Alpha模型",
+      "summary": "Z.ai确认其开发了神秘的Ox Alpha模型，该模型在基准测试和排行榜中表现优异。Z.ai表示，Ox Alpha的权重即将发布。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+          "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+          "published_at": "2026-08-26T14:19:29+00:00",
+          "text": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+          "id": "ad807f10db6"
+        }
+      ]
+    },
+    {
+      "id": "e22b66277c6",
+      "title": "Arga Labs 获 $1000 万融资",
+      "summary": "Arga Labs 完成了由 General Catalyst 领投的 1000 万美元种子融资，其他参与方包括 Box Group、Emergence、Gradient 和 SV Angel。这笔资金将用于开发更好的企业AI代理训练方法。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Arga Labs is building a better way to train enterprise AI agents",
+          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+          "published_at": "2026-08-26T12:55:28+00:00",
+          "text": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+          "id": "a22b66277c6"
+        }
+      ]
+    },
+    {
+      "id": "e214a2fe83e",
+      "title": "比尔·盖茨对AI的担忧",
+      "summary": "比尔·盖茨在最近的反思中表达了他对人工智能的深切忧虑。曾经乐观的他现在对AI带来的未来感到悲观，并发表了一篇近6000字的文章，强调当前社会尚未为即将到来的变化做好准备。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+          "published_at": "2026-08-26T11:07:40+00:00",
+          "text": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking to reclaim a central role in shaping the technology globally. Titled \"The turbulent AI era is here. The choices we make now are critical,\" Gates warns the world is not remotely ready for what is coming. Worse still, he notes, \"we are not preparing for it.\" Gates attempts to chart a path forward, but the essay l … Read the full story at The Verge.",
+          "id": "a214a2fe83e"
+        }
+      ]
+    },
+    {
+      "id": "e81b30902a9",
+      "title": "美图开启AI视频新市场",
+      "summary": "美图通过AI技术进军视频应用领域，实现从图像到视频的转型。据报告，这一新业务为公司打开了更具盈利潜力的增长空间。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AI视频应用井喷，美图打开新的增长空间",
+          "url": "https://www.qbitai.com/2026/08/479895.html",
+          "published_at": "2026-08-26T10:18:10+00:00",
+          "text": "从图像到视频，美图找到了一门更赚钱的生意",
+          "id": "a81b30902a9"
+        }
+      ]
+    },
+    {
+      "id": "ed32cfd786b",
+      "title": "小宇宙发布AI趋势报告",
+      "summary": "小宇宙推出了《AI趋势报告》，提到AI创作、AI办公和协作型AI等成为新的讨论趋势。报告显示，AI内容创作者增长了187%，相关节目的数量增加了239%。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "小宇宙推出《AI趋势报告》：AI创作、AI办公、协作型AI等成讨论新趋势",
+          "url": "https://www.qbitai.com/2026/08/479811.html",
+          "published_at": "2026-08-26T10:17:15+00:00",
+          "text": "AI内容创作者增长187%，相关节目数量增长239%",
+          "id": "ad32cfd786b"
+        }
+      ]
+    },
+    {
+      "id": "e745f8246bc",
+      "title": "Z.ai发布新GLM模型Ox Alpha",
+      "summary": "Z.ai 确认 Ox Alpha 是新的 GLM 系列模型，并表示将会发布其权重。该模型旨在进一步推动自然语言处理技术的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+          "published_at": "2026-08-26T10:04:55+00:00",
+          "text": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights（HN 421 points，讨论: https://news.ycombinator.com/item?id=49446422）",
+          "id": "a745f8246bc"
+        }
+      ]
+    },
+    {
+      "id": "ed6bb1031e6",
+      "title": "ChatGPT for Teachers 扩展至55个学区",
+      "summary": "ChatGPT for Teachers 正在扩展到美国55个学区，为超过10万名教育工作者和工作人员提供安全的AI工具、培训和支持。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "published_at": "2026-08-26T10:00:00+00:00",
+          "text": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+          "id": "ad6bb1031e6"
+        }
+      ]
+    },
+    {
+      "id": "ecdfc10030b",
+      "title": "OpenAI 报告：AI 促进持续学习",
+      "summary": "OpenAI 发布了一份新报告，探讨了学生和教育工作者如何利用 ChatGPT 来实现持续学习。这种支持延伸到了课堂之外，使学习过程更加连贯和高效。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Learning never stops: How AI makes learning continuous",
+          "url": "https://openai.com/index/learning-never-stops",
+          "published_at": "2026-08-26T10:00:00+00:00",
+          "text": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+          "id": "acdfc10030b"
+        }
+      ]
+    },
+    {
+      "id": "eba46c8c44e",
+      "title": "达卯科技与智算方舟合作",
+      "summary": "达卯科技与福建智算方舟达成合作，双方将在长乐机场综保区建立全栈式算电协同服务。这一合作将为福建区域的计算和电力资源管理提供更高效的解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "达卯科技与福建智算方舟达成合作，全栈式算电协同服务在闽落子",
+          "url": "https://www.qbitai.com/2026/08/479808.html",
+          "published_at": "2026-08-26T09:17:08+00:00",
+          "text": "长乐机场综保区智算中心全栈算电协同服务",
+          "id": "aba46c8c44e"
+        }
+      ]
+    },
+    {
+      "id": "e1acee809d0",
+      "title": "宇树智元发布神秘Demo",
+      "summary": "宇树智元展示了一个共享大脑的模型Demo，现场使用10分钟的一镜到底的方式展示其功能。该演示引起了广泛关注，展示了其在人工智能领域的创新能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+          "url": "https://www.qbitai.com/2026/08/479634.html",
+          "published_at": "2026-08-26T05:52:06+00:00",
+          "text": "",
+          "id": "a1acee809d0"
+        }
+      ]
+    },
+    {
+      "id": "e2adcc24473",
+      "title": "鹰序TST 2.0获全球测评第一名",
+      "summary": "蚂蚁国际近日发布了自研的时序AI预测大模型“鹰序TST”2.0版，并在权威测评中获得第一名。该模型推动了时间序列基础模型在金融应用领域的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用",
+          "url": "https://www.qbitai.com/2026/08/479631.html",
+          "published_at": "2026-08-26T03:25:00+00:00",
+          "text": "蚂蚁国际日前正式发布自研时序AI预测大模型“鹰序TST”2.0版。",
+          "id": "a2adcc24473"
+        }
+      ]
+    },
+    {
+      "id": "e504dd1ec95",
+      "title": "OpenAI 关于 Hugging Face 事件的更新",
+      "summary": "OpenAI 发布了关于 Hugging Face 安全事件的调查结果，并介绍了将加强 AI 模型安全、监控和一致性所采取的措施。该事件引发了行业内对 AI 安全的广泛关注。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "The Hugging Face incident and the road ahead",
+          "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "text": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+          "id": "a504dd1ec95"
+        }
+      ]
+    },
+    {
+      "id": "ed34e82eae2",
+      "title": "loveholidays 利用 Codex 赋能团队",
+      "summary": "loveholidays 通过使用 OpenAI 的 Codex，使软件开发在公司内部变得更加普及。该工具帮助团队更快地将创意转化为产品，提高了工作效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How loveholidays is making everyone a builder with Codex",
+          "url": "https://openai.com/index/loveholidays",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "text": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+          "id": "ad34e82eae2"
+        }
+      ]
+    },
+    {
+      "id": "efce7655a2d",
+      "title": "Debian 开展 AI 研发意见调查",
+      "summary": "Debian 正在对其开发者进行投票，讨论是否允许在其项目中使用人工智能技术。开发者们被问及是否支持使用 AI，或希望实施禁止措施，以确保项目的方向和原则。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Debian polls its developers on AI: permit or ban?",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+          "published_at": "2026-08-26T10:31:37+00:00",
+          "text": "Debian polls its developers on AI: permit or ban?（HN 37 points，讨论: https://news.ycombinator.com/item?id=49446653）",
+          "id": "afce7655a2d"
+        }
+      ]
+    },
+    {
+      "id": "edc8d22fc72",
+      "title": "具身智能新突破：无需后训练的模型",
+      "summary": "硅谷近日推出了一种新的具身模型，该模型能够在学习过程中无需后训练，仅通过一次观看便完成学习。这一进展标志着具身智能向更高级的GPT阶段迈进。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "硅谷今日最热具身模型！不用后训练，看一遍就学会",
+          "url": "https://www.qbitai.com/2026/08/479834.html",
+          "published_at": "2026-08-26T10:07:09+00:00",
+          "text": "具身智能迈向GPT时刻",
+          "id": "adc8d22fc72"
+        }
+      ]
+    },
+    {
+      "id": "e5309d96554",
+      "title": "Hugging Face 发布多向量嵌入模型",
+      "summary": "Hugging Face 博客发布了关于使用 Sentence Transformers 训练和微调多向量嵌入模型的文章。文章详细介绍了如何利用这些模型进行有效的文本表示，并提供了实践中的示例和指导。该技术旨在提高自然语言处理任务中的表现。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "published_at": "2026-08-26T00:00:00+00:00",
+          "text": "",
+          "id": "a5309d96554"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 85,
+    "articles_new": 31,
+    "articles_filtered": 36,
+    "tokens": {
+      "prompt_tokens": 19538,
+      "completion_tokens": 2923
+    }
+  },
+  "mock": false
+}
