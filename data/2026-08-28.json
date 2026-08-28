@@ -1,0 +1,394 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T14:25:06+08:00",
+  "briefing": "今日导读: 英伟达收购Hugging Face标志着AI开源领域的重大战略转变，同时AI在视频生成和3D重建等应用方面实现突破，Google和网易有道也在AI产品上进行了新的发布，显示出技术的快速革新。",
+  "highlights": "今日看点：英伟达以129亿美元收购Hugging Face，这是AI开源领域的重大并购，反映出开源在AI领域的重要性日益增加。同时，商汤科技和高德分别在视频生成和3D重建上实现突破，表明国产AI技术正在快速跟进国际步伐。网易有道的AI耳机显示AI与硬件结合的市场潜力。整体看，AI在硬件、算力和开源技术上都在加速发展。",
+  "events": [
+    {
+      "id": "e4b0f61d7ce",
+      "title": "Hugging Face被英伟达收购",
+      "summary": "Hugging Face被曝以129亿美元的价格卖身给英伟达，成为全球最大的AI开源平台。此次收购将使Hugging Face的全员实现财富自由。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n英伟达收购了Hugging Face，整合其以开源为核心的AI平台。\n\n### 为什么令人兴奋\n这是AI领域有史以来最大规模的开源收购，预示开源技术在AI中的地位和作用越来越重要。\n\n### 产品机会\n英伟达将可能提供更强力和更易用的AI开发工具，从而激励更多公司基于其平台进行开发。\n\n### 格局影响\n这对OpenAI和Anthropic的封闭模式构成挑战，开源阵营的影响力进一步扩展。\n\n### 冷静判断\n需要观察Hugging Face在英伟达旗下是否会保持其开源自由度，可能对行业产生长期影响。\n\n### 趋势坐标\n这个事件强化了AI转向开源的趋势，与之前的开源工具和模型发布形成呼应。",
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+          "url": "https://www.qbitai.com/2026/08/480186.html",
+          "published_at": "2026-08-28T01:40:22+00:00",
+          "text": "Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o",
+          "id": "a4b0f61d7ce"
+        }
+      ]
+    },
+    {
+      "id": "e67bf4b059d",
+      "title": "商汤大装置助力视频生成",
+      "summary": "商汤科技通过其大规模装置，促进智象未来在视频生成业务上实现向国产算力的无感迁移。这标志着国产算力在视频生成应用的规模化落地取得了重要进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移",
+          "url": "https://www.qbitai.com/2026/08/480227.html",
+          "published_at": "2026-08-28T04:09:39+00:00",
+          "text": "国产算力跑通视频生成规模化应用",
+          "id": "a67bf4b059d"
+        }
+      ]
+    },
+    {
+      "id": "e9da569ebb1",
+      "title": "智谱 GLM-5.3-Flash 上线",
+      "summary": "智谱公司推出了新的 GLM-5.3-Flash 模型。商汤大装置为这款模型提供国产算力支持，推动了前沿智能技术的普惠化。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "智谱 GLM-5.3-Flash上线，商汤大装置提供国产算力支持",
+          "url": "https://www.qbitai.com/2026/08/480223.html",
+          "published_at": "2026-08-28T04:06:16+00:00",
+          "text": "国产异构助力前沿智能进入普惠时代",
+          "id": "a9da569ebb1"
+        }
+      ]
+    },
+    {
+      "id": "e553d399b68",
+      "title": "高德发布ABot-Recon 3D重建模型",
+      "summary": "8月28日，阿里巴巴集团旗下高德正式发布了首个无长程依赖的万帧级流式3D重建模型ABot-Recon。该模型能够以12帧重建万帧3D场景。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
+          "url": "https://www.qbitai.com/2026/08/480208.html",
+          "published_at": "2026-08-28T03:45:45+00:00",
+          "text": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
+          "id": "a553d399b68"
+        }
+      ]
+    },
+    {
+      "id": "e835ff1d21d",
+      "title": "网易有道发布OpenPods AI耳机",
+      "summary": "8月27日，网易有道正式发布了OpenPods有道AI耳机。该耳机专为iPhone用户打造，旨在将声音转化为生产力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+          "url": "https://www.qbitai.com/2026/08/480083.html",
+          "published_at": "2026-08-28T02:48:37+00:00",
+          "text": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
+          "id": "a835ff1d21d"
+        }
+      ]
+    },
+    {
+      "id": "ea0b834204c",
+      "title": "AI Engineer Notebooks 免费发布",
+      "summary": "AI Engineer Notebooks 在 Colab 上发布，提供免费的框架无关的 RAG（检索增强生成）、代理和评估工具。这些工具旨在帮助开发者更高效地进行 AI 项目开发。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "published_at": "2026-08-27T21:46:39+00:00",
+          "text": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab（HN 79 points，讨论: https://news.ycombinator.com/item?id=49471714）",
+          "id": "aa0b834204c"
+        }
+      ]
+    },
+    {
+      "id": "ee6b146cb28",
+      "title": "Nvidia预计销售达6730亿美元",
+      "summary": "Nvidia预计随着人工智能需求的扩大，未来销售额将达到6730亿美元。这一预测反映了该公司在AI领域的快速增长和市场需求的上升。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Nvidia projects $673B in sales as AI demand widens",
+          "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+          "published_at": "2026-08-27T15:04:16+00:00",
+          "text": "Nvidia projects $673B in sales as AI demand widens（HN 104 points，讨论: https://news.ycombinator.com/item?id=49466052）",
+          "id": "ae6b146cb28"
+        }
+      ]
+    },
+    {
+      "id": "ed575f18cfc",
+      "title": "Anthropic 扩大科学家支持计划",
+      "summary": "在2026年8月27日，Anthropic 宣布扩大对科学家的支持。这一举措旨在促进科研创新，并为科学家提供更多资源，从而推动各领域的研究发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
+          "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+          "published_at": "",
+          "text": "Aug 27, 2026 Announcements Expanding our support for scientists",
+          "id": "ad575f18cfc"
+        }
+      ]
+    },
+    {
+      "id": "e88e336f937",
+      "title": "评估AI在科学研究中的表现",
+      "summary": "一项新的研究名为 Terminal-Bench-Science，旨在评估 AI 代理在科学研究工作流程中的表现。该研究通过系统化的方法，为不同 AI 代理在科学研究任务中的有效性提供了评估标准。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "published_at": "2026-08-28T00:06:51+00:00",
+          "text": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows（HN 63 points，讨论: https://news.ycombinator.com/item?id=49472820）",
+          "id": "a88e336f937"
+        }
+      ]
+    },
+    {
+      "id": "e9eadc7db28",
+      "title": "科技巨头呼吁加强网络安全",
+      "summary": "OpenAI、Anthropic、Google 等100家公司的代表共同表态，批评当前网络安全状况，并推出新的解决方案，以应对新一代网络威胁。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "published_at": "2026-08-27T17:43:24+00:00",
+          "text": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+          "id": "a9eadc7db28"
+        }
+      ]
+    },
+    {
+      "id": "ecfd719520c",
+      "title": "Wagtail 8.0 发布新 API",
+      "summary": "Wagtail 8.0推出了一种新的API，强调内容管理系统（CMS）将人工智能功能集成在内，而不是简单地被称为AI CMS。这一更新旨在改善开发者和用户的体验，增强CMS的功能性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+          "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+          "published_at": "2026-08-27T16:32:21+00:00",
+          "text": "CMS with AI, Not AI CMS: Wagtail 8.0's New API（HN 27 points，讨论: https://news.ycombinator.com/item?id=49467481）",
+          "id": "acfd719520c"
+        }
+      ]
+    },
+    {
+      "id": "ea13e39d4fa",
+      "title": "Google DeepMind 发布 Gemini Omni 1.1",
+      "summary": "Google DeepMind 推出了 Gemini Omni 1.1 Flash，提供了更高的构建控制力。该版本增强了用户对项目的控制能力，支持更加灵活的开发方式。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "published_at": "2026-08-27T16:11:32+00:00",
+          "text": "",
+          "id": "aa13e39d4fa"
+        }
+      ]
+    },
+    {
+      "id": "e6c5141d5d3",
+      "title": "Google AI Mode 更新功能",
+      "summary": "Google 的 AI Mode 更新后，可以跟踪航班价格、帮助预订酒店等。此次更新表明，Google 希望将 AI Mode 定位为一种 AI 旅行代理，不再仅仅是帮助用户寻找信息，而是实际参与旅行规划和预订过程。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "published_at": "2026-08-27T16:00:00+00:00",
+          "text": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+          "id": "a6c5141d5d3"
+        }
+      ]
+    },
+    {
+      "id": "ed02f5ca62f",
+      "title": "Adobe Photoshop 引入 AI 工具更新",
+      "summary": "Adobe 正在为 Photoshop 推出一项 AI 重点更新，包含一个专门的“AI 辅助编辑器”界面。该界面将所有 AI 功能集成在一个工具栏中，用户可以使用提示进行图像编辑、移除背景和扩展图像等功能。同时，新增加了“标记”功能，用户可以通过直接在图像上绘制来指示希望更改的区域。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Adobe is adding more AI to Photoshop",
+          "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
+          "published_at": "2026-08-27T13:00:00+00:00",
+          "text": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, background remover, an AI image extender, and more. There are also new ways to refine edits with AI, including a \"markup\" feature to draw directly on an image to show Photoshop's AI assistant what you'd like to change. That means you can \"select areas to recolor, sketch arrows to indicate position, or brush in rough shapes to suggest new elements\" without using a text pro … Read the full story at The Verge.",
+          "id": "ad02f5ca62f"
+        }
+      ]
+    },
+    {
+      "id": "ed9b2bc36ff",
+      "title": "Google DeepMind 推出双盲AI评估",
+      "summary": "Google DeepMind 正在试点全球首个双盲AI评估。这种评估方法旨在减少偏见和人为干扰，提高AI模型的评估准确性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "published_at": "2026-08-27T12:59:16+00:00",
+          "text": "Piloting the world's first double-blind AI evaluations",
+          "id": "ad9b2bc36ff"
+        }
+      ]
+    },
+    {
+      "id": "e61231b6d20",
+      "title": "AI 使软件开发变得疲惫无魂",
+      "summary": "一位开发者分享了自己采用 AI 作为软件开发工作流程的体验，感到这种转变令人疲惫且缺乏灵魂。他认为，尽管 AI 工具提高了效率，但也牺牲了创造性和乐趣。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "My software development workflow is AI now & it feels exhausting and soulless",
+          "url": "https://old.reddit.com/r/cscareerquestions/comments/1vi1i7m/my_entire_software_development_workflow_is_ai_now/",
+          "published_at": "2026-08-27T09:24:20+00:00",
+          "text": "My software development workflow is AI now & it feels exhausting and soulless（HN 30 points，讨论: https://news.ycombinator.com/item?id=49461965）",
+          "id": "a61231b6d20"
+        }
+      ]
+    },
+    {
+      "id": "e3062d8cdad",
+      "title": "OpenAI研究：ChatGPT与批判性思维的影响",
+      "summary": "一项对超过1,000名学生的随机研究考察了ChatGPT、批判性思维、原创性以及学生在实际大学作业中的表现。研究结果显示，使用ChatGPT的学生在这几个方面均有所提升。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "published_at": "2026-08-27T09:00:00+00:00",
+          "text": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+          "id": "a3062d8cdad"
+        }
+      ]
+    },
+    {
+      "id": "e57e276283c",
+      "title": "OpenAI 在巴西扩展业务",
+      "summary": "OpenAI 正在扩展其在巴西的业务，深化与开发者、企业和社区的互动，以支持该国的人工智能推广。.",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Expanding OpenAI’s presence in Brazil",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "published_at": "2026-08-27T03:00:00+00:00",
+          "text": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+          "id": "a57e276283c"
+        }
+      ]
+    },
+    {
+      "id": "ee8e7441ac3",
+      "title": "Anthropic发布模型硬件标准预览",
+      "summary": "Anthropic 于2026年8月27日发布了模型硬件标准（MHS）的研究预览，旨在为AI代理安全操作物理设备提供共享规范。首批参与者包括科学研究实验室和先进制造商。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+          "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+          "published_at": "",
+          "text": "Previewing the Model Hardware Standard Announcements Aug 27, 2026 We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+          "id": "ae8e7441ac3"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 85,
+    "articles_new": 19,
+    "articles_filtered": 42,
+    "tokens": {
+      "prompt_tokens": 15996,
+      "completion_tokens": 2258
+    }
+  },
+  "mock": false
+}
