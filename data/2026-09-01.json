@@ -1,0 +1,471 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T09:30:02+08:00",
+  "briefing": "今日AI界动向，五角大楼推出自己的AI工具，标志着国防领域对AI的重视；OpenAI的大规模Mac采购，彰显了苹果在AI基础设施中的重要性；Clipto的融资与估值上升，显示AI创业空间广阔。",
+  "highlights": "五角大楼发布内部AI工具和OpenAI采购大量Mac设备，反映了AI基础设施和应用在不同领域的扩展趋势。无论是政府的AI武装还是公司对技术设备的新选择，表明AI技术的普及已不分边界，并正在改变各领域的技术栈和生态体系。同时，Clipto的融资也显示出资本市场对AI企业的信心和支持。",
+  "events": [
+    {
+      "id": "ebb1d02abd1",
+      "title": "五角大楼推出自有AI工具",
+      "summary": "五角大楼将推出自己的版本ChatGPT和Grok。这些AI工具将与谷歌的Gemini一起，加入五角大楼的中央AI工具平台。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n五角大楼推出自有AI工具，意味着国防领域对人工智能工具的开发和掌控进入新阶段。\n\n### 为什么令人兴奋\n这表明国家安全机构对于AI技术的敏感性与重视度大幅提升，可能带来AI在军事国防领域应用的多样化。\n\n### 产品机会\n未来可能会出现专为军事用途设计的定制AI解决方案，从而促进更多此类AI工具的研制。\n\n### 格局影响\n这可能推动其他国家加强AI技术在国防中的应用，影响全球科技军备竞赛的格局。\n\n### 冷静判断\n当前可能只是初步布局，离大规模实战应用还有距离。\n\n### 趋势坐标\n延续了近期AI工具普及至国防应用的趋势，与最近两周多起政府和AI结合的事件相呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "published_at": "2026-08-31T20:13:45+00:00",
+          "text": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+          "id": "abb1d02abd1"
+        }
+      ]
+    },
+    {
+      "id": "e1487b15802",
+      "title": "OpenAI 采购超万台Mac",
+      "summary": "OpenAI 最近购买了超过 10,000 台 Mac 电脑，使得 Apple 在人工智能基础设施领域的地位凸显。这个采购大规模提升了 Apple 的市场关注度，标志着其在 AI 生态系统中的重要角色。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI采购数万台Mac，显示出苹果设备在AI训练中的重要地位上升。\n\n### 为什么令人兴奋\n这一大规模采购可能是因为Mac的稳定性和性能在某些AI训练任务中的优越表现，使这种选择具备成本效率和高性能的双重优势。\n\n### 产品机会\n可能促使苹果在未来对Mac进行更多定制，以更好地适应AI训练需求，同时也提振其在AI设备市场的份额。\n\n### 格局影响\n这一趋势可能对英伟达和谷歌的AI硬件市场地位构成挑战，鼓励更多企业选择Mac作为AI训练设备。\n\n### 冷静判断\n当前的实际影响需等待这些Mac在AI训练中的长期表现验证，更多企业关注的只是一个开始。\n\n### 趋势坐标\n与整体AI硬件市场多元化的趋势一致，表明企业在计算需求上的灵活性提升。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+          "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+          "published_at": "2026-08-31T16:44:15+00:00",
+          "text": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs（HN 33 points，讨论: https://news.ycombinator.com/item?id=49511824）",
+          "id": "a1487b15802"
+        }
+      ]
+    },
+    {
+      "id": "e3f983827d8",
+      "title": "Nvidia 投资 35 亿美元于 MediaTek",
+      "summary": "Nvidia 向台湾芯片制造商 MediaTek 投资 35 亿美元。此举表明，Nvidia 计划在大科技公司开始自建 AI 芯片之际，继续在 AI 基础设施中保持重要地位。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nNvidia向MediaTek投资35亿美元，计划强化其在AI芯片领域的合作。\n\n### 为什么令人兴奋\n这种高额投资显示出Nvidia在AI芯片合作策略上的大步跨越，可能推动相关AI硬件的创新和生产提速。\n\n### 产品机会\n这可能促使市场上出现更多结合Nvidia和MediaTek技术的高效能AI芯片，丰富硬件解决方案。\n\n### 格局影响\n有利于Nvidia巩固其在AI芯片市场的领导地位，并可能抢占高端市场份额，同时对其他芯片制造商形成压力。\n\n### 冷静判断\n虽然合作刚开始，但如果双方技术成功融合，预示着未来芯片市场格局的转变还需时间验证。\n\n### 趋势坐标\n回应了近期科技公司加强自建AI芯片努力的趋势，与最近的相关合作和投资动态一致。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+          "published_at": "2026-08-31T15:15:25+00:00",
+          "text": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+          "id": "a3f983827d8"
+        }
+      ]
+    },
+    {
+      "id": "e09c8fe5e8e",
+      "title": "Clipto AI 融资回顾与估值",
+      "summary": "三年创企Clipto宣布在最新一轮融资中筹集了1500万美元，现估值达到2.5亿美元。该公司表示其年经常性收入（ARR）已达1500万美元，并实现盈利。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+          "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+          "published_at": "2026-08-31T16:00:00+00:00",
+          "text": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+          "id": "a09c8fe5e8e"
+        }
+      ]
+    },
+    {
+      "id": "e662ad6a9f4",
+      "title": "Debian 允许使用 AI 工具",
+      "summary": "Debian 投票决定允许开发者在其 Linux 发行版的开发、维护和文档中使用 AI 工具。新政策承认“负责任”的 AI 使用可以提高开发者的生产力，并表示生成性 AI 不受特定规则的约束。投票的开发者考虑了多种处理 AI 的提案，包括一些禁止使用 AI 工具进行贡献的提案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "published_at": "2026-08-31T15:34:58+00:00",
+          "text": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\" The project's voting developers considered several other proposals on how to handle AI, including some that would have banned contributions made using AI tools. As It's FOSS reports, some users and contributors aren't happy with the policy, includi … Read the full story at The Verge.",
+          "id": "a662ad6a9f4"
+        }
+      ]
+    },
+    {
+      "id": "ecd1f8d3af1",
+      "title": "Almanac（YC S26）推出AI产品",
+      "summary": "Almanac（YC S26）推出了一款新型AI，旨在深入了解用户公司的信息和需求。这款AI产品能够帮助公司更高效地管理和利用内部知识。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+          "url": "https://usealmanac.com/",
+          "published_at": "2026-08-31T15:34:34+00:00",
+          "text": "Launch HN: Almanac (YC S26) – AI that knows your company（HN 47 points，讨论: https://news.ycombinator.com/item?id=49511007）",
+          "id": "acd1f8d3af1"
+        }
+      ]
+    },
+    {
+      "id": "e8b9768eab1",
+      "title": "ChatGPT将在欧盟面临更严格监管",
+      "summary": "欧盟将对ChatGPT实施更加严格的监管措施，以提高人工智能的安全性和透明度。这一变化可能会影响ChatGPT的运营模式和市场准入。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "ChatGPT to face tougher regulation in the EU",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+          "published_at": "2026-08-31T14:52:44+00:00",
+          "text": "ChatGPT to face tougher regulation in the EU（HN 23 points，讨论: https://news.ycombinator.com/item?id=49510517）",
+          "id": "a8b9768eab1"
+        }
+      ]
+    },
+    {
+      "id": "ecb29965742",
+      "title": "AI 创业乌托邦获 4000 万投资",
+      "summary": "一家风险投资公司为 AI 创业提供了 200 万现金冠军奖，并投入 4000 万元建设 AI 创业乌托邦。这次投资吸引了众多 VC 排队前来参观。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+          "url": "https://www.qbitai.com/2026/08/481928.html",
+          "published_at": "2026-08-31T13:20:29+00:00",
+          "text": "划重点：这次不是你挨家敲门，是VC排队来看你。",
+          "id": "acb29965742"
+        }
+      ]
+    },
+    {
+      "id": "eb5efced7f0",
+      "title": "苹果因AI需求意外火爆",
+      "summary": "苹果公司未能预见到对Mac Mini和Mac Studio的AI需求激增。这导致了这些产品的供应不足，反映出市场对高性能计算能力的强烈需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "published_at": "2026-08-31T12:41:22+00:00",
+          "text": "Apple caught off guard by AI demand for Mac Mini and Mac Studio（HN 289 points，讨论: https://news.ycombinator.com/item?id=49508982）",
+          "id": "ab5efced7f0"
+        }
+      ]
+    },
+    {
+      "id": "e9f3ba22cb6",
+      "title": "滴滴 Robotaxi R2 开启载客测试",
+      "summary": "滴滴的自动驾驶新一代车型 Robotaxi R2 近期正式开启无人载客测试服务。这标志着滴滴在自动驾驶技术应用方面迈出了重要一步。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+          "url": "https://www.qbitai.com/2026/08/481923.html",
+          "published_at": "2026-08-31T07:53:12+00:00",
+          "text": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
+          "id": "a9f3ba22cb6"
+        }
+      ]
+    },
+    {
+      "id": "e82b45c1136",
+      "title": "范式与华为达成算力合作",
+      "summary": "量子位报道，范式与华为达成重磅战略合作，成为首批使用国产最高端算力底座的AI企业。这一合作标志着双方在先进算力领域的共同进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+          "url": "https://www.qbitai.com/2026/08/481919.html",
+          "published_at": "2026-08-31T07:34:02+00:00",
+          "text": "",
+          "id": "a82b45c1136"
+        }
+      ]
+    },
+    {
+      "id": "e7bc3415714",
+      "title": "Polimill 推出日本新一代公共 AI 基础设施",
+      "summary": "Polimill 利用 OpenAI 的 GPT 模型和 Codex，帮助地方政府搜索和使用行政知识，加速开发进程。该项目旨在提升日本公共服务的智能化水平。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "url": "https://openai.com/index/polimill",
+          "published_at": "2026-08-31T07:00:00+00:00",
+          "text": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+          "id": "a7bc3415714"
+        }
+      ]
+    },
+    {
+      "id": "ed7a0c9ea17",
+      "title": "GPT-6灰测demo即将发布",
+      "summary": "据报道，OpenAI 的「GPT-6」将在周四发布演示版本。此次发布引发了广泛关注，预示着该产品可能会带来重大的技术突破。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+          "url": "https://www.qbitai.com/2026/08/481893.html",
+          "published_at": "2026-08-31T04:47:26+00:00",
+          "text": "核弹爆炸",
+          "id": "ad7a0c9ea17"
+        }
+      ]
+    },
+    {
+      "id": "e44f6116377",
+      "title": "OpenAI ChatGPT Ads 年收入达10亿",
+      "summary": "OpenAI 宣布，ChatGPT Ads 实现年化营收达10亿美元，并在全球范围内扩展，支持通过免费和收费选项让更多用户接触到人工智能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "A milestone in expanding access to AI",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "published_at": "2026-08-31T04:00:00+00:00",
+          "text": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+          "id": "a44f6116377"
+        }
+      ]
+    },
+    {
+      "id": "e514f13175a",
+      "title": "欧盟开始实施AI法案",
+      "summary": "欧盟已开始执行AI法案，向模型提供商发出了首批信息请求（RFI）。这一举措标志着法规生效的关键一步，旨在加强对人工智能技术的监管。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+          "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+          "published_at": "2026-08-31T03:45:57+00:00",
+          "text": "The EU has begun enforcing the AI Act: first RFIs to model providers（HN 47 points，讨论: https://news.ycombinator.com/item?id=49505351）",
+          "id": "a514f13175a"
+        }
+      ]
+    },
+    {
+      "id": "e90a0709e0a",
+      "title": "灵犀智涌获奖，ROSS Harness 进军工业智能",
+      "summary": "灵犀智涌推出的机器人通过Demo级本体组装，成为工业场景比赛中除行业头部企业外唯一获奖的机器人公司。在全国比赛中，灵犀智涌排名第三，公司排名第二。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "全国第三，公司第二，“初创黑马”灵犀智涌用ROSS Harness把机器人送进工业具身智能第一梯队",
+          "url": "https://www.qbitai.com/2026/08/481750.html",
+          "published_at": "2026-08-31T03:11:46+00:00",
+          "text": "灵犀智涌用一台由Demo级本体组装而成的机器人，成为工业场景赛除行业头部企业外唯一获奖的机器人公司。",
+          "id": "a90a0709e0a"
+        }
+      ]
+    },
+    {
+      "id": "ee83ff5faec",
+      "title": "Anthropic 强化对齐与安全措施",
+      "summary": "2026年8月31日，Anthropic 发布了关于其在对齐和安全方面努力的新进展。公司表示，他们正在实施新的策略，以提高人工智能系统的安全性和可靠性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Aug 31, 2026 Improving our alignment and security efforts",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "published_at": "",
+          "text": "Aug 31, 2026 Improving our alignment and security efforts",
+          "id": "ae83ff5faec"
+        }
+      ]
+    },
+    {
+      "id": "e2c0ffcd676",
+      "title": "纽约州长关注AI监管问题",
+      "summary": "纽约州长凯西·霍楚（Kathy Hochul）在采访中表示，AI 应该变得‘不那么邪恶’。她支持对青少年使用社交平台（如Instagram）的新限制，强调这些限制将要求成年人也需验证身份，从而影响网络匿名性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+          "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+          "published_at": "2026-08-31T14:00:00+00:00",
+          "text": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Meta just reached a settlement with dozens of states, including New York, which will restrict how teens use platforms like Instagram in very specific ways. Governor Hochul is a strong supporter of those restrictions and more, as you’ll hear. But those come with a cost — widespread age verification means adults will also have to show ID to use the internet, which will essentially make it impossible to be anonymous online. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . So I asked about that, and if these new restrictions amount to Meta conceding in a lawsuit that these kinds of regulations on speech might not pass First Amendment scrutiny if the governor were to try and impose them in a law. I had similar questions about New York’s restrictions on ghost guns, which prevent 3D printers from printing gun parts. That law is already being challenged — not in courts, but by activists like Cody Wilson, who runs the largest database of 3D-printable gun files and who has started altering those files in a process he calls “Hochulization” in order to show the ban is technically toothless. I asked the governor about this, and, well, you’ll hear her challenge Cody right back. Oh, but there’s more: We also talked about surveillance and Flock cameras, and, of course, the politics of AI and data centers in an election year. Governor Hochul signed a one-year moratorium on data center construction in July, and I wanted to know what she’s looking for when that expires to make data centers a workable proposition. We also talked a little about Mayor Zohran Mamdani in New York City an",
+          "id": "a2c0ffcd676"
+        }
+      ]
+    },
+    {
+      "id": "e7b150ac3e4",
+      "title": "AI 编写的代码属你的所有",
+      "summary": "一篇报道指出，AI 编写的代码依然归开发者所有。这意味着使用 AI 工具生成的代码不会影响开发者的知识产权。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI-written code is still your code",
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "published_at": "2026-08-31T12:08:25+00:00",
+          "text": "AI-written code is still your code（HN 54 points，讨论: https://news.ycombinator.com/item?id=49508664）",
+          "id": "a7b150ac3e4"
+        }
+      ]
+    },
+    {
+      "id": "e51bfd41d2c",
+      "title": "AI 信任的交易调和经验",
+      "summary": "一位数据专家分享了在调和超过 100 亿笔交易过程中对 AI 信任的理解。他探讨了数据透明性、算法公正性和模型可靠性等关键因素，对构建信任的 AI 系统提出了见解。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "What I Learned About AI Trust from Reconciling over 100B Transactions",
+          "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+          "published_at": "2026-08-31T11:34:28+00:00",
+          "text": "What I Learned About AI Trust from Reconciling over 100B Transactions（HN 25 points，讨论: https://news.ycombinator.com/item?id=49508443）",
+          "id": "a51bfd41d2c"
+        }
+      ]
+    },
+    {
+      "id": "ecb49900431",
+      "title": "OpenAI购Mac强化AI训练",
+      "summary": "OpenAI采购了数万台Mac以进行强化学习训练。这表明某些AI业务可能需要依赖Mac，而非英伟达的GPU或谷歌的TPU。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+          "url": "https://www.qbitai.com/2026/08/481759.html",
+          "published_at": "2026-08-31T03:24:34+00:00",
+          "text": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac",
+          "id": "acb49900431"
+        }
+      ]
+    },
+    {
+      "id": "e2f67555dcd",
+      "title": "AQuA：量化研究 Agent 创新进化",
+      "summary": "AQuA自主研究系统强调，系统的上限不仅依赖于模型的智能程度，还取决于其识别新证据与偶然高分的能力。这一创新旨在提高量化研究的可靠性和有效性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AQuA：让量化研究 Agent 持续进化，也让回测结果经得起检验",
+          "url": "https://www.qbitai.com/2026/08/481475.html",
+          "published_at": "2026-08-31T03:01:29+00:00",
+          "text": "自主研究系统的上限，不只取决于模型有多聪明，也取决于系统能否分辨什么是新证据，什么只是一次偶然的高分。",
+          "id": "a2f67555dcd"
+        }
+      ]
+    },
+    {
+      "id": "e255bc041b5",
+      "title": "如何构建扩散语言模型",
+      "summary": "一篇关于如何构建扩散语言模型的技术指南，详细介绍了实现过程和相关技术细节。文章旨在帮助开发者理解扩散模型的原理及其应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "How to build a diffusion language model",
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+          "published_at": "2026-08-30T23:41:32+00:00",
+          "text": "How to build a diffusion language model（HN 175 points，讨论: https://news.ycombinator.com/item?id=49503956）",
+          "id": "a255bc041b5"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 57,
+    "articles_new": 23,
+    "articles_filtered": 18,
+    "tokens": {
+      "prompt_tokens": 17150,
+      "completion_tokens": 3044
+    }
+  },
+  "mock": false
+}
