@@ -1,0 +1,354 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T08:39:01+08:00",
+  "briefing": "今日导读：Hugging Face 发布 BenchMIRT，OpenAI 预览 Astra 网络安全模型，Anthropic 更新 Fable 5.1 版本，Google DeepMind 推出 Gemini 视频理解技术，ChatGPT Health 新增 Epic 集成。这些事件展示了 AI 技术在多个领域的前沿进展。",
+  "highlights": "今日看点：AI 技术广泛应用于多个领域，Hugging Face 提供的新基准评测工具（BenchMIRT）和 OpenAI 的 Astra 模型增强网络安全，加上 DeepMind 的 Gemini 技术，使视频理解变得更智能。Anthropic 的 Fable 更新则标志着安全性持续受关注。同时，OpenAI 的 ChatGPT Health 与医疗系统的集成显示出更为实时和应用的医疗信息访问。整体来看，AI 技术正逐步深化在安全、医疗和多媒体方面的应用，表明行业正朝着兼具智能分析和安全防护的方向发展。",
+  "events": [
+    {
+      "id": "e23bdbfdbd0",
+      "title": "Hugging Face 发布 BenchMIRT 基准评测",
+      "summary": "Hugging Face 最近推出了 BenchMIRT，这是一个新的基准评测工具，用于衡量大型语言模型（LLM）的性能。该工具旨在更好地理解和评估模型在不同任务上的表现，帮助研究人员和开发者进行有效比较。",
+      "tier": "must_read",
+      "insight": "{'一句话本质': 'Hugging Face 发布了BenchMIRT基准评测工具，专注于评估大型语言模型（LLM）的性能。', '为什么令人兴奋': 'BenchMIRT 为LLM提供了一个统一的评测标准，使得模型的效果可以进行更精细的比较。', '产品机会': '这个工具能助力开发者选择最合适的模型进行特定任务，或帮助调优现有模型以提高其特定能力。', '格局影响': '这一评测工具将使开源阵营在透明度和标准化上进一步强化，使创业公司有更公平的环境通过性能而非营销来竞争。', '冷静判断': '作为评测工具，BenchMIRT对LLM的实际运用影响有限，却为科学研究提供了大量数据支持，开发者可立即使用。', '趋势坐标': 'BenchMIRT助力推进AI模型的标准化评估，与近期开源模型在性能提升和适用性上的进展相呼应。'}",
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "published_at": "2026-09-01T21:39:07+00:00",
+          "text": "",
+          "id": "a23bdbfdbd0"
+        }
+      ]
+    },
+    {
+      "id": "ea4eeed34b9",
+      "title": "OpenAI发布Astra模型预览",
+      "summary": "OpenAI预览了其最新的网络安全关键大型语言模型Astra，并展示了为其发布所采取的预防措施。该模型在突破计算机系统方面表现出色。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "published_at": "2026-09-01T21:06:24+00:00",
+          "text": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+          "id": "aa4eeed34b9"
+        }
+      ]
+    },
+    {
+      "id": "edfd1ea2e55",
+      "title": "Google DeepMind 发布 Gemini 视频理解技术",
+      "summary": "Google DeepMind 发布了 Gemini，这是一种能够理解视频内容的智能系统。该技术通过分析视频的重大事件和上下文，增强了视频理解的能力。Gemini 的推出标志着在人工智能领域的重要进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Introducing agentic video understanding with Gemini",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "published_at": "2026-09-01T17:08:51+00:00",
+          "text": "",
+          "id": "adfd1ea2e55"
+        }
+      ]
+    },
+    {
+      "id": "e6d0e3cbcab",
+      "title": "约翰迪尔推出农民 AI 聊天机器人",
+      "summary": "约翰迪尔正在测试一款名为 \"JD\" 的 AI 助手，旨在帮助农民通过提供基于其数据的最佳实践和历史趋势来增加收入。该助手利用农田、机器和运营数据回答关于设备设置、燃油使用或收获时机等问题，同时承诺不会出售用户数据，并允许农民控制他们的数据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "John Deere launched an AI chatbot for farmers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+          "published_at": "2026-09-01T16:00:52+00:00",
+          "text": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The press release didn't mention which AI technology is behind this platform. But after fighting with farmers and the FTC for years over the right to repair, the news of Early Access Program testing for this bot comes with a mention of its 10-point Farmer Data Commitment saying it won't sell the data, and lets farmers contr … Read the full story at The Verge.",
+          "id": "a6d0e3cbcab"
+        }
+      ]
+    },
+    {
+      "id": "e1847690842",
+      "title": "AIR融资5000万美元提升AI监管",
+      "summary": "AIR获得5000万美元融资，旨在帮助企业评估AI代理使用的技能和附加功能。该平台能够发现公司运行的代理，持续审核其使用的任何技能和附加功能，并阻止任何不当行为。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "published_at": "2026-09-01T15:45:51+00:00",
+          "text": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+          "id": "a1847690842"
+        }
+      ]
+    },
+    {
+      "id": "e309be27bdc",
+      "title": "OpenAI Astra 模型发布",
+      "summary": "Astra 是 OpenAI 发布的首个符合关键网络安全能力阈值的模型，满足应急准备框架的要求。这一模型具有更强的发布安全保障。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "url": "https://openai.com/index/path-to-astra",
+          "published_at": "2026-09-01T13:00:00+00:00",
+          "text": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "id": "a309be27bdc"
+        }
+      ]
+    },
+    {
+      "id": "e5f05c5785b",
+      "title": "MiniMax实现AI视频实时商业化",
+      "summary": "MiniMax近日推出了一项新技术，能在3秒内生成视频，速度超过播放时间。这标志着AI视频制作向实时商业化迈出了重要一步，为行业带来新的应用可能性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+          "url": "https://www.qbitai.com/2026/09/482512.html",
+          "published_at": "2026-09-01T12:02:39+00:00",
+          "text": "",
+          "id": "a5f05c5785b"
+        }
+      ]
+    },
+    {
+      "id": "eae5d7b81dc",
+      "title": "清华AIR与域变换推出WAM",
+      "summary": "清华大学人工智能研究院（AIR）与域变换团队合作，推出了一种新模型——自进化WAM。该模型通过冻结参数，实现了能力的显著提升，采用了具身的In-Context Causal Learning方法。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+          "url": "https://www.qbitai.com/2026/09/482337.html",
+          "published_at": "2026-09-01T05:12:30+00:00",
+          "text": "参数冻结，能力暴涨",
+          "id": "aae5d7b81dc"
+        }
+      ]
+    },
+    {
+      "id": "ed6a02419dc",
+      "title": "Anthropic发布Fable 5.1版本",
+      "summary": "Anthropic发布了Fable 5.1版本，旨在降低模型的令牌成本并减少误报限制。此次更新对模型的安全措施进行了调整。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+          "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "published_at": "2026-09-01T19:39:22+00:00",
+          "text": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "id": "ad6a02419dc"
+        }
+      ]
+    },
+    {
+      "id": "ed365bbca12",
+      "title": "ChatGPT Health 增加 Epic 集成",
+      "summary": "OpenAI 宣布其 ChatGPT Health 产品新增与 Epic 的集成。这一集成为临床医生提供了读取健康记录的只读访问权限。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "published_at": "2026-09-01T17:00:00+00:00",
+          "text": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+          "id": "ad365bbca12"
+        }
+      ]
+    },
+    {
+      "id": "e3b5f2688fe",
+      "title": "AI 本土企业提升工作流程",
+      "summary": "Basis、Clay 和 Exa Labs 利用 AI 代理改善员工培训、账户管理和开发者集成。这些企业领导者分享了如何将 AI 融入工作流程，转化为实际操作能力的经验。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How AI-native companies turn workflows into operating capability",
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "published_at": "2026-09-01T17:00:00+00:00",
+          "text": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+          "id": "a3b5f2688fe"
+        }
+      ]
+    },
+    {
+      "id": "efb0b621eb4",
+      "title": "Fambot 推出家庭 AI 助理",
+      "summary": "Fambot 正在开发一种 AI “首席助理”，旨在帮助家庭管理电子邮件、日历、学校更新、体育日程等杂务，以便更好地支持育儿。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Fambot introduces an ‘AI chief of staff’ for families",
+          "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+          "published_at": "2026-09-01T15:10:58+00:00",
+          "text": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+          "id": "afb0b621eb4"
+        }
+      ]
+    },
+    {
+      "id": "e50e05f9b47",
+      "title": "ChatGPT 连接医疗数据系统",
+      "summary": "ChatGPT 现在能够与可信的医疗数据连接，帮助临床医学人员安全访问患者信息、医学研究等资料。此功能可以增强医生在医疗决策中的数据支持。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "published_at": "2026-09-01T12:00:00+00:00",
+          "text": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+          "id": "a50e05f9b47"
+        }
+      ]
+    },
+    {
+      "id": "eab514fb2d1",
+      "title": "小型Transformer训练成功",
+      "summary": "一名研究者在1.5小时内训练出一个小型的transformer模型，该模型的性能超过了许多大型语言模型(LLMs)。这一成果展示了小规模模型在特定任务上的潜力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+          "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+          "published_at": "2026-09-01T09:52:45+00:00",
+          "text": "I trained a small transformer in 1.5hrs and it beats many LLMs（HN 562 points，讨论: https://news.ycombinator.com/item?id=49519939）",
+          "id": "aab514fb2d1"
+        }
+      ]
+    },
+    {
+      "id": "ee105e56b55",
+      "title": "复旦Neolab提出生命算子",
+      "summary": "复旦大学的Neolab团队提出了",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+          "url": "https://www.qbitai.com/2026/09/482300.html",
+          "published_at": "2026-09-01T04:12:49+00:00",
+          "text": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+          "id": "ae105e56b55"
+        }
+      ]
+    },
+    {
+      "id": "e85562dc163",
+      "title": "Hugging Face 发布 200+ WebGPU Kernels",
+      "summary": "Hugging Face 宣布推出 @huggingface/kernels，这是一个包含 200 多个 WebGPU 内核的库，旨在支持本地 AI 开发。这些内核可以帮助开发者更高效地利用 GPU 加速其模型和应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+          "url": "https://huggingface.co/blog/webgpu-kernels",
+          "published_at": "2026-09-01T00:00:00+00:00",
+          "text": "",
+          "id": "a85562dc163"
+        }
+      ]
+    },
+    {
+      "id": "e07a03b3c01",
+      "title": "Anthropic 推出企业前沿安全措施",
+      "summary": "2026年9月1日，Anthropic 宣布与客户合作开发企业前沿安全保障。这项举措旨在提升企业在使用人工智能时的安全性和可靠性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+          "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+          "published_at": "",
+          "text": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
+          "id": "a07a03b3c01"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 76,
+    "articles_new": 17,
+    "articles_filtered": 31,
+    "tokens": {
+      "prompt_tokens": 14495,
+      "completion_tokens": 7119
+    }
+  },
+  "mock": false
+}
