@@ -1,0 +1,440 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T08:42:16+08:00",
+  "briefing": "今日导读，Suno发布首款获得唱片行业支持的AI音乐模型v6，引发音乐创作革新。苹果推出折叠屏手机，进一步整合AI技术。Qwen 3.8和GPT-5.5 Pro功能追赶赛道持续升温。此外，微软与教师工会就AI隐私达成协议，强调教育领域数据使用的规范化，AI安全与对齐问题仍备受关注。",
+  "highlights": "今日看点：Suno、苹果和OpenAI的多方动向显示，AI技术在音乐、消费电子和智能助手领域快速推进。Suno新模型获得唱片公司支持，或将开启AI音乐的产业化。苹果采用AI技术设计折叠屏手机，进一步扩展AI在硬件市场的应用。Qwen 3.8紧随GPT-5.5 Pro，智能助手竞赛愈发激烈。同时，微软在教育AI隐私协议上的突破，提示数据伦理在AI应用中的核心地位。这些事件共同彰显了AI应用多元化和技术创新的加速趋势。",
+  "events": [
+    {
+      "id": "e6e51b04520",
+      "title": "Suno发布首款AI音乐模型v6",
+      "summary": "Suno推出了其首款获得唱片行业支持的AI音乐模型v6。此次模型完全依赖新的数据集进行训练，数据来源包括Warner Music Group、BMG和Believe的授权内容。此外，v6模型分为三个版本：v6、v6-wild和v6-mini，其中mini版本可免费使用。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nSuno发布了AI音乐模型v6，获得唱片行业支持，标志着AI音乐创作的领域突破。\n\n### 为什么令人兴奋\nSuno的模型使得AI可以生成经过正版授权的音乐，整合了来自Warner Music Group等公司的数据源，提升了生成质量。\n\n### 产品机会\n这为新兴音乐创作工具和平台的诞生提供了基础，可以支持创作者快速制作高质量的音乐。\n\n### 格局影响\n对音乐产业和AI技术结合的推进具有里程碑意义，将大幅影响音乐内容的创造和消费模式。\n\n### 冷静判断\n作为行业首例，此模型性能和实际音乐应用场景还需进一步检验，但基础已奠定。\n\n### 趋势坐标\n呼应了AI工具在音乐、艺术创作领域不断深化的趋势，与近期生成式AI技术的普及相符。",
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Suno releases its first AI music model made with record industry help",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+          "published_at": "2026-09-09T21:42:19+00:00",
+          "text": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed from partners Warner Music Group , BMG , and Believe , as well as \" user data .\" It's unclear whether that means v6 training data is completely free of dubiously obtained content . One of the big changes in v6 is that there are actually three different models: v6, v6-wild, and v6-mini. Mini is the model available for free to all. It's focused on fast, res … Read the full story at The Verge.",
+          "id": "a6e51b04520"
+        }
+      ]
+    },
+    {
+      "id": "edb0ccc728d",
+      "title": "苹果发布首款折叠屏手机",
+      "summary": "苹果推出首款折叠屏手机，售价15999元起。该款手机的设计过程中也采用了AI技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+          "url": "https://www.qbitai.com/2026/09/486450.html",
+          "published_at": "2026-09-09T19:24:22+00:00",
+          "text": "一比根号二的小胖折叠",
+          "id": "adb0ccc728d"
+        }
+      ]
+    },
+    {
+      "id": "ee8ac74305a",
+      "title": "Qwen 3.8发布，紧随GPT-5.5 Pro",
+      "summary": "Qwen 3.8版本现已发布，该版本引入了与GPT-5.5 Pro相似的推理预填充功能。这一更新旨在提升智能助手的推理能力和用户体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+          "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+          "published_at": "2026-09-09T17:24:28+00:00",
+          "text": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills（HN 160 points，讨论: https://news.ycombinator.com/item?id=49630026）",
+          "id": "ae8ac74305a"
+        }
+      ]
+    },
+    {
+      "id": "e9ced8937b2",
+      "title": "自演化执行结构的LLM代理",
+      "summary": "Procedural Graphs是一种为大型语言模型（LLM）代理设计的自演化执行结构。该结构允许在运行时动态调整执行流程，以提高效率和适应性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+          "url": "https://arxiv.org/abs/2609.09153",
+          "published_at": "2026-09-09T17:13:52+00:00",
+          "text": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents（HN 42 points，讨论: https://news.ycombinator.com/item?id=49629868）",
+          "id": "a9ced8937b2"
+        }
+      ]
+    },
+    {
+      "id": "e63ea6811b4",
+      "title": "微软推出学校AI隐私新规",
+      "summary": "微软与美国第二大教师工会美国教师联合会（AFT）及其纽约市分支机构联合教师联合会（UFT）达成协议，承诺遵守十项可以被学校区强制执行的原则。这些条款包括不以学生或教育工作者的数据训练AI模型、限制数据收集量以及向家庭披露其工具的工作方式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Microsoft has new AI privacy rules for schools",
+          "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+          "published_at": "2026-09-09T17:07:48+00:00",
+          "text": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of Teachers (UFT), Microsoft committed to ten principles that can be contractually enforced by school districts that adopt them. The terms include pledging not to train AI models on student or educator data, limiting the amount of data Microsoft collects in the first place and disclosing to families how its tools work in plain … Read the full story at The Verge.",
+          "id": "a63ea6811b4"
+        }
+      ]
+    },
+    {
+      "id": "e534907e0d3",
+      "title": "Paul Christiano 加入 OpenAI 基金会董事会",
+      "summary": "Paul Christiano 加入 OpenAI 基金会董事会及其安全与保障委员会。他在人工智能对齐、安全性和标准方面拥有丰富经验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "published_at": "2026-09-09T17:00:00+00:00",
+          "text": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "id": "a534907e0d3"
+        }
+      ]
+    },
+    {
+      "id": "e66f60d4596",
+      "title": "更好的 AI 代码注释检测器",
+      "summary": "Better AI code comment detector 被发布。该工具旨在提升代码注释的检测效率，提高开发者在代码维护和协作过程中的便利性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Better AI code comment detector",
+          "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+          "published_at": "2026-09-09T15:45:43+00:00",
+          "text": "Better AI code comment detector（HN 39 points，讨论: https://news.ycombinator.com/item?id=49628454）",
+          "id": "a66f60d4596"
+        }
+      ]
+    },
+    {
+      "id": "ee8608e40b7",
+      "title": "IBM发布Granite Time Series模型",
+      "summary": "IBM推出了最新的Granite Time Series PatchTST-FM-r2模型，并提供了适合商业使用的许可。这一模型在时间序列分析领域达到了最先进的水平。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "published_at": "2026-09-09T15:36:24+00:00",
+          "text": "",
+          "id": "ae8608e40b7"
+        }
+      ]
+    },
+    {
+      "id": "ec44948af03",
+      "title": "Shipt 推出 AI 购物助手",
+      "summary": "Shipt 最近推出了一款 AI 购物助手，用户可以通过它创建购物车。用户可要求助手生成特定场合的购物清单，例如为 25 人的周六聚会准备食品，或是为学校午餐和课后零食创建购物车。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+          "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+          "published_at": "2026-09-09T14:51:45+00:00",
+          "text": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+          "id": "ac44948af03"
+        }
+      ]
+    },
+    {
+      "id": "e6c16839213",
+      "title": "AI企业员工均摊花费下降",
+      "summary": "在8月份，主要公司每位员工的AI支出下降，显示出夏季疲软的迹象或可能的警告信号。随着令牌成本下降和模型变得更便宜，AI的采用并没有像超大规模公司所希望的那样推进。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+          "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+          "published_at": "2026-09-09T14:18:34+00:00",
+          "text": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
+          "id": "a6c16839213"
+        }
+      ]
+    },
+    {
+      "id": "eb5b8678557",
+      "title": "Instacart 推出 AI 购物助手Clementine",
+      "summary": "Instacart 最新推出了一款名为Clementine的AI购物助手，集成于其平台中。这款对话式AI助手旨在提升用户的购物体验，使顾客能够更便捷地找到所需商品。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+          "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+          "published_at": "2026-09-09T13:00:00+00:00",
+          "text": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+          "id": "ab5b8678557"
+        }
+      ]
+    },
+    {
+      "id": "e6857fbe8e0",
+      "title": "亚马逊Prime Video推AI配音技术",
+      "summary": "亚马逊Prime Video推出了一项新的AI技术，通过将演员的口型与人声配音对齐来改善观影体验。目前该功能仅适用于德国剧集《Maxton Hall》的英语配音，未来计划扩展到更多标题。该技术结合了AI和视觉效果技术，以实现口型与翻译语音的匹配。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+          "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+          "published_at": "2026-09-09T13:00:00+00:00",
+          "text": "Maxton Hall. | Image: Prime Video Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it uses a combination of AI and visual effects technologies to make lip movements match up with translated speech. Meta and YouTube recently launched an AI-powered auto-dubbing feature for creators, while allowing them to turn on a \"lip sync\" option to make it look like creators are actually speaking in a user's preferred lan … Read the full story at The Verge.",
+          "id": "a6857fbe8e0"
+        }
+      ]
+    },
+    {
+      "id": "e9786c92a28",
+      "title": "OpenAI 呼吁加强 AI 政策",
+      "summary": "Chris Lehane 表示，随着 AI 能力的增强，需要更强的安全证据、共享标准和持久的政策行动。他强调在政策窗口开放时，相关行动应尽快落实。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "The AI policy window is open. We need to act.",
+          "url": "https://openai.com/index/ai-policy-window",
+          "published_at": "2026-09-09T13:00:00+00:00",
+          "text": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+          "id": "a9786c92a28"
+        }
+      ]
+    },
+    {
+      "id": "e587a70348a",
+      "title": "OpenAI 发布 GPT-6 Astra",
+      "summary": "OpenAI 发布了其最新的商业模型 GPT-6 Astra，该模型具备先进的推理能力、计算机使用能力以及更强的写作和设计判断能力。这标志着 AI 技术在工作领域的进一步发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "published_at": "2026-09-09T11:00:00+00:00",
+          "text": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "id": "a587a70348a"
+        }
+      ]
+    },
+    {
+      "id": "e66c0d2022d",
+      "title": "AI数学突破引发争议",
+      "summary": "一项有关AI数学的突破引起了广泛的争议。研究人员声称该成果可能会改变数学领域，但程序员和学者对此提出了质疑，认为相关数据和方法论存在问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "How An AI math breakthrough ignited a controversy",
+          "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+          "published_at": "2026-09-09T10:25:41+00:00",
+          "text": "How An AI math breakthrough ignited a controversy（HN 211 points，讨论: https://news.ycombinator.com/item?id=49624163）",
+          "id": "a66c0d2022d"
+        }
+      ]
+    },
+    {
+      "id": "e4d448d2f64",
+      "title": "国产AI4S计算平台亮相外滩大会",
+      "summary": "在2026外滩大会上，国内新推出的AI4S计算平台首次亮相。该平台在算力技术和人才布局方面实现了双向发力，展示了中国在人工智能领域的发展新进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+          "url": "https://www.qbitai.com/2026/09/486370.html",
+          "published_at": "2026-09-09T09:57:54+00:00",
+          "text": "",
+          "id": "a4d448d2f64"
+        }
+      ]
+    },
+    {
+      "id": "e930cebb74d",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+          "published_at": "2026-09-09T09:56:28+00:00",
+          "text": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on X announcing his departure, Jacob Coxon, a researcher who has trained AI systems at Anthropic, said he had quit the company over its lax approach to safety. Coxon, who previously trained systems for OpenAI, accused the two AI companies of \"racing straight to self-improving superintelligence and gambling with our lives,\" even … Read the full story at The Verge.",
+          "id": "a930cebb74d"
+        }
+      ]
+    },
+    {
+      "id": "e53818ac527",
+      "title": "蚂蚁百灵发布Ling-3.0-flash-Fin模型",
+      "summary": "蚂蚁集团的百灵发布了首个金融增强开放模型Ling-3.0-flash-Fin。该模型标志着AI技术在实际投研工作流中的应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+          "url": "https://www.qbitai.com/2026/09/486288.html",
+          "published_at": "2026-09-09T05:02:30+00:00",
+          "text": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+          "id": "a53818ac527"
+        }
+      ]
+    },
+    {
+      "id": "e3b7b36e29d",
+      "title": "Anthropic 建立监控系统",
+      "summary": "Anthropic 正在开发一种预测性监控系统，旨在监视活动人士。该系统的目的是分析与活动相关的数据，以便预测和识别潜在的安全威胁。这一举措引发了对隐私和公民自由的担忧。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+          "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+          "published_at": "2026-09-09T16:01:41+00:00",
+          "text": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists（HN 271 points，讨论: https://news.ycombinator.com/item?id=49628704）",
+          "id": "a3b7b36e29d"
+        }
+      ]
+    },
+    {
+      "id": "e2a6c42dd68",
+      "title": "Anthropic 研究员辞职警告 AI 安全",
+      "summary": "Anthropic 研究员 Jacob Coxon 因对 AI 自我改进可能带来的灭绝风险感到担忧而辞职。他呼吁实验室之间达成节奏协议，以确保 AI 的安全发展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+          "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+          "published_at": "2026-09-09T15:02:47+00:00",
+          "text": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+          "id": "a2a6c42dd68"
+        },
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+          "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+          "published_at": "2026-09-09T08:43:27+00:00",
+          "text": "Gambling with our lives: AI researcher quits Anthropic with warning about safety（HN 81 points，讨论: https://news.ycombinator.com/item?id=49623306）",
+          "id": "afb692d8e04"
+        }
+      ]
+    },
+    {
+      "id": "e1b1ce38b26",
+      "title": "Sequoia 加码 Cymphony AI 业务",
+      "summary": "Cymphony 为安全团队提供员工、AI 代理及其他非人身份的统一视图，帮助识别它们可以访问的系统和敏感数据。随着 AI 代理的增长，企业安全风险也随之增加。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "published_at": "2026-09-09T13:00:00+00:00",
+          "text": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access.",
+          "id": "a1b1ce38b26"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 106,
+    "articles_new": 22,
+    "articles_filtered": 46,
+    "tokens": {
+      "prompt_tokens": 17210,
+      "completion_tokens": 18539
+    }
+  },
+  "mock": false
+}
