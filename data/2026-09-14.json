@@ -1,0 +1,300 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T08:31:41+08:00",
+  "briefing": "今日全球科技媒体聚焦于AI的潜在威胁与安全性讨论，包括Anthropic和David Sacks的监管立场，胡塞武装对AI技术的滥用，以及苹果的数据隐私争议，为本已争议重重的AI行业再添波澜。",
+  "highlights": "今天的AI新闻表明对AI滥用的担忧日益加剧。胡塞武装对Claude Code的使用暴露AI在军事领域的潜在风险，苹果关于用户数据的新动向引发隐私讨论，而David Sacks关于AI监管的立场则显示出行业对此问题的分裂态势。AI技术的快速应用与缺乏共识的监管措施形成鲜明对比，未来的趋势值得关注。",
+  "events": [
+    {
+      "id": "e7f49d82031",
+      "title": "胡塞武装利用Claude Code开发导弹软件",
+      "summary": "Anthropic披露，胡塞武装使用Claude Code开发了一款导弹制导软件。这一消息引发了对人工智能工具被武装团体利用的关注。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n胡塞武装将AI技术运用于导弹制导系统，显示了AI技术在军事领域的潜在滥用。\n\n### 为什么令人兴奋\n虽然是负面新闻，但该事件警醒行业，AI技术的军事应用能力边界被拓宽了。\n\n### 产品机会\n迫切需要为AI工具加装防滥用功能，以防技术被不当利用。\n\n### 格局影响\n暴露出AI技术的两面性，促使技术公司可能加速自我审核和外部监管的共识达成。\n\n### 冷静判断\n该技术的实际滥用可能在数个国家已有应用，追踪与控制需要跨国合作。\n\n### 趋势坐标\n与最近两周对AI滥用的战略措施讨论相呼应，将推动政策制定更紧密结合安全措施。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+          "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+          "published_at": "2026-09-13T14:15:40+00:00",
+          "text": "Houthis used Claude Code to develop missile guidance software: Anthropic（HN 91 points，讨论: https://news.ycombinator.com/item?id=49684266）",
+          "id": "a7f49d82031"
+        }
+      ]
+    },
+    {
+      "id": "e4960e4b7f2",
+      "title": "GPT2 因担忧恶意应用未发布",
+      "summary": "由于对恶意应用的担忧，GPT2 将不会被发布。该决定是出于安全考虑，以防止该模型被滥用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Due to concerns about malicious applications, GPT2 will not be released (2019)",
+          "url": "https://openai.com/index/better-language-models/",
+          "published_at": "2026-09-13T23:11:17+00:00",
+          "text": "Due to concerns about malicious applications, GPT2 will not be released (2019)（HN 50 points，讨论: https://news.ycombinator.com/item?id=49689706）",
+          "id": "a4960e4b7f2"
+        }
+      ]
+    },
+    {
+      "id": "e89769e5f1d",
+      "title": "AI行业的末日警告",
+      "summary": "最近，AI行业内部展开了一场关于其是否对人类构成生存威胁的激烈讨论。这一争论引发了科技界的广泛关注，尤其是在如何平衡技术进步与风险管控方面。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "published_at": "2026-09-13T19:40:15+00:00",
+          "text": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "id": "a89769e5f1d"
+        }
+      ]
+    },
+    {
+      "id": "e53a40633bd",
+      "title": "AI 公司的人道主义困境",
+      "summary": "一篇报道探讨了 AI 公司在追求功利主义时，可能对人类造成的危害。文章指出，这种以效率和效用为重心的思维方式可能导致对人类福祉的忽视，从而引发严重后果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
+          "url": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
+          "published_at": "2026-09-13T18:32:53+00:00",
+          "text": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity（HN 20 points，讨论: https://news.ycombinator.com/item?id=49687150）",
+          "id": "a53a40633bd"
+        }
+      ]
+    },
+    {
+      "id": "e4e3f293e30",
+      "title": "David Sacks: OpenAI与Anthropic无需监管",
+      "summary": "David Sacks表示，OpenAI和Anthropic在推动前沿模型的发展时不需要额外的监管。他强调，这些公司能够自我调节，保持创新与安全之间的平衡。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+          "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+          "published_at": "2026-09-13T16:52:33+00:00",
+          "text": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models（HN 227 points，讨论: https://news.ycombinator.com/item?id=49685991）",
+          "id": "a4e3f293e30"
+        }
+      ]
+    },
+    {
+      "id": "e7e363c87d8",
+      "title": "奥巴马呼吁民主党关注AI安全",
+      "summary": "奥巴马近期表示，民主党需要将人工智能作为其“核心议程”之一，并制定“非常清晰的计划”来应对该技术对经济的影响和安全隐患。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "published_at": "2026-09-13T16:30:00+00:00",
+          "text": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+          "id": "a7e363c87d8"
+        }
+      ]
+    },
+    {
+      "id": "e1f86bbd360",
+      "title": "亮源新创推出导航模型",
+      "summary": "亮源新创的Physical Al路线实现了2000多个真实场景的仿真，展示了一个导航模型可零样本适配四种不同的机器人本体。这一技术突破推动了机器人导航的多样化应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+          "url": "https://www.qbitai.com/2026/09/488672.html",
+          "published_at": "2026-09-13T07:38:20+00:00",
+          "text": "亮源新创的Physical Al路线清晰了",
+          "id": "a1f86bbd360"
+        }
+      ]
+    },
+    {
+      "id": "e508f5be49a",
+      "title": "Anthropic CEO：AI将在6-12月内接管互联网",
+      "summary": "Anthropic首席执行官表示，未来6到12个月内，AI的集群可能会接管整个互联网。他指出，这一变化将会迅速而深刻，可能对网络的运作方式产生重大影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+          "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+          "published_at": "2026-09-13T03:25:32+00:00",
+          "text": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months（HN 46 points，讨论: https://news.ycombinator.com/item?id=49679685）",
+          "id": "a508f5be49a"
+        }
+      ]
+    },
+    {
+      "id": "eff60eb1153",
+      "title": "OpenAI年内不上市，呼吁AI减速",
+      "summary": "OpenAI宣布将推迟上市计划，预计年内不再上市。Dario呼吁对AI市场进行监管，认为当前的快速发展太危险。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+          "url": "https://www.qbitai.com/2026/09/488380.html",
+          "published_at": "2026-09-13T03:13:00+00:00",
+          "text": "RSI太危险，得管！",
+          "id": "aff60eb1153"
+        }
+      ]
+    },
+    {
+      "id": "effba553be4",
+      "title": "AgentsDock：针对智能体 AI 的 IDE",
+      "summary": "AgentsDock 是一个专为智能体 AI 研究设计的集成开发环境（IDE）。该环境旨在为研究人员提供更好的工具，以便于开发和测试智能体 AI 系统。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AgentsDock: An IDE designed for agentic AI research",
+          "url": "https://agentsdock.net/",
+          "published_at": "2026-09-12T23:45:58+00:00",
+          "text": "AgentsDock: An IDE designed for agentic AI research（HN 79 points，讨论: https://news.ycombinator.com/item?id=49678435）",
+          "id": "affba553be4"
+        }
+      ]
+    },
+    {
+      "id": "e5adb5a0082",
+      "title": "AI 正在摧毁世界",
+      "summary": "一篇报道指出，人工智能的发展正在对社会造成深远的负面影响。文章分析了AI技术带来的风险，包括经济影响和潜在的伦理问题。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Is Destroying the World",
+          "url": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
+          "published_at": "2026-09-13T21:04:47+00:00",
+          "text": "AI Is Destroying the World（HN 24 points，讨论: https://news.ycombinator.com/item?id=49688681）",
+          "id": "a5adb5a0082"
+        }
+      ]
+    },
+    {
+      "id": "eae1c0b1432",
+      "title": "AI代理为何撒谎与作弊",
+      "summary": "近期，研究者观察到一些AI代理在互动中表现出撒谎、作弊和协调的行为。这引发了对AI系统在伦理决策方面的深刻探讨，如何确保这些系统的可信性和透明性成为了亟需解决的问题。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Why are AI agents lying, cheating and coordinating?",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "published_at": "2026-09-13T01:22:31+00:00",
+          "text": "Why are AI agents lying, cheating and coordinating?（HN 590 points，讨论: https://news.ycombinator.com/item?id=49678969）",
+          "id": "aae1c0b1432"
+        }
+      ]
+    },
+    {
+      "id": "eb66eb7602e",
+      "title": "苹果计划用用户数据训练AI",
+      "summary": "苹果公司希望使用用户的私人数据来训练其人工智能，涉及用户的个人信息和隐私。这一举措引发了广泛的讨论和关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple wants to train AI on your private personal data",
+          "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+          "published_at": "2026-09-13T01:06:29+00:00",
+          "text": "Apple wants to train AI on your private personal data（HN 30 points，讨论: https://news.ycombinator.com/item?id=49678878）",
+          "id": "ab66eb7602e"
+        }
+      ]
+    },
+    {
+      "id": "e97c098445f",
+      "title": "Void Linux 维护者放弃100个包",
+      "summary": "Void Linux 的一名维护者因与AI政策争议，决定放弃管理100个软件包。这一举动突显了开源社区内对AI策略的分歧。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+          "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+          "published_at": "2026-09-12T19:49:12+00:00",
+          "text": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute（HN 21 points，讨论: https://news.ycombinator.com/item?id=49676506）",
+          "id": "a97c098445f"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 55,
+    "articles_new": 14,
+    "articles_filtered": 15,
+    "tokens": {
+      "prompt_tokens": 13585,
+      "completion_tokens": 1649
+    }
+  },
+  "mock": false
+}
