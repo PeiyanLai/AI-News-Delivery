@@ -1,0 +1,509 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T09:03:06+08:00",
+  "briefing": "今日导读：OpenAI收购智能手机相机制造商Glass Imaging，凸显其在扩展硬件理解领域的野心；微软发布AI行为准则，强调AI助力而非取代人类；MIT引入新安全合规方法，增强AI可靠性；GPT-6 Astra在代码审查中备受讨论，用户关注其性价比。",
+  "highlights": "今日看点：OpenAI收购Glass Imaging显示出AI公司对硬件理解工具的重视和资源整合的趋势。此外，全球对于AI的监管和安全提升成为关键，微软和MIT的动作正代表了这一可持续发展需求。今天的事件表明，行业正积极调整步伐以应对AI技术扩展下的风险和机遇。",
+  "events": [
+    {
+      "id": "e8fa040b2b2",
+      "title": "OpenAI收购Glass Imaging",
+      "summary": "据报道，OpenAI以3亿美元收购了智能手机相机制造商Glass Imaging。Glass Imaging由两名前苹果工程师创立，他们曾领导开发苹果的肖像模式。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI以3亿美元收购智能相机制造商，技术及资源整合。\n\n### 为什么令人兴奋\nOpenAI能够借助Glass Imaging的技术提升其影像处理及理解能力，潜在地推动硬件与软件AI的深度融合。\n\n### 产品机会\n未来可能推出更智能的拍照应用或设备，使普通设备具备高级摄影功能。\n\n### 格局影响\n这一步可能会加大苹果等科技巨头在AI与硬件结合领域的竞争压力。\n\n### 冷静判断\n收购仅为合作开始，实际产品影响仍需时间验证。\n\n### 趋势坐标\n呼应全球AI公司在硬件理解领域上的探索，例如过去对图像处理芯片的关注。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "published_at": "2026-09-14T20:44:14+00:00",
+          "text": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+          "id": "a8fa040b2b2"
+        }
+      ]
+    },
+    {
+      "id": "ec0a7526f25",
+      "title": "微软发布AI行为准则",
+      "summary": "微软发布了一份新的AI行为准则，要求其AI模型遵循一般原则，例如支持人类而非取代人类，以及促进人类繁荣。此外，准则中还包含具体的安全约束，以实施这些原则。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n微软发布AI行为准则，明确AI发展方向。\n\n### 为什么令人兴奋\n表明公司重视道德和安全，推进AI的稳健发展。\n\n### 产品机会\n这些准则可能催生新型合规和道德评估工具。\n\n### 格局影响\n微软的行动有望成为行业标准，提升整体AI部署的公信力。\n\n### 冷静判断\n现阶段更多是方向性指导，实际影响尚需观察。\n\n### 趋势坐标\n延续全球对AI安全性的重视，符合一系列关于AI道德标准制定的趋势。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "published_at": "2026-09-14T16:27:53+00:00",
+          "text": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+          "id": "ac0a7526f25"
+        }
+      ]
+    },
+    {
+      "id": "e82404ffdc9",
+      "title": "GPT-5.6 Luna 与 GPT-6 Astra 比较",
+      "summary": "文章讨论了 GPT-5.6 Luna 和 GPT-6 Astra 之间的性能差异，重点关注 GPT-6 Astra 的 $1.20 定价是否适合用于代码审查。许多用户在评论中分享了他们的看法和使用经验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+          "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+          "published_at": "2026-09-14T19:56:20+00:00",
+          "text": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?（HN 103 points，讨论: https://news.ycombinator.com/item?id=49703003）",
+          "id": "a82404ffdc9"
+        }
+      ]
+    },
+    {
+      "id": "e71e0793ee3",
+      "title": "替代反向传播的新方法",
+      "summary": "研究者提出了一种名为Augmented Lagrangian Predictive Coding的替代反向传播算法。这种新方法旨在改善现有深度学习模型的训练效率和准确性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+          "url": "https://pub.sakana.ai/pc-alm/",
+          "published_at": "2026-09-14T18:03:12+00:00",
+          "text": "Backprop Alternative: Augmented Lagrangian Predictive Coding（HN 36 points，讨论: https://news.ycombinator.com/item?id=49701182）",
+          "id": "a71e0793ee3"
+        }
+      ]
+    },
+    {
+      "id": "e310d4fd049",
+      "title": "Pion：自主运营公司代理",
+      "summary": "Pion 是一款旨在自主运营公司的代理软件。它的设计目标是使企业能够在无需人工干预的情况下高效运作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Pion, an agent designed to run any company autonomously",
+          "url": "https://andonlabs.com/blog/why-we-built-pion",
+          "published_at": "2026-09-14T17:16:06+00:00",
+          "text": "Pion, an agent designed to run any company autonomously（HN 276 points，讨论: https://news.ycombinator.com/item?id=49700477）",
+          "id": "a310d4fd049"
+        }
+      ]
+    },
+    {
+      "id": "efae876fac8",
+      "title": "LLM法官一致性分析",
+      "summary": "有研究探讨了当多个大型语言模型（LLM）法官达成一致时，我们是否应当相信他们的判断。文章引发了关于机器判断可靠性的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "When LLM judges agree, should we believe them?",
+          "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+          "published_at": "2026-09-14T16:29:30+00:00",
+          "text": "When LLM judges agree, should we believe them?（HN 50 points，讨论: https://news.ycombinator.com/item?id=49699590）",
+          "id": "afae876fac8"
+        }
+      ]
+    },
+    {
+      "id": "e294838c945",
+      "title": "MIT推新方法确保AI安全合规",
+      "summary": "麻省理工学院（MIT）开发了一种新的方法，可以迫使人工智能系统遵守安全规则。这项技术旨在增强人工智能的可靠性，确保其在执行任务时不违反预定的安全标准。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "MIT creates method to force AI to comply with safety rules",
+          "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
+          "published_at": "2026-09-14T16:18:17+00:00",
+          "text": "MIT creates method to force AI to comply with safety rules（HN 26 points，讨论: https://news.ycombinator.com/item?id=49699434）",
+          "id": "a294838c945"
+        }
+      ]
+    },
+    {
+      "id": "ed1c66e6e7b",
+      "title": "中国监管机构瞄准“AI Boyfriends”",
+      "summary": "中国监管机构对“AI Boyfriends”进行监管，关注其对青少年用户的潜在影响。此类AI程序可能会影响用户的情感和社交能力，因此需要引导其健康发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
+          "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+          "published_at": "2026-09-14T15:30:56+00:00",
+          "text": "China's Regulators Take Aim at \"AI Boyfriends\"（HN 54 points，讨论: https://news.ycombinator.com/item?id=49698664）",
+          "id": "ad1c66e6e7b"
+        }
+      ]
+    },
+    {
+      "id": "e68869572f0",
+      "title": "基础模型工程：从理论到生产",
+      "summary": "一篇讨论基础模型工程如何从理论转向生产实践的文章。文章探讨了使用基础模型（Foundation Model）的技术细节及其在实际应用中的挑战与解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Foundation Model Engineering: From Theory to Production",
+          "url": "https://sungeuns.github.io/foundation-model-engineering/",
+          "published_at": "2026-09-14T15:27:48+00:00",
+          "text": "Foundation Model Engineering: From Theory to Production（HN 36 points，讨论: https://news.ycombinator.com/item?id=49698603）",
+          "id": "a68869572f0"
+        }
+      ]
+    },
+    {
+      "id": "e2201ce161f",
+      "title": "Transitions.dev: AI代理的界面过渡",
+      "summary": "Transitions.dev 是一个为 AI 代理提供用户界面过渡的工具，旨在提升用户体验。该平台允许开发者创建流畅的界面动画，以更好地与 AI 互动。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Transitions.dev: UI transitions for AI agents",
+          "url": "https://transitions.dev/",
+          "published_at": "2026-09-14T15:18:58+00:00",
+          "text": "Transitions.dev: UI transitions for AI agents（HN 23 points，讨论: https://news.ycombinator.com/item?id=49698443）",
+          "id": "a2201ce161f"
+        }
+      ]
+    },
+    {
+      "id": "e555ad15ff3",
+      "title": "2026年AI就业市场展望",
+      "summary": "关于2026年AI就业市场的预测显示，随着AI技术的发展，相关职位需求将显著增加。预计在这一领域将出现新的职业机会，尤其是数据科学、机器学习和自然语言处理等方向。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The AI job market in 2026",
+          "url": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+          "published_at": "2026-09-14T13:49:57+00:00",
+          "text": "The AI job market in 2026（HN 63 points，讨论: https://news.ycombinator.com/item?id=49696867）",
+          "id": "a555ad15ff3"
+        }
+      ]
+    },
+    {
+      "id": "e8d0a4eff77",
+      "title": "Temporal 筹集 5.5 亿美元融资",
+      "summary": "Temporal 公司成功融资 5.5 亿美元，使其估值达 125.5 亿美元。这轮融资将用于加速其业务扩展和技术开发。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Temporal raises $550M at a $12.55B valuation",
+          "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+          "published_at": "2026-09-14T13:16:31+00:00",
+          "text": "Temporal raises $550M at a $12.55B valuation（HN 74 points，讨论: https://news.ycombinator.com/item?id=49696335）",
+          "id": "a8d0a4eff77"
+        }
+      ]
+    },
+    {
+      "id": "ef27fe1e959",
+      "title": "苹果 Siri 可替换为 Claude 和 ChatGPT",
+      "summary": "代码显示，苹果的 Siri 人工智能可以被Claude或ChatGPT替换。这一发现引发了对苹果AI助手未来发展的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+          "published_at": "2026-09-14T12:01:32+00:00",
+          "text": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows（HN 219 points，讨论: https://news.ycombinator.com/item?id=49695409）",
+          "id": "af27fe1e959"
+        }
+      ]
+    },
+    {
+      "id": "e296d33defd",
+      "title": "Fyxer推出可信赖AI助理",
+      "summary": "Fyxer使用OpenAI模型，对用户的邮箱进行整理，并根据用户的语气撰写邮件。该平台结合了微调、记忆功能和真实用户反馈，以提高助理的实用性和可信度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "published_at": "2026-09-14T12:00:00+00:00",
+          "text": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "id": "a296d33defd"
+        }
+      ]
+    },
+    {
+      "id": "e4ae9bf02b2",
+      "title": "大AI提出监管要求",
+      "summary": "大AI公司公布了其监管要求，开始寻求在行业内获得更多的控制权。这一举措旨在确保新兴技术的监管既符合创新需求，又能维护市场竞争性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Big AI sets out its terms for regulatory capture",
+          "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+          "published_at": "2026-09-14T10:28:28+00:00",
+          "text": "Big AI sets out its terms for regulatory capture（HN 116 points，讨论: https://news.ycombinator.com/item?id=49694596）",
+          "id": "a4ae9bf02b2"
+        }
+      ]
+    },
+    {
+      "id": "eff0406df9b",
+      "title": "RSI推出自我进化机器人技术",
+      "summary": "量子位报道，RSI（Robot Systems Integration）开发了新的生数世界模型，使机器人能够开始自我进化。该技术有望显著提升机器人的自主学习和适应能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+          "url": "https://www.qbitai.com/2026/09/489037.html",
+          "published_at": "2026-09-14T09:36:28+00:00",
+          "text": "",
+          "id": "aff0406df9b"
+        }
+      ]
+    },
+    {
+      "id": "e95feb55130",
+      "title": "金融AI公司再获超3亿B轮融资",
+      "summary": "这家金融AI公司在一年内完成了三轮融资，最新一轮B轮融资金额超过3亿人民币。险资、券商及头部创投机构对此持续加码。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "一年连融三轮，这家金融AI公司又拿下超3亿B轮",
+          "url": "https://www.qbitai.com/2026/09/488912.html",
+          "published_at": "2026-09-14T07:55:12+00:00",
+          "text": "险资、券商与头部创投持续加码",
+          "id": "a95feb55130"
+        }
+      ]
+    },
+    {
+      "id": "e2ced7c6096",
+      "title": "2026崇礼论坛聚焦未来AI与生活",
+      "summary": "2026年崇礼论坛将聚焦未来智能生活及下一代AI创造者的角色。此次论坛将探讨在AI时代下，我们的生活方式、影像和创造力的变革。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会",
+          "url": "https://www.qbitai.com/2026/09/488875.html",
+          "published_at": "2026-09-14T06:20:36+00:00",
+          "text": "共话AI时代的生活、影像与创造。",
+          "id": "a2ced7c6096"
+        }
+      ]
+    },
+    {
+      "id": "eea4e0ef977",
+      "title": "谁来定义AI的规则？",
+      "summary": "在AI发展迅速的背景下，谁有权利定义和制定AI的规则引发了广泛讨论。各方对此问题的意见不一，反映出对AI未来方向的不同看法和关切。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Who gets to define the rules for AI?",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "published_at": "2026-09-14T04:49:51+00:00",
+          "text": "Who gets to define the rules for AI?（HN 46 points，讨论: https://news.ycombinator.com/item?id=49692118）",
+          "id": "aea4e0ef977"
+        }
+      ]
+    },
+    {
+      "id": "eddcd102267",
+      "title": "MetaRSI 小模型突破新瓶颈",
+      "summary": "Meta的RSI（Reinforcement-Supervised Interactions）技术在小模型方面取得了突破，标志着AI开始能够自主改进方法。这一进展不仅在小模型上产生了显著效果，也为旗舰模型的进一步发展开辟了新的空间。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+          "url": "https://www.qbitai.com/2026/09/488832.html",
+          "published_at": "2026-09-14T03:45:46+00:00",
+          "text": "小模型突破瓶颈，旗舰模型打开新空间",
+          "id": "addcd102267"
+        }
+      ]
+    },
+    {
+      "id": "ea5147b78f4",
+      "title": "PhysBrain 1.5 登顶全球开源榜",
+      "summary": "中国公司PhysBrain 1.5 在全球开源榜单中获得第一名。该公司在物理闭环研究中取得重大突破，成功实现空间智能与GPT-6 Astra 的并驾齐驱。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱",
+          "url": "https://www.qbitai.com/2026/09/488725.html",
+          "published_at": "2026-09-14T03:18:42+00:00",
+          "text": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+          "id": "aa5147b78f4"
+        }
+      ]
+    },
+    {
+      "id": "e88436a0730",
+      "title": "AI 技术的独特性探讨",
+      "summary": "一篇报道指出，AI 并非普通技术，其应用和影响与传统技术有显著不同。作者探讨了这一点，并强调了 AI 可能带来的深远变化和挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI is not a normal technology",
+          "url": "https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology",
+          "published_at": "2026-09-14T01:00:09+00:00",
+          "text": "AI is not a normal technology（HN 39 points，讨论: https://news.ycombinator.com/item?id=49690529）",
+          "id": "a88436a0730"
+        }
+      ]
+    },
+    {
+      "id": "e1cf3b72857",
+      "title": "首届蚂蚁灵波大模型挑战赛启动",
+      "summary": "蚂蚁灵波正式启动首届 LingBot-VLA 具身大模型挑战赛。此举旨在将 LingBot-VLA 推向更广泛的开发者社区和高校科研社区。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+          "url": "https://www.qbitai.com/2026/09/489105.html",
+          "published_at": "2026-09-14T09:47:07+00:00",
+          "text": "通过这场大赛，蚂蚁灵波希望将 LingBot-VLA 进一步推向更广泛的开发者社区和高校科研社区",
+          "id": "a1cf3b72857"
+        }
+      ]
+    },
+    {
+      "id": "e2ac9917a15",
+      "title": "商汤大装置获双5A认证",
+      "summary": "商汤大装置临港AIDC获得全国唯一的“算效+算电”双5A认证，标志着业界首个5A算电协同认证的诞生。该认证证明了商汤在计算效率和能耗协同方面的领先水平。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+          "url": "https://www.qbitai.com/2026/09/489106.html",
+          "published_at": "2026-09-14T09:46:40+00:00",
+          "text": "业界首个5A算电协同认证",
+          "id": "a2ac9917a15"
+        }
+      ]
+    },
+    {
+      "id": "e5732a6a965",
+      "title": "QuantaMind：让AI为分子“拍电影”",
+      "summary": "分子之心QuantaMind发表在《Science Advances》上，标志着AI在蛋白质设计领域进入了“动态时代”。该技术利用AI模拟分子的运动，为科学家提供更加直观的数据，从而帮助理解和设计新蛋白质。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+          "url": "https://www.qbitai.com/2026/09/489023.html",
+          "published_at": "2026-09-14T08:17:22+00:00",
+          "text": "AI 蛋白质设计迈入“动态时代”",
+          "id": "a5732a6a965"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 84,
+    "articles_new": 25,
+    "articles_filtered": 33,
+    "tokens": {
+      "prompt_tokens": 17626,
+      "completion_tokens": 2498
+    }
+  },
+  "mock": false
+}
