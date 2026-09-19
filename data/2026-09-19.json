@@ -1,0 +1,377 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T08:45:00+08:00",
+  "briefing": "今日AI领域动态丰富，包括OpenAI用LLM设计食品、Accenture开展风险咨询、以及大语言模型安全与通信研究的突破。各项事件显示AI技术正加速多领域渗透。",
+  "highlights": "今天的几件事显示人工智能正从背后的工具向前台应用过渡。OpenAI用大语言模型设计食品展示了AI在传统行业创新的潜力，而Anthropic与Accenture的合作标志着咨询业向AI技术应用的进一步探索。与此同时，关于LLM安全性和通信的新研究表明，在确保AI系统安全的同时，提升它们的通信能力仍是当前亟待解决的挑战。这些变化共同表明，人工智能正在加速成为各行各业中的核心力量。",
+  "events": [
+    {
+      "id": "e64adcb8eec",
+      "title": "OpenAI 用 LLM 设计辣椒薯片",
+      "summary": "OpenAI 利用其自家大语言模型（LLM）研发了一款新的辣椒薯片产品，名为 Jalapeño Chip。这一设计过程展示了 AI 技术在食品开发领域的应用潜力。",
+      "tier": "must_read",
+      "insight": "{'一句话本质': 'OpenAI用其大语言模型设计了一款辣椒薯片，这是首次将AI应用于食品开发的案例。', '为什么令人兴奋': 'AI不仅能用于数据和文本分析，还能帮助开发新产品，展示其广泛应用潜力。', '产品机会': '食品与饮料行业可借助AI快速迭代产品开发，缩短研发周期，增强市场响应速度。', '格局影响': '这一应用破除了AI作为数据分析工具的单一认知，可能引发食品工业的AI采纳热潮。', '冷静判断': '虽然概念新颖，但生产应用成熟尚需验证和大规模推广的经验积累。', '趋势坐标': '印证了AI正在向传统行业渗透并成为创新驱动力的趋势。呼应了AI在工业应用上的前景广阔。'}",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "published_at": "2026-09-18T23:04:17+00:00",
+          "text": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip（HN 35 points，讨论: https://news.ycombinator.com/item?id=49761432）",
+          "id": "a64adcb8eec"
+        }
+      ]
+    },
+    {
+      "id": "e8503b185b6",
+      "title": "Accenture 接手 Anthropic 咨询项目",
+      "summary": "Accenture 即将展开其迄今为止风险最大的咨询项目，涉及与人工智能公司 Anthropic 的首次嵌入式评估合作。这标志着 Accenture 进入了一个充满挑战的新领域。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+          "published_at": "2026-09-18T21:44:33+00:00",
+          "text": "Accenture is about to take on its most high-risk consulting engagement ever.",
+          "id": "a8503b185b6"
+        }
+      ]
+    },
+    {
+      "id": "e048f237762",
+      "title": "LLM 安全的语言不可读性影响",
+      "summary": "文章探讨了语言不可读性对大型语言模型（LLM）安全性的影响。研究指出，语言模型的学习能力可能导致它们在面对特定攻击时表现出不可预测的行为，从而影响安全性和可靠性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The Implications of Linguistic Illegibility for LLM Security",
+          "url": "https://arxiv.org/abs/2609.02852",
+          "published_at": "2026-09-18T19:00:06+00:00",
+          "text": "The Implications of Linguistic Illegibility for LLM Security（HN 47 points，讨论: https://news.ycombinator.com/item?id=49758689）",
+          "id": "a048f237762"
+        }
+      ]
+    },
+    {
+      "id": "e6496bc2702",
+      "title": "LLMs 之间的直接语义通信",
+      "summary": "2025年，研究者提出了一种名为Cache-to-Cache的方法，实现了大语言模型（LLMs）之间的直接语义通信。这一创新有望加速信息传递和处理效率，改变人工智能系统之间的交互方式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "url": "https://arxiv.org/abs/2510.03215",
+          "published_at": "2026-09-18T18:55:35+00:00",
+          "text": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)（HN 63 points，讨论: https://news.ycombinator.com/item?id=49758615）",
+          "id": "a6496bc2702"
+        }
+      ]
+    },
+    {
+      "id": "eb311cc8207",
+      "title": "新型AI模型Jev引发开发者关注",
+      "summary": "新的AI模型Jev由ChatGPT的发明者研发，正在为开发者提供一种更便宜、更快速的软件智能解决方案。该模型展示了在软件开发领域的潜力，吸引了众多开发者的兴趣。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+          "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+          "published_at": "2026-09-18T18:49:30+00:00",
+          "text": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+          "id": "ab311cc8207"
+        }
+      ]
+    },
+    {
+      "id": "e802486953d",
+      "title": "弗吉尼亚州成立AI工作组",
+      "summary": "弗吉尼亚州州长阿比盖尔·斯潘伯格下令采取措施，赋予地方社区更多权力，就数据中心的发展进行更大程度的控制。发布的行政命令禁止执行部门官员为数据中心项目签署保密协议，并要求采取噪音法规和备份发电操作的审查等措施。同时，成立了一个AI工作组，负责评估州政府如何应对对弗吉尼亚人的潜在风险。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+          "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+          "published_at": "2026-09-18T18:29:17+00:00",
+          "text": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world . Executive Order 22 bans executive branch officials from signing nondisclosure agreements for data center projects, requires expedited noise regulations, and requires a review of backup-generation operations used by data centers, among other requirements. The order also establishes an AI task force responsible for evaluating how the state government can address risks to Virginians like wo … Read the full story at The Verge.",
+          "id": "a802486953d"
+        }
+      ]
+    },
+    {
+      "id": "e96293117e2",
+      "title": "Google CC AI 助家庭管理事务",
+      "summary": "Google 正在重新聚焦其 CC AI 助手，旨在帮助家庭进行日常协调。这个 AI 能够共享电子邮件、日程和任务，以便管理日历、填写表单、制作购物清单、计划餐饮等。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+          "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+          "published_at": "2026-09-18T17:33:50+00:00",
+          "text": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+          "id": "a96293117e2"
+        }
+      ]
+    },
+    {
+      "id": "e176ec7b3e8",
+      "title": "美军因AI误报险遭攻击",
+      "summary": "美军在使用人工智能生成情报报告时，出现了虚假信息，差点造成严重后果。该报告的错误信息可能导致误判和错误决策，给军方带来了不必要的风险。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "US Military had close call after using AI for hallucinated intelligence report",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "published_at": "2026-09-18T17:28:01+00:00",
+          "text": "US Military had close call after using AI for hallucinated intelligence report（HN 382 points，讨论: https://news.ycombinator.com/item?id=49757520）",
+          "id": "a176ec7b3e8"
+        }
+      ]
+    },
+    {
+      "id": "e2de2edcf5a",
+      "title": "加州推行AI“杀开关”政策",
+      "summary": "加利福尼亚州州长加文·纽森（Gavin Newsom）发布新的行政命令，推动AI监管，包括可能要求前沿模型具备“杀开关”。该命令要求州内专家组在两个月内提交关于如何加强AI安全措施的建议，考虑要求AI公司在场地内设置独立验证组以进行定期审计。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Gavin Newsom is pushing for an AI kill switch",
+          "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+          "published_at": "2026-09-18T17:04:51+00:00",
+          "text": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to strengthen AI safety measures in state law. Newsom wants the group to consider how the state could require AI companies to embed independent verification groups onsite for regular audits, make their transparency reports and risk assessments subject to standards of independent auditors, create a \"kill switch\" that's … Read the full story at The Verge.",
+          "id": "a2de2edcf5a"
+        }
+      ]
+    },
+    {
+      "id": "e9fceb02210",
+      "title": "Nvidia 在 TechCrunch Disrupt 2026 演讲",
+      "summary": "Nvidia 的 Nader Khalil 和 Sydney Sykes 在 TechCrunch Disrupt 2026 的 Builders Stage 上讨论了影响下一代初创公司的开放与封闭 AI 的决策。此次讨论聚焦于 AI 领域的关键选择及其对创业公司的影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+          "published_at": "2026-09-18T15:30:00+00:00",
+          "text": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+          "id": "a9fceb02210"
+        }
+      ]
+    },
+    {
+      "id": "e3e4f25a070",
+      "title": "GrassLobster 发布 AI 生成几何工作流",
+      "summary": "GrassLobster 推出了一种能够自动生成参数化几何工作流的 AI 工具。该工具旨在简化和优化设计过程，提高工作效率。使用者能够通过该 AI 代理快速创建复杂的几何模型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+          "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+          "published_at": "2026-09-18T15:04:54+00:00",
+          "text": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows（HN 28 points，讨论: https://news.ycombinator.com/item?id=49755431）",
+          "id": "a3e4f25a070"
+        }
+      ]
+    },
+    {
+      "id": "ede7b557ecd",
+      "title": "AI 聊天机器人改变人们观点",
+      "summary": "AI 聊天机器人正逐渐成为改变人们观点的专家，能够通过对话影响用户的想法和信念。这一现象反映出AI在心理影响和行为改变中的潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI chatbots are becoming experts at changing people's minds",
+          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+          "published_at": "2026-09-18T13:39:27+00:00",
+          "text": "AI chatbots are becoming experts at changing people's minds（HN 81 points，讨论: https://news.ycombinator.com/item?id=49754250）",
+          "id": "ade7b557ecd"
+        }
+      ]
+    },
+    {
+      "id": "e405bd528b1",
+      "title": "具身智能技术路线与基础设施发展",
+      "summary": "具身智能技术的路线尚未明确，但其基础设施已逐渐收敛。为了实现从一次成功到上万次稳定执行的目标，该领域仍需解决一些关键问题和挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "具身智能技术路线尚未定型，基础设施却先收敛",
+          "url": "https://www.qbitai.com/2026/09/492238.html",
+          "published_at": "2026-09-18T13:16:33+00:00",
+          "text": "从一次成功到一万次稳定执行，具身智能还缺什么？",
+          "id": "a405bd528b1"
+        }
+      ]
+    },
+    {
+      "id": "ea32300e4c9",
+      "title": "AGI在医院的应用探索",
+      "summary": "一项研究表明，通用人工智能（AGI）在医院环境中取得了重要进展。尽管有对失业的担忧，医务工作者们对此技术持积极态度，甚至催促其尽快上线。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+          "url": "https://www.qbitai.com/2026/09/491875.html",
+          "published_at": "2026-09-18T06:11:06+00:00",
+          "text": "用通用AI去啃最硬的骨头，这条路走得通",
+          "id": "aa32300e4c9"
+        }
+      ]
+    },
+    {
+      "id": "e38cf8e2889",
+      "title": "Claude Code 技术免费开放",
+      "summary": "Claude Code 刚刚完成了重构，内部的 3 万个 Agent 管理技术现已免费向公众开放。这一举措引发了对 Git 的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+          "url": "https://www.qbitai.com/2026/09/491711.html",
+          "published_at": "2026-09-18T00:34:34+00:00",
+          "text": "Git白学了？？？",
+          "id": "a38cf8e2889"
+        }
+      ]
+    },
+    {
+      "id": "e47b87cc27b",
+      "title": "Anthropic 与 Accenture 合作",
+      "summary": "Anthropic 于2026年9月18日宣布与 Accenture 达成合作，推出嵌入式评估服务。该合作旨在提升AI系统的评估能力，以更好地集成和应用在实际场景中。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
+          "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+          "published_at": "",
+          "text": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
+          "id": "a47b87cc27b"
+        }
+      ]
+    },
+    {
+      "id": "e715747f3f7",
+      "title": "Anthropic 增加 Claude Code 的 AGENTS.md 支持",
+      "summary": "Anthropic 终于为 Claude Code 添加了对 AGENTS.md 的支持。这一更新将增强用户在开发过程中的功能和灵活性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic finally adds AGENTS.md support to Claude Code",
+          "url": "https://twitter.com/trq212/status/2101009392611278961",
+          "published_at": "2026-09-18T18:26:34+00:00",
+          "text": "Anthropic finally adds AGENTS.md support to Claude Code（HN 43 points，讨论: https://news.ycombinator.com/item?id=49758250）",
+          "id": "a715747f3f7"
+        }
+      ]
+    },
+    {
+      "id": "e3d6b79b693",
+      "title": "无问芯穹与华环电子签署合作协议",
+      "summary": "无问芯穹与华环电子签署战略合作协议，双方将共同探索国产异构算力AI基础设施的新方向。此合作旨在协同布局AI基础设施，推动国内相关技术的发展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+          "url": "https://www.qbitai.com/2026/09/492426.html",
+          "published_at": "2026-09-18T15:58:21+00:00",
+          "text": "协同布局AI基础设施",
+          "id": "a3d6b79b693"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 87,
+    "articles_new": 18,
+    "articles_filtered": 33,
+    "tokens": {
+      "prompt_tokens": 15657,
+      "completion_tokens": 2091
+    }
+  },
+  "mock": false
+}
