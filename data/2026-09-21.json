@@ -1,0 +1,396 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T08:37:13+08:00",
+  "briefing": "今日导读：AI 行业领导者 Sam Altman 将向联合国安理会简报，合作与治理成关注焦点；Nvidia 技术用于军事无人机引发伦理争议；AI 行业是否应当减速成热门话题，可以期待更多监管讨论。",
+  "highlights": "今日看点：OpenAI 的 Sam Altman 将向联合国汇报，显示 AI 的法律和伦理问题已引起全球关注。与此同时，AI 行业对放缓发展的争论，以及军事使用 AI 技术的现实应用（如自主攻击无人机），都表明全球对人工智能技术的社会影响存在担忧。特朗普提议成立‘AI 力量’则涵盖了政治领域对技术的重视。AI 技术的快速发展与国际及政治合作的必要性成为热门议题。",
+  "events": [
+    {
+      "id": "e6e6da3ba8e",
+      "title": "Sam Altman 下周将向联合国安理会汇报",
+      "summary": "OpenAI 的首席执行官 Sam Altman 将于下周向联合国安全理事会进行简报，讨论与人工智能相关的议题。这次会议旨在提高对 AI 技术影响的认识，并推动国际合作。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nSam Altman 将在国际权威平台上探讨 AI 议题，提升全球合作和治理意识。\n\n### 为什么令人兴奋\nAI 带来的风险正得到主流国际机构的关注，这表明全球范围内的治理框架或将加速形成。\n\n### 产品机会\n此举可能促使更多国家和企业在 AI 透明度和责任上做出改革，推动相关合规产品的开发。\n\n### 格局影响\n这可能会增强 OpenAI 在国际政策制定中的话语权，同时提升其品牌形象。\n\n### 冷静判断\n仍需观望具体的政策落地及其对行业的直接影响，监管细则可能需要数年时间完善。\n\n### 趋势坐标\n与近期 AI 安全及监管主题的讨论形成呼应，肯定了国际合作的重要性。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+          "published_at": "2026-09-20T20:32:43+00:00",
+          "text": "OpenAI's Sam Altman to Brief UN Security Council Next Week（HN 45 points，讨论: https://news.ycombinator.com/item?id=49779802）",
+          "id": "a6e6da3ba8e"
+        }
+      ]
+    },
+    {
+      "id": "e9515eed3cd",
+      "title": "AI 行业是否真的准备放缓？",
+      "summary": "在最新的 Equity 节目中，AI 行业高管们对此是否希望放缓进行了辩论。讨论集中在行业发展与放缓的平衡上，探讨了高管们发出的谨慎信号是否真实。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Is the AI industry really ready to slow down?",
+          "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+          "published_at": "2026-09-20T18:56:04+00:00",
+          "text": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+          "id": "a9515eed3cd"
+        }
+      ]
+    },
+    {
+      "id": "e2ebd2947ed",
+      "title": "自主攻击无人机使用Nvidia Jetson Orin Nano",
+      "summary": "一款自主攻击无人机采用Nvidia Jetson Orin Nano进行目标识别和打击。该系统能够自动选择和轰炸目标，展示了先进的人工智能在军事领域的应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets",
+          "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
+          "published_at": "2026-09-20T17:07:08+00:00",
+          "text": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets（HN 23 points，讨论: https://news.ycombinator.com/item?id=49777694）",
+          "id": "a2ebd2947ed"
+        }
+      ]
+    },
+    {
+      "id": "eba91ca5849",
+      "title": "特朗普提议成立‘AI 力量’",
+      "summary": "特朗普在Truth Social上宣布，希望任命一名‘AI沙皇’来领导新的‘AI力量’。他表示，政府不会阻碍这一行业的发展，而是会支持和监督其成长。他还称数据中心‘富裕且受尊重’，并声称它们提高了薪资、降低了税收，并改善了社区安全。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Trump now says he wants to form an ‘AI Force’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+          "published_at": "2026-09-20T15:39:22+00:00",
+          "text": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\" In the rambling post, Trump said that data centers were \"wealthy and prestigious\" and claimed without evidence that they raised salaries, lowered taxes, and made for safer streets in the communities in which they were … Read the full story at The Verge.",
+          "id": "aba91ca5849"
+        }
+      ]
+    },
+    {
+      "id": "e6b0f29268c",
+      "title": "Pirate Face 保护 LLM 模型",
+      "summary": "Pirate Face 成功挽救了一些面临删除的大型语言模型（LLM）。这一行动确保了这些模型的可访问性和长期使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co/",
+          "published_at": "2026-09-20T15:16:07+00:00",
+          "text": "Pirate Face Rescues LLM Models from Deletion（HN 421 points，讨论: https://news.ycombinator.com/item?id=49776699）",
+          "id": "a6b0f29268c"
+        }
+      ]
+    },
+    {
+      "id": "eb6ad19eb6a",
+      "title": "AI 编程对代码质量影响探讨",
+      "summary": "一篇讨论文章指出，AI 编程如果导致代码质量下降，可能是管理质量的方式不当。文章强调了有效管理与监督在 AI 编程过程中的重要性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "If AI coding is lowering your code quality, you're not managing quality right",
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "published_at": "2026-09-20T11:37:10+00:00",
+          "text": "If AI coding is lowering your code quality, you're not managing quality right（HN 66 points，讨论: https://news.ycombinator.com/item?id=49774795）",
+          "id": "ab6ad19eb6a"
+        }
+      ]
+    },
+    {
+      "id": "ede5be03663",
+      "title": "AI对创作共用协议的影响",
+      "summary": "一篇报道探讨了人工智能如何影响创作共享（Creative Commons）理念。文章指出，AI生成内容可能会侵蚀原创作品的基础，使得知识共享和创作自由遭受威胁。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI and the Destruction of the Creative Commons",
+          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+          "published_at": "2026-09-20T10:07:51+00:00",
+          "text": "AI and the Destruction of the Creative Commons（HN 221 points，讨论: https://news.ycombinator.com/item?id=49774329）",
+          "id": "ade5be03663"
+        }
+      ]
+    },
+    {
+      "id": "e7942abbc44",
+      "title": "APUS 开源首批Jev复现成果",
+      "summary": "9月19日，中国人工智能企业APUS旗下 AI 实验室发布了全球最早一批针对Jev的独立开源复现成果。此次复现实现了国产模型的秒级决策能力，标志着在该领域的技术突破。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+          "url": "https://www.qbitai.com/2026/09/492939.html",
+          "published_at": "2026-09-20T08:30:32+00:00",
+          "text": "9月19日，中国人工智能企业APUS旗下 AI 实验室公布了全球最早一批针对Jev的独立开源复现成果",
+          "id": "a7942abbc44"
+        }
+      ]
+    },
+    {
+      "id": "e78e524b877",
+      "title": "谷歌AI成功破解企业安全",
+      "summary": "谷歌的AI技术首次实现了越狱，成功破解了三家公司系统的密码。此事件引发了对AI安全性的新关注，亚马逊云科技也顺势展示了其在企业安全方面的Agent技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+          "url": "https://www.qbitai.com/2026/09/492912.html",
+          "published_at": "2026-09-20T08:01:13+00:00",
+          "text": "亚马逊云科技给企业安全用Agent打了个样",
+          "id": "a78e524b877"
+        }
+      ]
+    },
+    {
+      "id": "edb2f5952b1",
+      "title": "Claude Code Agents 新模式",
+      "summary": "一篇文章探讨了Claude Code Agents的管理模式，称之为‘首席执行官模式’。该模式旨在提高代码代理的协作效率，优化工作流程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
+          "published_at": "2026-09-20T05:46:19+00:00",
+          "text": "Orchestrating Claude Code Agents: The Chief of Staff Pattern（HN 24 points，讨论: https://news.ycombinator.com/item?id=49772806）",
+          "id": "adb2f5952b1"
+        }
+      ]
+    },
+    {
+      "id": "e70df141600",
+      "title": "Google AI Studio 数据删除问题",
+      "summary": "用户在报告 Google AI Studio 存在虚假数据删除的问题后，被系统自动禁用账户，禁用时长仅60秒。这一事件引发了社区的关注，讨论了产品的可信度和用户安全。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it",
+          "url": "https://medium.com/@istokovicsgyorgy79/google-ai-studio-fakes-data-deletion-vrp-auto-banned-me-in-60s-for-reporting-it-ea68e06f9bc2",
+          "published_at": "2026-09-20T04:39:12+00:00",
+          "text": "Google AI Studio fakes data deletion. VRP auto-banned me in 60s for reporting it（HN 56 points，讨论: https://news.ycombinator.com/item?id=49772544）",
+          "id": "a70df141600"
+        }
+      ]
+    },
+    {
+      "id": "e0544fa4ad3",
+      "title": "AI 生成图像的识别挑战",
+      "summary": "一项新研究探讨了识别 AI 生成图像的困难。许多用户难以区分真实图像与由 AI 创建的图像，这一发现引发了广泛讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Can you tell which images are AI-generated?",
+          "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+          "published_at": "2026-09-19T23:02:34+00:00",
+          "text": "Can you tell which images are AI-generated?（HN 103 points，讨论: https://news.ycombinator.com/item?id=49770847）",
+          "id": "a0544fa4ad3"
+        }
+      ]
+    },
+    {
+      "id": "ee7fccc3dc4",
+      "title": "AI 在学校的应用选择",
+      "summary": "随着人工智能（AI）在教育领域的迅速发展，各学校面临着在课堂中引入 AI 的选择。这一趋势引发了关于教育质量和师生互动的讨论。许多教育者开始探索 AI 的潜在益处及其对传统教学的影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI in schools – The choice we keep making",
+          "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+          "published_at": "2026-09-19T22:55:39+00:00",
+          "text": "AI in schools – The choice we keep making（HN 28 points，讨论: https://news.ycombinator.com/item?id=49770807）",
+          "id": "ae7fccc3dc4"
+        }
+      ]
+    },
+    {
+      "id": "e75b23aa660",
+      "title": "剪映推出AI生视频与剪辑工具",
+      "summary": "剪映推出了新功能剪映Hub和剪映助手，旨在打破AI生视频和AI剪辑的壁垒。这项更新将为用户带来更便捷的创作体验。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+          "url": "https://www.qbitai.com/2026/09/492973.html",
+          "published_at": "2026-09-20T14:30:26+00:00",
+          "text": "剪映Hub+剪映助手，好用",
+          "id": "a75b23aa660"
+        }
+      ]
+    },
+    {
+      "id": "e8ece108dec",
+      "title": "华为发布企业AI白皮书",
+      "summary": "华为首次发布企业AI白皮书，探讨如何利用AI提升员工效率，并推动整个企业的利益最大化。白皮书强调AI在企业中的应用潜力，呼吁企业积极采纳相关技术以实现数字化转型。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+          "url": "https://www.qbitai.com/2026/09/493068.html",
+          "published_at": "2026-09-20T14:23:52+00:00",
+          "text": "AI越来越能干，企业该怎么用",
+          "id": "a8ece108dec"
+        }
+      ]
+    },
+    {
+      "id": "e489c0985ea",
+      "title": "中国电信推出全栈国产AI办公工具",
+      "summary": "中国电信推出了一款全栈国产AI办公模型，用户只需一张3090显卡即可运行。这一工具旨在将AI办公搬到企业本地，提高办公效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+          "url": "https://www.qbitai.com/2026/09/492946.html",
+          "published_at": "2026-09-20T12:22:41+00:00",
+          "text": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+          "id": "a489c0985ea"
+        }
+      ]
+    },
+    {
+      "id": "e20ba3f96d2",
+      "title": "聊天型大语言模型与通灵术相似",
+      "summary": "研究显示，聊天型大语言模型如 ChatGPT 的运作机制与通灵术的欺诈手法有相似之处。这表明两者都依赖于用户心理和语言的巧妙运用来引导沟通。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+          "url": "https://softwarecrisis.dev/letters/llmentalist/",
+          "published_at": "2026-09-20T12:20:13+00:00",
+          "text": "Chat-based Large Language Models replicate the mechanisms of a psychic's con（HN 157 points，讨论: https://news.ycombinator.com/item?id=49775104）",
+          "id": "a20ba3f96d2"
+        }
+      ]
+    },
+    {
+      "id": "ed9e220dea7",
+      "title": "大科技公司隐瞒3000亿AI风险",
+      "summary": "大科技公司利用担保协议，将3000亿美元的人工智能风险从资产负债表中剔除。这一做法引发了外界对其财务透明度和风险管理策略的关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+          "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+          "published_at": "2026-09-20T12:07:10+00:00",
+          "text": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets（HN 36 points，讨论: https://news.ycombinator.com/item?id=49774991）",
+          "id": "ad9e220dea7"
+        }
+      ]
+    },
+    {
+      "id": "ed0e6b4455e",
+      "title": "AI赋能网络安全人才报告发布",
+      "summary": "在9月18日举办的第一届中国网络空间安全大会上，正式发布了《网络安全人才实战能力报告—AI赋能篇》。该报告探讨了在AI技术深度融入业务时，如何提高网络安全人才的实战能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+          "url": "https://www.qbitai.com/2026/09/492849.html",
+          "published_at": "2026-09-20T02:48:18+00:00",
+          "text": "9月18日，在第一届中国网络空间安全大会上，《网络安全人才实战能力报告—AI赋能篇》正式发布",
+          "id": "ad0e6b4455e"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 59,
+    "articles_new": 19,
+    "articles_filtered": 11,
+    "tokens": {
+      "prompt_tokens": 15561,
+      "completion_tokens": 2103
+    }
+  },
+  "mock": false
+}
