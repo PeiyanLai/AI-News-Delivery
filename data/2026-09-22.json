@@ -1,0 +1,584 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T09:20:43+08:00",
+  "briefing": "今日导读：Claude模型出现高错误率引发关注，AI公司与伦理问题引发讨论，加州实施AI数据中心新规，OpenAI与Anthropic面临反垄断诉讼。关注AI未来的业界活动和动向。",
+  "highlights": "今日看点：Claude模型的错误率上升显示出AI模型仍然面临技术挑战，与此同时，围绕 AI 公司责任和控制力的讨论加剧。这说明，随着AI技术的增强，社会和监管的关注点开始从技术本身扩展到围绕它的生态系统，而加州和OpenAI的举措也反映出地方法规和国际市场动态正在影响AI产业的整体格局。",
+  "events": [
+    {
+      "id": "e06e38e5369",
+      "title": "Claude 模型出现高错误率",
+      "summary": "Claude 多个模型目前出现了较高的错误率，影响了用户的使用体验。团队正在积极调查并解决这一问题，以恢复系统的正常运行。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nClaude模型出现了高错误率，影响用户体验。\n\n### 为什么令人兴奋\n高错误率凸显现有AI系统的可靠性问题，有望推动更先进的技术革新。\n\n### 产品机会\n改进AI模型的稳定性和准确性是当前产品升级的方向，可能催生更为可靠的AI系统。\n\n### 格局影响\nAnthropic面临技术挑战，竞争对手可能借机发力，开源AI解决方案或更受关注。\n\n### 冷静判断\n问题暂未解决，需观察后续维护和升级措施能否有效。\n\n### 趋势坐标\n呼应了AI公司加强产品可靠性的趋势，与技术革新的需求相呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude Status – Elevated errors for multiple models",
+          "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+          "published_at": "2026-09-22T01:05:19+00:00",
+          "text": "Claude Status – Elevated errors for multiple models（HN 20 points，讨论: https://news.ycombinator.com/item?id=49795579）",
+          "id": "a06e38e5369"
+        }
+      ]
+    },
+    {
+      "id": "e7c8477b313",
+      "title": "警惕AI公司而非AI本身",
+      "summary": "一篇文章指出，人们不应对人工智能（AI）本身感到恐惧，而是要关注操控AI的公司。这些公司在开发与使用AI技术时，可能导致一系列社会和伦理问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Do not fear AI. Fear AI companies",
+          "url": "https://df7sc6o35ljoz.cloudfront.net/posts/do-not-fear-ai-rev-2.html",
+          "published_at": "2026-09-21T22:40:31+00:00",
+          "text": "Do not fear AI. Fear AI companies（HN 24 points，讨论: https://news.ycombinator.com/item?id=49794422）",
+          "id": "a7c8477b313"
+        }
+      ]
+    },
+    {
+      "id": "ec4d22e79dc",
+      "title": "加州加强AI数据中心能源水使用规定",
+      "summary": "加州州长古文·纽瑟姆签署七项法案，旨在防止AI数据中心将公用事业成本转嫁给居民。新法要求加州公共事业委员会为数据中心引入新的费率分类，企业需为当地电网和水系统升级买单。此外，拟建数据中心还需向地方政府披露其预计的水使用量及能效信息等。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "California tightens rules on AI data center energy and water use",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+          "published_at": "2026-09-21T20:29:45+00:00",
+          "text": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times . The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems. Other bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption … Read the full story at The Verge.",
+          "id": "ac4d22e79dc"
+        }
+      ]
+    },
+    {
+      "id": "e5310781f5f",
+      "title": "OpenAI 组建数学顾问小组",
+      "summary": "OpenAI 成立了一个数学顾问小组，以应对其 AI 解决的超过 100 个开放问题。该小组不会影响 OpenAI 当前的数学研究进程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "published_at": "2026-09-21T20:15:58+00:00",
+          "text": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+          "id": "a5310781f5f"
+        }
+      ]
+    },
+    {
+      "id": "e015dbc4f82",
+      "title": "AI 编码使 CI 成为瓶颈",
+      "summary": "AI 编码的普及导致持续集成（CI）过程成为了一大瓶颈，因此我们重新设计了 CI 系统以适应这一变化。我们的目标是提高效率，以应对 AI 编码带来的新挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+          "url": "https://linear.app/now/ci-bottleneck-reworked",
+          "published_at": "2026-09-21T19:23:33+00:00",
+          "text": "AI coding has made CI a bottleneck, so we reworked ours to keep up（HN 132 points，讨论: https://news.ycombinator.com/item?id=49792067）",
+          "id": "a015dbc4f82"
+        }
+      ]
+    },
+    {
+      "id": "edd5a0e0130",
+      "title": "Anthropic与OpenAI面临反垄断诉讼",
+      "summary": "Anthropic、OpenAI等公司因达成协议放缓AI发展而面临反垄断诉讼。这项诉讼指控这些公司可能通过合作来限制竞争，影响市场上的创新和发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/anthropic-openai-spacexai-and-google-face-antitrust-lawsuit-for-agreeing-to-slow-ai-development-plaintiffs-say-plan-has-been-in-motion-for-months-before-calls-agreement-self-serving",
+          "published_at": "2026-09-21T18:33:56+00:00",
+          "text": "Anthropic, OpenAI et al. face antitrust suit for agreeing to slow AI development（HN 24 points，讨论: https://news.ycombinator.com/item?id=49791384）",
+          "id": "add5a0e0130"
+        }
+      ]
+    },
+    {
+      "id": "e41efc47f24",
+      "title": "数学与人工智能咨询小组成立",
+      "summary": "Advisory Group on Mathematics and Artificial Intelligence 正式成立，旨在促进数学与人工智能的交叉研究与应用。该小组将在相关领域推动理论发展与实际应用，并为政策制定提供建议。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+          "published_at": "2026-09-21T17:27:49+00:00",
+          "text": "Advisory Group on Mathematics and Artificial Intelligence（HN 69 points，讨论: https://news.ycombinator.com/item?id=49790389）",
+          "id": "a41efc47f24"
+        }
+      ]
+    },
+    {
+      "id": "ec701b57089",
+      "title": "Hugging Face 的 LLM 剪枝研究",
+      "summary": "Hugging Face 在最新博客中探讨了如何将大型语言模型（LLMs）剪枝视为一个伊辛优化问题，进而实现有效的模型简化。研究者们提出了一种创新的方法，通过移除模型块来提升性能，同时减少计算资源的消耗。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "published_at": "2026-09-21T13:44:34+00:00",
+          "text": "",
+          "id": "ac701b57089"
+        }
+      ]
+    },
+    {
+      "id": "e335387d845",
+      "title": "苹果因Siri AI赔偿2.5亿美元",
+      "summary": "苹果因未能提供升级版Siri，达成2.5亿美元的和解。符合条件的美国iPhone用户可以提出索赔，预计每台设备可获得25美元，依据索赔人数可能增加至95美元。索赔需提供姓名、联系信息及iPhone序列号。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+          "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+          "published_at": "2026-09-21T13:36:52+00:00",
+          "text": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim on the settlement's website , as reported earlier by MacRumors . You can receive an estimated $25 per eligible device, but the settlement's website notes that this can increase to $95 depending on how many people file claims. To file a claim, you'll need to enter your name, contact information, and iPhone serial number on the … Read the full story at The Verge.",
+          "id": "a335387d845"
+        }
+      ]
+    },
+    {
+      "id": "eb3a6ebf575",
+      "title": "Lossless-memory：个性化AI记忆工具",
+      "summary": "Lossless-memory 是一个个人 AI 记忆工具，旨在提供无损记录，且不进行摘要处理。用户可以在该工具中保存信息，确保所有细节都被完整保留。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+          "url": "https://github.com/aru-labs/lossless-memory",
+          "published_at": "2026-09-21T12:28:17+00:00",
+          "text": "Show HN: Lossless-memory – a personal AI memory that never summarizes（HN 57 points，讨论: https://news.ycombinator.com/item?id=49786419）",
+          "id": "ab3a6ebf575"
+        }
+      ]
+    },
+    {
+      "id": "ea7ca59844a",
+      "title": "OpenAI成立数学与人工智能顾问组",
+      "summary": "OpenAI 正在与一个独立的数学和人工智能顾问组合作，以指导对新兴人工智能成果的评估和沟通。该顾问组的目标是提升对数学与人工智能交叉领域的理解和研究。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "text": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "id": "aa7ca59844a"
+        }
+      ]
+    },
+    {
+      "id": "ed37f5b2c59",
+      "title": "Higgsfield AI 推出 GPT-6 Astra 视频功能",
+      "summary": "Higgsfield AI 推出了新的 GPT-6 Astra 功能，使小型企业能够更轻松地创建视频广告。该技术提升了创意工具的市场推出速度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "published_at": "2026-09-21T12:00:00+00:00",
+          "text": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "id": "ad37f5b2c59"
+        }
+      ]
+    },
+    {
+      "id": "e94d0db2af4",
+      "title": "联合国呼吁尽快加强AI安全监管",
+      "summary": "联合国科学小组警告，政府需在全面了解AI风险之前，限制越来越强大的AI代理。这是联合国首次就OpenAI对Hugging Face的攻击进行重大评估，秘书长古特雷斯呼吁各国合作应对AI带来的威胁。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "UN says AI safeguards can’t wait for certainty",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+          "published_at": "2026-09-21T10:18:06+00:00",
+          "text": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats posed by AI, warning that \"the world cannot afford a race to the bottom on AI safety.\" It is the first thematic brief from … Read the full story at The Verge.",
+          "id": "a94d0db2af4"
+        }
+      ]
+    },
+    {
+      "id": "e2c9792fbb1",
+      "title": "OpenAI 推动全球 AI 标准建设",
+      "summary": "OpenAI 提出了建立全球共享 AI 标准的路线图，呼吁进行协调的评估、报告和治理，以提高安全性。这一倡议旨在为 AI 的下一个发展阶段奠定基础。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Building standards for the next phase of AI",
+          "url": "https://openai.com/index/building-standards-next-phase-ai",
+          "published_at": "2026-09-21T10:00:00+00:00",
+          "text": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "id": "a2c9792fbb1"
+        }
+      ]
+    },
+    {
+      "id": "e11af1577ca",
+      "title": "GPT-6 Astra 安全性问题",
+      "summary": "最新报道显示，GPT-6 Astra在安全性方面存在严重问题，高达97%的用户在尝试中表现出危险行为。这一情况引发了广泛关注，包括特斯拉创始人马斯克对此事的关切。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+          "url": "https://www.qbitai.com/2026/09/493241.html",
+          "published_at": "2026-09-21T08:21:55+00:00",
+          "text": "97%尝试危险行为",
+          "id": "a11af1577ca"
+        }
+      ]
+    },
+    {
+      "id": "e2239e8187b",
+      "title": "AI代码占Linux内核修补17.25%",
+      "summary": "在九月份，AI生成的代码占所有Linux内核补丁的17.25%。这表明AI在开源软件开发中的应用正逐步增加。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+          "published_at": "2026-09-21T07:59:18+00:00",
+          "text": "In September, AI generated code has made up 17.25% of all Linux Kernel patches（HN 31 points，讨论: https://news.ycombinator.com/item?id=49784366）",
+          "id": "a2239e8187b"
+        }
+      ]
+    },
+    {
+      "id": "e3f556e89de",
+      "title": "长三角AI安全实验室发布新方案",
+      "summary": "9月19日，第一届中国网络空间安全大会在安徽合肥举办。会议上，长三角安全人工智能安徽省实验室发布了三大AI安全解决方案：星界、星驭和星鉴。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+          "url": "https://www.qbitai.com/2026/09/493235.html",
+          "published_at": "2026-09-21T07:52:46+00:00",
+          "text": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+          "id": "a3f556e89de"
+        }
+      ]
+    },
+    {
+      "id": "e05d9cfdcec",
+      "title": "OceanBase登顶国际Data Agent榜单",
+      "summary": "OceanBase团队提交的Data Agent方案在国际数据智能体基准Data Agent Benchmark中取得了第一名，展示了国产数据库在人工智能领域的新能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+          "url": "https://www.qbitai.com/2026/09/493231.html",
+          "published_at": "2026-09-21T07:31:26+00:00",
+          "text": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+          "id": "a05d9cfdcec"
+        }
+      ]
+    },
+    {
+      "id": "e530db518a7",
+      "title": "OpenAI 推出新学习路径",
+      "summary": "OpenAI 宣布扩展 OpenAI Academy，推出新学习路径，面向员工、开发者、领导者、教育工作者和学生。此举旨在帮助用户构建和展示实用的人工智能技能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "published_at": "2026-09-21T07:00:00+00:00",
+          "text": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "id": "a530db518a7"
+        }
+      ]
+    },
+    {
+      "id": "e513a5289cc",
+      "title": "GPT-6 Astra实现具身智能体",
+      "summary": "清华大学与无问芯穹等公司合作，推出了GPT-6 Astra具身智能体。该项目旨在将先进的自然语言处理能力与物理机器结合，实现能够在现实世界中进行操作的智能系统。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+          "url": "https://www.qbitai.com/2026/09/493218.html",
+          "published_at": "2026-09-21T06:22:37+00:00",
+          "text": "在物理世界真正干活的具身智能体",
+          "id": "a513a5289cc"
+        }
+      ]
+    },
+    {
+      "id": "ed1b27e26fd",
+      "title": "Mini-AGI 动态持续学习模型发布",
+      "summary": "Mini-AGI 是一款动态持续学习模型，专为具有 8GB VRAM 的系统设计。该模型能在复杂的环境中不断学习和适应，更好地处理多种任务和数据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+          "url": "https://github.com/volotat/mini-AGI/",
+          "published_at": "2026-09-21T04:42:37+00:00",
+          "text": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM（HN 249 points，讨论: https://news.ycombinator.com/item?id=49783133）",
+          "id": "ad1b27e26fd"
+        }
+      ]
+    },
+    {
+      "id": "ed344b714c6",
+      "title": "Heretic 解禁语言模型限制",
+      "summary": "Heretic 公司移除了语言模型的使用限制。该公司希望通过这种方式推动语言模型的开放性与应用范围。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Heretic removes restrictions from language models",
+          "url": "https://heretic-project.org/",
+          "published_at": "2026-09-21T04:35:22+00:00",
+          "text": "Heretic removes restrictions from language models（HN 240 points，讨论: https://news.ycombinator.com/item?id=49783101）",
+          "id": "ad344b714c6"
+        }
+      ]
+    },
+    {
+      "id": "ec39a2db5c7",
+      "title": "AI Weekly 警告 Google AI Studio 数据欺诈",
+      "summary": "AI Weekly 警告企业要注意 Google AI Studio 的数据保留可能存在欺诈问题。相关分析指出，企业在使用该平台时应谨慎处理数据隐私和安全。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud",
+          "url": "https://bitu79.substack.com/p/ai-weekly-issues-warning-on-google",
+          "published_at": "2026-09-21T02:31:19+00:00",
+          "text": "AI Weekly Warns Firms on Google AI Studio Data Retention Fraud（HN 31 points，讨论: https://news.ycombinator.com/item?id=49782409）",
+          "id": "ac39a2db5c7"
+        }
+      ]
+    },
+    {
+      "id": "e8b8b7ec88c",
+      "title": "百曜科技发布AIVC技术报告",
+      "summary": "百曜科技正式发布了《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》。该报告探讨了AI时代生命科学的新型基础设施及其应用前景。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
+          "url": "https://www.qbitai.com/2026/09/493114.html",
+          "published_at": "2026-09-21T02:28:46+00:00",
+          "text": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
+          "id": "a8b8b7ec88c"
+        }
+      ]
+    },
+    {
+      "id": "eb068b9b295",
+      "title": "比亚迪发布AI超级智能体迪迪虾",
+      "summary": "比亚迪推出了首个汽车行业AI超级智能体「迪迪虾」，该智能体首次应用于腾势N8L纯电车型上。预计未来将通过OTA升级到多个腾势车型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
+          "url": "https://www.qbitai.com/2026/09/493091.html",
+          "published_at": "2026-09-21T01:48:50+00:00",
+          "text": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
+          "id": "ab068b9b295"
+        }
+      ]
+    },
+    {
+      "id": "ed1749ba76a",
+      "title": "V7 利用 GPT-5.6 实现 AI 记忆",
+      "summary": "V7 使用 GPT-5.6 技术，将分散的公司文件转化为上下文代理，能够完成复杂的、可源链接的工作。该技术旨在提高 AI 代理的工作效率和信息整合能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How V7 gives AI agents institutional memory",
+          "url": "https://openai.com/index/v7",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "text": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "id": "ad1749ba76a"
+        }
+      ]
+    },
+    {
+      "id": "eeb792e0fc3",
+      "title": "Hugging Face 发布 tokenizers v1",
+      "summary": "Hugging Face 发布了 tokenizers v1 版，提供了编码和解码功能，以及可扩展性测量。新版本旨在提升自然语言处理中的文本处理效率，支持快速处理大量数据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "tokenizers v1: encode, decode and scaling, measured",
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "published_at": "2026-09-21T00:00:00+00:00",
+          "text": "",
+          "id": "aeb792e0fc3"
+        }
+      ]
+    },
+    {
+      "id": "e513f706570",
+      "title": "基于 Qwen3.5 的决策模型家族",
+      "summary": "Kev发布了一种类似于Jev的小型决策模型家族，建立在Qwen3.5之上。这一新模型旨在提升决策过程的效率和准确性，具体细节尚未披露。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+          "url": "https://github.com/jaredpalmer/kev/tree/main",
+          "published_at": "2026-09-21T07:11:55+00:00",
+          "text": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5（HN 406 points，讨论: https://news.ycombinator.com/item?id=49783999）",
+          "id": "a513f706570"
+        }
+      ]
+    },
+    {
+      "id": "e9df129320e",
+      "title": "范式智能获评AI算力管理平台第一",
+      "summary": "在IDC发布的《中国AI算力管理平台技术能力评估，2026》中，范式智能在四项评估维度上获得满分，综合评分位列第一。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
+          "url": "https://www.qbitai.com/2026/09/493109.html",
+          "published_at": "2026-09-21T02:17:33+00:00",
+          "text": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
+          "id": "a9df129320e"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 83,
+    "articles_new": 29,
+    "articles_filtered": 33,
+    "tokens": {
+      "prompt_tokens": 19601,
+      "completion_tokens": 2581
+    }
+  },
+  "mock": false
+}
