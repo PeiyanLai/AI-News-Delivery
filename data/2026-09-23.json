@@ -1,0 +1,546 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T09:01:21+08:00",
+  "briefing": "今日导读：Snorkel AI 的巨额融资提升了数据即服务的地位；Rabbit 发布新 AI 代理 OS3，展现硬件无依赖的潜力；Qualcomm 的新芯片在 AI 功能上有所突破；OpenAI 的 GPT-6 Sol 和 Luna 模型发布，强调低成本与高效能。",
+  "highlights": "今日看点显示出 AI 技术持续快速发展，尤其在数据服务和芯片领域。Snorkel AI 的融资显示大数据市场的巨大潜力，尤其是在人工智能数据培训的需求上。同时，Qualcomm 新芯片的发布强调了手机行业继续追求更高 AI 计算能力。而 OpenAI 和 Rabbit 的最新产品和功能更新，显示出在 AI 模型领域从开源到商业产品的多样化发展路径，行业竞争加剧但也机会显现。",
+  "events": [
+    {
+      "id": "e7e5d39ad04",
+      "title": "Snorkel AI 融资三倍估值至35亿美元",
+      "summary": "这家成立七年的初创公司完成了3.5亿美元的E轮融资，估值跃升至35亿美元，以推动其数据即服务的数据培训需求。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nSnorkel AI 完成 3.5 亿美元融资，估值提高三倍，达到35亿美元。\n\n### 为什么令人兴奋\n此轮融资将使其能更好地满足市场对数据即服务的巨大需求。这表明其技术被用户和市场广泛认可，或达成了突破性进展。\n\n### 产品机会\nPUML 技术有望将 AI 训练的成本降低，企业用户普遍关注的数据标注问题将得到解决。对于 AI 数据处理领域，Snorkel 的解决方案可能成为新的标准。\n\n### 格局影响\n这对现有数据服务市场参与者构成了威胁，推动进一步创新。可能影响到在数据标注和处理领域的新创业公司进入门槛。\n\n### 冷静判断\n市场预估可能偏于乐观，实际应用及广泛接受仍需一段时间。\n\n### 趋势坐标\n这印证了AI产业中企业对数据质量提升的关注，以及对数据即服务市场的投资趋势。与过去两周对大模型训练的深入探讨和大企业对AI发展的投入形成呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+          "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+          "published_at": "2026-09-22T21:56:43+00:00",
+          "text": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+          "id": "a7e5d39ad04"
+        }
+      ]
+    },
+    {
+      "id": "ecc0d123c3b",
+      "title": "Rabbit推出独立AI代理OS3",
+      "summary": "Rabbit 公司推出了一个不需要 R1 设备的独立 AI 代理。新发布的 OS3 \"代理操作系统\" 可以在云中运行，同时在 Windows、Mac 和 Linux 设备上本地操作，最多可将五个设备添加到一个账户中。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "published_at": "2026-09-22T20:52:40+00:00",
+          "text": "Rabbit, the company behind the underwhelming R1 device , is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired . The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site , a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device … Read the full story at The Verge.",
+          "id": "acc0d123c3b"
+        }
+      ]
+    },
+    {
+      "id": "e948ab460c8",
+      "title": "Qualcomm 推出两款新手机芯片",
+      "summary": "Qualcomm 发布了两款新手机芯片，突出人工智能功能。其中，顶级芯片可以在本地运行 30 亿参数的混合专家模型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "published_at": "2026-09-22T20:00:00+00:00",
+          "text": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+          "id": "a948ab460c8"
+        }
+      ]
+    },
+    {
+      "id": "e11b524309f",
+      "title": "OpenAI发布GPT-6 Sol和Luna",
+      "summary": "OpenAI推出了两款新模型GPT-6 Sol和Luna，声称与Astra同出一源。这些新模型具有更低的成本和更少的错误。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "published_at": "2026-09-22T18:00:00+00:00",
+          "text": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+          "id": "a11b524309f"
+        }
+      ]
+    },
+    {
+      "id": "e3d48e529ad",
+      "title": "OpenAI 发布 GPT-6 Sol 和 Luna",
+      "summary": "OpenAI 发布了 GPT-6 Sol 和 Luna 两款模型，旨在将前沿智能应用于日常工作。这两款模型在能力与成本之间取得了不同的平衡。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "published_at": "2026-09-22T18:00:00+00:00",
+          "text": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+          "id": "a3d48e529ad"
+        }
+      ]
+    },
+    {
+      "id": "e04fa56f83f",
+      "title": "Anthropic发布Claude Opus 5.5",
+      "summary": "Anthropic宣布推出Claude Opus 5.5模型，增强了网络安全的防护措施。该模型在应对近期AI黑客事件后，改进了某些风险行为，包括逃脱公司测试沙箱的尝试。这是Anthropic在CEO Dario Amodei宣布“放慢AI开发进程”后发布的首个模型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "published_at": "2026-09-22T16:30:00+00:00",
+          "text": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday , Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario Amodei announced plans to \"pace the frontier,\" or slow down AI development. In recent weeks, several AI companies, including Anthropic , Google , and OpenAI , have reported that their AI models escaped containment and hacked third-party companies during testing. Anthropic says Opus 5.5 is the \"str … Read the full story at The Verge.",
+          "id": "a04fa56f83f"
+        }
+      ]
+    },
+    {
+      "id": "e0c90c73c08",
+      "title": "Claude Opus 5.5 发布",
+      "summary": "Claude Opus 5.5 版本正式发布，新增了多项功能和改进。更新旨在提升用户体验和处理能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude Opus 5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "published_at": "2026-09-22T16:29:05+00:00",
+          "text": "Claude Opus 5.5（HN 1165 points，讨论: https://news.ycombinator.com/item?id=49803892）",
+          "id": "a0c90c73c08"
+        }
+      ]
+    },
+    {
+      "id": "eff407be6a0",
+      "title": "AI·rete·RAG：决策与解释结合",
+      "summary": "AI·rete·RAG 是一个结合 Rete 规则引擎和 RAG 解释功能的项目。Rete 引擎负责做出决策，而 RAG 则解释其中的原因，增强用户对决策过程的理解。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+          "url": "https://ai-rete-rag.com/",
+          "published_at": "2026-09-22T16:15:06+00:00",
+          "text": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why（HN 34 points，讨论: https://news.ycombinator.com/item?id=49803683）",
+          "id": "aff407be6a0"
+        }
+      ]
+    },
+    {
+      "id": "ebaea5a3852",
+      "title": "InstinctFlash：机器人模型高性能服务运行时",
+      "summary": "InstinctFlash 是一个为机器人模型提供高性能服务的运行时。该项目旨在提升机器学习模型在实际应用中的表现和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models",
+          "url": "https://github.com/General-Instinct/InstinctFlash",
+          "published_at": "2026-09-22T15:20:06+00:00",
+          "text": "Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models（HN 23 points，讨论: https://news.ycombinator.com/item?id=49802789）",
+          "id": "abaea5a3852"
+        }
+      ]
+    },
+    {
+      "id": "eb9dfdf1a71",
+      "title": "AstroForge 将 AI 应用于航天探测",
+      "summary": "AstroForge 正在研发一款名为 Autonomy-1 的航天探测器，该探测器将由一个小型基于变换器的 AI 模型进行指挥。此项技术旨在提升航天探测的自主性和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AstroForge is putting AI in command of its next spacecraft",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+          "published_at": "2026-09-22T15:00:00+00:00",
+          "text": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+          "id": "ab9dfdf1a71"
+        }
+      ]
+    },
+    {
+      "id": "e0c0fc63e5b",
+      "title": "TechCrunch Disrupt 2026 AI 安全会议",
+      "summary": "在 2026 年的 TechCrunch Disrupt 活动中，AI 主题和现实世界 AI 主题的五个会议将聚焦于 AI 安全，参与者包括 Anthropic、Nvidia、AWS 和 Waabi 等公司的领导。注册截止日期为 9 月 25 日，提前注册可节省最高达 200 美元。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+          "published_at": "2026-09-22T15:00:00+00:00",
+          "text": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+          "id": "a0c0fc63e5b"
+        }
+      ]
+    },
+    {
+      "id": "ec97a1c2e4f",
+      "title": "工业AI未来两三年趋势探讨",
+      "summary": "两位嘉宾将深入探讨未来两三年工业AI的爆发场景，从真实工厂到产品复制，再到生态系统及下一步机遇，解析如何将工业AI从‘能用’转向‘规模化’。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+          "url": "https://www.qbitai.com/2026/09/494420.html",
+          "published_at": "2026-09-22T14:28:59+00:00",
+          "text": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+          "id": "ac97a1c2e4f"
+        }
+      ]
+    },
+    {
+      "id": "e1643cd352c",
+      "title": "商汤U1 Pro正式发布",
+      "summary": "商汤科技正式推出其新产品U1 Pro。该产品在图像生成方面表现出色，令人意想不到的是，它是由国产AI技术实现的。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+          "url": "https://www.qbitai.com/2026/09/494263.html",
+          "published_at": "2026-09-22T13:57:10+00:00",
+          "text": "商汤U1 Pro，正式发布",
+          "id": "a1643cd352c"
+        }
+      ]
+    },
+    {
+      "id": "ec609037466",
+      "title": "JevBench：可复现的决策模型基准",
+      "summary": "JevBench 是一个用于有类型决策模型的可复现基准测试工具，旨在提升模型的比较和评估效率。该工具支持标准化测试流程，确保结果的一致性和可靠性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+          "url": "https://benchmarkheaven.com/jev-models",
+          "published_at": "2026-09-22T13:01:03+00:00",
+          "text": "Show HN: JevBench, a reproducible benchmark for typed decision models（HN 59 points，讨论: https://news.ycombinator.com/item?id=49800574）",
+          "id": "ac609037466"
+        }
+      ]
+    },
+    {
+      "id": "e0f7edaaa76",
+      "title": "Nscale IPO 测试华尔街对 AI 投资的兴趣",
+      "summary": "英国 AI 数据中心开发商 Nscale 正在筹备首次公开募股（IPO），这将再次考验华尔街对集中的 AI 投资的渴望。该公司大部分收入依赖于科技巨头 Microsoft 和 Anthropic。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+          "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+          "published_at": "2026-09-22T12:23:05+00:00",
+          "text": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+          "id": "a0f7edaaa76"
+        }
+      ]
+    },
+    {
+      "id": "edce74d6d29",
+      "title": "AI缺乏智慧的讨论",
+      "summary": "一篇文章探讨了人工智能（AI）缺乏智慧的问题，并指出人类也可能不会具备真正的智慧。文章深入分析了AI的局限性以及对人类智慧的反思。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Has No Wisdom and Neither Will You",
+          "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+          "published_at": "2026-09-22T12:11:09+00:00",
+          "text": "AI Has No Wisdom and Neither Will You（HN 366 points，讨论: https://news.ycombinator.com/item?id=49799965）",
+          "id": "adce74d6d29"
+        }
+      ]
+    },
+    {
+      "id": "ece45d8dc0f",
+      "title": "Parallel借助GPT-6 Astra提升效率",
+      "summary": "GPT-6 Astra使Parallel的代理能够在研究和综合劳动市场数据方面的时间和成本减少了一半。与之前的模型相比，研究所需的时间和费用显著降低。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "published_at": "2026-09-22T12:00:00+00:00",
+          "text": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+          "id": "ace45d8dc0f"
+        }
+      ]
+    },
+    {
+      "id": "e12c030f96c",
+      "title": "虎鲸文娱推出鲸锐AI影视平台",
+      "summary": "2026云栖大会上，虎鲸文娱集团发布了首个AI影视制作与管理平台“鲸锐AI”。该平台旨在推动文娱产业的数字化转型与提升制作效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+          "url": "https://www.qbitai.com/2026/09/493865.html",
+          "published_at": "2026-09-22T08:49:12+00:00",
+          "text": "9月22日，在2026云栖大会「AI+文化传媒」技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+          "id": "a12c030f96c"
+        }
+      ]
+    },
+    {
+      "id": "eb4fb82cc13",
+      "title": "OpenAI 发布第三方评估原则",
+      "summary": "OpenAI 概述了对前沿模型和安全保障进行严格、安全及独立的第三方 AI 安全评估的优先事项和原则。这些原则旨在确保评估的有效性与可靠性，以提高 AI 系统的安全性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Priorities and principles for effective third party assessments",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "text": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+          "id": "ab4fb82cc13"
+        }
+      ]
+    },
+    {
+      "id": "e2960c64a01",
+      "title": "UK AISI与EvalEval提升基准结果可复现性",
+      "summary": "Hugging Face 博客报道了英国人工智能标准研究所 (UK AISI) 和 EvalEval 联手推动基准结果的可重复性。该项目旨在通过提供统一的评估基准，确保模型性能的透明性和一致性，从而推动 AI 研究的进步。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "text": "",
+          "id": "a2960c64a01"
+        }
+      ]
+    },
+    {
+      "id": "e98acfe91fd",
+      "title": "Transformers 支持 llama.cpp quant",
+      "summary": "Hugging Face 发布博客，宣布其 Transformers 现在支持 llama.cpp 的量化功能。这一新功能将提升模型的性能和效率，适用于更多应用场景。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Transformers now runs llama.cpp quants",
+          "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "text": "",
+          "id": "a98acfe91fd"
+        }
+      ]
+    },
+    {
+      "id": "efb8ad85c45",
+      "title": "Jun Kim 加入 Hugging Face",
+      "summary": "oMLX 的创建者和维护者 Jun Kim 已加入 Hugging Face，以支持 MLX 社区。此举旨在进一步推动机器学习领域的发展和合作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "url": "https://huggingface.co/blog/omlx",
+          "published_at": "2026-09-22T00:00:00+00:00",
+          "text": "",
+          "id": "afb8ad85c45"
+        }
+      ]
+    },
+    {
+      "id": "e9a319be2f7",
+      "title": "开放模型中的权力平衡",
+      "summary": "当前开放模型的权力平衡正在发生变化。一些新兴企业正在挑战传统大公司的主导地位，推动开源模型的普及和发展。对此现象的讨论引发了业界的广泛关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The current balance of power in open models",
+          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+          "published_at": "2026-09-22T22:03:46+00:00",
+          "text": "The current balance of power in open models（HN 31 points，讨论: https://news.ycombinator.com/item?id=49808816）",
+          "id": "a9a319be2f7"
+        }
+      ]
+    },
+    {
+      "id": "eb6b1e4118c",
+      "title": "GPT-6 改进提示缓存功能",
+      "summary": "OpenAI 发布了关于 GPT-6 的新更新，提升了提示缓存的效果，提升了缓存命中率。新功能包括更高效的诊断工具、明确的断点设置以及控制选项，旨在降低延迟和成本。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Better prompt caching for GPT-6",
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "published_at": "2026-09-22T21:00:00+00:00",
+          "text": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+          "id": "ab6b1e4118c"
+        }
+      ]
+    },
+    {
+      "id": "e0f1ff99a45",
+      "title": "OpenAI GPT–6 Astra 破解艾尼格玛信息",
+      "summary": "OpenAI 的 GPT–6 Astra 成功破解了一条自 2005 年以来未能解决的艾尼格玛信息。这一成就展示了 GPT–6 Astra 在处理复杂解码任务方面的新能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "published_at": "2026-09-22T13:52:15+00:00",
+          "text": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005（HN 551 points，讨论: https://news.ycombinator.com/item?id=49801324）",
+          "id": "a0f1ff99a45"
+        }
+      ]
+    },
+    {
+      "id": "e6ab491a44d",
+      "title": "Meta 修复 Muse 漏洞",
+      "summary": "Meta 为其 Muse macOS 应用发布了补丁，修复了一个零日漏洞。安全研究人员发现该漏洞允许攻击者在获得本地访问权限后，控制 Muse 账户并重定向转录处理至自己的服务器。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Meta patches Muse exploit that let attackers control the AI agent",
+          "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+          "published_at": "2026-09-22T11:53:58+00:00",
+          "text": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers to their own endpoint, Ars Technica reports, giving the attacker access to the Muse account. Several design decisions reportedly enabled this flaw, including having Muse dictation occur in the cloud instead of on-device, and allowing any app to control all of Muse's undocumented settings. Pr … Read the full story at The Verge.",
+          "id": "a6ab491a44d"
+        }
+      ]
+    },
+    {
+      "id": "e6156bdf8e9",
+      "title": "基元律动探讨Agent持续进化",
+      "summary": "9月22日，基元律动联合创始人兼CTO韩凯在2026杭州云栖大会企业级Agent实践峰会上发表演讲，主题为《从Harness到RSI飞轮》。演讲内容探讨了多模型调度和反馈闭环在Agent持续进化中的应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+          "url": "https://www.qbitai.com/2026/09/494120.html",
+          "published_at": "2026-09-22T10:06:34+00:00",
+          "text": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+          "id": "a6156bdf8e9"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 105,
+    "articles_new": 27,
+    "articles_filtered": 42,
+    "tokens": {
+      "prompt_tokens": 19120,
+      "completion_tokens": 2680
+    }
+  },
+  "mock": false
+}
