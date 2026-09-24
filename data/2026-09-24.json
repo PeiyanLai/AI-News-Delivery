@@ -1,0 +1,611 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T08:57:17+08:00",
+  "briefing": "今日导读，Mercury 2.5 LLM 达到每秒 770 tokens，新速度提升了自然语言处理应用的性能；Meta 推出可爱AI助手，增强日常事务处理；Enveda获 3.11 亿美元融资，扩展药物研发新领域。",
+  "highlights": "今日的几件事显示了AI应用性能和市场拓展方面的双重发展。Mercury 2.5 LLM 的速度突破将提升不少AI应用的处理效率，而Meta的新AI助手则展示了AI在日常生活事务中的潜力。Enveda的融资再次强调了生物医疗领域对AI技术的高度期待。整体上，AI正在显著提升产品性能和扩大应用领域，特别是在生活和医疗方面。",
+  "events": [
+    {
+      "id": "e9c2f631dad",
+      "title": "Mercury 2.5 LLM 达到770个token每秒",
+      "summary": "Mercury 2.5 LLM 在处理速度上取得了新突破，达到了每秒770个token的速度。这一进展为自然语言处理领域的应用带来了显著的性能提升。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nMercury 2.5 LLM 处理速度达到 770 个 token 每秒，显著提高了性能。\n\n### 为什么令人兴奋\n相较于此前的速度，这一提升意味着处理效率可能提高了一倍以上，直接影响AI应用的响应时间。\n\n### 产品机会\n此速度提升可以支持更加复杂的实时文本处理应用，如即时翻译和智能客服。\n\n### 格局影响\n提高处理速度对大型AI公司如OpenAI和Google构成挑战，但也为新晋企业提供了进入高性能NLP应用市场的机会。\n\n### 冷静判断\n技术突破具备商业化潜力，部分应用可在短期内进入市场，但基础设施要求可能限制大规模应用。\n\n### 趋势坐标\n这一发展呼应了AI应用对速度和效率的不断追求，与最近档案中机器人模拟加速的趋势一致。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Mercury 2.5 LLM hits 770 tokens per second",
+          "url": "https://artificialanalysis.ai/models/mercury-2-5",
+          "published_at": "2026-09-23T22:16:19+00:00",
+          "text": "Mercury 2.5 LLM hits 770 tokens per second（HN 34 points，讨论: https://news.ycombinator.com/item?id=49823348）",
+          "id": "a9c2f631dad"
+        }
+      ]
+    },
+    {
+      "id": "ed6b54cabcf",
+      "title": "Enveda获3.11亿美元融资",
+      "summary": "Enveda公司完成3.11亿美元融资，估值达20亿美元。该公司目前正在测试用于治疗皮肤病及在停止GLP-1类药物后保持减重的药物。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+          "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+          "published_at": "2026-09-23T19:31:28+00:00",
+          "text": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+          "id": "ad6b54cabcf"
+        }
+      ]
+    },
+    {
+      "id": "e54336ea97e",
+      "title": "Meta推出可爱AI助手",
+      "summary": "Meta推出了一款可爱的AI助手，旨在帮助用户处理日常事务，例如安排家务或联系服务提供商。用户现在可以利用这个虚拟助手来减轻繁琐的任务负担。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+          "published_at": "2026-09-23T19:00:00+00:00",
+          "text": "An adorable little bear that wants to help you buy things. Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all , minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to do with it? The tree just assigned me homework? Oh, our trash collection company canceled our account out of nowhere and now I have to send email about it? Repeatedly? Totally unfair. These are the things that we've been told for years that AI will help us with. We'll all have a smart virtual assistant to triage and handle the tedious tasks we'd rather … Read the full story at The Verge.",
+          "id": "a54336ea97e"
+        }
+      ]
+    },
+    {
+      "id": "ea70f8ac64e",
+      "title": "NVIDIA Warp 加速机器人模拟",
+      "summary": "Hugging Face 发布博客介绍如何利用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程。该技术能够显著提高模拟效率，推动机器人技术的迅速发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "published_at": "2026-09-23T18:41:40+00:00",
+          "text": "",
+          "id": "aa70f8ac64e"
+        }
+      ]
+    },
+    {
+      "id": "ef82afb6487",
+      "title": "Claude 发现新型 CRISPR 类酶系统",
+      "summary": "Claude 最近发现了一种具有 CRISPR 类重复序列的新型酶系统。该系统可能为基因编辑和生物技术领域提供新的工具和思路。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "published_at": "2026-09-23T18:06:47+00:00",
+          "text": "Claude discovers a novel enzyme system with CRISPR-like repeats（HN 468 points，讨论: https://news.ycombinator.com/item?id=49820134）",
+          "id": "af82afb6487"
+        },
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "published_at": "",
+          "text": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "id": "af82afb6487"
+        }
+      ]
+    },
+    {
+      "id": "ed9a1b51f35",
+      "title": "ChatGPT 手机应用新增语音功能",
+      "summary": "ChatGPT 移动应用推出了基于语音的代理功能。Pro 和 Plus 用户可以在手机上使用工作标签完成代理任务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "ChatGPT mobile app gets voice-based agentic features",
+          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+          "published_at": "2026-09-23T17:00:00+00:00",
+          "text": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+          "id": "ad9a1b51f35"
+        }
+      ]
+    },
+    {
+      "id": "e4c4abcff4a",
+      "title": "Google DeepMind 推出私有 AI 计算内存",
+      "summary": "Google DeepMind 在其私有 AI 计算中引入了安全的服务器端内存，为个人 AI 提供了更强的隐私保护功能。这项新技术旨在提升用户数据的安全性，同时扩展 AI 应用的计算能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "published_at": "2026-09-23T16:00:57+00:00",
+          "text": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "id": "a4c4abcff4a"
+        }
+      ]
+    },
+    {
+      "id": "e9d02eeb8ce",
+      "title": "OpenAI Academy 两周年纪念",
+      "summary": "OpenAI Academy成立两周年，旨在将人工智能技能带给更多社区。该项目不断扩大，推动教育和技能发展的普及。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "published_at": "2026-09-23T16:00:00+00:00",
+          "text": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+          "id": "a9d02eeb8ce"
+        }
+      ]
+    },
+    {
+      "id": "ebe2314c629",
+      "title": "Google DeepMind 推出 Gemini 3.8 语音合成",
+      "summary": "Google DeepMind 最新发布了 Gemini 3.8 版本的语音合成技术。该技术能够实现更自然流畅的语音生成，进一步提升用户体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "published_at": "2026-09-23T15:25:14+00:00",
+          "text": "",
+          "id": "abe2314c629"
+        }
+      ]
+    },
+    {
+      "id": "e8138d300d9",
+      "title": "YouTube Music 增加 AI 聊天功能",
+      "summary": "YouTube Music 应用内新增了 Ask Music 功能，用户可以使用日常语言描述想听的音乐，而不需逐个搜索歌曲或艺术家。这一功能旨在提升用户的使用体验，使音乐搜索更加智能化。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "YouTube Music gets more conversational with new AI features",
+          "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+          "published_at": "2026-09-23T15:19:30+00:00",
+          "text": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+          "id": "a8138d300d9"
+        }
+      ]
+    },
+    {
+      "id": "eec5172ddcc",
+      "title": "YouTube 推出个性化推荐算法",
+      "summary": "YouTube 新推出的自定义推荐功能允许用户用自己的语言描述想观看的视频。然后，平台使用 Gemini 技术根据这些请求生成个性化的推荐列表。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "YouTube will let you build your own algorithm with AI",
+          "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+          "published_at": "2026-09-23T14:30:00+00:00",
+          "text": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+          "id": "aec5172ddcc"
+        }
+      ]
+    },
+    {
+      "id": "e5ef7b4daed",
+      "title": "YouTube 推出 AI 创作者工具",
+      "summary": "在年度 Made on YouTube 活动上，YouTube 宣布更新其 AI 驱动的创作者工具。新工具能够帮助创作者更复杂的任务，包括视频缩略图的 A/B 测试和内容表现查询的聊天界面。更新版本旨在为创作者提供更多的指导，简化创作流程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "YouTube is building AI creator tools that do almost everything for them",
+          "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+          "published_at": "2026-09-23T14:30:00+00:00",
+          "text": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube event, the company announced updates to the suite of AI-powered creator tools it unveiled in 2025 . In its initial iteration, the dashboard of creator tools included things like A/B testing for video thumbnails and a chatbot interface to query how content was performing. This year's update adds AI tools for more complex tasks. Perhap … Read the full story at The Verge.",
+          "id": "a5ef7b4daed"
+        }
+      ]
+    },
+    {
+      "id": "e1d77064cbe",
+      "title": "OpenAI 向乌克兰扩展网络访问",
+      "summary": "OpenAI 将其 Daybreak 计划的访问权限扩展至乌克兰政府，以支持乌克兰的平民基础设施网络防御。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "published_at": "2026-09-23T13:00:00+00:00",
+          "text": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+          "id": "a1d77064cbe"
+        }
+      ]
+    },
+    {
+      "id": "e23c4f30820",
+      "title": "探索 AI 原生应用的未来",
+      "summary": "文章探讨了 'AI-Native' 的概念，强调人工智能如何深入融入产品和服务设计。作者指出，AI 原生的应用能够在各个行业中带来创新和变革，提高效率和用户体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "What AI-Native Looks Like",
+          "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+          "published_at": "2026-09-23T12:54:38+00:00",
+          "text": "What AI-Native Looks Like（HN 23 points，讨论: https://news.ycombinator.com/item?id=49815344）",
+          "id": "a23c4f30820"
+        }
+      ]
+    },
+    {
+      "id": "e343438d8e5",
+      "title": "Ema 获得 7700 万美元融资",
+      "summary": "Ema 已累计融资 1.4 亿美元，目前拥有超过 50 家企业客户，包括谷歌和微软。随着 AI 技术逐渐渗透企业软件和服务市场，Ema 继续扩大其市场影响力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+          "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+          "published_at": "2026-09-23T12:00:00+00:00",
+          "text": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+          "id": "a343438d8e5"
+        }
+      ]
+    },
+    {
+      "id": "e01d4e543c9",
+      "title": "Sam Altman 在联合国安理会发言",
+      "summary": "OpenAI CEO Sam Altman 在联合国安理会发表讲话，讨论了人工智能的安全性、人类控制以及国际合作的重要性。他强调，制定全球性的政策和标准是确保AI技术安全发展的关键。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "published_at": "2026-09-23T12:00:00+00:00",
+          "text": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+          "id": "a01d4e543c9"
+        }
+      ]
+    },
+    {
+      "id": "ef7558dc5c9",
+      "title": "GPT-6 Astra 加强法律文档草拟能力",
+      "summary": "OpenAI 的 GPT-6 Astra 能够生成更具结构性和上下文意识的法律文档，帮助律师将更多精力集中于战略策划上。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "published_at": "2026-09-23T12:00:00+00:00",
+          "text": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+          "id": "af7558dc5c9"
+        }
+      ]
+    },
+    {
+      "id": "e7357353a1f",
+      "title": "invideo 借助 GPT-6 Astra 提升色彩处理",
+      "summary": "invideo 使用 GPT-6 Astra 进行编辑规划，色彩校正和调色效果提高了三倍。该技术每天可以生成 50 种自定义效果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "published_at": "2026-09-23T12:00:00+00:00",
+          "text": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+          "id": "a7357353a1f"
+        }
+      ]
+    },
+    {
+      "id": "e7cff1964bf",
+      "title": "Ringg使用OpenAI客服代理",
+      "summary": "Ringg 利用 GPT-5.6 的 AI 代理在语音、聊天、WhatsApp 和网页上提供多语言服务，能够解决高达 65% 的客户来电。与 GPT-4.1 相比，其成本降低了 90%。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "published_at": "2026-09-23T12:00:00+00:00",
+          "text": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "id": "a7cff1964bf"
+        }
+      ]
+    },
+    {
+      "id": "ed981256051",
+      "title": "联想天禧AI亮相阿里云栖大会",
+      "summary": "在阿里云栖大会上，联想展示了天禧AI的全场景多端产品矩阵。此次亮相标志着联想天禧AI将超级组织落地到端侧，进一步推动AI技术的应用和发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+          "url": "https://www.qbitai.com/2026/09/496609.html",
+          "published_at": "2026-09-23T10:35:16+00:00",
+          "text": "联想天禧AI携全场景多端产品矩阵亮相阿里云栖大会",
+          "id": "ad981256051"
+        }
+      ]
+    },
+    {
+      "id": "e1d5a9cc2d9",
+      "title": "OpenAI发布MentalHealthBench基准",
+      "summary": "OpenAI推出MentalHealthBench，这是一个专家指导的基准，用于评估AI在现实心理健康对话中提供的有用和安全的回应。该基准旨在增强AI系统在心理健康领域的表现和可靠性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing MentalHealthBench",
+          "url": "https://openai.com/index/introducing-mentalhealthbench",
+          "published_at": "2026-09-23T10:00:00+00:00",
+          "text": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+          "id": "a1d5a9cc2d9"
+        }
+      ]
+    },
+    {
+      "id": "e396adb9117",
+      "title": "汇智智能发布Hellome平台",
+      "summary": "汇智智能发布了国内首个FDE直连智能体服务平台Hellome，该平台旨在将企业AI服务的交付周期缩短至一周。此次发布标志着企业AI服务走向平台化交付的新阶段。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+          "url": "https://www.qbitai.com/2026/09/496493.html",
+          "published_at": "2026-09-23T09:50:26+00:00",
+          "text": "企业AI服务迎来平台化交付时代",
+          "id": "a396adb9117"
+        }
+      ]
+    },
+    {
+      "id": "e3abb9c7b2f",
+      "title": "达卯科技完成新一轮融资",
+      "summary": "达卯科技完成新一轮融资，重点聚焦算电协同核心软件层，成为市场中的“稀缺标的”。公司正在打造算电协同领域的“Windows”级操作系统。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+          "url": "https://www.qbitai.com/2026/09/496494.html",
+          "published_at": "2026-09-23T09:46:57+00:00",
+          "text": "打造算电协同领域“Windows”级操作系统",
+          "id": "a3abb9c7b2f"
+        }
+      ]
+    },
+    {
+      "id": "ea06cf0ee31",
+      "title": "它石智航引领具身智能落地",
+      "summary": "它石智航的顶尖团队推动中国具身智能进入规模化落地阶段。公司计划扩大研发团队并加快生产基地布局，以全面提升机器人交付能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+          "url": "https://www.qbitai.com/2026/09/496481.html",
+          "published_at": "2026-09-23T08:54:04+00:00",
+          "text": "它石智航将继续扩大研发团队，加快布局生产基地，全面提升机器人交付能力",
+          "id": "aa06cf0ee31"
+        }
+      ]
+    },
+    {
+      "id": "e1157eb0efd",
+      "title": "斑马智能发布AutoOmni 2.0",
+      "summary": "在9月23日的云栖大会上，斑马智能发布了新一代全模态端侧大模型AutoOmni 2.0-23B-A3B。这一模型旨在让元神AI更好地理解用户的“我的世界”。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+          "url": "https://www.qbitai.com/2026/09/496471.html",
+          "published_at": "2026-09-23T08:45:22+00:00",
+          "text": "9月23日云栖大会期间，斑马智能发布新一代全模态端侧大模型AutoOmni 2.0-23B-A3B",
+          "id": "a1157eb0efd"
+        }
+      ]
+    },
+    {
+      "id": "e2086bf74eb",
+      "title": "DeepSeek 公开 Agent 训练论文",
+      "summary": "DeepSeek 发布新论文，介绍其 Agent 训练方法。该系统每秒可以产生超过 5000 个沙盒以进行数据训练。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+          "url": "https://www.qbitai.com/2026/09/496393.html",
+          "published_at": "2026-09-23T07:29:50+00:00",
+          "text": "每秒能产生5000+个沙盒",
+          "id": "a2086bf74eb"
+        }
+      ]
+    },
+    {
+      "id": "e233cf3705a",
+      "title": "希腊总理谈AI挑战",
+      "summary": "希腊总理基亚里科斯·米佐塔基斯在接受采访时坦言，当前没有任何政府能够应对人工智能即将带来的挑战。他指出，许多领导人仍在应对过去的问题，而对未来的准备显得不足。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "published_at": "2026-09-23T04:59:08+00:00",
+          "text": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+          "id": "a233cf3705a"
+        }
+      ]
+    },
+    {
+      "id": "e73fafdf6f4",
+      "title": "Airbnb 扩大 GPT-6 Astra 访问",
+      "summary": "Airbnb 扩大了对 GPT-6 Astra 和 OpenAI frontier 模型的访问，旨在帮助工程团队解决bug、设计系统并加快交付速度。此举将为工程师提供更强大的工具，以提升产品开发效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+          "url": "https://openai.com/index/airbnb-gpt-6-astra",
+          "published_at": "2026-09-23T01:00:00+00:00",
+          "text": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+          "id": "a73fafdf6f4"
+        }
+      ]
+    },
+    {
+      "id": "e09a0c6dbf1",
+      "title": "Grab 与 OpenAI 合作推广 AI 技能",
+      "summary": "OpenAI 与 Grab 联合推出 GO Forward with AI 计划，旨在帮助东南亚的 30,000 个合作伙伴建立实用的 AI 技能。该项目将为参与者提供相关的学习资源与支持，推动 AI 技术在该地区的应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+          "published_at": "2026-09-23T00:00:00+00:00",
+          "text": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+          "id": "a09a0c6dbf1"
+        }
+      ]
+    },
+    {
+      "id": "e281410b55e",
+      "title": "家庭AI代理CC发布",
+      "summary": "新推出的CC是一款专为家庭设计的AI代理。该产品旨在为家庭提供更智能的技术支持，帮助简化日常任务和增强家庭互动。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The new CC, an AI agent built for families",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+          "published_at": "2026-09-22T23:46:07+00:00",
+          "text": "The new CC, an AI agent built for families（HN 51 points，讨论: https://news.ycombinator.com/item?id=49809806）",
+          "id": "a281410b55e"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 109,
+    "articles_new": 31,
+    "articles_filtered": 40,
+    "tokens": {
+      "prompt_tokens": 19431,
+      "completion_tokens": 2614
+    }
+  },
+  "mock": false
+}
