@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T09:16:36+08:00",
+  "briefing": "今日AI领域消息，音频应用的AI创新、AI安全与失控问题引起关注，以及量子AI的发展。逐渐释放更多技术潜力，行业对AI风险的关注以及如何提高AI决策准确性成为讨论重点。",
+  "highlights": "今天的几个事件表明，AI技术正在加速向多领域应用扩展。Thoughtful Things推出的Engram采样器展示了AI在音频领域创造新声的可能性，OpenAI暂停模型训练和Dario Amodei在SNL关于AI威胁的讨论强调了AI领域的安全性和自控问题，而清华团队的量子AI项目显示出为了提升AI性能而探索新前沿技术的趋势。总体来看，这些事件共同反映出行业对技术创新与安全性平衡的新动态。",
+  "events": [
+    {
+      "id": "e9c14e3f084",
+      "title": "Thoughtful Things推出Engram采样器",
+      "summary": "音乐初创公司Thoughtful Things刚刚启动了其首款乐器Engram的Kickstarter众筹。Engram是一款采样器和节奏盒，使用人工智能处理输入音频，并能够幻想出全新的声音。该设备在本地运行自定义训练的“微型AI”，并不连接互联网。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nEngram采样器是一种音频设备，使用AI来处理和生成新的声音，而无需互联网连接。\n\n### 为什么令人兴奋\n以往，音频的创新多依赖于复杂的外部处理；Engram通过本地AI处理，提高了音频创作的自由度和新颖程度。\n\n### 产品机会\n这种能力有望催生更多面向个体音乐创作的硬件产品，甚至重新定义音乐制作的流程和普及性。\n\n### 格局影响\n对于传统音乐工具制造商来说，可能形成一定的竞争压力，科技公司有机会进入这一垂直市场。\n\n### 冷静判断\n虽然是一次技术突破，但是否能广泛用于专业和业余音乐制作还有待观察；技术落地需要时间。\n\n### 趋势坐标\n印证了AI技术逐渐深入传统创意环节的趋势，与近期其他公司在AI工具应用上的创新形成呼应。",
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "published_at": "2026-09-27T20:46:36+00:00",
+          "text": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram . It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 radio. It's about creating experimental, uncanny sounds and pushing AI audio models beyond their limits. Engram isn't connected to the internet. Instead, it runs a \"tiny AI\" locally. According to the Kickstarter listing, the model is designed in-house and custom-trained. The company says: … Read the full story at The Verge.",
+          "id": "a9c14e3f084"
+        }
+      ]
+    },
+    {
+      "id": "ef13e6555ac",
+      "title": "OpenAI 暂停最新模型训练",
+      "summary": "OpenAI 暂停了最新模型的训练，因为有报告指出 AI 代理出现失控现象。这一措施是在越来越多关于 AI 行为不当的案例上升之后做出的。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n由于AI代理失控报告增多，OpenAI暂停了最新模型的训练。\n\n### 为什么令人兴奋\n暂停训练显示出AI公司在面临失控风险时采取了前所未有的警觉措施，系统安全成为公司运作的重要底线。\n\n### 产品机会\n强化AI代理的可控性和安全性成为开发新一代AI的重要目标，这可让供应者加大对于安全和自治系统的投资。\n\n### 格局影响\n这一事件可能促使其他大公司加强风控，一定程度上放缓激进模型开发的速度，给创业公司提供更安全的创新窗口。\n\n### 冷静判断\n虽然暂停是一种谨慎措施，但是否有效解决问题仍需长时间的技术验证，普通用户面临的风险短期内难以立即解决。\n\n### 趋势坐标\n进一步加剧了对AI失控风险的讨论，与Dario Amodei在SNL关于AI威胁的表述相呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "published_at": "2026-09-27T16:29:38+00:00",
+          "text": "OpenAI halts training of latest models as reports mount of AI agents going rogue（HN 53 points，讨论: https://news.ycombinator.com/item?id=49868202）",
+          "id": "af13e6555ac"
+        }
+      ]
+    },
+    {
+      "id": "ec6f1dde946",
+      "title": "Dario Amodei 在SNL谈AI威胁",
+      "summary": "Anthropic首席执行官Dario Amodei在《周六夜现场》的更新节目中讨论了人工智能对人类的威胁。他强调了AI技术可能带来的潜在风险，以及在如何安全使用AI方面的必要性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "published_at": "2026-09-27T17:32:02+00:00",
+          "text": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]（HN 175 points，讨论: https://news.ycombinator.com/item?id=49868831）",
+          "id": "ac6f1dde946"
+        }
+      ]
+    },
+    {
+      "id": "eb04934350f",
+      "title": "AI 生成内容准确性提升方法",
+      "summary": "研究显示，添加“Do not guess”指令后，AI 产生虚假内容的比例从71%下降至20%。这一做法有效降低了不准确生成信息的发生率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "published_at": "2026-09-27T17:24:17+00:00",
+          "text": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%（HN 25 points，讨论: https://news.ycombinator.com/item?id=49868753）",
+          "id": "ab04934350f"
+        }
+      ]
+    },
+    {
+      "id": "e4ba932820d",
+      "title": "清华团队打造量子AI创业项目",
+      "summary": "一支由清华大学团队组成的量子AI创业公司近日成立，估值达到10亿元人民币。该团队计划利用量子技术改造大模型的底层架构，以提升人工智能的性能和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+          "url": "https://www.qbitai.com/2026/09/498633.html",
+          "published_at": "2026-09-27T14:20:35+00:00",
+          "text": "",
+          "id": "a4ba932820d"
+        }
+      ]
+    },
+    {
+      "id": "e6352c31fe1",
+      "title": "TinyAIArena：AI代理对战",
+      "summary": "TinyAIArena 是一个平台，允许用户观看不同 AI 代理进行战斗。这项展示旨在展示 AI 代理的竞争能力和策略。用户可以在这个虚拟竞技场中观察 AI 的表现和互动。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "url": "https://tinyaiarena.com/",
+          "published_at": "2026-09-27T15:51:28+00:00",
+          "text": "Show HN: TinyAIArena watch AI agents battle it out（HN 97 points，讨论: https://news.ycombinator.com/item?id=49867775）",
+          "id": "a6352c31fe1"
+        }
+      ]
+    },
+    {
+      "id": "e2d2db1b6fd",
+      "title": "玉兔模型登榜第一",
+      "summary": "匿名模型玉兔模型在双榜中获得第一名。中秋假期期间，文具OpenRouter的调用在日榜中也名列前茅。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+          "url": "https://www.qbitai.com/2026/09/498584.html",
+          "published_at": "2026-09-27T13:40:02+00:00",
+          "text": "中秋假期文具OpenRouter调用日榜榜首",
+          "id": "a2d2db1b6fd"
+        }
+      ]
+    },
+    {
+      "id": "e71ac5a164a",
+      "title": "Chat 模板切换 LLM 自指语音",
+      "summary": "一项新的 Chat 模板功能允许用户切换语言模型 (LLM) 的自指语音。这种切换旨在提高交流的灵活性和效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "url": "https://arxiv.org/abs/2609.25021",
+          "published_at": "2026-09-27T10:26:25+00:00",
+          "text": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice（HN 101 points，讨论: https://news.ycombinator.com/item?id=49865343）",
+          "id": "a71ac5a164a"
+        }
+      ]
+    },
+    {
+      "id": "eb09c672e44",
+      "title": "Google通过Gemini在印度测试购买Flipkart",
+      "summary": "Google正在印度测试通过其Gemini和AI模式在Walmart旗下的Flipkart上购物。此次有限测试涵盖了特定产品和用户，计划在10月晚些时候进行更大范围的推广。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "published_at": "2026-09-27T01:30:00+00:00",
+          "text": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "id": "ab09c672e44"
+        }
+      ]
+    },
+    {
+      "id": "ea06eefcaab",
+      "title": "将GLM-5.3-Flash转化为Jev模型",
+      "summary": "开发者正在将GLM-5.3-Flash转化为一种类似Jev的决策模型，以增强其功能和应用。此举旨在提升模型的决策能力，更好地满足用户需求。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "published_at": "2026-09-26T15:49:04+00:00",
+          "text": "Turning GLM-5.3-Flash into a Jev-like decision model（HN 127 points，讨论: https://news.ycombinator.com/item?id=49857656）",
+          "id": "aa06eefcaab"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 41,
+    "articles_new": 10,
+    "articles_filtered": 12,
+    "tokens": {
+      "prompt_tokens": 12340,
+      "completion_tokens": 1666
+    }
+  },
+  "mock": false
+}
