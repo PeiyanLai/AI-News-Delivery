@@ -1,0 +1,718 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T09:43:39+08:00",
+  "briefing": "今日AI领域热点，OpenAI发布新技术和融资计划，麦当劳利用AI实现动态定价，AI安全及风险引发热议，多个企业推动AI助手创新。",
+  "highlights": "今天的几个事件展示了AI行业的几个重要发展：OpenAI的GPT-6.1 Sol更新和大规模融资计划预示着技术能力步步提升，资金雄厚助力快速发展。与此相伴的是，AI带来的安全隐忧和伦理挑战也成为焦点。同样值得注意的是，各大企业纷纷探索AI助手的应用场景，从麦当劳的智能定价到Meta的Muse助手，领域应用在扩大。",
+  "events": [
+    {
+      "id": "e00dec4f5ee",
+      "title": "OpenAI 发布 GPT-6.1 Sol 更新",
+      "summary": "OpenAI 在开发者日（Dev Day）上推出了 GPT-6.1 Sol，一晚之内进行了 25 项更新。此次更新对产品进行了多方面的改进。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nGPT-6.1 Sol进行了25项更新，提升了专业任务完成能力。\n\n### 为什么令人兴奋\n这次更新显著提高了效率，成本降至Astra的五分之一。\n\n### 产品机会\n开发者可以利用这低成本、高效率的模型构建更复杂的应用。\n\n### 格局影响\nOpenAI通过此更新强化了在AI工具市场中的地位。\n\n### 冷静判断\n虽然强大，但大规模商业化应用还需要时间。\n\n### 趋势坐标\n印证了AI模型升级速度加快的趋势，与最近OpenAI的更新保持一致。",
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+          "url": "https://www.qbitai.com/2026/09/499246.html",
+          "published_at": "2026-09-29T23:01:05+00:00",
+          "text": "今年devday牙膏挤爆",
+          "id": "a00dec4f5ee"
+        }
+      ]
+    },
+    {
+      "id": "e4a7426e1fd",
+      "title": "OpenAI计划融资300亿美金",
+      "summary": "据报道，OpenAI计划进行一轮300亿美元的融资，公司的估值将达到1.4万亿美元。这一轮融资预计将是OpenAI在2027年推迟上市前的最后一轮。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI计划进行300亿美元融资，提高公司估值至1.4万亿美元。\n\n### 为什么令人兴奋\n这次融资表明了资本市场对AI技术进一步的认可和期望。\n\n### 产品机会\n资金支持可能推动更多创新项目和产品落地。\n\n### 格局影响\n这将进一步巩固OpenAI在AI领域的领导地位，而竞争对手可能面临更大的压力。\n\n### 冷静判断\n巨额融资预示着目标宏大，但执行和产出尤为关键。\n\n### 趋势坐标\n与AI行业大规模投资热潮相呼应，显示出市场信心持续看涨。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "published_at": "2026-09-29T19:52:37+00:00",
+          "text": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+          "id": "a4a7426e1fd"
+        }
+      ]
+    },
+    {
+      "id": "e279b46c54c",
+      "title": "麦当劳推AI定价Big Mac",
+      "summary": "麦当劳正在推动一项新技术，通过人工智能为其经典汉堡Big Mac定价。这一举措旨在提高定价的效率和准确性，以应对市场变化和顾客需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "McDonald's push to have AI price your Big Mac",
+          "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+          "published_at": "2026-09-29T19:58:50+00:00",
+          "text": "McDonald's push to have AI price your Big Mac（HN 41 points，讨论: https://news.ycombinator.com/item?id=49899453）",
+          "id": "a279b46c54c"
+        }
+      ]
+    },
+    {
+      "id": "e0303671394",
+      "title": "AI需6万亿美元来支撑数据中心增长",
+      "summary": "根据最新报道，人工智能（AI）行业需要每年获得6万亿美元的收入，才能够支撑当前的数据中心扩张。这一巨额收入需求凸显了市场对计算能力和基础设施的巨大依赖。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI needs $6T in annual revenue to justify data centre boom",
+          "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+          "published_at": "2026-09-29T19:21:25+00:00",
+          "text": "AI needs $6T in annual revenue to justify data centre boom（HN 192 points，讨论: https://news.ycombinator.com/item?id=49898952）",
+          "id": "a0303671394"
+        }
+      ]
+    },
+    {
+      "id": "ee946f80920",
+      "title": "OpenAI 寻求 300 亿融资",
+      "summary": "OpenAI 正在寻求 300 亿美元的新融资，目标公司估值达到 1.4 万亿美元。这一融资计划意在扩大其在人工智能领域的影响力和业务规模。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+          "published_at": "2026-09-29T17:44:21+00:00",
+          "text": "OpenAI Targets $30B in New Funding at $1.4T Value（HN 40 points，讨论: https://news.ycombinator.com/item?id=49897336）",
+          "id": "ae946f80920"
+        }
+      ]
+    },
+    {
+      "id": "e5726e15c5c",
+      "title": "AI研究者警告超智能危险性",
+      "summary": "前OpenAI和Google DeepMind员工杰弗里·欧文在采访中表示，人类灭绝的可能性大约是50%。包含多位AI研究者的访谈由Palisade Research收集，研究者们警告超智能AI可能导致人类灭绝的风险。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+          "published_at": "2026-09-29T17:35:03+00:00",
+          "text": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' capabilities and motivations, collected and launched the interviews on frominside.ai . Several of the researchers joined Irving in warning about the possibility AI could drive humans extinct. Neel Nanda, a Google DeepMind research scientist, said there's \"at least a 10 percent chance that it causes human e … Read the full story at The Verge.",
+          "id": "a5726e15c5c"
+        }
+      ]
+    },
+    {
+      "id": "e7880523c2d",
+      "title": "Wabi 转型为个人 AI 助手",
+      "summary": "Wabi 正在将其基于提示的应用构建器重新定位为个人 AI 助手，能够随时创建用户界面，结合聊天、应用和持续任务。此举旨在提升用户体验和功能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI-powered app maker Wabi pivots to a messaging experience",
+          "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+          "published_at": "2026-09-29T17:20:00+00:00",
+          "text": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+          "id": "a7880523c2d"
+        }
+      ]
+    },
+    {
+      "id": "e572dce9934",
+      "title": "OpenAI发布Dots独立代理形象",
+      "summary": "OpenAI推出了Dots，这是一种独立于任何特定硬件或界面的代理形象。它可以在后台持续追求用户定义的目标，且对用户的监督要求最小化。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "published_at": "2026-09-29T17:17:15+00:00",
+          "text": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+          "id": "a572dce9934"
+        }
+      ]
+    },
+    {
+      "id": "ee2bf069c3b",
+      "title": "OpenAI扩展Codex功能",
+      "summary": "OpenAI为Codex推出可重用的云开发环境，新的命令行界面（CLI）支持语音控制，并增加了代码审查工具。同时，推出了一款专注于安全的产品，用于扫描代码库并准备修复方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+          "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+          "published_at": "2026-09-29T17:15:00+00:00",
+          "text": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+          "id": "ae2bf069c3b"
+        }
+      ]
+    },
+    {
+      "id": "ee277d681e1",
+      "title": "OpenAI扩展ChatGPT插件功能",
+      "summary": "OpenAI正在扩展ChatGPT的插件功能，新增专用的侧边栏、互动面板和文件查看器。这些更新将提升插件的发现性，并支持自动化功能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+          "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+          "published_at": "2026-09-29T17:15:00+00:00",
+          "text": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+          "id": "ae277d681e1"
+        }
+      ]
+    },
+    {
+      "id": "e914354df00",
+      "title": "OpenAI 发布 GPT-6.1 Sol",
+      "summary": "OpenAI 推出了 GPT-6.1 Sol，表示其在复杂专业任务中显著优于 GPT-6 Sol，包括代码编写、调试和文档理解等。该产品在 API 的输入和输出 token 价格上仅为 Astra 的五分之一，接近 Astra 的智能水平。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "published_at": "2026-09-29T17:15:00+00:00",
+          "text": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+          "id": "a914354df00"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing GPT-6.1 Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "published_at": "2026-09-29T10:00:00+00:00",
+          "text": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "id": "add66acaed2"
+        }
+      ]
+    },
+    {
+      "id": "e443642623d",
+      "title": "Dots 发布常驻代理服务",
+      "summary": "Dots 公司推出了一款名为“Always-on agents”的常驻代理服务，旨在提供持续的智能助手功能。此服务可以帮助用户在无需手动启用的情况下，随时访问所需的信息和功能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots/",
+          "published_at": "2026-09-29T17:07:57+00:00",
+          "text": "Dots: Always-on agents（HN 465 points，讨论: https://news.ycombinator.com/item?id=49896604）",
+          "id": "a443642623d"
+        }
+      ]
+    },
+    {
+      "id": "e0a51a0bd84",
+      "title": "DraftKings 采用 AI 监测赌博行为",
+      "summary": "DraftKings 正在利用人工智能技术，针对慢性赌徒进行行为分析和目标定位。该公司旨在识别和干预那些可能面临赌博成瘾风险的用户，以帮助他们更好地管理自己的赌博行为。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+          "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+          "published_at": "2026-09-29T16:30:48+00:00",
+          "text": "DraftKings is using AI to behaviorally target chronic gamblers（HN 529 points，讨论: https://news.ycombinator.com/item?id=49896050）",
+          "id": "a0a51a0bd84"
+        }
+      ]
+    },
+    {
+      "id": "e493cf3fce1",
+      "title": "NVIDIA Kumo Tabular 推出新产品",
+      "summary": "NVIDIA 发布了 Kumo Tabular，旨在提升表格数据预测的准确性和效率。这一新工具为表格预测设置了一个全新的准确性与效率的基准，助力数据科学家和开发者更好地处理数据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "published_at": "2026-09-29T15:30:38+00:00",
+          "text": "",
+          "id": "a493cf3fce1"
+        }
+      ]
+    },
+    {
+      "id": "ea45e0f4237",
+      "title": "Meta Muse AI 忽视用户权限",
+      "summary": "Meta推出的新Muse AI代理在处理用户权限时明显存在问题，未能遵循用户的隐私设置。这一情况引发了用户对其数据安全及隐私处理的关注。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+          "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+          "published_at": "2026-09-29T14:15:24+00:00",
+          "text": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions（HN 154 points，讨论: https://news.ycombinator.com/item?id=49893709）",
+          "id": "aa45e0f4237"
+        }
+      ]
+    },
+    {
+      "id": "e16c4b876e1",
+      "title": "Meta推出AI助手Muse支持小企业",
+      "summary": "科技巨头Meta正在将其AI助手Muse推广到小企业。该助手可以帮助企业主运营业务并寻找新客户。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta is expanding its AI agent Muse to small businesses",
+          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+          "published_at": "2026-09-29T13:47:30+00:00",
+          "text": "The tech giant says the agent can help owners run their business and find new customers.",
+          "id": "a16c4b876e1"
+        }
+      ]
+    },
+    {
+      "id": "e984223f109",
+      "title": "Hugging Face 推出源感知验证",
+      "summary": "Hugging Face 发布了一项源感知验证技术，旨在提高多渠道处理（MCP）代理的验证能力。该技术强调证实信息的来源，而不仅仅是事实的准确性，旨在增强对生成内容的可信度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "published_at": "2026-09-29T13:07:00+00:00",
+          "text": "",
+          "id": "a984223f109"
+        }
+      ]
+    },
+    {
+      "id": "e7c2570d9f8",
+      "title": "Reco融资5500万美元",
+      "summary": "Reco公司在2月完成3000万美元融资后，再次筹集了5500万美元，总融资额达到1.4亿美元。该公司专注于AI代理安全领域，市场竞争日益激烈。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Reco raises $55M as AI agent security startups crowd the market",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+          "published_at": "2026-09-29T12:30:00+00:00",
+          "text": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+          "id": "a7c2570d9f8"
+        }
+      ]
+    },
+    {
+      "id": "e9851d393df",
+      "title": "Mistral CEO 批评AI安全辩论",
+      "summary": "Mistral CEO 在讨论中指出，美国的AI安全辩论掩盖了竞争对手在该领域的'疏忽'。他强调，行业内对安全问题的重视程度不足，可能影响AI技术的健康发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'",
+          "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
+          "published_at": "2026-09-29T12:01:07+00:00",
+          "text": "Mistral CEO says U.S. AI safety debate masks competitors' 'negligence'（HN 43 points，讨论: https://news.ycombinator.com/item?id=49891721）",
+          "id": "a9851d393df"
+        }
+      ]
+    },
+    {
+      "id": "e4673f7cac1",
+      "title": "Anthropic IPO申请警告AI风险",
+      "summary": "在即将上市的过程中，Anthropic发布了IPO申请，透露其每年损失数百亿美元，同时也在快速增长。该公司警告称，其AI可能会对人类造成存在性风险，计划估值达2万亿美元。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+          "published_at": "2026-09-29T11:48:27+00:00",
+          "text": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than double the $965 billion it was valued at four months ago, making it a contender to overtake SpaceX as the largest IPO in history. According to Reuters , which reportedly reviewed Anthropic's prospectus, the AI startup plans to spend $518 billion on cloud, computing, and infrastructure obligations … Read the full story at The Verge.",
+          "id": "a4673f7cac1"
+        },
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "published_at": "2026-09-29T05:13:43+00:00",
+          "text": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+          "id": "aa54b0644ea"
+        }
+      ]
+    },
+    {
+      "id": "eebdae3b9e4",
+      "title": "Jeeves 改进决策模型",
+      "summary": "Jeeves 的最新研究表明，推理能力可以改善类似于 Jev 的决策模型。这一发现有助于提升决策过程的准确性和有效性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Jeeves. Reasoning improves Jev-like decision models",
+          "url": "https://github.com/PostHog/jeeves",
+          "published_at": "2026-09-29T11:13:54+00:00",
+          "text": "Jeeves. Reasoning improves Jev-like decision models（HN 225 points，讨论: https://news.ycombinator.com/item?id=49891290）",
+          "id": "aebdae3b9e4"
+        }
+      ]
+    },
+    {
+      "id": "e9ccfb6a685",
+      "title": "语言模型在文本分类中的应用",
+      "summary": "本文探讨了语言模型在文本分类中的演变，从传统的词袋模型到新的Jev方法。研究指出，这些模型在分类任务中表现出更高的准确性和效率。通过对比不同模型的性能，展示了语言模型在实际应用中的重要性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Language models for text classification: From bag-of-words to Jev",
+          "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+          "published_at": "2026-09-29T11:06:25+00:00",
+          "text": "Language models for text classification: From bag-of-words to Jev（HN 25 points，讨论: https://news.ycombinator.com/item?id=49891203）",
+          "id": "a9ccfb6a685"
+        }
+      ]
+    },
+    {
+      "id": "e345bd52aac",
+      "title": "新款 Cyber-OSINT 模型发布",
+      "summary": "一款新的网络开源智能（Cyber-OSINT）模型正式发布。该模型旨在提升用户在网络安全和情报收集方面的能力，提供更精准的数据分析和威胁识别功能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "New Cyber-OSINT model released",
+          "url": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+          "published_at": "2026-09-29T10:23:33+00:00",
+          "text": "New Cyber-OSINT model released（HN 53 points，讨论: https://news.ycombinator.com/item?id=49890829）",
+          "id": "a345bd52aac"
+        }
+      ]
+    },
+    {
+      "id": "e19db7cc5ca",
+      "title": "OpenAI DevDay 2026 亮点",
+      "summary": "OpenAI 在 2026 年的开发者日上宣布了 20 多项新功能，包括 GPT-6 Astra、ChatGPT、Codex 和新的 API。此次活动还重点介绍了安全性和为开发者提供的新工具。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "DevDay 2026 Recap",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "published_at": "2026-09-29T10:00:00+00:00",
+          "text": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "id": "a19db7cc5ca"
+        }
+      ]
+    },
+    {
+      "id": "ec92e39202c",
+      "title": "基于隐私的AI代理分析",
+      "summary": "一项关于Web和移动对话AI代理的隐私分析报告揭示了这些技术在数据收集和用户隐私方面的潜在风险。报告提供了针对这些系统的隐私问题的详细评估，以及改进建议。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "published_at": "2026-09-29T09:03:41+00:00",
+          "text": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]（HN 408 points，讨论: https://news.ycombinator.com/item?id=49890226）",
+          "id": "ac92e39202c"
+        }
+      ]
+    },
+    {
+      "id": "eace6c405f7",
+      "title": "IQuest-Q1 解决 RL 训练数据问题",
+      "summary": "量子位报道，IQuest-Q1 成功找出强化学习训练数据中的bug，提升了数据处理的准确性。此外，IQuest-Q1 还可以通过提示直接生成小游戏，展现了其强大的应用潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+          "url": "https://www.qbitai.com/2026/09/499188.html",
+          "published_at": "2026-09-29T07:59:46+00:00",
+          "text": "",
+          "id": "aace6c405f7"
+        }
+      ]
+    },
+    {
+      "id": "eb170416a0f",
+      "title": "OpenAI 暂停 AGI 计划发布",
+      "summary": "OpenAI 因新模型的强大性能，决定暂停其 AGI（通用人工智能）计划的发布。此举引发了业界对人工智能安全性和能力的广泛讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "OpenAI因新模型太强叫停发布",
+          "url": "https://www.qbitai.com/2026/09/499140.html",
+          "published_at": "2026-09-29T07:49:20+00:00",
+          "text": "AGI计划暂停。",
+          "id": "ab170416a0f"
+        }
+      ]
+    },
+    {
+      "id": "e81e8c2fc7f",
+      "title": "诺因智能完成多轮融资，累计超10亿",
+      "summary": "诺因智能在成立一年内成功完成5轮融资，获得数亿元资金。至今，该公司累计融资金额已超过10亿元，标志着其从产品Demo阶段走向家庭应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+          "url": "https://www.qbitai.com/2026/09/499135.html",
+          "published_at": "2026-09-29T07:10:59+00:00",
+          "text": "诺因从Demo走向家庭",
+          "id": "a81e8c2fc7f"
+        }
+      ]
+    },
+    {
+      "id": "e64489b071b",
+      "title": "OpenAI 重启 Pro 订阅服务",
+      "summary": "OpenAI 宣布将于明天重新开放 Pro 订阅服务，订阅费用为 200 美元。这一订阅服务将为用户提供更多功能和更好的体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+          "url": "https://twitter.com/thsottiaux/status/2104823812042940713",
+          "published_at": "2026-09-29T07:07:53+00:00",
+          "text": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription（HN 74 points，讨论: https://news.ycombinator.com/item?id=49889306）",
+          "id": "a64489b071b"
+        }
+      ]
+    },
+    {
+      "id": "e0318cc134a",
+      "title": "无审查的安全AI模型基准",
+      "summary": "Hacker News 发布了《Uncensored and Offensive Security AI Models Benchmark》一文，讨论了无审查和冒犯性安全AI模型的基准。该基准提供了不同安全AI模型的评估，旨在推动已意识到的安全和伦理问题的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Uncensored and Offensive Security AI Models Benchmark",
+          "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+          "published_at": "2026-09-29T06:16:04+00:00",
+          "text": "Uncensored and Offensive Security AI Models Benchmark（HN 37 points，讨论: https://news.ycombinator.com/item?id=49888937）",
+          "id": "a0318cc134a"
+        }
+      ]
+    },
+    {
+      "id": "e6b968b584c",
+      "title": "GPT-6 Astra 被评为最佳视觉模型",
+      "summary": "GPT-6 Astra 是我们测试过的最佳视觉模型。该模型在多个视觉任务中表现优异，展示了其先进的图像理解能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GPT-6 Astra is the best vision model we have tested",
+          "url": "https://blog.roboflow.com/gpt-6-astra-vision/",
+          "published_at": "2026-09-29T00:10:30+00:00",
+          "text": "GPT-6 Astra is the best vision model we have tested（HN 33 points，讨论: https://news.ycombinator.com/item?id=49886228）",
+          "id": "a6b968b584c"
+        }
+      ]
+    },
+    {
+      "id": "e884977ecb8",
+      "title": "OpenAI 推出主动助手 Dots",
+      "summary": "OpenAI 发布了 Dots，一款能够在复杂项目和日常任务中持续工作的主动助手。Dots 旨在帮助用户保持掌控，同时推动工作进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing dots",
+          "url": "https://openai.com/index/introducing-dots",
+          "published_at": "2026-09-29T00:00:00+00:00",
+          "text": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "id": "a884977ecb8"
+        }
+      ]
+    },
+    {
+      "id": "e0719140799",
+      "title": "OpenAI 取消新模型发布",
+      "summary": "OpenAI 由于安全隐患，决定取消新AI模型的发布。公司在评估风险后认为该模型可能存在不可预见的安全问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
+          "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
+          "published_at": "2026-09-28T22:07:59+00:00",
+          "text": "OpenAI Scraps Release of New AI Model over Safety Concerns（HN 30 points，讨论: https://news.ycombinator.com/item?id=49885133）",
+          "id": "a0719140799"
+        }
+      ]
+    },
+    {
+      "id": "ecf468ec39d",
+      "title": "OpenAI 发布前沿 AI 安全指南",
+      "summary": "OpenAI 发布了针对前沿 AI 训练的安全案例初步指南，涵盖技术保障、操作实践以及调查不一致事件的程序。这些指南旨在提升 AI 系统的安全性和可靠性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Towards safety cases for frontier AI training",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "published_at": "2026-09-28T19:00:00+00:00",
+          "text": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "id": "acf468ec39d"
+        }
+      ]
+    },
+    {
+      "id": "ee745e435d4",
+      "title": "2026年LLM进展回顾",
+      "summary": "2026年，LLM（大型语言模型）在多个领域取得显著进展，包括自然语言处理、代码生成和人机交互等。新的模型架构和训练技术促进了性能提升，使得LLM在实际应用中更为有效。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "2026 in LLMs (So Far)",
+          "url": "https://simonw.substack.com/p/2026-in-llms-so-far",
+          "published_at": "2026-09-28T16:45:58+00:00",
+          "text": "2026 in LLMs (So Far)（HN 20 points，讨论: https://news.ycombinator.com/item?id=49880838）",
+          "id": "ae745e435d4"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 97,
+    "articles_new": 37,
+    "articles_filtered": 27,
+    "tokens": {
+      "prompt_tokens": 21059,
+      "completion_tokens": 3119
+    }
+  },
+  "mock": false
+}
