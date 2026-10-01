@@ -1,0 +1,649 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T09:40:10+08:00",
+  "briefing": "今日导读：谷歌重磅推出的 Gemini 4 Argon 模型引领 AI 编码与网络安全新能效；Flow Engineering 获得大量融资为硬件设计带来 AI 助力；Anthropic 的 IPO 招股书揭示了其在 AI 领域的抱负与挑战；Meta 携手 OpenAI 即将推出新的 AI 硬件项目。",
+  "highlights": "今日看点：Google 发布的 Gemini 4 Argon 模型为 AI 领域在编码和网络安全方面开创了新的性能基准，显示出更多专业领域 AI 应用的潜力。与此同时，AI 初创公司如 Flow Engineering 和 Anthropic 通过高调融资和 IPO 计划，强调了市场对创新型 AI 能力的强烈需求与信心。此类事件共同表明，AI 技术正在持续拓展其应用领域，加速商业模式的变革和全新生态的形成。",
+  "events": [
+    {
+      "id": "e1237634e7f",
+      "title": "谷歌发布Gemini 4 Argon模型",
+      "summary": "谷歌发布了最新的Gemini 4 Argon模型，称其为迄今为止最强大的模型，主要用于编码和网络安全工作。初期仅向“受信任的网络防御者”开放，未来计划逐步扩大访问权限。该模型在复杂工作流程中表现出色，尤其是在软件工程和企业知识工作方面。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n谷歌发布了 Gemini 4 Argon，这是一款主要针对编码和网络安全工作的高性能 AI 模型。\n\n### 为什么令人兴奋\n该模型被称为谷歌最强大的模型，尤其擅长复杂的软件工程工作流程，使之前难以自动化的流程变得可行。\n\n### 产品机会\n这为高安全性和复杂编程环境中的新 AI 应用开发打开了大门，可能催生出面向企业和开发者的新型工具和平台。\n\n### 格局影响\nGoogle 在 AI 领域再次展示实力，进一步巩固其技术领先地位，开源和其他大型公司的相关市场份额可能受到影响。\n\n### 冷静判断\n尽管官方宣称性能卓越，但普通开发者可能需要等待进一步的工具和文档支持才能完全利用这一技术。\n\n### 趋势坐标\n这与近期 AI 模型性能提升和应用场景扩展的趋势相呼应，为 AI 技术在特定垂直领域的渗透提供了最新依据。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+          "published_at": "2026-09-30T23:43:07+00:00",
+          "text": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+          "id": "a1237634e7f"
+        },
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "published_at": "2026-09-30T20:41:41+00:00",
+          "text": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at first to a \"set of trusted cyber defenders,\" and Kavukcuoglu says that Google is \"actively engaged in the U.S. government's voluntary process for pre-release model access while we gradually expand access.\" Kavukcuoglu says Gemini 4 Argon is already powering Google's … Read the full story at The Verge.",
+          "id": "a97fa5252aa"
+        }
+      ]
+    },
+    {
+      "id": "ef9953f3a0f",
+      "title": "AI 初创公司 Flow Engineering 融资750百万",
+      "summary": "Flow Engineering 正在将 AI 代理引入硬件设计，获得了 Valor、Atreides 和 Sequoia 的支持，估值达到 7.5 亿美元。此外，Roelof Botha 也成为了其天使投资人和董事会成员。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+          "published_at": "2026-09-30T21:07:40+00:00",
+          "text": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+          "id": "af9953f3a0f"
+        }
+      ]
+    },
+    {
+      "id": "e5a7fddad53",
+      "title": "Anthropic公布IPO招股书",
+      "summary": "AI公司Anthropic最近发布了其首次公开募股（IPO）招股书，内容详尽且引人关注。招股书中列出了公司的财务状况和未来的发展计划，显示出其在AI行业的增长潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic's IPO Prospectus Is a Fucking Doozy",
+          "url": "https://daringfireball.net/linked/2026/09/30/reuters-anthropic-ipo-prospectus",
+          "published_at": "2026-09-30T20:44:19+00:00",
+          "text": "Anthropic's IPO Prospectus Is a Fucking Doozy（HN 49 points，讨论: https://news.ycombinator.com/item?id=49914149）",
+          "id": "a5a7fddad53"
+        }
+      ]
+    },
+    {
+      "id": "e8b112c5c21",
+      "title": "Reddit取消RSS功能及API访问",
+      "summary": "Reddit宣布将关闭RSS订阅功能，并终止公共API访问，原因是为了应对AI机器人对平台内容的抓取。这一举措标志着Reddit对其内容和数据管理策略的重大调整。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+          "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+          "published_at": "2026-09-30T18:23:21+00:00",
+          "text": "Reddit is killing RSS feeds and ending public API access because of AI bots（HN 23 points，讨论: https://news.ycombinator.com/item?id=49912499）",
+          "id": "a8b112c5c21"
+        }
+      ]
+    },
+    {
+      "id": "e940c49f7ad",
+      "title": "Meta与OpenAI推出AI宠物",
+      "summary": "在即将到来的一年里，Meta和OpenAI将推出他们的AI硬件项目，旨在改变AI在专用设备上的应用。OpenAI正在与前苹果设计师Jony Ive合作研发新的AI设备，尽管业界对这类产品存在很大分歧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "The AI Tamagotchis are coming",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+          "published_at": "2026-09-30T18:07:38+00:00",
+          "text": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is hard\" is a tech industry mantra. Dedicated AI devices like the Friend and Humane AI Pin have inspired mainly frustration and backlash, which may only worsen as public anger toward AI grows. Meta and OpenAI, however, are both pushing ahead. OpenAI is working with famed ex-Apple designer Jony Ive and pla … Read the full story at The Verge.",
+          "id": "a940c49f7ad"
+        }
+      ]
+    },
+    {
+      "id": "efd92f5df1d",
+      "title": "FTC调查AI巨头Anthropic和OpenAI",
+      "summary": "美国联邦贸易委员会（FTC）对包括Anthropic和OpenAI等AI巨头展开调查。此举旨在评估这些公司在AI领域的行为及其对市场的影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+          "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+          "published_at": "2026-09-30T16:59:37+00:00",
+          "text": "FTC opens probe into AI giants including Anthropic and OpenAI（HN 33 points，讨论: https://news.ycombinator.com/item?id=49911520）",
+          "id": "afd92f5df1d"
+        }
+      ]
+    },
+    {
+      "id": "e4141c50f4d",
+      "title": "DoorDash推出AI点餐助手",
+      "summary": "DoorDash推出了一款AI助手，用户可以通过文本与其沟通来订餐。该举措旨在提升其在与Uber Eats和Grubhub等竞争对手的竞争中的优势。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "DoorDash launches an AI agent you can text to order food",
+          "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+          "published_at": "2026-09-30T16:00:24+00:00",
+          "text": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+          "id": "a4141c50f4d"
+        }
+      ]
+    },
+    {
+      "id": "e1c9685f8d8",
+      "title": "Meta推出新AI代理Muse",
+      "summary": "Meta推出了新的Muse AI代理，声称可以帮助用户发送电子邮件和在线购物。它还计划推出类似于Tamagotchi的Muse Charm设备，并将Muse工具扩展到小型企业。该代理的新功能包括视频聊天和文件系统的可下载性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+          "published_at": "2026-09-30T15:18:49+00:00",
+          "text": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans for a Tamagotchi-like Muse Charm device for its cuddly AI mascot. Follow along here for the latest news and updates. Meta’s Muse AI sent a YouTuber’s address to a stranger Meta expands Muse tools for small businesses. Meta Enterprise Platform will bring its Muse AI to businesses. Maybe don’t let Muse run your Facebook Marketplace account. The Muse Charm won’t have Instagram built in. Meta makes the Muse filesystem even more accessible Muse will apparently let you download its entire filesystem Muse sure looks a lot like OpenClaw It’s sinister that Meta’s Muse AI mascot is so cute Meta’s Muse AI Charms can interact with each other Meta is making a standalone Muse AI gadget Muse is coming to Meta smart glasses Meta is making Muse more powerful and will let you video chat with it, too Meta’s AI agent is a cute little guy who’s great at spending my money Meta patches Muse exploit that let attackers control the AI agent Can you forget how you feel about Meta? Amazon blocks Meta’s Muse AI agent Meta’s Muse is creepy, but maybe not for the reasons you think Meta’s Muse AI agent now has a Mac app. Meta’s Muse AI works and creeps me out Mark Zuckerberg tells you to trust Muse. Meta bets on AI agent Muse to catch up in AI race",
+          "id": "a1c9685f8d8"
+        }
+      ]
+    },
+    {
+      "id": "e9fcaf5c1a6",
+      "title": "2026 TechCrunch 会议：Cerebras 论 AI 扩展性",
+      "summary": "在2026年的TechCrunch Disrupt会议上，Cerebras Systems的首席执行官兼联合创始人Andrew Feldman将探讨对计算、能源和基础设施日益增长的需求，以及Cerebras如何以不同方式应对这些限制。他还将讨论如果当前的AI硬件达到极限，未来可能会发生什么。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+          "published_at": "2026-09-30T14:30:00+00:00",
+          "text": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+          "id": "a9fcaf5c1a6"
+        }
+      ]
+    },
+    {
+      "id": "e4a00c2f7a1",
+      "title": "Restate 获得 2000 万美元融资",
+      "summary": "Restate 公司获得了 2000 万美元的融资，以满足 AI 代理对耐用基础设施的日益需求。该公司并未在外部数据库上构建其耐用执行引擎，而是开发了自己的存储、复制和冗余层，使其架构能够实现极快和轻量化的性能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+          "published_at": "2026-09-30T14:27:11+00:00",
+          "text": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+          "id": "a4a00c2f7a1"
+        }
+      ]
+    },
+    {
+      "id": "ecf9e97faaf",
+      "title": "OpenAI推理之父访谈",
+      "summary": "OpenAI的推理之父在最新访谈中表示，数学只是多智能体时代的开胃菜。他提到，千禧年难题的突破中，最多只有10%的功劳来自10000个智能体。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+          "url": "https://www.qbitai.com/2026/09/499654.html",
+          "published_at": "2026-09-30T14:03:43+00:00",
+          "text": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+          "id": "acf9e97faaf"
+        }
+      ]
+    },
+    {
+      "id": "e7856ca1ca9",
+      "title": "工业AI的机会与应用探索",
+      "summary": "直播回顾探讨了适合工业现场的AI类型，分析了企业在推进工业AI时该如何着手。重点讨论了不同企业的需求与技术选择，寻找行业中的下一个机会。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "直播回顾：工业AI的下一个机会在哪？",
+          "url": "https://www.qbitai.com/2026/09/499605.html",
+          "published_at": "2026-09-30T12:11:24+00:00",
+          "text": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+          "id": "a7856ca1ca9"
+        }
+      ]
+    },
+    {
+      "id": "e6a91381a42",
+      "title": "OpenAI 破坏模型蒸馏攻势",
+      "summary": "OpenAI 破坏了一场针对其模型的协调蒸馏活动，旨在提取受保护的模型推理。为了抵御这种对抗性蒸馏，OpenAI 正在加强其防御措施。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "published_at": "2026-09-30T10:30:00+00:00",
+          "text": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "id": "a6a91381a42"
+        }
+      ]
+    },
+    {
+      "id": "ed0ff96814d",
+      "title": "Manus 2.0：AI新功能上线",
+      "summary": "Manus 2.0 回归，新增为 AI Agent 配置手机号码和钱包功能，同时支持拉群协作。这一更新旨在提升 AI 的实用性与交互能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+          "url": "https://www.qbitai.com/2026/09/499592.html",
+          "published_at": "2026-09-30T07:58:37+00:00",
+          "text": "给Agent配上手机号，再拉个群",
+          "id": "ad0ff96814d"
+        }
+      ]
+    },
+    {
+      "id": "e6fbc44660a",
+      "title": "DeepSeek发布V4.1 Agent训练平台DSec",
+      "summary": "DeepSeek在知乎上首次公开了其弹性计算（DeepSeek Elastic Compute，DSec）技术的长文，系统阐释了V4.1 Agent的训练“大本营”。该平台的发布将为DeepSeek的技术发展提供重要支持。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+          "url": "https://www.qbitai.com/2026/09/499308.html",
+          "published_at": "2026-09-30T05:18:05+00:00",
+          "text": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+          "id": "a6fbc44660a"
+        }
+      ]
+    },
+    {
+      "id": "ed3df5418ca",
+      "title": "DeepSeek开源昇腾基础组件",
+      "summary": "DeepSeek官方宣布开源昇腾基础组件，旨在与昇腾共同构建高效易用的AI芯片软件生态。这一举措将促进AI技术的发展和应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+          "url": "https://www.qbitai.com/2026/09/499263.html",
+          "published_at": "2026-09-30T02:53:17+00:00",
+          "text": "",
+          "id": "ad3df5418ca"
+        }
+      ]
+    },
+    {
+      "id": "e17786617b1",
+      "title": "AI 生成数学内容的负责任发布",
+      "summary": "一项研究讨论了如何负责任地发布 AI 生成的数学内容，强调了技术带来的潜在风险和伦理考量。问题包括准确性、生成内容的使用以及对教育的影响。研究呼吁建立更好的指导方针以确保安全使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Responsible Release of AI-Generated Mathematics",
+          "url": "https://agmai.org/general-sep29/",
+          "published_at": "2026-09-30T02:36:12+00:00",
+          "text": "Responsible Release of AI-Generated Mathematics（HN 78 points，讨论: https://news.ycombinator.com/item?id=49903713）",
+          "id": "a17786617b1"
+        }
+      ]
+    },
+    {
+      "id": "e581ab3112c",
+      "title": "Open TTS 领导者榜单发布",
+      "summary": "Hugging Face 发布了 Open TTS 领导者榜单，旨在推进多语言文本转语音和语音克隆技术的评估。该榜单提供了可扩展的评估框架，以支持不同模型的性能比较。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "url": "https://huggingface.co/blog/open-tts-leaderboard",
+          "published_at": "2026-09-30T00:00:00+00:00",
+          "text": "",
+          "id": "a581ab3112c"
+        }
+      ]
+    },
+    {
+      "id": "e868005fbf2",
+      "title": "麦当劳使用 AI 动态定价汉堡",
+      "summary": "麦当劳正在采用人工智能技术，实施汉堡的动态定价策略。此举旨在根据需求、时间和客户行为等因素，灵活调整价格。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+          "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+          "published_at": "2026-09-29T22:52:30+00:00",
+          "text": "McDonald's Is Using AI to Dynamically Price Its Burgers（HN 34 points，讨论: https://news.ycombinator.com/item?id=49901900）",
+          "id": "a868005fbf2"
+        }
+      ]
+    },
+    {
+      "id": "e975f576532",
+      "title": "Gemini 4 Argon 发布",
+      "summary": "Gemini 4 Argon 是最新推出的产品，旨在提升数据处理和人工智能的能力。该产品采用先进的算法，预计能够显著提高计算效率和性能。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Gemini 4 Argon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "published_at": "2026-09-30T20:04:37+00:00",
+          "text": "Gemini 4 Argon（HN 972 points，讨论: https://news.ycombinator.com/item?id=49913571）",
+          "id": "a975f576532"
+        }
+      ]
+    },
+    {
+      "id": "e15e70ee5e4",
+      "title": "Google DeepMind 发布 Gemini 4 Argon",
+      "summary": "Google DeepMind 发布了其最新的人工智能系统 Gemini 4 Argon。该系统标志着前沿智能技术的新纪元，旨在提升机器学习和自然语言处理的能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "published_at": "2026-09-30T20:01:45+00:00",
+          "text": "",
+          "id": "a15e70ee5e4"
+        }
+      ]
+    },
+    {
+      "id": "e6e1523d277",
+      "title": "AI 语音公司 ElevenLabs 估值达 220 亿",
+      "summary": "AI 语音创业公司 ElevenLabs 的估值翻了一番，达到 220 亿美元。此次 3 亿美元的员工认购由 Wellington 和 T. Rowe Price 共同主导。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+          "published_at": "2026-09-30T18:23:57+00:00",
+          "text": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+          "id": "a6e1523d277"
+        }
+      ]
+    },
+    {
+      "id": "e20b52029e3",
+      "title": "Magnitude 自优化推理引擎发布",
+      "summary": "Magnitude（YC S25）是一款自优化的推理引擎，专为智能体设计。该引擎旨在提高智能体推理的效率和准确性，帮助开发者更好地构建和优化其应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "published_at": "2026-09-30T17:37:40+00:00",
+          "text": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents（HN 125 points，讨论: https://news.ycombinator.com/item?id=49911995）",
+          "id": "a20b52029e3"
+        }
+      ]
+    },
+    {
+      "id": "ef59f9ed0e2",
+      "title": "Meta 拒绝 Muse 读取私信指控",
+      "summary": "Meta 表示，其 Muse AI 代理在没有用户明确许可的情况下无法访问私信，否认了一名记者的说法。该记者声称，在关闭所需的 Mac 设置时，Muse 读取了他的私信。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+          "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+          "published_at": "2026-09-30T16:24:23+00:00",
+          "text": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+          "id": "af59f9ed0e2"
+        }
+      ]
+    },
+    {
+      "id": "eab1a11a539",
+      "title": "Instinct 新推产品推荐惹不满",
+      "summary": "Instinct 正在推出人力策划的产品和旅行推荐，但部分用户对未请求的建议表示不满。用户反馈称，这些推荐让他们感到不适。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Instinct’s new product recommendations are giving some users the ick",
+          "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+          "published_at": "2026-09-30T15:56:28+00:00",
+          "text": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+          "id": "aab1a11a539"
+        }
+      ]
+    },
+    {
+      "id": "ec40803f1cb",
+      "title": "特朗普签署AI承诺文出现拼写错误",
+      "summary": "特朗普与顶尖AI领导者签署的一项承诺文件中错误拼写了“United States”（美国）这个词。该错误引起了广泛关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+          "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+          "published_at": "2026-09-30T15:04:33+00:00",
+          "text": "Pledge signed by President Trump and top AI leaders misspells the United States（HN 31 points，讨论: https://news.ycombinator.com/item?id=49909966）",
+          "id": "ac40803f1cb"
+        }
+      ]
+    },
+    {
+      "id": "e0a622a33b8",
+      "title": "Google DeepMind 推出 SynthID Bio",
+      "summary": "Google DeepMind 推出了 SynthID Bio，用于为 AI 生成的蛋白质进行水印标记，同时保留生物功能。这项技术展示了在保护生物活性的同时，如何标识和验证人工合成的生命体分子。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "published_at": "2026-09-30T15:03:07+00:00",
+          "text": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "id": "a0a622a33b8"
+        }
+      ]
+    },
+    {
+      "id": "eff26d4a382",
+      "title": "Airbnb推出AI搜索功能",
+      "summary": "Airbnb新增了AI搜索功能和更多社交特性。此外，Airbnb还在部分地区推出了餐饮配送和洗衣服务。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Airbnb adds AI search, more social features",
+          "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+          "published_at": "2026-09-30T12:00:00+00:00",
+          "text": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+          "id": "aff26d4a382"
+        }
+      ]
+    },
+    {
+      "id": "eb5e5e43443",
+      "title": "OpenAI 助力小企业应用 AI",
+      "summary": "OpenAI 与美国小企业发展中心（SBDC）合作，旨在扩大对小企业的 AI 培训和本地支持。此外，还发布了一份新报告，介绍小团队如何使用 AI。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Helping small businesses put AI to work",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "published_at": "2026-09-30T10:00:00+00:00",
+          "text": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "id": "ab5e5e43443"
+        }
+      ]
+    },
+    {
+      "id": "e3e9b576df9",
+      "title": "GPT-6.1 Sol 发布启用",
+      "summary": "GPT-6.1 Sol 在发布仅7天后取代了 GPT-6 Sol，展现出接近 Astra 的智能水平。这一新版本的推出标志着技术的快速迭代与进步。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
+          "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+          "published_at": "2026-09-30T09:59:03+00:00",
+          "text": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence（HN 79 points，讨论: https://news.ycombinator.com/item?id=49906669）",
+          "id": "a3e9b576df9"
+        }
+      ]
+    },
+    {
+      "id": "e63baba56f6",
+      "title": "蓝十字保险公司称AI工具增加近10亿成本",
+      "summary": "蓝十字保险公司表示，AI工具在使用过程中产生了近10亿美元的额外成本。该公司分析了这些工具对运营的影响，指出了相关的财务负担。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+          "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+          "published_at": "2026-09-30T04:02:58+00:00",
+          "text": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say（HN 22 points，讨论: https://news.ycombinator.com/item?id=49904221）",
+          "id": "a63baba56f6"
+        }
+      ]
+    },
+    {
+      "id": "e836f2086a0",
+      "title": "PSSA：全新Rust语言模型",
+      "summary": "PSSA是一个从头开始用Rust编写的非变压器语言模型。该模型采用了不同于传统变压器架构的方法，旨在提供新的研究思路和实际应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "PSSA: A non-transformer language model written from scratch in Rust",
+          "url": "https://github.com/Sparticle62ops/pssa",
+          "published_at": "2026-09-30T03:19:54+00:00",
+          "text": "PSSA: A non-transformer language model written from scratch in Rust（HN 85 points，讨论: https://news.ycombinator.com/item?id=49903993）",
+          "id": "a836f2086a0"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 89,
+    "articles_new": 33,
+    "articles_filtered": 26,
+    "tokens": {
+      "prompt_tokens": 20515,
+      "completion_tokens": 3306
+    }
+  },
+  "mock": false
+}
