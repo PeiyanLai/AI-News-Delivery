@@ -1,0 +1,480 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T10:38:59+08:00",
+  "briefing": "今日导读：谷歌推出支持Claude的新办公Agent，进一步推动了AI在办公领域的多功能整合。与此同时，Edi Life OS为个人生活管理提供了自托管方案，提升了数据安全。AgentGarten提供了AI在实时环境中学习的新平台。AI领域在多个方向呈现新的突破和应用。",
+  "highlights": "今日看点：AI在办公场景和个人生活管理的拓展，再次强调了AI集成和多功能性的重要性。谷歌通过其办公Agent和Gemini应用展现了对多功能集成的重视，而Edi Life OS则提供了个人数据管理的新方案。此外，AgentGarten为智能体学习提供了创新平台。这些变化展示了AI在工作效率和个人管理上不可忽视的趋势。",
+  "events": [
+    {
+      "id": "e6e9708781c",
+      "title": "AgentGarten：AI的实时试炼场",
+      "summary": "AgentGarten是一个为人工智能提供实时试炼的环境，旨在让智能体在边玩边进化的过程中，通过反复试错进行学习。这个平台的出现将推动AI的发展和应用。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAgentGarten 为 AI 智能体提供了一个实时互动和学习的平台。\n\n### 为什么令人兴奋\n该平台允许 AI 智能体在动态环境中进行试错学习，提升自适应和自由调整能力。\n\n### 产品机会\n这种实时学习环境可用于开发具有自我学习和调整能力的智能设备或应用，尤其适用于游戏和动态任务。\n\n### 格局影响\n这个技术增强了开源和实验性 AI 技术的吸引力，可能会对传统封闭环境中的学习模型构成挑战。\n\n### 冷静判断\n目前为实验阶段，距离实际生产环境应用还有距离，但其验证的技术方向值得关注。\n\n### 趋势坐标\n呼应近期对 AI 自主学习和动态适应能力的趋势需求，与最近讨论的沙箱技术限制问题有内在关联。",
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+          "url": "https://www.qbitai.com/2026/10/502096.html",
+          "published_at": "2026-10-09T02:03:48+00:00",
+          "text": "让AI反复试错的“练兵场”来了",
+          "id": "a6e9708781c"
+        }
+      ]
+    },
+    {
+      "id": "eb920cb13ba",
+      "title": "谷歌发布支持Claude的办公Agent",
+      "summary": "谷歌推出新的办公Agent，该Agent能够调用Claude功能。此举标志着在AI应用领域的新进展，尤其是在多功能整合方面。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+          "url": "https://www.qbitai.com/2026/10/502083.html",
+          "published_at": "2026-10-09T00:16:56+00:00",
+          "text": "新的“缝合怪”已经出现，怎么能够停滞不前",
+          "id": "ab920cb13ba"
+        }
+      ]
+    },
+    {
+      "id": "ebc645e50c6",
+      "title": "Edi Life OS：自托管生活仪表盘",
+      "summary": "Edi Life OS 是一个自托管的生活仪表盘，配备一个用于人工智能的 MCP 服务器。这个工具旨在帮助用户更好地管理个人生活和任务。其开放性特点允许用户自行托管，提升数据安全性和隐私保护。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+          "url": "https://github.com/edrisranjbar/lifeos",
+          "published_at": "2026-10-09T00:02:19+00:00",
+          "text": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI（HN 22 points，讨论: https://news.ycombinator.com/item?id=50014150）",
+          "id": "abc645e50c6"
+        }
+      ]
+    },
+    {
+      "id": "edf7e543380",
+      "title": "Anthropic 推出 OSS Scanner 免费安全扫描服务",
+      "summary": "Anthropic 发布了一项名为 OSS Scanner 的服务，旨在帮助开源项目跟踪安全漏洞。选择参与的开源项目将获得定期的安全扫描，服务完全由AI模型生成，不提供人工审查，这虽然能加快扫描速度，但可能存在错误或无效的报告。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "published_at": "2026-10-08T21:53:51+00:00",
+          "text": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner . It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review: The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th … Read the full story at The Verge.",
+          "id": "adf7e543380"
+        }
+      ]
+    },
+    {
+      "id": "e008a265999",
+      "title": "AI 生物数据全球投资 18 亿美元",
+      "summary": "全球范围内承诺投资 18 亿美元，用于支持 AI 准备的生物数据。此项投资旨在提升生物数据的利用效率，以促进生物医学和人工智能的融合发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI-ready biological data: $1.8B global commitment",
+          "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+          "published_at": "2026-10-08T20:46:25+00:00",
+          "text": "AI-ready biological data: $1.8B global commitment（HN 78 points，讨论: https://news.ycombinator.com/item?id=50011999）",
+          "id": "a008a265999"
+        }
+      ]
+    },
+    {
+      "id": "e66a844307a",
+      "title": "AI 领导者 Arena 估值达 31 亿美元",
+      "summary": "负责热门 LMArena 排行榜的公司在 10 个月内估值几乎翻倍，达到 31 亿美元。该公司筹集了 2 亿美元，由 Lightspeed 和 Khosla 领投，现已开始衡量 AI 模型在诚信问题上的表现。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+          "published_at": "2026-10-08T18:19:45+00:00",
+          "text": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+          "id": "a66a844307a"
+        }
+      ]
+    },
+    {
+      "id": "e47672f48bb",
+      "title": "Google 推出 Gemini AI 办公助手",
+      "summary": "Google 将 Gemini 转变为可以规划和执行任务的 AI 办公助手。该助手可以在各类应用和系统中工作，可以委派任务给子助手，并在 Gemini Enterprise 应用中通过单一界面与用户互动。用户可以通过手机、电脑以及第三方应用与 Gemini 进行互动，并保持上下文一致。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "published_at": "2026-10-08T18:18:00+00:00",
+          "text": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+          "id": "a47672f48bb"
+        },
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google is launching a one-stop Gemini agent for your work tasks",
+          "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+          "published_at": "2026-10-08T14:28:03+00:00",
+          "text": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and assign it tasks from a single interface. In addition to having Gemini work directly inside Workspace apps like Gmail, Drive, Docs, Sheets, Calendar, and others, users can interact with the agent from their mobile device, desktop computer, the web, and third-party apps like Slack or Microsoft 365. Since it runs in the cloud, Gemini will maintain the same context across … Read the full story at The Verge.",
+          "id": "a01ea6a099b"
+        }
+      ]
+    },
+    {
+      "id": "e0542b0f0c0",
+      "title": "Anthropic 更新使用政策禁滥用",
+      "summary": "Anthropic 更新了其使用政策，明确禁止用户在极端情况下对 Claude 进行重复滥用，但仍允许普通的挫败感和批评。新规则还涉及选举干预、欺骗性活动、武器软件和监控等问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "published_at": "2026-10-08T18:16:24+00:00",
+          "text": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+          "id": "a0542b0f0c0"
+        }
+      ]
+    },
+    {
+      "id": "ec746e73031",
+      "title": "Frontier AI模型超越分析师盈利预测",
+      "summary": "一种名为Frontier的人工智能模型在盈利预测方面的表现超越了传统分析师。这一研究表明，AI模型在分析市场数据和预测公司收益方面具有更高的准确性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Frontier AI models outperform analysts on earnings prediction",
+          "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction",
+          "published_at": "2026-10-08T17:33:29+00:00",
+          "text": "Frontier AI models outperform analysts on earnings prediction（HN 20 points，讨论: https://news.ycombinator.com/item?id=50008977）",
+          "id": "ac746e73031"
+        }
+      ]
+    },
+    {
+      "id": "e352a8be272",
+      "title": "AI SRE Arena：Kubernetes开放基准",
+      "summary": "AI SRE Arena 是一个针对 AI SRE（Site Reliability Engineering）代理的开放基准测试平台，专门针对 Kubernetes。该项目旨在为开发者提供一个共享的测试环境，以评估和优化 AI SRE 代理的性能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+          "url": "https://github.com/edgedelta/project-arena",
+          "published_at": "2026-10-08T17:13:08+00:00",
+          "text": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes（HN 22 points，讨论: https://news.ycombinator.com/item?id=50008642）",
+          "id": "a352a8be272"
+        }
+      ]
+    },
+    {
+      "id": "e40d84c5f67",
+      "title": "Jevman：AI决策模型玩吃豆人",
+      "summary": "Jevman 是一个利用 AI 决策模型进行吃豆人游戏的项目。该项目展示了 AI 如何在复杂环境中进行决策和策略规划。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Jevman – AI decision models play Pac-Man",
+          "url": "https://opper.ai/jevman-benchmark/",
+          "published_at": "2026-10-08T16:34:13+00:00",
+          "text": "Show HN: Jevman – AI decision models play Pac-Man（HN 37 points，讨论: https://news.ycombinator.com/item?id=50007993）",
+          "id": "a40d84c5f67"
+        }
+      ]
+    },
+    {
+      "id": "e1eaf0f76ff",
+      "title": "StepFun发布1M上下文MoE模型",
+      "summary": "StepFun推出了Step 5 Preview，这是一个具有100万上下文的MoE模型。该模型现已在OpenRouter上可用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter",
+          "url": "https://openrouter.ai/stepfun/step-5-preview",
+          "published_at": "2026-10-08T16:20:20+00:00",
+          "text": "Step 5 Preview, a 1M-context MoE from StepFun, shows up on OpenRouter（HN 104 points，讨论: https://news.ycombinator.com/item?id=50007764）",
+          "id": "a1eaf0f76ff"
+        }
+      ]
+    },
+    {
+      "id": "e112b5f0087",
+      "title": "Oracle 利用 ChatGPT 和 Codex 提升效率",
+      "summary": "Oracle 在招聘、工程和运营等领域，通过 ChatGPT Work 和 Codex 将专家知识转化为快速、可重复的工作流程。这种转变使得原本需要数天的工作缩短至几分钟。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "url": "https://openai.com/index/oracle",
+          "published_at": "2026-10-08T16:00:00+00:00",
+          "text": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "id": "a112b5f0087"
+        }
+      ]
+    },
+    {
+      "id": "e472b20c3e8",
+      "title": "谷歌推出离线笔记应用Foresight",
+      "summary": "谷歌发布了一款实验性的笔记应用Foresight，能够完全离线转录会议和音频文件。这款应用在macOS上运行，使用公司的嵌入式模型EmbeddingGemma 2，可以总结会议内容并提供笔记空间。用户可在会议中记录简短要点，应用会基于转录信息将其转化为精炼的笔记。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+          "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+          "published_at": "2026-10-08T15:27:30+00:00",
+          "text": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch . The app, called Google AI Edge Foresight , is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model . Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes your meetings while providing a space where you can take your own notes. Google says you can jot down shorthand bullet points during your meeting, and the app will transform them into \"polished notes\" based on the information in the transcript. Along with transcribing your meetings, For … Read the full story at The Verge.",
+          "id": "a472b20c3e8"
+        }
+      ]
+    },
+    {
+      "id": "e3295fd7388",
+      "title": "Sub-1-Bit LLM 压缩方法",
+      "summary": "研究人员提出了一种新方法，通过潜在因子化实现低于 1 位的 LLM 压缩。这种方法旨在减少大型语言模型的存储需求，同时保持其性能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+          "url": "https://github.com/SamsungLabs/LittleBit",
+          "published_at": "2026-10-08T13:29:46+00:00",
+          "text": "Sub-1-Bit LLM Compression via Latent Factorization（HN 77 points，讨论: https://news.ycombinator.com/item?id=50005608）",
+          "id": "a3295fd7388"
+        }
+      ]
+    },
+    {
+      "id": "e077dea1e8a",
+      "title": "OpenAI 破获 AI 影响行动",
+      "summary": "OpenAI 破获了两起 AI 驱动的影响操作，这些操作利用虚假记者和智库来传播地缘政治信息。此举旨在干扰利用虚假身份进行信息传播的行为。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Disrupting AI-enabled “false front” operations",
+          "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+          "published_at": "2026-10-08T00:00:00+00:00",
+          "text": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "id": "a077dea1e8a"
+        }
+      ]
+    },
+    {
+      "id": "e0f05fd4155",
+      "title": "Hugging Face 介绍自制模型",
+      "summary": "Hugging Face 发布了一篇博客，讲述了一个本不存在的模型，用户通过开放社区的力量自己构建了这个模型。博客强调了用户参与和开源的重要性，展示了模型开发的过程和成果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "The model that didn't exist, so you made it yourself",
+          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "published_at": "2026-10-08T00:00:00+00:00",
+          "text": "",
+          "id": "a0f05fd4155"
+        }
+      ]
+    },
+    {
+      "id": "e50a77b2464",
+      "title": "Terse: Claude Code 插件减少回复长度",
+      "summary": "Terse 是一款 Claude Code 插件，通过减少冗余内容将回复长度缩短了一半。该工具旨在提升交流效率，帮助用户更简洁地表达观点。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler",
+          "url": "https://github.com/lowenbjer/claude-terse",
+          "published_at": "2026-10-07T17:16:48+00:00",
+          "text": "Show HN: Terse, a Claude Code plugin that halves reply length by cutting filler（HN 24 points，讨论: https://news.ycombinator.com/item?id=49995809）",
+          "id": "a50a77b2464"
+        }
+      ]
+    },
+    {
+      "id": "e7a238471d7",
+      "title": "Anthropic 更新 2026 使用政策",
+      "summary": "2026年10月8日，Anthropic 发布了2026年使用政策的更新。这一更新旨在进一步规范用户在使用其产品时的行为和责任。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+          "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+          "published_at": "",
+          "text": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+          "id": "a7a238471d7"
+        }
+      ]
+    },
+    {
+      "id": "e26f5049650",
+      "title": "Anthropic 继续推动科学发现",
+      "summary": "2026年10月8日，Anthropic发布了有关其对美国科学发现承诺的公告。该公司强调了其在科技领域的努力和成果，以推动科研进展和创新。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
+          "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+          "published_at": "",
+          "text": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
+          "id": "a26f5049650"
+        }
+      ]
+    },
+    {
+      "id": "edb9c355075",
+      "title": "Anthropic 发布网络安全任务",
+      "summary": "2026 年 10 月 8 日，Anthropic 宣布推出名为 'Anthropic Cyber Mission' 的新项目。该任务旨在提升网络安全领域的研究和技术应用，推动 AI 与网络安全的结合。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+          "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+          "published_at": "",
+          "text": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+          "id": "adb9c355075"
+        }
+      ]
+    },
+    {
+      "id": "eca1ec6c6a1",
+      "title": "Pollo AI 利用 OpenAI 提升创意广告",
+      "summary": "Pollo AI 利用 GPT-5.6、GPT-6 Astra 和 GPT‑Image‑2.5 帮助创作者将大胆的创意转化为详细的图像和电影广告。该平台旨在支持创意生成和广告制作。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "url": "https://openai.com/index/pollo-ai",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "text": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "id": "aca1ec6c6a1"
+        }
+      ]
+    },
+    {
+      "id": "ef6d3626eb7",
+      "title": "LegalOn 降低 Codex 成本 65%",
+      "summary": "LegalOn 将日常 Codex 成本降低了 65%，同时保持了开发速度。他们将 Astra、Sol 和 Luna 匹配到任务中，并战略性地管理预算。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "LegalOn halves Codex costs while maintaining development speed",
+          "url": "https://openai.com/index/legalon-halves-codex-costs",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "text": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "id": "af6d3626eb7"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 91,
+    "articles_new": 24,
+    "articles_filtered": 43,
+    "tokens": {
+      "prompt_tokens": 17668,
+      "completion_tokens": 2406
+    }
+  },
+  "mock": false
+}
