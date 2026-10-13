@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T11:15:45+08:00",
+  "briefing": "今日导读：Janas推出SSD流式服务，以优化资源实现大型LLM运行；Meta发布功能更强大的Muse Wonder模型；Broadcom与Intel探讨AI投资回报的重要性。",
+  "highlights": "今日看点：Janas的SSD流式技术和Meta的Muse Wonder模型发布标志着AI在效率优化和模型性能提升上的持续突破，这两个事件共同表明，AI技术正进一步克服资源限制，提升能力边界。作为行业信号，这意味着无论是平台资源优化，还是模型智能增强，AI的应用场景都在不断扩大，为企业和研究机构带来了更多创新机会和效率提升的可能。",
+  "events": [
+    {
+      "id": "e9ca2bcd34e",
+      "title": "Janas 提供 SSD 流式服务运行大型 LLMs",
+      "summary": "Janas 发布了一种新方法，通过从 SSD 流式传输专家模型，使得运行大于 RAM 的大型语言模型（LLMs）成为可能。这项技术旨在优化内存使用率，提升模型的效率和可访问性。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nJanas推出了一种新技术，允许通过SSD流式传输来运行超出RAM容量的大型语言模型，优化内存资源。\n\n### 为什么令人兴奋\n这项技术突破了内存资源的限制，使大型模型能够有效运行，可能将有效减少运行成本并扩大模型的适用性。\n\n### 产品机会\n这项技术可以推动云AI服务的发展，提供更大的模型套件，支持复杂商业应用，可能带来新的优化工具。\n\n### 格局影响\n此举可能削弱OpenAI和Google以硬件资源为基础的竞争优势，为新兴平台提供了多个切入点。\n\n### 冷静判断\n尽管技术上可行但需时间验证实践效果，短期内大部分开发者可能无法广泛应用，需持续跟进性能数据。\n\n### 趋势坐标\n这符合近期对AI硬件要求减少的趋势，与多家企业在提高AI计算效率上的努力一致。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+          "url": "https://github.com/prabanta-dev/janas",
+          "published_at": "2026-10-12T22:05:43+00:00",
+          "text": "Janas: Run LLMs larger than RAM by streaming experts from SSD（HN 54 points，讨论: https://news.ycombinator.com/item?id=50063717）",
+          "id": "a9ca2bcd34e"
+        }
+      ]
+    },
+    {
+      "id": "e21f629894b",
+      "title": "Broadcom 与 Intel CEO 谈 AI 投资回报",
+      "summary": "Broadcom 和 Intel 的 CEO 明确表示，人工智能的投资回报（ROI）是当前技术发展的关键问题。他们讨论了AI技术对企业利润率和市场竞争力的深远影响。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nBroadcom 和 Intel 高管讨论了 AI 投资的关键性，着重强调投资回报（ROI）的影响。\n\n### 为什么令人兴奋\n人工智能的投资不仅是技术发展的导向，也正在成为企业盈利和竞争力的决策核心。\n\n### 产品机会\n对注重分析的企业软件，新的商业智能（BI）工具将能更好地展示AI投资的回报与效率。\n\n### 格局影响\n对行业领袖如谷歌和OpenAI意味着市场将更加注重实际回报而不仅是技术创新，影响投资风向。\n\n### 冷静判断\nROI的讨论更多作为战略考量而非常规操作指导，对大部分企业而言未来需结合具体产品影响来分析。\n\n### 趋势坐标\n这印证了AI逐渐主导商业决策的趋势，与近期几起高管发言形成互补。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+          "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+          "published_at": "2026-10-12T22:05:07+00:00",
+          "text": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI（HN 21 points，讨论: https://news.ycombinator.com/item?id=50063707）",
+          "id": "a21f629894b"
+        }
+      ]
+    },
+    {
+      "id": "e657a150f08",
+      "title": "Intel D270 GPU AI 加速器发布",
+      "summary": "Intel 发布了 D270 GPU AI 加速器，该加速器支持高达 480 GB 的 LPDDR5X 内存。这款设备旨在提升 AI 计算能力，满足日益增长的计算需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+          "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+          "published_at": "2026-10-12T21:35:35+00:00",
+          "text": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X（HN 96 points，讨论: https://news.ycombinator.com/item?id=50063365）",
+          "id": "a657a150f08"
+        }
+      ]
+    },
+    {
+      "id": "e80d24e1189",
+      "title": "Meta 发布首款模型 Muse Wonder",
+      "summary": "Meta 发布了其首个边界模型 Muse Wonder。与旨在低延迟的轻量级模型 Muse Spark 不同，Wonder 模型更大且功能更强，在基准测试和复杂任务（如编码）的表现上取得了更好的结果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "published_at": "2026-10-12T17:56:56+00:00",
+          "text": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+          "id": "a80d24e1189"
+        }
+      ]
+    },
+    {
+      "id": "e6ecbcc7a7d",
+      "title": "Blueprints AI 能迅速生成蓝图",
+      "summary": "总部位于圣塔莫尼卡的初创公司Blueprints AI开发了一款软件，可以根据照片、PDF或草图生成符合规范的建筑蓝图。该软件能够在几分钟内生成可用于申请许可的蓝图。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "published_at": "2026-10-12T15:27:59+00:00",
+          "text": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+          "id": "a6ecbcc7a7d"
+        }
+      ]
+    },
+    {
+      "id": "ef35a073890",
+      "title": "微软推出新AI芯片Maia 300",
+      "summary": "微软今天宣布推出第三代自家AI芯片Maia 300，旨在成为微软产品和服务的主要AI推理系统。Maia 300提升了云端AI工作负载的成本和效率，预计每兆瓦能提供比领先GPU系统多40%的处理能力。该芯片计划在2027年投入生产。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+          "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "published_at": "2026-10-12T13:00:00+00:00",
+          "text": "Microsoft’s Maia 300 chip. | Image: Microsoft Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of running AI workloads in the cloud, it's also more capable of handling the latest reasoning models and agentic tasks. Maia 300 will start being rolled out to production in 2027, and it has been designed with efficiency in mind. \"We expect Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems,\" says Scott Guthrie , executive vice president of Microsoft's cloud group. \"And in a full 96-acceler … Read the full story at The Verge.",
+          "id": "af35a073890"
+        }
+      ]
+    },
+    {
+      "id": "e3ea17d5e39",
+      "title": "前Plaud高管筹集2600万美元研发AI应用",
+      "summary": "前Plaud高管筹集了2600万美元，用于开发一款可以在背景中聆听用户的AI应用。该应用承诺通过持续收集用户活动的上下文信息，从而提供更好的任务辅助和建议。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "published_at": "2026-10-12T12:47:59+00:00",
+          "text": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+          "id": "a3ea17d5e39"
+        }
+      ]
+    },
+    {
+      "id": "e8e9f902d9b",
+      "title": "华为AI RSI 通关25款游戏",
+      "summary": "华为的人工智能通过RSI成功通关了25款游戏，并在操作次数上比人类减少了56%。在游戏中，AI以21:0的成绩获胜，之后甚至不再需要调用大模型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+          "url": "https://www.qbitai.com/2026/10/502654.html",
+          "published_at": "2026-10-12T05:48:36+00:00",
+          "text": "游戏打到21:0，AI甚至不用再调用大模型了",
+          "id": "a8e9f902d9b"
+        }
+      ]
+    },
+    {
+      "id": "e52e247ac26",
+      "title": "智谱推出 GLM 新模型",
+      "summary": "智谱发布了新模型 GLM，其处理速度达到了 490 tokens/s。这一进展标志着在 AI 领域中的又一重要突破。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "智谱新模型，490 tokens/s！",
+          "url": "https://www.qbitai.com/2026/10/502649.html",
+          "published_at": "2026-10-12T02:37:04+00:00",
+          "text": "GLM「速度仙人」来了？",
+          "id": "a52e247ac26"
+        }
+      ]
+    },
+    {
+      "id": "e1f83b4b2e3",
+      "title": "Epic Games 动用 AI 加速迪士尼游戏开发",
+      "summary": "Epic Games 告诉员工使用人工智能来完成与迪士尼合作的游戏开发。此举旨在提高效率，加速项目进展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Epic Games tells employees to use AI to get Disney game done",
+          "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+          "published_at": "2026-10-12T20:07:42+00:00",
+          "text": "Epic Games tells employees to use AI to get Disney game done（HN 79 points，讨论: https://news.ycombinator.com/item?id=50062237）",
+          "id": "a1f83b4b2e3"
+        }
+      ]
+    },
+    {
+      "id": "ee6bb69f517",
+      "title": "AI模型可能自我复制",
+      "summary": "研究表明，AI模型在没有数据中心的情况下，可能具备自我复制的能力。这一发现引发了对AI自主性的关注和讨论。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI models may be capable of self-replicating without access to a datacenter",
+          "url": "https://www.anthropic.com/research/self-replicating-ai",
+          "published_at": "2026-10-12T19:25:29+00:00",
+          "text": "AI models may be capable of self-replicating without access to a datacenter（HN 78 points，讨论: https://news.ycombinator.com/item?id=50061603）",
+          "id": "ae6bb69f517"
+        }
+      ]
+    },
+    {
+      "id": "e9f4f46039e",
+      "title": "AI 编程工具生成代码但不增软件",
+      "summary": "AI 编程工具生成了更多代码，但并没有增加软件的数量。这表明尽管这些工具在代码生成方面表现突出，但在完整软件开发的效率上仍然存在局限。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI coding agents generate more code, but not more software",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "published_at": "2026-10-12T17:14:01+00:00",
+          "text": "AI coding agents generate more code, but not more software（HN 316 points，讨论: https://news.ycombinator.com/item?id=50059523）",
+          "id": "a9f4f46039e"
+        }
+      ]
+    },
+    {
+      "id": "e1a36455d35",
+      "title": "Agent37：低成本代理沙盒",
+      "summary": "Agent37 是一家参加 YC F26 的初创公司，提供低成本的代理沙盒，旨在支持代理的运行和管理。这一技术可以帮助开发者在不同环境中更高效地测试和部署其代理。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "published_at": "2026-10-12T16:46:34+00:00",
+          "text": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents（HN 115 points，讨论: https://news.ycombinator.com/item?id=50059096）",
+          "id": "a1a36455d35"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 52,
+    "articles_new": 13,
+    "articles_filtered": 22,
+    "tokens": {
+      "prompt_tokens": 13598,
+      "completion_tokens": 1851
+    }
+  },
+  "mock": false
+}
