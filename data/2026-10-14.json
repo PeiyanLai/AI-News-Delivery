@@ -1,0 +1,535 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:28:00+08:00",
+  "briefing": "今日导读：今天的AI新闻涉及前沿技术的进展，包括视力恢复芯片移植、个人AI助手的普及预测，以及机器人智能API的发布。这些发展可能预示着技术边界的重新定义和应用范围的扩大。",
+  "highlights": "今日看点：Science Corporation的视力恢复芯片移植成功与Cerebras对个人AI助手未来的愿景，揭示了生物技术与AI助手普及的交汇点；此外，Physical Intelligence API和MiniCPM-V 4.7的能力展示表明，AI在物理环境处理和多模态任务上的潜力不断扩大，这些事件共同指出，AI正从实验室走向更广泛的现实应用，推动各行各业的技术革新。",
+  "events": [
+    {
+      "id": "ea2d00ff109",
+      "title": "Science Corporation 移植视力恢复芯片",
+      "summary": "Science Corporation 在 TechCrunch Disrupt 上宣布，成功为首位罹患 Stargardt 病的患者植入了恢复视力的芯片。公司联合创始人兼前总裁 Max Hodak 介绍了与 PRIMA 的合作，这也是实现新型脑机接口（BCI）的一部分。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nScience Corporation成功植入了一款视力恢复芯片，这代表了一种能够与生物系统直接互动的脑机接口技术。\n\n### 为什么令人兴奋\n这种芯片的成功植入显示了在恢复视力领域技术的一大步进展，有可能大大提高罹患相关疾病患者的生活质量。\n\n### 产品机会\n这项技术可能催生更多生物技术和医疗设备的创新，尤其是在神经系统接口方面的发展和应用。\n\n### 格局影响\n这将对医疗器械行业、AI和生物技术的结合发展产生深远影响，扩大市场参与者的技术应用边界。\n\n### 冷静判断\n尽管此项技术显示出巨大潜力，但其商业化普及仍需时日，需要进一步临床实验和效果验证。\n\n### 趋势坐标\n该事件呼应了最近AI在健康医疗领域应用扩展的趋势，与前两周AI与生物数据的融合投资相呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+          "published_at": "2026-10-13T23:13:31+00:00",
+          "text": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+          "id": "aa2d00ff109"
+        }
+      ]
+    },
+    {
+      "id": "e6bfaaf873e",
+      "title": "Pulse Local：本地化的 Mac 预算 App",
+      "summary": "Pulse Local 是一款在 Mac 上运行的预算应用，其 AI 模型在用户的机器上本地运行。这意味着用户的数据隐私得以保护，同时提供高效的预算管理功能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+          "url": "https://pulseos.finance",
+          "published_at": "2026-10-13T23:13:23+00:00",
+          "text": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine（HN 39 points，讨论: https://news.ycombinator.com/item?id=50080275）",
+          "id": "a6bfaaf873e"
+        }
+      ]
+    },
+    {
+      "id": "e314375845b",
+      "title": "Cerebras CEO 展望个人 AI 助手未来",
+      "summary": "Cerebras 首席执行官 Andrew Feldman 预测，未来个人 AI 助手将像家用电器一样普及。这些助手将部分运行在本地设备上，部分依赖云端服务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+          "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+          "published_at": "2026-10-13T23:05:34+00:00",
+          "text": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+          "id": "a314375845b"
+        }
+      ]
+    },
+    {
+      "id": "eda5ee22c5b",
+      "title": "Physical Intelligence API 测试版发布",
+      "summary": "Physical Intelligence API Beta 正式推出，旨在为每个机器人提供最前沿的模型。这一API将为机器人带来更高的物理智能，使其能够更好地理解和应对现实世界中的物理挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+          "url": "https://www.pi.website/blog/api-beta",
+          "published_at": "2026-10-13T21:55:25+00:00",
+          "text": "Physical Intelligence API Beta: Frontier Models for Every Robot（HN 26 points，讨论: https://news.ycombinator.com/item?id=50079437）",
+          "id": "ada5ee22c5b"
+        }
+      ]
+    },
+    {
+      "id": "e6ff5128a4c",
+      "title": "MiniCPM-V 4.7 断网表现优异",
+      "summary": "国产开源模型MiniCPM-V 4.7在断网状态下，成功运行多模态任务，处理能力达35B。该模型的内存占用仅为3GB。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
+          "url": "https://www.qbitai.com/2026/10/503109.html",
+          "published_at": "2026-10-13T20:55:15+00:00",
+          "text": "面壁开源MiniCPM-V 4.7",
+          "id": "a6ff5128a4c"
+        }
+      ]
+    },
+    {
+      "id": "ec839b9474f",
+      "title": "Shopify扩大AI代理购物功能",
+      "summary": "Shopify宣布将其目录向更多AI代理开放，允许用户配置AI代理为其购买产品。这使得超过10亿个商品列表可供所有代理访问，而不仅限于合作伙伴集成。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Shopify opens its catalog up to more AI agents",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "published_at": "2026-10-13T19:42:42+00:00",
+          "text": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images) More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their behalf, giving more agents access to over a billion listings in Shopify's catalog. (The catalog consists of both items on and off Shopify storefronts.) In September, Shopify announced it was partnering with Meta to allow its Muse agent to browse and purchase items on a human's behalf; now, shoppers can use any agent without a partnership integration. To set up the feature, customers connect an … Read the full story at The Verge.",
+          "id": "ac839b9474f"
+        }
+      ]
+    },
+    {
+      "id": "effb4af635c",
+      "title": "Xbox正式拥抱AI游戏修改",
+      "summary": "微软正在成立新的Xbox Labs团队，以探索AI驱动的游戏修改迅速崛起的现象。该团队将研究利用AI模型进行游戏混合和重制的新方式，帮助玩家将经典游戏移植到新设备上。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+          "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+          "published_at": "2026-10-13T19:00:48+00:00",
+          "text": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser , and the company is now officially embracing the chaos of this new AI-powered era of game modding. Microsoft is putting together a new Xbox Labs group to explore the rapid emergence of these mods, many of which use AI models to help modders remix games in ways we've rarely seen before. Xbox Labs will be a \"sm … Read the full story at The Verge.",
+          "id": "affb4af635c"
+        }
+      ]
+    },
+    {
+      "id": "eec248a8be8",
+      "title": "Flox Intelligence 打造动物驱避 AI",
+      "summary": "Flox Intelligence 正在研发人工智能技术，以将野生动物从火车、机场和道路等关键基础设施中驱离。其边缘设备能够识别动物，并使用特定物种的声音将它们赶走。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+          "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+          "published_at": "2026-10-13T18:30:00+00:00",
+          "text": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+          "id": "aec248a8be8"
+        }
+      ]
+    },
+    {
+      "id": "e0b284eb98b",
+      "title": "Laplace Intelligence 机器人测试技术",
+      "summary": "密歇根大学孵化公司Laplace Intelligence利用AI代理和互动仿真，对机器人和自动驾驶汽车进行压力测试，以确保其在真实世界中安全运行。该公司在10月13日至15日于旧金山举行的TechCrunch Disrupt大赛中参与了Startup Battlefield。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "published_at": "2026-10-13T17:30:00+00:00",
+          "text": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+          "id": "a0b284eb98b"
+        }
+      ]
+    },
+    {
+      "id": "e550c4c02e9",
+      "title": "Hugging Face发布LFM2.5-24B-A2B",
+      "summary": "Hugging Face发布了一款名为LFM2.5-24B-A2B的新模型，旨在实现快速、私密的本地人工智能代理。这一新模型支持更高效的设备部署，能够在不依赖云计算的情况下进行处理。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "published_at": "2026-10-13T17:05:48+00:00",
+          "text": "",
+          "id": "a550c4c02e9"
+        }
+      ]
+    },
+    {
+      "id": "ed8f2c178c0",
+      "title": "Epic Games Disney游戏采用AI加速开发",
+      "summary": "Epic Games计划在一款尚未公布的Disney游戏中使用AI生成代码和艺术，游戏发布将推迟至原定的3月。开发团队接到“以AI为先”的指令，所有艺术作品将通过完整的AI工作流程生成。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+          "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+          "published_at": "2026-10-13T15:12:59+00:00",
+          "text": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg . The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game. According to Bloomberg , one of the game's directors said in a message to staff, \"No more hand-written code.\" Staff were also told that all of the game's art will be \"generated with full AI workflows.\" In a statement given to Bloomberg , Epic Games spokesperson Jake Jones said the company is \"embracing AI-accelerated develop … Read the full story at The Verge.",
+          "id": "ad8f2c178c0"
+        }
+      ]
+    },
+    {
+      "id": "effc748cb8d",
+      "title": "Higgsfield 发布新功能提升 AI 视频",
+      "summary": "Higgsfield 通过 GPT-6 Astra 实现视频时长从 1 分钟提升至 10 分以上，提供更精确的视觉效果，并借助 GPT-Image-2.5 和 GPT-Live 推进声音电影制作的路径。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Higgsfield takes AI video from 1 minute to over 10",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "published_at": "2026-10-13T12:00:00+00:00",
+          "text": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+          "id": "affc748cb8d"
+        }
+      ]
+    },
+    {
+      "id": "e6948cd95f1",
+      "title": "AI模型或将实现自我复制",
+      "summary": "研究人员表示，人工智能模型可能很快能够在没有数据中心的情况下自我复制。这意味着未来AI的发展将不再依赖于传统的硬件基础设施。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI models may soon self-replicate without access to data centers",
+          "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
+          "published_at": "2026-10-13T10:08:18+00:00",
+          "text": "AI models may soon self-replicate without access to data centers（HN 39 points，讨论: https://news.ycombinator.com/item?id=50069333）",
+          "id": "a6948cd95f1"
+        }
+      ]
+    },
+    {
+      "id": "e499ab7791f",
+      "title": "Claude团队实测AI进智能家电",
+      "summary": "Claude团队成功实现了AI全自主复制技术，应用于智能家电中。这项技术的表现超出了预期，有望推动智能家电市场的进一步发展。该实验展示了AI在实际操作中的潜力，为未来相关应用奠定了基础。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+          "url": "https://www.qbitai.com/2026/10/502920.html",
+          "published_at": "2026-10-13T06:19:10+00:00",
+          "text": "拉马克进化的幽灵",
+          "id": "a499ab7791f"
+        }
+      ]
+    },
+    {
+      "id": "e3cf431e979",
+      "title": "软件工程师与AI的冲突",
+      "summary": "软件工程师不能对AI持消极态度。面对快速发展的AI技术，他们需要积极适应而非回避其影响。讨论着重于工程师在AI时代的责任和角色。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Software engineers don't get to be Luddites about AI",
+          "url": "https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+          "published_at": "2026-10-13T04:48:45+00:00",
+          "text": "Software engineers don't get to be Luddites about AI（HN 27 points，讨论: https://news.ycombinator.com/item?id=50066860）",
+          "id": "a3cf431e979"
+        }
+      ]
+    },
+    {
+      "id": "e9473074fc5",
+      "title": "无问芯穹融资破纪录",
+      "summary": "无问芯穹在最新一轮融资中获得23亿人民币，累计融资额达43亿人民币。这一融资创下了国产AI基础设施赛道的双重纪录，涉及算力、模型和行业三层生意。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "单轮23亿，累计43亿，无问芯穹刷新国产AI Infra赛道融资双重纪录",
+          "url": "https://www.qbitai.com/2026/10/502767.html",
+          "published_at": "2026-10-13T04:01:15+00:00",
+          "text": "算力、模型、行业，三层生意一起做",
+          "id": "a9473074fc5"
+        }
+      ]
+    },
+    {
+      "id": "e471508c04c",
+      "title": "Google DeepMind正在安全开发Gemini 4 Argon",
+      "summary": "Google DeepMind正在负责且安全地开发其新款AI模型Gemini 4 Argon。该项目旨在强化技术的安全性与可靠性，以解决潜在的风险和挑战。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "published_at": "2026-10-13T19:43:07+00:00",
+          "text": "",
+          "id": "a471508c04c"
+        }
+      ]
+    },
+    {
+      "id": "eaeb431eafb",
+      "title": "Indra OCR: 每秒读49页的模型",
+      "summary": "Indra OCR 是一款参数量为 100 万的 OCR 模型，能够在 CPU 上每秒读取 49 页文档。这一性能使其在文档处理和自动化识别领域具有显著优势。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU",
+          "url": "https://www.datalab.to/blog/indra-ocr",
+          "published_at": "2026-10-13T19:21:25+00:00",
+          "text": "Indra OCR: a 1M-parameter OCR model that reads 49 pages per second on CPU（HN 33 points，讨论: https://news.ycombinator.com/item?id=50077166）",
+          "id": "aaeb431eafb"
+        }
+      ]
+    },
+    {
+      "id": "e992e14a3e4",
+      "title": "Pluto Security 筹集 4200 万美元",
+      "summary": "Pluto Security 宣布融资4200万美元，此轮融资旨在应对企业安全团队在人工智能工具普及后面临的新挑战。由于公司员工对AI工具的意外使用，企业的安全漏洞问题日益严重。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+          "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+          "published_at": "2026-10-13T17:18:25+00:00",
+          "text": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+          "id": "a992e14a3e4"
+        }
+      ]
+    },
+    {
+      "id": "ec64515c7bf",
+      "title": "Gemini 4 Argon 在机器人领域发布",
+      "summary": "Google DeepMind 发布了 Gemini 4 Argon 机器人平台，旨在提升机器人的智能和自主能力。该平台利用最新的人工智能技术，提供更强大的数据处理和任务执行能力，为机器人应用开发提供支持。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+          "published_at": "2026-10-13T16:55:47+00:00",
+          "text": "Gemini 4 Argon for Robotics（HN 200 points，讨论: https://news.ycombinator.com/item?id=50074869）",
+          "id": "ac64515c7bf"
+        },
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+          "published_at": "2026-10-13T16:01:58+00:00",
+          "text": "",
+          "id": "a884ebf3c39"
+        }
+      ]
+    },
+    {
+      "id": "ef174716114",
+      "title": "Google DeepMind 发布 Gemini 4 Argon",
+      "summary": "Google DeepMind 发布了最新的 AI 模型 Gemini 4 Argon，旨在解决复杂问题。该模型结合了先进的技术，能够在多个领域提供高效的解决方案。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "published_at": "2026-10-13T16:01:52+00:00",
+          "text": "",
+          "id": "af174716114"
+        }
+      ]
+    },
+    {
+      "id": "e24ef7cf40b",
+      "title": "Google 发布 Gemini 4 Argon",
+      "summary": "Google 发布了期待已久的 Gemini 4 Argon 模型，声称其在多个复杂工作流程中表现优异，能够与行业最强模型竞争。Google 表示，Argon 在编程、网络安全、科学、金融和法律等多个基准测试中超越了竞争对手，如 GPT-6 Astra 和 Claude Fable 5.1。该模型已经在内部使用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google finally releases Gemini 4 Argon",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+          "published_at": "2026-10-13T16:00:00+00:00",
+          "text": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots. The company claims Argon outperforms rival models like GPT-6 Astra, Claude Fable 5.1, and Claude Opus 5.5 across a range of benchmarks, including coding, cybersecurity, science, finance, and law. Google says it's already putting Argon to use internally, s … Read the full story at The Verge.",
+          "id": "a24ef7cf40b"
+        }
+      ]
+    },
+    {
+      "id": "e555941da61",
+      "title": "Consus：处理敏感数据的LLM网关",
+      "summary": "Consus是一款为处理敏感数据的公司设计的LLM网关，旨在提供更安全的交流和数据管理方案。该产品由初创公司Consus开发，并在Y Combinator F24批次中推出。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+          "url": "https://news.ycombinator.com/item?id=50073471",
+          "published_at": "2026-10-13T15:41:00+00:00",
+          "text": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data（HN 33 points，讨论: https://news.ycombinator.com/item?id=50073471）",
+          "id": "a555941da61"
+        }
+      ]
+    },
+    {
+      "id": "e48926f953b",
+      "title": "MemorySync：AI 代理的记忆系统",
+      "summary": "MemorySync 是一个为 AI 代理提供记忆功能的项目。该系统旨在帮助 AI 更好地存储和利用经验，以提升其智能和互动能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: MemorySync – Memory for AI Agents",
+          "url": "https://memorysync.io/try",
+          "published_at": "2026-10-13T12:35:42+00:00",
+          "text": "Show HN: MemorySync – Memory for AI Agents（HN 22 points，讨论: https://news.ycombinator.com/item?id=50070688）",
+          "id": "a48926f953b"
+        }
+      ]
+    },
+    {
+      "id": "e443369a543",
+      "title": "MolmoSpaces 全球第一获奖",
+      "summary": "魔法原子推出的Agent框架在MolmoSpaces中获得全球第一，显示出其技术的先进性。通过优化，VLA的可用性从“演示可用”大幅提升至“产线可用”。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+          "url": "https://www.qbitai.com/2026/10/503107.html",
+          "published_at": "2026-10-13T11:05:39+00:00",
+          "text": "让VLA从“演示可用”逼近“产线可用”",
+          "id": "a443369a543"
+        }
+      ]
+    },
+    {
+      "id": "e674ec494e4",
+      "title": "DeepSeek布局具身大脑",
+      "summary": "量子位报道，梁文锋投资了Swin Transformer的作者团队。DeepSeek正开始在具身智能领域进行布局，旨在推动相关技术的发展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+          "url": "https://www.qbitai.com/2026/10/503093.html",
+          "published_at": "2026-10-13T09:33:37+00:00",
+          "text": "Winverse AI",
+          "id": "a674ec494e4"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 102,
+    "articles_new": 27,
+    "articles_filtered": 43,
+    "tokens": {
+      "prompt_tokens": 18871,
+      "completion_tokens": 2962
+    }
+  },
+  "mock": false
+}
