@@ -1,0 +1,516 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T08:53:02+08:00",
+  "briefing": "今日人工智能领域中，Meta与Apple合作推出新AI模型，强调了AI本地化和开源力量。OpenAI推出GPT-Rosalind计划，展现生命科学研究的支持力度。微软和Google在AI技术与投资领域持续发力，而AI客服与人类客服的对比研究引发思考。",
+  "highlights": "今日看点：Meta与Apple合作推出的Muse Spark Open模型，以及OpenAI的GPT-Rosalind计划，展示了跨公司合作和AI支持科学研究的新动向。同时，微软与Google在继续强化其AI能力和应用场景。AI客服表现不如人类提醒我们，AI虽强但仍需人类精细调整。同天，融入AI设备的远景展现出对AI新产品生态的期待，市场动态平稳中却不乏深意。",
+  "events": [
+    {
+      "id": "e21e3505542",
+      "title": "Meta 与 Apple 合作推出 Muse Spark Open",
+      "summary": "Meta 与 Apple 合作推出 Muse Spark Open AI 模型，该模型可以在 Apple M5 Ultra Mac Studios 上本地运行。Meta 宣称这是迄今为止最强大的美国开源权重模型，也是首个可在桌面上运行的此类模型。",
+      "tier": "must_read",
+      "insight": "{'一句话本质': 'Meta与Apple的Muse Spark Open模型支持在Apple M5 Ultra上的本地运行；这是美国最强大的开源模型之一。', '为什么令人兴奋': '它实现了强大的AI模型在不依赖云的情况下本地运行，降低了使用门槛和成本。', '产品机会': '有望推动更多PC和移动设备厂商在硬件上支持AI模型本地化运行，增加产品智能化水平。', '格局影响': '对于Google和OpenAI的云计算模式构成挑战，开源阵营的力量被进一步激发。', '冷静判断': '可能仍处于早期阶段，性能在多种设备环境下运行效果有待评估，开发者尚需适应新硬件要求。', '趋势坐标': '彰显了AI模型日趋本地化和规模化的趋势，与推动硬件支持AI处理的动态一致。'}",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta launches an open-weight AI model that runs on Macs",
+          "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+          "published_at": "2026-10-15T20:04:53+00:00",
+          "text": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+          "id": "a21e3505542"
+        },
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "published_at": "2026-10-15T18:15:36+00:00",
+          "text": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today , claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, typically rivals , worked together on the launch and are publicly supporting each other. \"Muse Spark Open - weights releasing today - runs great on new Mac Studios thanks to work with @johnternus and Apple,\" Meta CEO Mark Zuckerberg said on X . \"Congrats to the team!\" new Apple CEO John Ternus said in a reply . \"Amazing to run a model of Muse … Read the full story at The Verge.",
+          "id": "ac7cea461bd"
+        }
+      ]
+    },
+    {
+      "id": "edb63cb54c7",
+      "title": "客服工作减少，人工仍优于AI",
+      "summary": "一项研究分析了14000个客服电话，结果显示人工客服在处理方面仍然优于AI。尽管呼叫中心工作岗位在减少，但人类的表现明显更好。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+          "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+          "published_at": "2026-10-15T22:11:24+00:00",
+          "text": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI（HN 35 points，讨论: https://news.ycombinator.com/item?id=50111112）",
+          "id": "adb63cb54c7"
+        }
+      ]
+    },
+    {
+      "id": "ea01e02239d",
+      "title": "Granite Switch 4.1 发布",
+      "summary": "Hugging Face 发布了 Granite Switch 4.1，支持从一个端点进行聊天、决策和语音处理。此版本旨在整合多种功能，简化用户体验，增强交互性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "published_at": "2026-10-15T20:34:01+00:00",
+          "text": "",
+          "id": "aa01e02239d"
+        }
+      ]
+    },
+    {
+      "id": "e69334bf7d5",
+      "title": "Amazon盼AI设备替代应用",
+      "summary": "在TechCrunch Disrupt上，Amazon设备主管Panos Panay表示，未来将出现环境AI设备，这些设备可以在后台工作，预判用户的需求，而不再需要用户主动发命令。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+          "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+          "published_at": "2026-10-15T19:55:25+00:00",
+          "text": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+          "id": "a69334bf7d5"
+        }
+      ]
+    },
+    {
+      "id": "e031cee9ab4",
+      "title": "Anthropic 允许 METR 研究访问员工数据",
+      "summary": "Anthropic 允许 METR 研究人员深入了解其运营，提供员工级访问权限。METR 将发布对 Anthropic 风险、事件和实践的评估，Anthropic 放弃了阻止这些评估的权利。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+          "published_at": "2026-10-15T19:14:26+00:00",
+          "text": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+          "id": "a031cee9ab4"
+        }
+      ]
+    },
+    {
+      "id": "ea72d1e4da6",
+      "title": "OpenAI 推出 GPT-Rosalind 学术计划",
+      "summary": "OpenAI 近日推出了 GPT-Rosalind 学术计划，为符合条件的学术实验室提供对 GPT-Rosalind 的赞助访问权限。该计划旨在推动生命科学研究的进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "published_at": "2026-10-15T19:00:00+00:00",
+          "text": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "id": "aa72d1e4da6"
+        }
+      ]
+    },
+    {
+      "id": "e099b737c17",
+      "title": "微软AI推出Frontier预训练",
+      "summary": "微软AI推出了Frontier预训练技术，旨在提升其人工智能模型的性能和效率。该技术采用了最新的算法和数据集，以支持复杂任务的处理能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Frontier Pre-Training at Microsoft AI",
+          "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+          "published_at": "2026-10-15T16:12:13+00:00",
+          "text": "Frontier Pre-Training at Microsoft AI（HN 34 points，讨论: https://news.ycombinator.com/item?id=50105791）",
+          "id": "a099b737c17"
+        }
+      ]
+    },
+    {
+      "id": "e996b33c09a",
+      "title": "Google DeepMind 加速抗菌肽研究",
+      "summary": "Google DeepMind 正在利用 Google Antigravity 技术，加速新型抗菌肽的发现。该项目旨在推动科学界对抗微生物的研究，为寻找有效的抗生素提供新思路。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "published_at": "2026-10-15T16:08:03+00:00",
+          "text": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "id": "a996b33c09a"
+        }
+      ]
+    },
+    {
+      "id": "ea0d58fa52c",
+      "title": "Krea 3：高效图像编辑模型",
+      "summary": "Krea 3 是一个针对大规模编辑而构建的图像模型，旨在提升图像处理效率。该模型提供更灵活的编辑功能，满足创意需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Krea 3 – An image model built for editing at scale",
+          "url": "https://www.krea.ai/krea-3",
+          "published_at": "2026-10-15T16:04:05+00:00",
+          "text": "Krea 3 – An image model built for editing at scale（HN 236 points，讨论: https://news.ycombinator.com/item?id=50105648）",
+          "id": "aa0d58fa52c"
+        }
+      ]
+    },
+    {
+      "id": "ea040032c19",
+      "title": "Rivian 汽车引入 AI 代理",
+      "summary": "Rivian 的汽车将搭载新的 AI 代理技术。我们将于 12 月公司即将举行的“AI 与自主驾驶日”活动中了解更多具体细节。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI agents are coming to Rivian’s cars",
+          "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+          "published_at": "2026-10-15T15:02:36+00:00",
+          "text": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+          "id": "aa040032c19"
+        }
+      ]
+    },
+    {
+      "id": "e2702a2f8e6",
+      "title": "Simons Foundation发起1500万美元计划",
+      "summary": "Simons Foundation启动了一项1500万美元的计划，旨在帮助数学家在人工智能时代中进行导航和适应。这项努力旨在为数学社区提供支持，以应对AI技术带来的挑战与机遇。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+          "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+          "published_at": "2026-10-15T14:58:48+00:00",
+          "text": "Simons Foundation launches $15M effort to help mathematicians navigate AI era（HN 226 points，讨论: https://news.ycombinator.com/item?id=50104654）",
+          "id": "a2702a2f8e6"
+        }
+      ]
+    },
+    {
+      "id": "e5f39f9c1a3",
+      "title": "利用AI反向工程硬件",
+      "summary": "一项新技术使用人工智能来反向工程硬件，旨在提高硬件分析和模仿的效率。这一方法为现代硬件设计提供了新的视角和工具，可能会改变行业的开发流程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Using AI to reverse engineer hardware",
+          "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+          "published_at": "2026-10-15T14:35:15+00:00",
+          "text": "Using AI to reverse engineer hardware（HN 98 points，讨论: https://news.ycombinator.com/item?id=50104299）",
+          "id": "a5f39f9c1a3"
+        }
+      ]
+    },
+    {
+      "id": "efa14b8f7db",
+      "title": "OpenAI发布Study Mode帮助教师",
+      "summary": "OpenAI在教师节期间推出了适用于巴西葡萄牙语的AI工具Study Mode，旨在帮助教师支持主动的逐步学习。该功能旨在通过提问的方式培养学生的思考和学习能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Teaching students to think and learn through questions",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "text": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "id": "afa14b8f7db"
+        }
+      ]
+    },
+    {
+      "id": "ea3fa54bbd5",
+      "title": "Amazon Bee 推出两款 AI 设备",
+      "summary": "Amazon 旗下的 Bee 发布了收购后首批新 AI 设备，包括一款升级版可穿戴设备和一款可连接智能手机的信用卡大小录音机。这些设备能够总结对话、创建待办事项，并与 Alexa 以及亚马逊购物集成，价格起价为74.99美元。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+          "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "published_at": "2026-10-15T12:00:00+00:00",
+          "text": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+          "id": "aa3fa54bbd5"
+        }
+      ]
+    },
+    {
+      "id": "ec32a6f32a9",
+      "title": "Aidlc：AI 编码代理自适应工作流",
+      "summary": "Aidlc 提出了适用于 AI 编码代理的自适应工作流引导规则。这些规则旨在优化 AI 编程过程中的工作流，提高编码效率和准确性。该系统通过动态调整策略，适应不同的编码环境和任务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+          "url": "https://github.com/awslabs/aidlc-workflows",
+          "published_at": "2026-10-15T07:20:39+00:00",
+          "text": "Aidlc: Adaptive workflow steering rules for AI coding agents（HN 20 points，讨论: https://news.ycombinator.com/item?id=50100387）",
+          "id": "ac32a6f32a9"
+        }
+      ]
+    },
+    {
+      "id": "edd00c04c9b",
+      "title": "OpenAI 与 Sullivan & Cromwell 合作开发协议分析工具",
+      "summary": "OpenAI 与律师事务所 Sullivan & Cromwell 合作，开发了一款名为 Agreement Analyzer 的人工智能工具，用于识别草拟协议中的问题。该工具旨在提升协议审查的效率和准确性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "url": "https://openai.com/index/sullivan-cromwell",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "text": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "id": "add00c04c9b"
+        }
+      ]
+    },
+    {
+      "id": "e9d251ac683",
+      "title": "Meta 发布 Muse Spark Open 模型",
+      "summary": "Meta 发布了 Muse Spark Open，这是一个开源权重的多模态专家模型，以促进前沿技术的研究和应用。该模型采用混合专家机制，旨在提升多模态任务的处理效率和效果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "url": "https://huggingface.co/blog/meta-muse-spark-open",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "text": "",
+          "id": "a9d251ac683"
+        }
+      ]
+    },
+    {
+      "id": "e3733c75a28",
+      "title": "FLUX.3 正式加入 Diffusers",
+      "summary": "Hugging Face 宣布 FLUX.3 图像 Klein 已整合进 Diffusers。此举将增强 Diffusers 的功能，提供更丰富的图像生成能力。这也标志着 Hugging Face 在图像处理领域的进一步扩展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "url": "https://huggingface.co/blog/flux-3",
+          "published_at": "2026-10-15T00:00:00+00:00",
+          "text": "",
+          "id": "a3733c75a28"
+        }
+      ]
+    },
+    {
+      "id": "e47f8bddc70",
+      "title": "AI面试官与AI面试者的混乱",
+      "summary": "在一次实验中，AI面试官与AI面试者进行交互，导致了意想不到的混乱。双方的对话变得复杂，而 AI 的行为也未按预期出现，使得整个面试过程充满了不可预测性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Chaos ensues when AI interviewer meets AI interviewee",
+          "url": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+          "published_at": "2026-10-14T23:32:32+00:00",
+          "text": "Chaos ensues when AI interviewer meets AI interviewee（HN 20 points，讨论: https://news.ycombinator.com/item?id=50097104）",
+          "id": "a47f8bddc70"
+        }
+      ]
+    },
+    {
+      "id": "e45dd7869aa",
+      "title": "ICE计划使用AI监控被拘人员电话",
+      "summary": "美国移民和海关执法局（ICE）希望利用人工智能技术来监控被拘留人员的电话通话和活动。这一措施旨在加强对拘留中心的监督和管理。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "ICE Wants to Use AI to Monitor Detainee Calls and Movements",
+          "url": "https://www.washingtonsun.com/immigration/ice-ai-monitor-detainees",
+          "published_at": "2026-10-14T23:06:24+00:00",
+          "text": "ICE Wants to Use AI to Monitor Detainee Calls and Movements（HN 24 points，讨论: https://news.ycombinator.com/item?id=50096825）",
+          "id": "a45dd7869aa"
+        }
+      ]
+    },
+    {
+      "id": "edc9ed14da7",
+      "title": "Anthropic 更新独立评估者信息",
+      "summary": "2026年10月15日，Anthropic发布了一则公告，提供关于其独立评估者的最新信息。公告中详细说明了评估者的角色和职责，增强了透明度和信任。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+          "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+          "published_at": "",
+          "text": "Oct 15, 2026 Announcements An update on independent evaluators",
+          "id": "adc9ed14da7"
+        }
+      ]
+    },
+    {
+      "id": "e00b9e40875",
+      "title": "Bluesky 推出 Attie 应用新功能",
+      "summary": "Bluesky 扩展了其 AI 驱动的 Attie 平台，允许用户创建互动体验，如游戏、测验和网站，用户可以利用社交网络的受众。该功能被称为“社交氛围编码”。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+          "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+          "published_at": "2026-10-15T18:56:46+00:00",
+          "text": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+          "id": "a00b9e40875"
+        }
+      ]
+    },
+    {
+      "id": "e44bfbaba05",
+      "title": "为何我们禁止 AI",
+      "summary": "Hacker News 发表了一篇文章，探讨了禁止人工智能（AI）的原因。文章指出，AI 的发展可能带来严重的社会与伦理问题，呼吁采取措施以应对潜在风险。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Why We're Banning AI",
+          "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+          "published_at": "2026-10-15T18:32:29+00:00",
+          "text": "Why We're Banning AI（HN 218 points，讨论: https://news.ycombinator.com/item?id=50108131）",
+          "id": "a44bfbaba05"
+        }
+      ]
+    },
+    {
+      "id": "e7e5d17c039",
+      "title": "公司纷纷收缩AI投资",
+      "summary": "许多公司在人工智能（AI）领域迅速投入资源，然而如今部分企业开始缩减相关投资。这一转变反映出市场对 AI 未来的谨慎态度，企业面临的挑战和调整需求日益显著。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Companies rushed in on AI. Now some are pulling back",
+          "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+          "published_at": "2026-10-15T18:29:29+00:00",
+          "text": "Companies rushed in on AI. Now some are pulling back（HN 23 points，讨论: https://news.ycombinator.com/item?id=50108083）",
+          "id": "a7e5d17c039"
+        }
+      ]
+    },
+    {
+      "id": "e6d7d69cd01",
+      "title": "AI 数据中心交易面临挑战",
+      "summary": "市场抛售和利率上升对 AI 数据中心的交易热潮造成了压力。随着融资成本增加，投资者对相关项目的兴趣可能减弱，从而影响这一领域的增长前景。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Market selloff, rising rates test AI data centre deal boom",
+          "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+          "published_at": "2026-10-15T16:17:40+00:00",
+          "text": "Market selloff, rising rates test AI data centre deal boom（HN 68 points，讨论: https://news.ycombinator.com/item?id=50105900）",
+          "id": "a6d7d69cd01"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 84,
+    "articles_new": 26,
+    "articles_filtered": 22,
+    "tokens": {
+      "prompt_tokens": 17412,
+      "completion_tokens": 2516
+    }
+  },
+  "mock": false
+}
