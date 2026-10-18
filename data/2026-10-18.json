@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T08:29:00+08:00",
+  "briefing": "今日导读：Meta更新条款及Replit选择新的AI模型提供商均显示AI业务策略调整，亚马逊利用AI加强仓管，展示AI在企业中更加多元化的应用趋势。",
+  "highlights": "今日看点：Meta、亚马逊和Replit的近期行动显示AI在大企业中的策略调整。Meta更新条款以响应数据隐私问题，表明市场对AI数据安全的重视。同时，Replit选用OpenAI作为默认模型，显示在大模型提供商之间的竞争和服务的差异化正在成为平台选择的重要因素。亚马逊利用AI监控工会风险，凸显AI在企业管控方面的新用途，尤其在敏感运营领域。",
+  "events": [
+    {
+      "id": "e568162b981",
+      "title": "Meta 更新条款应对担忧",
+      "summary": "Meta 删除了引发数据抓取和人工智能训练担忧的相关语言。Meta发言人坚持表示，更新后的条款并未改变Meta爬取网络的方式。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nMeta更新条款，删除了引发数据抓取担忧的语言，但没改变其爬虫策略。\n\n### 为什么令人兴奋\n这表明即使是巨头在数据隐私方面也在被市场及用户要求进行调整和透明化。\n\n### 产品机会\n增加用户信任的工具或协议，可以帮助公司在AI数据使用上获得竞争优势。\n\n### 格局影响\n对行业隐私保护要求提升，可能促使其他企业跟进类似措施。对新进创业公司是考虑数据透明度的机会窗口。\n\n### 冷静判断\n此举的实际效果还需观察公众和企业对新条款的接受程度。\n\n### 趋势坐标\n呼应最近对AI合规性和透明度的关注，例如欧盟AI的持续监管升级。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "published_at": "2026-10-17T21:31:32+00:00",
+          "text": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "id": "a568162b981"
+        }
+      ]
+    },
+    {
+      "id": "e51c1c9a5e4",
+      "title": "Replit 更换默认模型为 OpenAI",
+      "summary": "Replit 首席执行官 Masad 在上周末确认，将 OpenAI 替代 Anthropic 成为默认模型提供商。尽管如此，Claude 仍然会在平台上向客户提供。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "published_at": "2026-10-17T18:48:08+00:00",
+          "text": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+          "id": "a51c1c9a5e4"
+        }
+      ]
+    },
+    {
+      "id": "ea23d7ba4d3",
+      "title": "AI 编码能力与验证问题探讨",
+      "summary": "随着 AI 技术的发展，人工智能能够编写代码，但谁来验证这些代码的正确性成为一个重要问题。讨论指出，尽管 AI 在程序开发中扮演了重要角色，但代码的准确性和安全性仍需人类工程师进行审查和验证。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI Can Write the Code. Who Verifies It?",
+          "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+          "published_at": "2026-10-17T18:31:30+00:00",
+          "text": "AI Can Write the Code. Who Verifies It?（HN 26 points，讨论: https://news.ycombinator.com/item?id=50133713）",
+          "id": "aa23d7ba4d3"
+        }
+      ]
+    },
+    {
+      "id": "eca34855ded",
+      "title": "亚马逊在英仓库监控工会风险",
+      "summary": "亚马逊在英国的仓库中使用人工智能监控工会风险。这一举措旨在加强公司对劳动组织活动的管理和预警。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Amazon uses AI to monitor union risk in UK warehouses",
+          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+          "published_at": "2026-10-17T16:04:23+00:00",
+          "text": "Amazon uses AI to monitor union risk in UK warehouses（HN 145 points，讨论: https://news.ycombinator.com/item?id=50132278）",
+          "id": "aca34855ded"
+        }
+      ]
+    },
+    {
+      "id": "e5199aaef7e",
+      "title": "GeoPT 进入物理建模领域",
+      "summary": "清华特奖得主推出了 GeoPT，这是一款新兴的搭载物理建模能力的世界模型。这一创新旨在更好地模拟和理解物理世界的现象。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+          "url": "https://www.qbitai.com/2026/10/503880.html",
+          "published_at": "2026-10-16T12:54:54+00:00",
+          "text": "从搭载物理建模能力的世界模型切入",
+          "id": "a5199aaef7e"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 51,
+    "articles_new": 5,
+    "articles_filtered": 10,
+    "tokens": {
+      "prompt_tokens": 10329,
+      "completion_tokens": 866
+    }
+  },
+  "mock": false
+}
