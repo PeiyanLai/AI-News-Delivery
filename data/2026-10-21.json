@@ -1,0 +1,594 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T09:05:51+08:00",
+  "briefing": "Anthropic 提出一项 AI 安全法案，强调保护 AI 模型的安全性和可控性；Google 将 Gemini AI 应用于车载系统，展示 AI 在日常生活中的整合拓展；OpenAI 通过收购 Orchestra Bio 扩展生命科学领域应用。",
+  "highlights": "今日看点，Anthropic 提出的 AI 安全法案标志着 AI 监管的进一步细化，反映了对大型 AI 模型潜在风险的重视。这与 Anthropic 近期在安全更新上的频繁举措一脉相承。同时，Google 将其 Gemini AI 引入车载系统，继续强化其在个人用户市场中的布局，显示科技巨头正在积极扩大 AI 产品的应用场景并增强用户体验。",
+  "events": [
+    {
+      "id": "ed4e57614c3",
+      "title": "Anthropic 提议 AI 安全法案",
+      "summary": "Anthropic 提出了一项 AI 安全法案，该法案规定如果某模型可能导致超过 50 人死亡，则可阻止该模型的发布。同时，该政策禁止联邦机构在未得到法官许可的情况下阻止模型发布。这项提议似乎旨在保护 AI 的安全性。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAnthropic 提出了一个新的 AI 安全法案，旨在通过法律手段限制有害 AI 的发布。  \n\n### 为什么令人兴奋\n该法案标志着对 AI 潜在危害的法律监管增强，安全标准得到提升。  \n\n### 产品机会\n该法规可能催生新的合规性服务市场，帮助 AI 开发者符合安全规定。  \n\n### 格局影响\n对于竞争对手 OpenAI 和 Google，可能意味着在发布高风险 AI 模型时面临更多限制，增加了合规成本。  \n\n### 冷静判断\n此安全法案的具体实施效果和行业接受程度还有待观察，预计短期内对 AI 生态的直接影响有限。  \n\n### 趋势坐标\n与近期的 AI 安全讨论和政策提议呼应，是行业对 AI 安全性日益关注的体现。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "published_at": "2026-10-20T23:01:23+00:00",
+          "text": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+          "id": "ad4e57614c3"
+        }
+      ]
+    },
+    {
+      "id": "e7f6bb9c0aa",
+      "title": "Google Gemini AI 车载更新",
+      "summary": "Google 将个性化的 Gemini AI 引入汽车中。更新后，Gemini 可以通过安卓车载和内置 Google 的汽车访问用户的 Gmail、日历、地图等应用的信息，例如用户可以询问航班状态或直接导航到预约地点。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s more personalized Gemini AI is heading to your car",
+          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+          "published_at": "2026-10-20T22:11:34+00:00",
+          "text": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to \"take me to my doctor's appointment\" instead of pulling up directions manually, or ask it to \"find the car wash from the photo I t … Read the full story at The Verge.",
+          "id": "a7f6bb9c0aa"
+        }
+      ]
+    },
+    {
+      "id": "ea323e283c5",
+      "title": "OpenAI收购Orchestra Bio",
+      "summary": "OpenAI宣布收购初创公司Orchestra Bio，旨在增强其生物技术业务。新团队和技术将用于Rosalind，一个针对生命科学研究的AI模型，以及相关的Rosalind Workbench工具，帮助研究人员规划实验和分析结果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "published_at": "2026-10-20T20:35:10+00:00",
+          "text": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+          "id": "aa323e283c5"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "OpenAI acquires Orchestra Bio",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "text": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "id": "adbaa902542"
+        }
+      ]
+    },
+    {
+      "id": "e4eb9f7080b",
+      "title": "NVIDIA Cosmos3-H-Dreams 推出",
+      "summary": "NVIDIA推出了Cosmos3-H-Dreams，一个生成性模拟工具，旨在将临床手术场景带入生活。该工具可以为医疗专业人员提供更真实的手术训练体验，帮助提高手术精度和安全性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "published_at": "2026-10-20T18:17:47+00:00",
+          "text": "",
+          "id": "a4eb9f7080b"
+        }
+      ]
+    },
+    {
+      "id": "ea082e99045",
+      "title": "对比2026年AI代理的bot检测",
+      "summary": "一项针对2026年现代AI代理的bot检测系统的基准测试揭示了当前技术的局限性和挑战。研究表明，随着AI的发展，传统的检测方法面临越来越大的困难，亟需新的解决方案来应对日益复杂的网络环境。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+          "url": "https://research.poh.org/bot-benchmarking-2026/",
+          "published_at": "2026-10-20T17:10:31+00:00",
+          "text": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026（HN 22 points，讨论: https://news.ycombinator.com/item?id=50169506）",
+          "id": "aa082e99045"
+        }
+      ]
+    },
+    {
+      "id": "eca293d8533",
+      "title": "FairStress: LLM 公平性评估研究",
+      "summary": "Hugging Face 发布了 FairStress 研究，旨在更深入地评估大型语言模型（LLM）在决策中的公平性。该研究探讨了不同模型在参与者群体中的表现差异，以及如何评估和改进这些模型的公平性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "published_at": "2026-10-20T16:09:19+00:00",
+          "text": "",
+          "id": "aca293d8533"
+        }
+      ]
+    },
+    {
+      "id": "e5130abca41",
+      "title": "Electric Plant 推出植物语言翻译器",
+      "summary": "Electric Plant 开发了一款基于人工智能的翻译器，旨在帮助人类理解植物通过其茎干传递的微弱电信号。该技术可解读植物的“语言”，使人们能够更好地与植物交流。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+          "published_at": "2026-10-20T16:00:00+00:00",
+          "text": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+          "id": "a5130abca41"
+        }
+      ]
+    },
+    {
+      "id": "e94e7f4f5c0",
+      "title": "ALTK-Evolve 升级客户服务能力",
+      "summary": "Hugging Face 发布了 ALTK-Evolve，凭借其学习记忆技术在客户服务任务的 τ²-bench 排行榜上取得了优异表现。该模型在不依赖创新边界模型的情况下，展示了卓越的性能和有效性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "published_at": "2026-10-20T15:19:48+00:00",
+          "text": "",
+          "id": "a94e7f4f5c0"
+        }
+      ]
+    },
+    {
+      "id": "eb23424a0c9",
+      "title": "AI 反向工程的新机遇",
+      "summary": "一项名为'Reverse-Engineer Anything'的工具正在兴起，用户可以利用它对AI系统进行反向工程。该工具的出现为开发者和研究人员提供了探索和改造AI的机会，推动了该领域的创新与发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "'Reverse-Engineer Anything' Is the New Wild West of AI",
+          "url": "https://www.404media.co/reverse-engineer-anything-is-the-new-wild-west-of-ai/",
+          "published_at": "2026-10-20T15:10:01+00:00",
+          "text": "'Reverse-Engineer Anything' Is the New Wild West of AI（HN 23 points，讨论: https://news.ycombinator.com/item?id=50167587）",
+          "id": "ab23424a0c9"
+        }
+      ]
+    },
+    {
+      "id": "e8603bde2a2",
+      "title": "Respawn（YC W24）：开源Rust AI 网关",
+      "summary": "Respawn 是一款基于插件构建的开源 Rust AI 网关。该项目旨在为用户提供灵活的人工智能解决方案，并推动开源社区的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+          "url": "https://news.ycombinator.com/item?id=50167583",
+          "published_at": "2026-10-20T15:09:29+00:00",
+          "text": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins（HN 44 points，讨论: https://news.ycombinator.com/item?id=50167583）",
+          "id": "a8603bde2a2"
+        }
+      ]
+    },
+    {
+      "id": "e79e072c528",
+      "title": "DeepInfer：DeepSeek 模型推理框架",
+      "summary": "DeepInfer 是针对 DeepSeek 模型的高性能推理框架，旨在优化模型的推理效率和性能。该框架专注于提供快速、可靠的推理解决方案，以满足日益增长的人工智能应用需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "published_at": "2026-10-20T09:08:54+00:00",
+          "text": "DeepInfer: High-performance inference framework for DeepSeek models（HN 2122 points，讨论: https://news.ycombinator.com/item?id=50163277）",
+          "id": "a79e072c528"
+        }
+      ]
+    },
+    {
+      "id": "ea84b6a7bee",
+      "title": "Terminal X 与 GPT-6.1 投资判断配对",
+      "summary": "Terminal X 的 Eval Agent 使用 54 项标准对输出进行评分，并通过 GPT-6.1 Sol 达到 88.6% 的高级投资者判断匹配度。该系统能够捕捉到 25% 更多偏离基金使命的情况。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "url": "https://openai.com/index/terminal-x",
+          "published_at": "2026-10-20T07:00:00+00:00",
+          "text": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+          "id": "aa84b6a7bee"
+        }
+      ]
+    },
+    {
+      "id": "e0bbe64b059",
+      "title": "Vite+ 成为 AI 代理开发优秀工具链",
+      "summary": "Vite+ 是一款针对 AI 代理开发的工具链，提供了一系列优化功能以提升开发效率。该工具链旨在帮助开发者更方便地构建和部署智能代理应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Vite+ an excellent toolchain for AI agent development",
+          "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+          "published_at": "2026-10-20T06:40:49+00:00",
+          "text": "Vite+ an excellent toolchain for AI agent development（HN 23 points，讨论: https://news.ycombinator.com/item?id=50162198）",
+          "id": "a0bbe64b059"
+        }
+      ]
+    },
+    {
+      "id": "eec32daff9e",
+      "title": "Claude新模型亮相，修复Bug能力强大",
+      "summary": "OpenAI推出了新的Claude模型，具备跳出思维定势的能力，以及高效修复Bug的功能。这一新模型的总参数量为6.1 Terra，标志着AI技术的进一步发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+          "url": "https://www.qbitai.com/2026/10/504314.html",
+          "published_at": "2026-10-20T01:09:43+00:00",
+          "text": "OpenAI只掏出一个6.1 Terra…",
+          "id": "aec32daff9e"
+        }
+      ]
+    },
+    {
+      "id": "e84cd8d44e9",
+      "title": "Hugging Face 宣布支持 TorchTPU",
+      "summary": "Hugging Face 在博客中宣布对 TorchTPU 的原生支持，以促进深度学习模型在 TPU 上的训练和推理。此次集成将提升模型性能，并使用户能够利用 TPU 更加高效地进行计算。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "text": "",
+          "id": "a84cd8d44e9"
+        }
+      ]
+    },
+    {
+      "id": "e2596ff929a",
+      "title": "Hugging Face推出AnyLanguageModel 1.0",
+      "summary": "Hugging Face推出AnyLanguageModel 1.0，标志着其在Apple平台上本地模型的一周年。该版本提供了更好的多语言支持和性能优化，帮助开发者提升应用体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "text": "",
+          "id": "a2596ff929a"
+        }
+      ]
+    },
+    {
+      "id": "e3eb18e5ff7",
+      "title": "PyTorch 2.15 发布 MPS 支持",
+      "summary": "在最新的 PyTorch 2.15 版本中，Hugging Face 博客宣布支持 Apple 的 Metal Performance Shaders (MPS)。这一更新将提升在 Mac 设备上的深度学习性能，使开发人员能够更高效地利用 Apple 硬件进行模型训练和推理。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "MPS in PyTorch 2.15",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "published_at": "2026-10-20T00:00:00+00:00",
+          "text": "",
+          "id": "a3eb18e5ff7"
+        }
+      ]
+    },
+    {
+      "id": "ec861f4d741",
+      "title": "百比特芯片迈向千比特云计算",
+      "summary": "一家量子计算公司正在推进量子算力的实际应用，从百比特芯片到整机交付。该公司同步搭建了千比特规模的量子算力云平台，致力于提供可调用的量子计算服务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+          "url": "https://www.qbitai.com/2026/10/504277.html",
+          "published_at": "2026-10-19T14:33:26+00:00",
+          "text": "同步搭建千比特规模量子算力云平台",
+          "id": "ac861f4d741"
+        }
+      ]
+    },
+    {
+      "id": "e10310c2093",
+      "title": "Anthropic 发布新产品公告",
+      "summary": "Anthropic 宣布推出多项新产品和更新，以提升其人工智能技术的安全性与性能。这些新产品旨在帮助开发者更有效地与 AI 进行互动，利用最新的机器学习进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Announcements",
+          "url": "https://www.anthropic.com/news/announcements",
+          "published_at": "",
+          "text": "Announcements",
+          "id": "a10310c2093"
+        }
+      ]
+    },
+    {
+      "id": "e31508cd64d",
+      "title": "Anthropic与多个企业建立合作",
+      "summary": "Anthropic宣布与若干公司建立战略合作伙伴关系。这些合作将推动人工智能技术的创新与应用，期望带来更高效的解决方案。合作伙伴包括行业领先的科技公司，具体细节尚未披露。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Partnerships",
+          "url": "https://www.anthropic.com/news/partnerships",
+          "published_at": "",
+          "text": "Partnerships",
+          "id": "a31508cd64d"
+        }
+      ]
+    },
+    {
+      "id": "e60f1409060",
+      "title": "Anthropic 发布新安全措施",
+      "summary": "Anthropic 宣布推出新一套安全措施，以增强其 AI 系统的可靠性和可控性。这些措施旨在应对潜在风险和滥用情况，提高用户对 AI 应用的信任。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Safeguards",
+          "url": "https://www.anthropic.com/news/safeguards",
+          "published_at": "",
+          "text": "Safeguards",
+          "id": "a60f1409060"
+        }
+      ]
+    },
+    {
+      "id": "e7f42709de2",
+      "title": "增强对蒸馏攻击的防御",
+      "summary": "Anthropic 新闻报道，他们正在强化对蒸馏攻击的防御措施。这种攻击方式可能会影响 AI 模型的安全性，公司的新策略旨在减轻这些风险。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Strengthening our defenses against distillation attacks",
+          "url": "https://www.anthropic.com/news/distillation-defenses",
+          "published_at": "",
+          "text": "Strengthening our defenses against distillation attacks",
+          "id": "a7f42709de2"
+        }
+      ]
+    },
+    {
+      "id": "e35d32d7df6",
+      "title": "Anthropic 发布安全更新",
+      "summary": "Anthropic 发布了一项新的安全功能，旨在提高其 AI 系统的安全性。该功能通过增强对不良请求的响应能力，来降低潜在的安全风险。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Security",
+          "url": "https://www.anthropic.com/news/security",
+          "published_at": "",
+          "text": "Security",
+          "id": "a35d32d7df6"
+        }
+      ]
+    },
+    {
+      "id": "e9ea810a533",
+      "title": "Anthropic 云服务合作遇挑战",
+      "summary": "Anthropic 正在努力从云服务提供商那里获得足够的计算资源，这些提供商日益将其视为竞争对手。尽管如此，该公司的基础设施支出正在激增，预计将在11月进行 IPO。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "published_at": "2026-10-20T21:25:22+00:00",
+          "text": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+          "id": "a9ea810a533"
+        }
+      ]
+    },
+    {
+      "id": "e38bd10c8e4",
+      "title": "SpaceX AI 业务超预期",
+      "summary": "SpaceX 在第三季度实现盈利，净收入达到 44 亿美元。其 AI 业务成为利润增长的主要动力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "SpaceX’s AI business is beating expectations",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "published_at": "2026-10-20T20:40:41+00:00",
+          "text": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+          "id": "a38bd10c8e4"
+        }
+      ]
+    },
+    {
+      "id": "ec021c28354",
+      "title": "Claude 研发针对蝎毒的蛋白结合剂",
+      "summary": "Claude 设计了一种针对蝎子神经毒素的蛋白质结合剂，旨在提供新的生物医药解决方案。这种结合剂可能有助于中和蝎毒对人类的危害。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude designed protein binders against scorpion neurotoxins",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "published_at": "2026-10-20T17:48:29+00:00",
+          "text": "Claude designed protein binders against scorpion neurotoxins（HN 88 points，讨论: https://news.ycombinator.com/item?id=50170021）",
+          "id": "ac021c28354"
+        }
+      ]
+    },
+    {
+      "id": "ec723746d1e",
+      "title": "美命令删除DeepSeek AI产品",
+      "summary": "美国已命令联邦民用机构删除DeepSeek产品和基于其技术的第三方服务，理由是国家安全考虑。这一决定反映了对中国技术的担忧。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+          "published_at": "2026-10-20T13:07:24+00:00",
+          "text": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+          "id": "ac723746d1e"
+        }
+      ]
+    },
+    {
+      "id": "e208dc20e81",
+      "title": "Eka Robotics 达 14.5 亿美元估值",
+      "summary": "Eka Robotics 可能是首款能够高效拾取各种物体的机器人手臂，其表现流畅、类似人类，令行业内专家赞叹不已。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "published_at": "2026-10-20T13:00:00+00:00",
+          "text": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+          "id": "a208dc20e81"
+        }
+      ]
+    },
+    {
+      "id": "eb3fcb2e42d",
+      "title": "独立加盟商利用 ChatGPT 提升效率",
+      "summary": "一名独立的 Schlotzsky’s 和 Cinnabon 加盟商将菜单调价时间缩短了 95%，通过 ChatGPT Work 建立了一个工作流程，预计将释放 10 万美元的现金流。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "published_at": "2026-10-20T10:00:00+00:00",
+          "text": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+          "id": "ab3fcb2e42d"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 89,
+    "articles_new": 30,
+    "articles_filtered": 27,
+    "tokens": {
+      "prompt_tokens": 18377,
+      "completion_tokens": 2813
+    }
+  },
+  "mock": false
+}
