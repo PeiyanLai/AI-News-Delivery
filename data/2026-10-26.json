@@ -1,0 +1,283 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:50:06+08:00",
+  "briefing": "今日导读：OpenAI与Anthropic大幅降价引发行业热议，而Cerebras推出万亿参数AI模型标志着技术新高度。同时，一款10年前的CNN在皮肤癌诊断中表现优于最新的LLMs，显示旧有模型仍具价值。AI对大多数公司无财务回报引发思考。",
+  "highlights": "今日看点：OpenAI与Anthropic的降价策略以及Cerebras的技术突破表明AI行业正处于重大变革中，价格竞争与技术创新成为关键驱动力。此外，旧有神经网络在医疗领域的出色表现凸显了AI应用的多样性与复杂性，提示行业在激进创新与稳固传统中寻找平衡。尽管AI投资热络，但大多数公司未见财务回报，反映出科技行业与非科技领域在AI价值实现上的差异。",
+  "events": [
+    {
+      "id": "e86bde11cd2",
+      "title": "OpenAI与Anthropic大幅降价",
+      "summary": "OpenAI和Anthropic在短短几个月内将其大语言模型（LLM）的价格降低了多达80%。这一降价引发了对其原因和市场竞争力的讨论。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI和Anthropic显著削减其大语言模型的定价。\n\n### 为什么令人兴奋\n价格降低多达80%，大大降低企业使用AI的成本门槛，可能扩大市场。\n\n### 产品机会\n此举可能促使更多中小企业尝试AI技术，催生更多AI驱动的应用和服务。\n\n### 格局影响\n价格战或动摇当前市场领先者的地位，强制竞争对手跟进，创业公司面临新的商机。\n\n### 冷静判断\n需观察降价是否能提高营收或只是短期市场策略，对长期稳定性的影响仍待验证。\n\n### 趋势坐标\n证实当前技术提供商间的竞争加剧，同时推动AI的普及化。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "published_at": "2026-10-25T21:11:31+00:00",
+          "text": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?（HN 112 points，讨论: https://news.ycombinator.com/item?id=50236102）",
+          "id": "a86bde11cd2"
+        }
+      ]
+    },
+    {
+      "id": "e71334093a4",
+      "title": "AI 对大多数公司无财务回报",
+      "summary": "尽管对人工智能进行大规模投资并伴随广泛宣传，Apollo 经济学家表示，除了科技行业外，这项技术对美国企业并未带来财务收益。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAI技术在非科技产业中未能如预期产生财务收益。\n\n### 为什么令人兴奋\n表明技术炒作与实际利润之间的反差，促使行业反思AI应用的真正价值。\n\n### 产品机会\n需要重新审视和定制AI解决方案，以适应产业特定需求，强调ROI。\n\n### 格局影响\n可能导致非科技领域的AI投资降温，迫使开发者和公司重新评估策略。\n\n### 冷静判断\n目前仍在快速增长的探索阶段，短期内调整市场预期是必要的，长期内仍可能实现盈利。\n\n### 趋势坐标\n与近期关于AI在多行业应用效果不佳的讨论相呼应，推动深入思考AI技术普及的可能性及限制。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "published_at": "2026-10-25T16:57:32+00:00",
+          "text": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+          "id": "a71334093a4"
+        }
+      ]
+    },
+    {
+      "id": "e2325af3360",
+      "title": "Cerebras 部署万亿参数 AI 模型",
+      "summary": "Cerebras 宣布成功部署其万亿参数的人工智能模型。这些模型能够处理更复杂的任务，推动 AI 研究和应用的发展。该技术的推出标志着 AI 计算能力的新高度。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nCerebras成功部署其万亿参数的AI模型。\n\n### 为什么令人兴奋\n突破现有AI计算能力的极限，能处理更复杂的任务。\n\n### 产品机会\n推动高端AI应用的发展，如科学计算、超大规模数据分析，带来新的解决方案。\n\n### 格局影响\n提升企业特别是有实力的科技公司的竞争力，同时提高行业进入门槛。\n\n### 冷静判断\n尽管技术层面先进，但实际应用推广仍需时间来验证市场接受度。\n\n### 趋势坐标\n对应近期高性能计算的发展趋势，符合市场对更强大AI模型需求的预期。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "published_at": "2026-10-25T01:33:49+00:00",
+          "text": "Cerebras Deploys Trillion-Parameter AI Models（HN 351 points，讨论: https://news.ycombinator.com/item?id=50227356）",
+          "id": "a2325af3360"
+        }
+      ]
+    },
+    {
+      "id": "e1dc75a32fc",
+      "title": "10 岁 CNN 在皮肤癌诊断中超越前沿 LLMs",
+      "summary": "一款已有 10 年历史的卷积神经网络（CNN）在皮肤癌诊断方面表现优于最新的前沿大型语言模型（LLMs）。这一发现显示了旧有模型在特定医疗应用中的有效性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "published_at": "2026-10-25T17:15:38+00:00",
+          "text": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis（HN 409 points，讨论: https://news.ycombinator.com/item?id=50233779）",
+          "id": "a1dc75a32fc"
+        }
+      ]
+    },
+    {
+      "id": "e99c99157c7",
+      "title": "Google AI 搜索改变在线出版业",
+      "summary": "数字出版行业长期以来依赖 Google，许多网站通过优化网页以便在搜索引擎中排名靠前，从而吸引读者。过去，Google与出版商之间的关系是相互的，但AI搜索的变化正在颠覆这一局面。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s AI search changes upended online publishing",
+          "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "published_at": "2026-10-25T12:00:00+00:00",
+          "text": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub … Read the full story at The Verge.",
+          "id": "a99c99157c7"
+        }
+      ]
+    },
+    {
+      "id": "ea6feae291b",
+      "title": "Grok发布首个AI生成的《Odyssey》",
+      "summary": "Grok发布了其AI生成的《Odyssey》的前七分钟影片。虽然画面还不错，但并不具备艺术性、灵感或人情味。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "published_at": "2026-10-25T21:31:16+00:00",
+          "text": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "id": "aa6feae291b"
+        }
+      ]
+    },
+    {
+      "id": "e2af7003f0e",
+      "title": "UC Berkeley 数学教授质疑作业评分意义",
+      "summary": "随着 AI 的使用，一位加州大学伯克利分校的数学教授表示，对作业评分的意义产生了怀疑。教授认为，使用 AI 后，传统的作业评估方式已不再具备价值。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+          "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+          "published_at": "2026-10-25T16:28:26+00:00",
+          "text": "AI use leads UC Berkeley math professor to see 'no point' in grading homework（HN 195 points，讨论: https://news.ycombinator.com/item?id=50233304）",
+          "id": "a2af7003f0e"
+        }
+      ]
+    },
+    {
+      "id": "e4262d71f08",
+      "title": "热门AI穿戴设备一览",
+      "summary": "我们整理了一份最新的热门AI穿戴设备列表，包括Muse Charm、Bee、Friend和Plaud等产品。这些设备在科技领域引起了广泛关注。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "The hottest AI wearables and gadgets you should know about",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "published_at": "2026-10-25T14:10:00+00:00",
+          "text": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+          "id": "a4262d71f08"
+        }
+      ]
+    },
+    {
+      "id": "eed94fe60f3",
+      "title": "R/open source 禁止个人项目及 LLMs 使用",
+      "summary": "R/open source 宣布禁止所有个人项目和使用大型语言模型（LLMs）的项目。这一决定引发了社区的广泛讨论。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "R/open source bans all solo projects and projects using LLMs",
+          "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+          "published_at": "2026-10-25T14:05:03+00:00",
+          "text": "R/open source bans all solo projects and projects using LLMs（HN 79 points，讨论: https://news.ycombinator.com/item?id=50231722）",
+          "id": "aed94fe60f3"
+        }
+      ]
+    },
+    {
+      "id": "e5431bd7fa7",
+      "title": "三星在960x540分辨率上运行TensorFlow Lite",
+      "summary": "三星正在960x540分辨率的图像上运行TensorFlow Lite模型，以进行追踪。这项技术的应用涉及到图像处理和实时数据分析。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+          "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+          "published_at": "2026-10-25T10:42:01+00:00",
+          "text": "Samsung running a TensorFlow lite model on 960x540 image to track you（HN 285 points，讨论: https://news.ycombinator.com/item?id=50230181）",
+          "id": "a5431bd7fa7"
+        }
+      ]
+    },
+    {
+      "id": "e325a829b85",
+      "title": "五款Qwen3.8-27B模型匹配Fable 5",
+      "summary": "五款Qwen3.8-27B模型成功使用GVS5H工具，与Fable 5的性能进行了比较。这表明Qwen3.8的技术在与Fable 5的竞争中表现出色。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+          "url": "https://github.com/slee-persis/GVS5H",
+          "published_at": "2026-10-25T03:56:01+00:00",
+          "text": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness（HN 182 points，讨论: https://news.ycombinator.com/item?id=50228167）",
+          "id": "a325a829b85"
+        }
+      ]
+    },
+    {
+      "id": "e9428397179",
+      "title": "使我的博客适应AI阅读",
+      "summary": "一名博主分享了自己如何优化博客内容，使其更易于AI代理人读取。他探讨了不同方法，以提高博客的可访问性和可用性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Making My Blog Readable by AI Agents",
+          "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+          "published_at": "2026-10-24T21:21:33+00:00",
+          "text": "Making My Blog Readable by AI Agents（HN 34 points，讨论: https://news.ycombinator.com/item?id=50225443）",
+          "id": "a9428397179"
+        }
+      ]
+    },
+    {
+      "id": "e0cfd0a233a",
+      "title": "代理的渐进式信息披露提升性能",
+      "summary": "在最新的研究中，应用渐进式信息披露（Progressive disclosure）技术使代理的运行速度提升了2.3倍。这一改进旨在提高代理在处理信息时的效率和响应速度。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Progressive disclosure in agents to make them 2.3x faster",
+          "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
+          "published_at": "2026-10-24T16:30:58+00:00",
+          "text": "Progressive disclosure in agents to make them 2.3x faster（HN 21 points，讨论: https://news.ycombinator.com/item?id=50222826）",
+          "id": "a0cfd0a233a"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "量子位",
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 47,
+    "articles_new": 13,
+    "articles_filtered": 8,
+    "tokens": {
+      "prompt_tokens": 13193,
+      "completion_tokens": 2028
+    }
+  },
+  "mock": false
+}
