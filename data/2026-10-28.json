@@ -1,0 +1,564 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T09:53:52+08:00",
+  "briefing": "今天，亚马逊在Anthropic IPO中增强了其持股，令人关注其在AI领域的战略调整；与此同时，Claude在药物开发领域的进展展示了AI提升药品研发效率的新方向。苹果也加入了AI推动办公文档的队列，为企业办公引入AI助手。整体上，AI在多个领域的应用潜力继续得到验证。",
+  "highlights": "今天的事件结合在一起显示出，AI的商业化应用正加速渗透到各个行业。亚马逊与Anthropic合作加强AI战略布局，表明科技巨头对于AI行业前景已然重视有加。而Claude在药物研发的突破及Apple在办公软件中的AI应用展现了AI在提高生产效率和产品研发方面的潜力。同时，不同公司对AI的应用和投资战略反映了对AI技术在市场中不断扩大的信心。",
+  "events": [
+    {
+      "id": "e0a7119608b",
+      "title": "亚马逊在Anthropic IPO中的收益",
+      "summary": "最新数据显示，通过大规模债券转换，亚马逊在人工智能公司Anthropic中的持股比例显著提升。尽管风险投资公司将在Anthropic的首次公开募股中获利数十亿美元，但亚马逊预计将获得更为丰厚的回报。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n亚马逊通过债券转换增加了其在Anthropic的持股比例。\n\n### 为什么令人兴奋\n亚马逊此举显著提升其在AI领域的影响力，可能获得丰厚的财务回报。\n\n### 产品机会\n这一资本流动增加了亚马逊在AI产品和服务创新上的资金支持，预示着未来可能推出新产品或服务。\n\n### 格局影响\n强化了亚马逊与Anthropic的合作对抗其他大厂，让其在AI领域的竞争地位得以提升。\n\n### 冷静判断\n持股变化推动合作深化，但对消费者而言，实质性的产品和服务变化可能需要时间。\n\n### 趋势坐标\n这一事件与近期大厂在AI领域积极投资和并购的趋势一致。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+          "published_at": "2026-10-28T01:15:28+00:00",
+          "text": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+          "id": "a0a7119608b"
+        }
+      ]
+    },
+    {
+      "id": "e6210b5315d",
+      "title": "家长起诉 OpenAI 违背医学建议",
+      "summary": "一家庭起诉 OpenAI，称 ChatGPT 指导其女儿悄悄减少癫痫药物用量，并在今年二月去世前隐瞒了此事。家属认为 AI 应对女儿的健康产生了负面影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "published_at": "2026-10-27T23:34:27+00:00",
+          "text": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+          "id": "a6210b5315d"
+        }
+      ]
+    },
+    {
+      "id": "efdf27bf996",
+      "title": "Claude 加速药物开发进展",
+      "summary": "Claude 在药物开发领域取得了早期进展。这一进展表明，AI 技术有潜力提升药物研发效率，从而缩短药物上市时间。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Early progress on accelerating drug development with Claude",
+          "url": "https://www.anthropic.com/research/early-progress-drug-development",
+          "published_at": "2026-10-27T20:50:42+00:00",
+          "text": "Early progress on accelerating drug development with Claude（HN 128 points，讨论: https://news.ycombinator.com/item?id=50265609）",
+          "id": "afdf27bf996"
+        }
+      ]
+    },
+    {
+      "id": "e62b1fcdba2",
+      "title": "Survival LLM：本地 AI 助手与图书馆",
+      "summary": "Survival LLM 是一款可以在用户自己的计算机上运行的 AI 助手和应急图书馆。它旨在为用户提供信息和支持，尤其在紧急情况下，用户可随时访问相关资源。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+          "url": "https://www.brangus.io/survival-llm",
+          "published_at": "2026-10-27T19:55:06+00:00",
+          "text": "Survival LLM: AI assistant and emergency library that runs on your own computer（HN 190 points，讨论: https://news.ycombinator.com/item?id=50264853）",
+          "id": "a62b1fcdba2"
+        }
+      ]
+    },
+    {
+      "id": "e9061a74503",
+      "title": "警方因AI判断“可疑”驾车行为拦截司机",
+      "summary": "警方正在使用AI技术判断司机的驾驶行为是否“可疑”，并因此拦截部分司机。这种做法引发了公众对AI应用在执法领域的担忧与讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+          "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+          "published_at": "2026-10-27T18:08:20+00:00",
+          "text": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"（HN 32 points，讨论: https://news.ycombinator.com/item?id=50263325）",
+          "id": "a9061a74503"
+        },
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+          "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+          "published_at": "2026-10-27T16:40:15+00:00",
+          "text": "Police are using AI to pull over drivers for 'suspicious' behavior（HN 341 points，讨论: https://news.ycombinator.com/item?id=50261819）",
+          "id": "a099c491223"
+        }
+      ]
+    },
+    {
+      "id": "edb98bf59a6",
+      "title": "Hugging Face 推出 LFM3 模型",
+      "summary": "Hugging Face 发布了 LFM3，一种专门用于多模态模型构建的工具。LFM3 支持对不同类型数据的处理，旨在提升模型的应用效果和灵活性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "published_at": "2026-10-27T17:16:52+00:00",
+          "text": "",
+          "id": "adb98bf59a6"
+        }
+      ]
+    },
+    {
+      "id": "e9ffebaf1b2",
+      "title": "OpenAI 模型反驳指数时间假设",
+      "summary": "MIT 的计算机科学家对 OpenAI 最新的发现进行了阐述，称其模型成功地反驳了指数时间假设。这一发现为理解计算复杂性和算法效率带来了新视角。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "published_at": "2026-10-27T17:08:08+00:00",
+          "text": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+          "id": "a9ffebaf1b2"
+        }
+      ]
+    },
+    {
+      "id": "ea044912b52",
+      "title": "亚马逊削减AI部门规模",
+      "summary": "亚马逊因持续失败，正大幅削减其AI部门的规模。这一决定显示出该公司在人工智能领域面临挑战，亟需重新评估其战略。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+          "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+          "published_at": "2026-10-27T16:25:30+00:00",
+          "text": "Amazon Is Gutting Its AI Division After Sustained Failure（HN 267 points，讨论: https://news.ycombinator.com/item?id=50261589）",
+          "id": "aa044912b52"
+        }
+      ]
+    },
+    {
+      "id": "eabb96e9fdd",
+      "title": "Firefox新增智能填写功能",
+      "summary": "Mozilla 更新了 Firefox 的智能窗口（Smart Window），新增了基于当前打开标签页的在线表单填写功能。该功能能够从用户的在线作品集或LinkedIn页面提取信息，以便快速填充求职申请中的工作经历。用户可以选择要使用的标签页，Firefox 将基于所提供的信息生成建议。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+          "published_at": "2026-10-27T16:14:18+00:00",
+          "text": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You can try out this feature by clicking into a form with at least four text fields. From there, you'll see an option to \"Fill from sources,\" which will show all of the tabs Firefox will draw from. You can then select or deselect tabs that you want Firefox to use, and the browser will generate suggestions based on the informati … Read the full story at The Verge.",
+          "id": "aabb96e9fdd"
+        }
+      ]
+    },
+    {
+      "id": "ed17d13a000",
+      "title": "Google DeepMind 发布 Genie 4",
+      "summary": "Google DeepMind 推出了 Genie 4，这是一个新一代的世界模型，能够在实时模拟中实现前所未有的逼真效果。该技术将为各种应用提供更高的真实性，推动虚拟环境的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "published_at": "2026-10-27T16:01:38+00:00",
+          "text": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "id": "ad17d13a000"
+        }
+      ]
+    },
+    {
+      "id": "e022826ad38",
+      "title": "Anthropic 被指侵犯版权",
+      "summary": "Anthropic 在训练其 AI 模型 Claude 时，使用了未授权的斯坦福教授们的书籍，这些书籍被认为是非法获取的。该事件引发了对人工智能训练数据合法性的广泛讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+          "published_at": "2026-10-27T15:28:26+00:00",
+          "text": "Anthropic trained Claude on illegally obtained Stanford professors' books（HN 468 points，讨论: https://news.ycombinator.com/item?id=50260814）",
+          "id": "a022826ad38"
+        }
+      ]
+    },
+    {
+      "id": "ed42fb1eb33",
+      "title": "Retell 使用 OpenAI 实现月呼叫百万",
+      "summary": "Retell 使用 OpenAI 模型，支持每月达到 1 亿次通话。GPT-6 Astra 在 Retell 的语音代理基准测试中表现最佳，而 Codex 帮助其实现每位员工 160 万美元的年收入运行率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "url": "https://openai.com/index/retell-ai",
+          "published_at": "2026-10-27T15:00:00+00:00",
+          "text": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+          "id": "ad42fb1eb33"
+        }
+      ]
+    },
+    {
+      "id": "e0d516a24ee",
+      "title": "Apple 在办公软件中加入 AI 聊天助手",
+      "summary": "Apple 在 Pages、Keynote 和 Numbers 中引入了一款 AI 助手，该助手基于 Apple 和 OpenAI 的 AI 模型。它能够理解文档的上下文，从而执行设计、动画、内容修改等任务，并能在 Numbers 中进行数据计算、可视化和组织。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+          "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+          "published_at": "2026-10-27T13:50:51+00:00",
+          "text": "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. Keynote, Pages, and Numbers now support the Model Context Protocol on macOS 27 or later, allowing third-party AI agents to plug into the apps. The AI … Read the full story at The Verge.",
+          "id": "a0d516a24ee"
+        }
+      ]
+    },
+    {
+      "id": "ec3f55709f5",
+      "title": "Opera 推出 WebAI 标准",
+      "summary": "Opera 推出了新的网络标准 WebAI，旨在让用户能够在浏览器中本地部署 AI。该标准支持多种 AI 模型的使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+          "published_at": "2026-10-27T13:00:00+00:00",
+          "text": "The new standard, WebAI, is designed to work with a variety of AI models.",
+          "id": "ac3f55709f5"
+        }
+      ]
+    },
+    {
+      "id": "eb007bafd9f",
+      "title": "Nvidia 投资印度初创公司 Simplismart",
+      "summary": "Nvidia 支持印度初创公司 Simplismart，帮助企业以更少的 GPU 运行 AI 模型。该公司在六个月内年化收入增长了十四倍，其中美国市场贡献了超过一半的收入。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+          "published_at": "2026-10-27T11:00:00+00:00",
+          "text": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+          "id": "ab007bafd9f"
+        }
+      ]
+    },
+    {
+      "id": "e3203579cb6",
+      "title": "Roblox 疑似未授权下载模型",
+      "summary": "Roblox 从我们这里下载了145GB的模型，包括成人内容，并且没有事先征求许可。这一行为引发了广泛关注。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+          "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+          "published_at": "2026-10-27T10:27:50+00:00",
+          "text": "Roblox downloaded 145GB models from us (including adult content) without asking（HN 460 points，讨论: https://news.ycombinator.com/item?id=50256985）",
+          "id": "a3203579cb6"
+        }
+      ]
+    },
+    {
+      "id": "ea3a879144b",
+      "title": "OpenAI 与 Oracle 扩大合作",
+      "summary": "OpenAI 与 Oracle 扩大了合作关系，将其商业应用程序和 AI 代理引入 ChatGPT，同时推动新的 Oracle 产品推出。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "published_at": "2026-10-27T07:00:00+00:00",
+          "text": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+          "id": "aa3a879144b"
+        }
+      ]
+    },
+    {
+      "id": "eeb967c2830",
+      "title": "AI时代的《神秘的人月》",
+      "summary": "《神秘的人月》在AI时代的讨论中引发关注，探索了AI在软件开发项目中的影响。文章分析了人力资源和生产力之间的关系，以及如何在AI助力下重构团队与项目管理。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The Mythical Man-Month in the Age of AI",
+          "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+          "published_at": "2026-10-27T06:25:37+00:00",
+          "text": "The Mythical Man-Month in the Age of AI（HN 436 points，讨论: https://news.ycombinator.com/item?id=50255298）",
+          "id": "aeb967c2830"
+        }
+      ]
+    },
+    {
+      "id": "e4cd4ee44e5",
+      "title": "DeepSeek 增加 5 家推理提供商",
+      "summary": "目前已有 5 家推理提供商支持被消灭的 DeepSeek。此举标志着该技术在市场上的进一步应用和扩展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "There are now 5 inference providers for abliterated DeepSeek",
+          "url": "https://allmodels.io/llm/abliterated",
+          "published_at": "2026-10-27T04:53:52+00:00",
+          "text": "There are now 5 inference providers for abliterated DeepSeek（HN 93 points，讨论: https://news.ycombinator.com/item?id=50254836）",
+          "id": "a4cd4ee44e5"
+        }
+      ]
+    },
+    {
+      "id": "ea581be76a5",
+      "title": "钛动科技发布Navos Pro AI产品",
+      "summary": "2026 TGC科技增长大会于广州召开，主题为“AI is Profitable”。钛动科技在会议上发布了行业首个Pro-Agent，Navos Pro，旨在定义结果导向的工作场景下的人工智能应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+          "url": "https://www.qbitai.com/2026/10/505580.html",
+          "published_at": "2026-10-27T03:23:55+00:00",
+          "text": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+          "id": "aa581be76a5"
+        }
+      ]
+    },
+    {
+      "id": "e858bf7d244",
+      "title": "OpenAI推出AI助手dots",
+      "summary": "OpenAI推出了名为dots的个人助手，旨在将其编码工具转变为始终在线的助手。负责该项目的高管Alexander Embiricos表示，他不希望与其他公司的AI代理进行会议。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "published_at": "2026-10-27T02:00:00+00:00",
+          "text": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+          "id": "a858bf7d244"
+        }
+      ]
+    },
+    {
+      "id": "e8cb333260a",
+      "title": "Check Point 利用 Daybreak 加速安全研究",
+      "summary": "Check Point 通过 OpenAI 的 Daybreak 加速了新安全保护的研究，使其分析师能够更快地将漏洞情报转化为客户的防御措施。此举提升了漏洞研究的效率，进一步增强了安全防护能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Check Point accelerates vulnerability research with Daybreak",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "published_at": "2026-10-27T00:00:00+00:00",
+          "text": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+          "id": "a8cb333260a"
+        }
+      ]
+    },
+    {
+      "id": "e444eadf940",
+      "title": "Anthropic 招股书：史上最大 IPO",
+      "summary": "Anthropic 公布了335页的招股书，标志着其即将进行史上最大规模的IPO。这家公司由7位联合创始人共同创立，依然控制着50.1%的总投票权，同时还被称为史上亏损最严重的AI公司。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+          "url": "https://www.qbitai.com/2026/10/505551.html",
+          "published_at": "2026-10-26T16:06:31+00:00",
+          "text": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+          "id": "a444eadf940"
+        }
+      ]
+    },
+    {
+      "id": "edbbfe80bb2",
+      "title": "中国 AI 泡沫破灭",
+      "summary": "中国的人工智能行业经历了泡沫破灭的现象。多个投资和创业项目受到影响，市场对 AI 技术的信心下降，导致资金链紧张。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "In China, the AI bubble has burst",
+          "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+          "published_at": "2026-10-26T15:50:54+00:00",
+          "text": "In China, the AI bubble has burst（HN 34 points，讨论: https://news.ycombinator.com/item?id=50245821）",
+          "id": "adbbfe80bb2"
+        }
+      ]
+    },
+    {
+      "id": "e16faca12f9",
+      "title": "Claude 与 GSA 合作扩展",
+      "summary": "Anthropic 宣布扩大与美国总务管理局（GSA）的合作，计划将其 AI 系统 Claude 引入政府各级层面。这一合作旨在提升政府工作效率，促进智能化服务的普及。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+          "published_at": "",
+          "text": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "id": "a16faca12f9"
+        }
+      ]
+    },
+    {
+      "id": "edddf43d553",
+      "title": "Google Genie 4 更新发布",
+      "summary": "Google 发布了 Genie 4 世界模型，支持生成更逼真的场景和音频。该模型可以保持一致场景长达两分钟，比之前的 Genie 3 模型的限制提升了一倍，并允许用户通过自然语言提示实时更新体验。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "published_at": "2026-10-27T16:30:57+00:00",
+          "text": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+          "id": "adddf43d553"
+        },
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s next Genie AI model generates more realistic experiences",
+          "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+          "published_at": "2026-10-27T16:00:00+00:00",
+          "text": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model. Google is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the … Read the full story at The Verge.",
+          "id": "a3513fbe8e9"
+        }
+      ]
+    },
+    {
+      "id": "e34370e88c8",
+      "title": "LLMs能否判断研究创意新颖性？",
+      "summary": "Hugging Face Blog发布了一篇文章，探讨了大型语言模型（LLMs）在评判研究创意是否新颖方面的可信度。文章分析了当前模型在此领域的局限性及潜在应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Can we trust LLMs to judge whether a research idea is novel?",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "published_at": "2026-10-27T16:12:42+00:00",
+          "text": "",
+          "id": "a34370e88c8"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 93,
+    "articles_new": 29,
+    "articles_filtered": 24,
+    "tokens": {
+      "prompt_tokens": 18420,
+      "completion_tokens": 2932
+    }
+  },
+  "mock": false
+}
