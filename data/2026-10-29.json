@@ -1,0 +1,430 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T09:59:44+08:00",
+  "briefing": "今日AI行业动态聚焦于跨领域合作和产品创新。谷歌发布新AI模型，显示其在网络安全方面的领先地位；微软与OpenAI合作收入破百亿美元，凸显商业合作的重要性；MicroZig则走出不同路线，坚持无AI策略，保护数据隐私。总体市场呈现多元发展趋势。",
+  "highlights": "今天的事件显示出AI行业的多元发展路径。谷歌和英伟达发布新模型，专注于提升技术能力；微软与OpenAI的合作进一步强化了AI在商业应用中的渗透力，而MicroZig的无AI政策则显示出对数据隐私保护的不同态度。这些各异的战略反映出市场对于AI前景的多种解读和探索。",
+  "events": [
+    {
+      "id": "e90b267becb",
+      "title": "微软与OpenAI合作收入达100亿美元",
+      "summary": "微软表示，截止至9月30日的季度内，其与OpenAI的商业合作带来了100亿美元的收入，这包括收入共享支付。这凸显了双方合作仍然存在着巨大的财务依赖。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n微软与OpenAI的合作收入达到100亿美元，显示了AI商业化的巨大潜力。\n\n### 为什么令人兴奋\n如此高的收入证明了AI商业化的潜力和价值，意味着市场需求巨大且不断增长。\n\n### 产品机会\n这将刺激更多企业间合作，开发出基于AI的创新商业解决方案。\n\n### 格局影响\n强化了OpenAI在AI市场的领导地位；也显示出微软通过合作进一步增强其AI能力的战略有效性。\n\n### 冷静判断\n收入数据表明市场接受度高，不过长期的营收持续性还有待观察。\n\n### 趋势坐标\n与近期其他大规模商业化合作相呼应，显示AI商业解决方案正在成为产业中的新常态。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "published_at": "2026-10-28T21:34:30+00:00",
+          "text": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+          "id": "a90b267becb"
+        }
+      ]
+    },
+    {
+      "id": "efc7d1d71bd",
+      "title": "Google发布Gemini 4 Carbon",
+      "summary": "谷歌推出了最新的Gemini 4 Carbon模型，宣称在编码、智能任务和网络安全方面取得了“显著进展”。该模型在人工智能分析指数（v5.0）基准测试中排名第一，超越Claude Opus 5.5和GPT-6 Astra。当前，该模型仅向部分网络安全防御公司提供，未来将扩展到Fairwind计划的其他合作伙伴。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n谷歌推出了Gemini 4 Carbon，提升了编码、智能任务和网络安全的能力。\n\n### 为什么令人兴奋\n该模型在人工智能分析指数中排名第一，超越现有顶级模型，标志着在关键性能指标上的突破。\n\n### 产品机会\n这可能会推动网络安全产品的创新，为企业提供更强大的保护措施。\n\n### 格局影响\n谷歌在AI领域的技术领先地位进一步稳固，这对开源和竞争对手都是一大挑战。\n\n### 冷静判断\n虽然官方测试指标表现优异，但实际生产中的应用效果仍需时间检验，预计几个月内开发者可以开始使用。\n\n### 趋势坐标\n印证了AI性能与网络安全高度集成的发展趋势，与近期Google在AI推广中的持续发力一致。",
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "published_at": "2026-10-28T20:03:00+00:00",
+          "text": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday , Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program . The company says Carbon reflects the \"pace at which we're pus … Read the full story at The Verge.",
+          "id": "afc7d1d71bd"
+        }
+      ]
+    },
+    {
+      "id": "e05a0d3d331",
+      "title": "MicroZig 实施严格的无 AI 政策",
+      "summary": "MicroZig 公布将采取严格的无 LLM/无 AI 政策，禁止在其产品和服务中使用任何形式的人工智能和大规模语言模型。这一政策旨在确保数据隐私和安全性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+          "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+          "published_at": "2026-10-29T00:30:37+00:00",
+          "text": "MicroZig to Adopt Strict No LLM / No AI Policy（HN 32 points，讨论: https://news.ycombinator.com/item?id=50282865）",
+          "id": "a05a0d3d331"
+        }
+      ]
+    },
+    {
+      "id": "ef348c6db37",
+      "title": "谷歌全球推广AI搜索广告",
+      "summary": "谷歌宣布将AI搜索广告推广至全球，此前母公司Alphabet发布了第三季度财报。财报显示，Alphabet的收入同比增长25%，达到1276亿美元。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google expands AI Search ads globally as core ad growth slows",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "published_at": "2026-10-28T21:48:37+00:00",
+          "text": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+          "id": "af348c6db37"
+        }
+      ]
+    },
+    {
+      "id": "e0676def789",
+      "title": "Google AI 对2020选举避而不谈",
+      "summary": "在被问及2020年美国总统选举的结果时，Google的人工智能表现得十分谨慎。该AI并未直接回答问题，引发了外界的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Google AI gets cagey when asked who won the 2020 elections",
+          "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+          "published_at": "2026-10-28T20:10:16+00:00",
+          "text": "Google AI gets cagey when asked who won the 2020 elections（HN 130 points，讨论: https://news.ycombinator.com/item?id=50280178）",
+          "id": "a0676def789"
+        }
+      ]
+    },
+    {
+      "id": "eb0da25ea6c",
+      "title": "Google DeepMind 发布 Gemini 4 Carbon",
+      "summary": "Google DeepMind 宣布推出其最新的前沿模型 Gemini 4 Carbon。该模型在增强人工智能能力方面具有显著的进步，预计将进一步推动 AI 技术的发展和应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "published_at": "2026-10-28T17:00:58+00:00",
+          "text": "",
+          "id": "ab0da25ea6c"
+        }
+      ]
+    },
+    {
+      "id": "e1e8ba9106e",
+      "title": "Google 打开 Gemini 和搜索平台",
+      "summary": "Google 向更多应用程序开放了 Gemini 和搜索，推出新的开发者平台。这一举措将使企业能够将其服务集成到 Google's AI 体验中，可能改变消费者发现和使用应用的方式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "text": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+          "id": "a1e8ba9106e"
+        }
+      ]
+    },
+    {
+      "id": "e97373eedda",
+      "title": "Dayjob: Tax 测评 AI 税务代理",
+      "summary": "Dayjob 对50个专业税务任务进行了评估，测试了AI代理在税务相关工作的表现。这项研究旨在了解AI在处理复杂税务情境中的能力和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+          "url": "https://surgehq.ai/blog/dayjob-tax",
+          "published_at": "2026-10-28T15:46:30+00:00",
+          "text": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments（HN 203 points，讨论: https://news.ycombinator.com/item?id=50275626）",
+          "id": "a97373eedda"
+        }
+      ]
+    },
+    {
+      "id": "ef1ebb512d4",
+      "title": "英伟达发布新语音转录模型",
+      "summary": "英伟达推出了一款免费的语音转文本模型，可以转录多达40种语言，但该模型仅适用于录音，不支持实时音频。这对会议和医疗转录工具是一个重要进展，同时实时使用仍由ElevenLabs等竞争对手主导。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+          "published_at": "2026-10-28T15:00:00+00:00",
+          "text": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+          "id": "af1ebb512d4"
+        }
+      ]
+    },
+    {
+      "id": "e7ae8eb2055",
+      "title": "NVIDIA Nemotron 3.5 发布",
+      "summary": "NVIDIA 推出了 Nemotron 3.5 和 Granary v2，这是一款智能多语言转录工具。用户可以通过提示自定义和适配其转录功能，以满足不同语言和场景的需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "published_at": "2026-10-28T14:58:17+00:00",
+          "text": "",
+          "id": "a7ae8eb2055"
+        }
+      ]
+    },
+    {
+      "id": "e1d10efda47",
+      "title": "Harvey 获 5 亿美元用于法律 AI",
+      "summary": "Harvey 公司为其法律 AI 产品募集了 5 亿美元资金。同时，一位开发者声称自己构建了相同的技术并进行了开源。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Harvey raised 500M for legal AI, I built the same and open sourced it",
+          "url": "https://github.com/thomasunise/casecite",
+          "published_at": "2026-10-28T13:56:21+00:00",
+          "text": "Harvey raised 500M for legal AI, I built the same and open sourced it（HN 69 points，讨论: https://news.ycombinator.com/item?id=50273623）",
+          "id": "a1d10efda47"
+        }
+      ]
+    },
+    {
+      "id": "e75e2017ed4",
+      "title": "OpenAI与ServiceNow深化合作",
+      "summary": "OpenAI与ServiceNow扩大合作，计划将OpenAI模型和智能代理集成到ServiceNow中，同时将ServiceNow工作流程引入ChatGPT和Codex。这一举措旨在提升企业工作流程的效率与自动化。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "published_at": "2026-10-28T13:15:00+00:00",
+          "text": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "id": "a75e2017ed4"
+        }
+      ]
+    },
+    {
+      "id": "e91ab09be69",
+      "title": "Sleep框架：LLM持续学习新方式",
+      "summary": "Sleep框架是一种新方法，旨在帮助大型语言模型（LLMs）在持续学习中保持知识。在这一框架中，引入了“睡眠”机制，以优化模型的知识保留，改善其学习能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "published_at": "2026-10-28T12:24:25+00:00",
+          "text": "Sleep framework: A new way for LLMs to retain knowledge in continual learning（HN 37 points，讨论: https://news.ycombinator.com/item?id=50272479）",
+          "id": "a91ab09be69"
+        }
+      ]
+    },
+    {
+      "id": "e6da995572c",
+      "title": "Meta推出AI宠物日记应用Waddle World",
+      "summary": "Meta推出了一款名为Waddle World的“宝可梦风格”宠物游戏，用户可以与虚拟生物对话并绘制涂鸦。该应用实际上是一个“伪装成宠物”的日记，鼓励用户通过语音与宠物交流，并提供如叠购物袋和字词游戏等轻松的互动。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+          "published_at": "2026-10-28T11:27:30+00:00",
+          "text": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games. The Play store description says: A little friend that listens. A cozy world that's yours. Waddle World is a cozy 16-bit world where your pixel pet lives. Hatch a virtual pet, visit whenever you like, and let it … Read the full story at The Verge.",
+          "id": "a6da995572c"
+        }
+      ]
+    },
+    {
+      "id": "e0dc3cf0b7c",
+      "title": "OpenAI：AI 在组织架构中的未来",
+      "summary": "OpenAI 博客探讨了人工智能如何融入组织结构，包括在员工之间、旁边或是下方的位置。文章深度分析了AI可能对公司运作方式的影响及其潜在角色。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "The future of the firm",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "published_at": "2026-10-28T10:00:00+00:00",
+          "text": "How AI might enter the org chart—beneath, beside, and between us.",
+          "id": "a0dc3cf0b7c"
+        }
+      ]
+    },
+    {
+      "id": "e41c97fe8dc",
+      "title": "Legora：法律工作的智能操作系统",
+      "summary": "Legora正在构建一个用于法律工作的代理操作系统。该系统利用OpenAI模型、ChatGPT和Codex，以加速法律工作流程、扩大合同分析，并让律师能够专注于更高价值的工作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora",
+          "published_at": "2026-10-28T09:30:00+00:00",
+          "text": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+          "id": "a41c97fe8dc"
+        }
+      ]
+    },
+    {
+      "id": "e6048886506",
+      "title": "蚂蚁百灵开源 Ling-3.1-flash-1019",
+      "summary": "10月28日，蚂蚁集团旗下的百灵大模型正式开源了Ling-3.1-flash-1019。此次开源标志着Personal Agent向真实任务的进一步发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+          "url": "https://www.qbitai.com/2026/10/505928.html",
+          "published_at": "2026-10-28T04:04:48+00:00",
+          "text": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
+          "id": "a6048886506"
+        }
+      ]
+    },
+    {
+      "id": "ead10900db6",
+      "title": "Anthropic News：AI for Science 扩展",
+      "summary": "Anthropic 的 AI for Science 项目已扩展至基础机构和研究机构。这一扩展旨在促进科学研究中的人工智能应用，为更多研究人员提供支持。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "AI for Science expands to foundations and research institutions",
+          "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+          "published_at": "",
+          "text": "AI for Science expands to foundations and research institutions",
+          "id": "aad10900db6"
+        }
+      ]
+    },
+    {
+      "id": "e13088c2d23",
+      "title": "纽约时报Cooking应用新增AI功能",
+      "summary": "纽约时报在其Cooking应用中添加了更多的AI功能。但用户对此并不满意。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+          "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+          "published_at": "2026-10-29T00:16:08+00:00",
+          "text": "New York Times adds more AI features to its Cooking app. Users aren't thrilled（HN 39 points，讨论: https://news.ycombinator.com/item?id=50282766）",
+          "id": "a13088c2d23"
+        }
+      ]
+    },
+    {
+      "id": "e2ede9b7f34",
+      "title": "Anthropic 推出AI支出透明工具",
+      "summary": "前沿实验室Anthropic推出了一款新工具，帮助企业了解他们在AI模型上的支出。此举正值其计划进行首次公开募股（IPO）之际。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "published_at": "2026-10-28T19:19:58+00:00",
+          "text": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+          "id": "a2ede9b7f34"
+        }
+      ]
+    },
+    {
+      "id": "e765a5a74d2",
+      "title": "Chrome AI 自动填充邮箱信息",
+      "summary": "Chrome 更新了自动填充功能，允许在用户许可的情况下，从 Gmail 中提取航班确认、快递信息和订单详情等信息，以便填充表单。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+          "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+          "published_at": "2026-10-28T17:00:00+00:00",
+          "text": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+          "id": "a765a5a74d2"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 84,
+    "articles_new": 21,
+    "articles_filtered": 24,
+    "tokens": {
+      "prompt_tokens": 16038,
+      "completion_tokens": 2369
+    }
+  },
+  "mock": false
+}
