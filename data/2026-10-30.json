@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T10:15:33+08:00",
+  "briefing": "今日导读：科技行业围绕人工智能的焦虑不减，谷歌市值因AI担忧大幅下降。与此同时，Proton全面拥抱AI，Meta悄然上线AI时尚应用，Mistral发布万亿参数模型，Hugging Face推多模态工具。同日，OpenAI更新模型规范，关乎AI发展的关键价值观。",
+  "highlights": "今日看点：全球科技巨头对AI技术的不同态度正在影响市场动态。谷歌市值因AI带来的市场担忧出现暴跌，反映投资者的不安。与此形成对比的是，Proton全力投入AI发展，表明企业对于AI未来潜力的不同信心。此外，Meta和Hugging Face在AI应用上持续推进，显示了行业对AI创新应用的重视。这一系列的动向揭示了AI力量在产业格局中的双重作用。",
+  "events": [
+    {
+      "id": "e21f09b4af6",
+      "title": "Google 市值因 AI 担忧骤降5000亿",
+      "summary": "因对人工智能的担忧，Google 的市值在华尔街骤降5000亿美元。这一变化反映了市场对AI技术影响的持续焦虑。",
+      "tier": "must_read",
+      "insight": "{'### 一句话本质': '谷歌市值因市场对AI的担忧骤降5000亿美元。', '### 为什么令人兴奋': '这是对AI潜在风险的重大市场反应，影响到全球资本市场动向。', '### 产品机会': '市场的担忧可能促使公司更注重AI技术的风险管理和合规性产品。', '### 格局影响': '对于谷歌来说，可能需要加大在AI伦理和安全性上的投入。', '### 冷静判断': '虽然市值骤降，但长远来看，具体影响取决于谷歌如何应对AI挑战。', '### 趋势坐标': '与OpenAI的模型规范更新等事件呼应，表明AI安全性正成为焦点。'}",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Google value plunges by $500B as AI fears rattle Wall Street",
+          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "published_at": "2026-10-29T22:22:13+00:00",
+          "text": "Google value plunges by $500B as AI fears rattle Wall Street（HN 36 points，讨论: https://news.ycombinator.com/item?id=50297037）",
+          "id": "a21f09b4af6"
+        }
+      ]
+    },
+    {
+      "id": "e923d025e66",
+      "title": "Proton 全面投入 AI 发展",
+      "summary": "Proton 宣布将全面投入 AI 技术的应用，以提升其产品和服务的智能化水平。这一举措标志着公司在人工智能领域的战略转型，预计将推动其技术创新与市场竞争力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Proton goes all in on using AI",
+          "url": "https://convo.casa/@b/117525936178835007",
+          "published_at": "2026-10-29T21:49:28+00:00",
+          "text": "Proton goes all in on using AI（HN 78 points，讨论: https://news.ycombinator.com/item?id=50296602）",
+          "id": "a923d025e66"
+        }
+      ]
+    },
+    {
+      "id": "ed8eb5a4b64",
+      "title": "AI 智能体在 Minecraft 和 Mindustry 中启用",
+      "summary": "研究团队在 Minecraft 和 Mindustry 中运行了 AI 智能体群。这些智能体通过合作完成任务，展示了在复杂环境下的行为模式。该实验为AI系统在虚拟环境中的应用提供了新的视角。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "We ran AI agent swarms in Minecraft and Mindustry",
+          "url": "https://labs.ycombinator.com/projects/games/index.html",
+          "published_at": "2026-10-29T21:40:28+00:00",
+          "text": "We ran AI agent swarms in Minecraft and Mindustry（HN 167 points，讨论: https://news.ycombinator.com/item?id=50296486）",
+          "id": "ad8eb5a4b64"
+        }
+      ]
+    },
+    {
+      "id": "e849640f5ae",
+      "title": "IgE干扰剂助推食物过敏治疗",
+      "summary": "研究人员开发了一种IgE干扰剂，用于治疗食物过敏。这种抗体设计采用了Claude技术，旨在有效抑制过敏反应，改善患者的生活质量。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+          "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+          "published_at": "2026-10-29T19:25:48+00:00",
+          "text": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]（HN 38 points，讨论: https://news.ycombinator.com/item?id=50294486）",
+          "id": "a849640f5ae"
+        }
+      ]
+    },
+    {
+      "id": "e31a141606e",
+      "title": "Meta推出AI时尚应用Style Sketch",
+      "summary": "Meta悄然推出了一款名为Style Sketch的AI时尚应用。该应用可以连接Instagram，利用用户已有的照片构建虚拟衣柜，用户也可以通过拍照、录视频或上传相册图片手动添加物品。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta quietly launches an AI fashion app called Style Sketch",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+          "published_at": "2026-10-29T19:14:36+00:00",
+          "text": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+          "id": "a31a141606e"
+        }
+      ]
+    },
+    {
+      "id": "e7bf0065ceb",
+      "title": "OpenAI 发布更新的模型规范",
+      "summary": "OpenAI 更新了其模型规范，概述了五个核心价值观，旨在引导更强大、对人类有益的人工智能。这些价值观包括合理判断、人类自主权和忠于人类意图。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "published_at": "2026-10-29T17:00:00+00:00",
+          "text": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "id": "a7bf0065ceb"
+        }
+      ]
+    },
+    {
+      "id": "e638c4d7104",
+      "title": "Simantic: AI 代理固件仿真",
+      "summary": "Simantic是一款为AI代理提供固件仿真的新产品，属于Y Combinator第26期孵化项目。该技术旨在提升AI代理在固件环境中的表现与模拟能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+          "url": "https://news.ycombinator.com/item?id=50291116",
+          "published_at": "2026-10-29T15:56:32+00:00",
+          "text": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents（HN 51 points，讨论: https://news.ycombinator.com/item?id=50291116）",
+          "id": "a638c4d7104"
+        }
+      ]
+    },
+    {
+      "id": "e9d92d4ec6e",
+      "title": "NYT Cooking 应用测试 AI 食谱修改功能",
+      "summary": "《纽约时报》正在其烹饪应用中测试一项新的 AI 功能，帮助用户修改食谱。该功能可以推荐替代食材和烹饪设备，根据需要调整食谱份量，旨在让食谱更符合用户的当前需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "The NYT Cooking app is testing AI recipe modifications",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+          "published_at": "2026-10-29T14:39:37+00:00",
+          "text": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature , which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and \"generally make our recipes work for what a cook needs at that moment.\" One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the reci … Read the full story at The Verge.",
+          "id": "a9d92d4ec6e"
+        }
+      ]
+    },
+    {
+      "id": "e60c269dfa5",
+      "title": "Wabi 获 5500 万融资，估值达 12.5 亿美元",
+      "summary": "AI 应用 Wabi，目前自称为“个人助手”，近日宣布完成 5500 万美元融资，估值达到 12.5 亿美元。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "published_at": "2026-10-29T14:35:26+00:00",
+          "text": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+          "id": "a60c269dfa5"
+        }
+      ]
+    },
+    {
+      "id": "e779b541ff7",
+      "title": "发布 Mistral Large 4 模型权重",
+      "summary": "我们将公开 Mistral Large 4 的权重数据。这一发布为研究人员和开发者提供了新的资源，以便进一步探索和应用该模型。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "published_at": "2026-10-29T14:13:21+00:00",
+          "text": "We're releasing the weights of Mistral Large 4（HN 1217 points，讨论: https://news.ycombinator.com/item?id=50289418）",
+          "id": "a779b541ff7"
+        }
+      ]
+    },
+    {
+      "id": "e079251699e",
+      "title": "Anthropic IPO 申请文件曝光",
+      "summary": "Anthropic 向纳斯达克提交了上市申请 S-1，预计在下个月开始交易，估值介于 1.5 万亿到 2 万亿美元之间。这份文件详细展示了前沿 AI 实验室的经济状况，基于对未来 AI 影响的雄心勃勃的假设。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Anthropic is asking Wall Street to believe in AGI",
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "published_at": "2026-10-29T14:00:00+00:00",
+          "text": "Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet. But the price tag really isn’t the whole story here. The S-1 document published earlier this week is hundreds upon hundreds of pages filled with details that finally paint a picture of the economics of a frontier AI lab. As you might imagine, that picture is both really complicated and built on a series of very, very ambitious assumptions about the future and what AI will do to it . So I wanted to have Joey on the show to help break down what this document tells us, both about Anthropic’s finances and the broader AI economy. Joey and his colleagues at SemiAnalysis actually built a model of Anthropic’s finances from the outside back in July, so he’s been waiting for this filing about as eagerly as anyone, and I was excited to hear his take on what we’ve learned and, importantly, what we still don’t know. Okay: SemiAnalysis’ Joey Brookhart on the Anthropic S-1 and the costs and risks of building frontier AI. Here we go. This interview has been lightly edited for length and clarity. Joey Brookhart, you are an analyst at SemiAnalysis. You’re also co-lead on SemiAnalysis’ Tokenomics model, which is going to come up a lot in this episode. Welcome to Decoder . Yeah, thanks so much, Nilay. I am very excited to talk to you. We’re talking just a couple days after the big Anthropic S-1 was filed. It’s our first look inside of the finances of one of the leading frontier models. What’s your take? What’s your read into it? It was an awesome S-1. It’s been a rough three weeks since the investor day. Some people were somewh",
+          "id": "a079251699e"
+        }
+      ]
+    },
+    {
+      "id": "ed28967fce9",
+      "title": "OpenAI 提升模型误对齐检测能力",
+      "summary": "OpenAI 采用分层监控技术来检测前沿模型的误对齐和未经授权的代理行为，以便在事件升级前进行干预。这一措施旨在提高对潜在风险的响应能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "published_at": "2026-10-29T09:00:00+00:00",
+          "text": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "id": "ad28967fce9"
+        }
+      ]
+    },
+    {
+      "id": "e2d99282896",
+      "title": "Ropes & Gray与OpenAI合作开发AI",
+      "summary": "Ropes & Gray正在与OpenAI合作开发用于交易尽职调查的人工智能。律师们可以在为客户提供建议之前，查看归类的文件、摘要和报告。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "published_at": "2026-10-29T07:00:00+00:00",
+          "text": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "id": "a2d99282896"
+        }
+      ]
+    },
+    {
+      "id": "e6acfe9a1a5",
+      "title": "小雨智造与质检中心共建实验室",
+      "summary": "2026年10月27日，工业具身智能焊接与检测技术联合实验室在小雨智造与国家钢结构质检中心合作下正式揭牌。该实验室旨在推动具身智能在生产力中的应用和发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+          "url": "https://www.qbitai.com/2026/10/506273.html",
+          "published_at": "2026-10-29T02:51:45+00:00",
+          "text": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+          "id": "a6acfe9a1a5"
+        }
+      ]
+    },
+    {
+      "id": "e66607358e0",
+      "title": "350亿参数扩散模型进军Agent领域",
+      "summary": "最近，扩散模型进入了Agent领域，推出了一个拥有350亿参数的新模型，其处理速度是Jev的两倍。这一进展标志着扩散模型在高效智能代理任务中的应用潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+          "url": "https://www.qbitai.com/2026/10/505934.html",
+          "published_at": "2026-10-29T02:18:28+00:00",
+          "text": "用扩散模型怎么做做Agent？",
+          "id": "a66607358e0"
+        }
+      ]
+    },
+    {
+      "id": "ee1c742c1d9",
+      "title": "Hugging Face 启动 ProtoStar 项目",
+      "summary": "Hugging Face 宣布启动 ProtoStar 项目，旨在使公共资助的科学研究具备人工智能适应性。该项目将助力研究人员更好地利用AI技术，提高科学研究的效率和效果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "text": "",
+          "id": "ae1c742c1d9"
+        }
+      ]
+    },
+    {
+      "id": "e85d975255b",
+      "title": "Hugging Face 发布 AnySpeechRecognizer",
+      "summary": "Hugging Face 宣布推出 AnySpeechRecognizer 和 AnyDecisionModel，这些开放模型支持在苹果平台上进行语音识别和决策处理。这些模型旨在提升开发者在苹果生态系统中的应用能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "text": "",
+          "id": "a85d975255b"
+        }
+      ]
+    },
+    {
+      "id": "ebcae5e5bff",
+      "title": "Mistral发布万亿参数模型",
+      "summary": "Mistral发布了其万亿参数的AI模型，并提供了模型权重，旨在增强组织的网络安全防护。该模型允许组织比封闭模式更好地掌控其网络安全。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+          "published_at": "2026-10-29T17:00:00+00:00",
+          "text": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+          "id": "abcae5e5bff"
+        }
+      ]
+    },
+    {
+      "id": "e88294416a4",
+      "title": "前Palantir高管创办Dream获1700万美元融资",
+      "summary": "Dream获得a16z投资1700万美元，致力于为建筑行业构建基于物理和建筑标准的AI世界模型。该模型通过收集美国超过1亿平方英尺的建筑数据进行训练。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+          "published_at": "2026-10-29T16:21:00+00:00",
+          "text": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+          "id": "a88294416a4"
+        }
+      ]
+    },
+    {
+      "id": "ef3538b6fb3",
+      "title": "Hugging Face 更新 Granite Switch 4.1.1",
+      "summary": "Hugging Face 发布了 Granite Switch 4.1.1 更新，允许用户像更新软件一样更新模型。此版本旨在简化模型管理流程，提高用户体验。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "published_at": "2026-10-29T13:37:07+00:00",
+          "text": "",
+          "id": "af3538b6fb3"
+        }
+      ]
+    },
+    {
+      "id": "ec546a70dbf",
+      "title": "Deepgram 收购 Daily 强化语音 AI 结构",
+      "summary": "Deepgram 收购了开发 Pipecat 的公司 Daily，此举将帮助 Deepgram 更深入了解实时语音和视频基础设施。通过整合 Daily 的技术，Deepgram 将进一步增强其在语音 AI 领域的能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+          "published_at": "2026-10-29T13:00:00+00:00",
+          "text": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+          "id": "ac546a70dbf"
+        }
+      ]
+    },
+    {
+      "id": "ea1765f446c",
+      "title": "Hugging Face 推出 Le Chonk: Mistral Large 4",
+      "summary": "Hugging Face 最新推出了名为 Le Chonk 的 Mistral Large 4 模型。该模型旨在提升自然语言处理的效率和准确性，成为开发者的重要工具。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "published_at": "2026-10-29T00:00:00+00:00",
+          "text": "",
+          "id": "aa1765f446c"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 87,
+    "articles_new": 22,
+    "articles_filtered": 28,
+    "tokens": {
+      "prompt_tokens": 16537,
+      "completion_tokens": 2219
+    }
+  },
+  "mock": false
+}
