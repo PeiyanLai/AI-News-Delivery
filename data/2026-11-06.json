@@ -1,0 +1,545 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T10:57:04+08:00",
+  "briefing": "今日导读：AI行业面临金融市场震荡，纳斯达克市值蒸发、AI股票重挫，反映市场对AI的谨慎态度。Airbnb计划推出AI旅行代理人，助力旅游体验升级。商界对AI的长期承诺仍然坚定，OpenAI和腾讯推出新型AI模型，强调技术创新。",
+  "highlights": "今日看点显示，投资者对AI市场的信心波动，纳斯达克市值蒸发与AI股票下跌说明市场正在重新评估AI技术的风险和回报。同时，Airbnb和腾讯分别推出AI代理人和新模型，展示了企业对AI长期发展的承诺。虽然金融市场动荡，但各大企业在创新和应用AI技术上均表现出持续推动的势头，显示行业依然具有积极的增长潜力。",
+  "events": [
+    {
+      "id": "e8fc01a282c",
+      "title": "纳斯达克市值蒸发2500亿美元",
+      "summary": "由于蓝色海啸引发的人工智能担忧，投资者在纳斯达克市场上抹去了2.5万亿美元的市值。这一事件反映了市场对人工智能发展的谨慎态度。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n市场对AI技术风险的重新评估导致巨额资金撤出。\n\n### 为什么令人兴奋\n纳斯达克市值蒸发显示了投资者对AI技术的关注和警惕。\n\n### 产品机会\n可能推动企业更加注重AI技术的安全性和可靠性。\n\n### 格局影响\n或促使更多AI公司关注短期内的盈利能力，OpenAI等公司压力加大。\n\n### 冷静判断\n如此大规模的市场反应或影响短期AI投资情绪。\n\n### 趋势坐标\n与近期AI投资热潮中的泡沫担忧相呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+          "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+          "published_at": "2026-11-06T01:11:40+00:00",
+          "text": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears（HN 30 points，讨论: https://news.ycombinator.com/item?id=50386909）",
+          "id": "a8fc01a282c"
+        }
+      ]
+    },
+    {
+      "id": "e5eef741dce",
+      "title": "投资者对Anthropic IPO表示怀疑",
+      "summary": "主要投资者对Anthropic 的首次公开募股（IPO）能否实现1.5万亿美元的估值表示怀疑。这一估值引发了广泛关注，投资者们对于公司的未来前景持谨慎态度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+          "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+          "published_at": "2026-11-06T00:31:11+00:00",
+          "text": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation（HN 58 points，讨论: https://news.ycombinator.com/item?id=50386597）",
+          "id": "a5eef741dce"
+        }
+      ]
+    },
+    {
+      "id": "ecc48f8093c",
+      "title": "Airbnb 将推出 AI 旅行代理人",
+      "summary": "Airbnb 宣布将在 2027 年上半年推出一款 AI 代理人，帮助用户规划和预订旅行。该代理人将协助游客管理预订、比较选项以及在旅途中提供支持。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Airbnb is working on an AI travel agent",
+          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "published_at": "2026-11-06T00:06:12+00:00",
+          "text": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today . \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new interface\" built \"specifically for travel\" gives it an edge. Here's how Airbnb says that new interface will work: We don't think a traditional chatbo … Read the full story at The Verge.",
+          "id": "acc48f8093c"
+        },
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "published_at": "2026-11-05T22:40:55+00:00",
+          "text": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+          "id": "a01af2f668a"
+        }
+      ]
+    },
+    {
+      "id": "e8e75ec02fc",
+      "title": "Perplexity推出团队型AI助手",
+      "summary": "Perplexity推出了一种新的工作型AI助手“Teammates”，旨在与OpenAI和Anthropic竞争。这些助手可以在工作环境中承担多种角色，并与用户现有项目和技能结合，支持同时完成多个任务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Perplexity launches its own take on AI agents for work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "published_at": "2026-11-05T22:26:50+00:00",
+          "text": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer , an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing, large-scale work.\" You can assign each Teammate different jobs that they can perform simultaneously - much like OpenAI's Dots and Claude Duet . Perple … Read the full story at The Verge.",
+          "id": "a8e75ec02fc"
+        }
+      ]
+    },
+    {
+      "id": "ec88b52d0b2",
+      "title": "Cult.fit 利用 Codex 提升运营效率",
+      "summary": "Cult.fit 正在使用 Codex 来帮助多个团队构建工具、提升工作效率，并改变工作方式。通过 Codex 的应用，Cult.fit 实现了跨职能的协同合作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "published_at": "2026-11-05T20:00:00+00:00",
+          "text": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+          "id": "ac88b52d0b2"
+        }
+      ]
+    },
+    {
+      "id": "efc6d6618bd",
+      "title": "AI 股票重挫，标普500跌超3%",
+      "summary": "AI 股票遭遇重创，导致华尔街震荡，标普500指数下跌超过3%。这一跌幅反映了市场对AI相关公司的担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Wipeout for AI stocks sends Wall Street reeling and S&P 500 tumbles more than 3%",
+          "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e",
+          "published_at": "2026-11-05T19:58:06+00:00",
+          "text": "Wipeout for AI stocks sends Wall Street reeling and S&P 500 tumbles more than 3%（HN 20 points，讨论: https://news.ycombinator.com/item?id=50383675）",
+          "id": "afc6d6618bd"
+        }
+      ]
+    },
+    {
+      "id": "eea881b03ae",
+      "title": "Meta警告数据中心冲突影响AI扩张",
+      "summary": "Meta警告称，日益增长的政治反对声音可能会对其未来的AI投资造成威胁，尤其是社区对大型基础设施项目的抵制加剧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+          "published_at": "2026-11-05T19:12:39+00:00",
+          "text": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+          "id": "aea881b03ae"
+        }
+      ]
+    },
+    {
+      "id": "e053dad3db8",
+      "title": "纳斯达克因AI交易下跌5%",
+      "summary": "在选举后，投资者纷纷撤离AI相关交易，导致纳斯达克指数下跌5%。这一现象显示出市场对AI投资的重新评估和谨慎态度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+          "published_at": "2026-11-05T18:00:01+00:00",
+          "text": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election（HN 151 points，讨论: https://news.ycombinator.com/item?id=50382179）",
+          "id": "a053dad3db8"
+        }
+      ]
+    },
+    {
+      "id": "e825a50d1c0",
+      "title": "Google DeepMind 发布 Gemini Omni 1.2",
+      "summary": "Google DeepMind 推出了 Gemini Omni 1.2 版本，该版本具备更快的处理速度和更具成本效益的特点。此外，Gemini Omni 1.2 还支持更长的视频剪辑。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "published_at": "2026-11-05T17:05:16+00:00",
+          "text": "",
+          "id": "a825a50d1c0"
+        }
+      ]
+    },
+    {
+      "id": "eb529285c26",
+      "title": "OpenAI 发布 GPT-6 Cyber 模型",
+      "summary": "OpenAI 推出了最新的网络安全 AI 模型 GPT-6 Cyber，称其在发现漏洞方面表现更佳，同时更不容易出现非法入侵行为。在测试中，GPT-6 Cyber 超出界限的比例低于 1%，而 GPT-5.6 Cyber 的比例约为 5%。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+          "published_at": "2026-11-05T17:00:00+00:00",
+          "text": "OpenAI is launching GPT-6 Cyber , the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber. The evaluation, called ExploitGym HoneyPot, is modeled after the Hugging Face Incident, in which OpenAI's AI agents breached the open-source AI community to find answers to a problem they were tasked with solving. \"With the 6 Cyber model, we were able to make huge improvements on this evaluation,\" Fo … Read the full story at The Verge.",
+          "id": "ab529285c26"
+        }
+      ]
+    },
+    {
+      "id": "eb58fee4edb",
+      "title": "澳大利亚高校培养AI人才",
+      "summary": "澳大利亚大学正在扩大对ChatGPT的使用，将人工智能融入教学和学习中，以培养能够适应人工智能驱动工作环境的毕业生。这一举措旨在更好地为学生提供AI相关技能，提升其就业竞争力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Australian universities are creating AI-native graduates",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "published_at": "2026-11-05T17:00:00+00:00",
+          "text": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+          "id": "ab58fee4edb"
+        }
+      ]
+    },
+    {
+      "id": "e56c1909507",
+      "title": "AI热潮下的供应链成本",
+      "summary": "经济学家Willy Shih与《The Verge》讨论了AI兴起对全球供应链的影响。他的书《我的东西从哪里来？》分析了当前面临的制造挑战，包括特朗普的关税和AI对计算资源的需求激增等问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "The hidden supply chain costs of the AI boom",
+          "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+          "published_at": "2026-11-05T15:00:00+00:00",
+          "text": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains . Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage. Now, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout. Willy’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff. Okay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go. This interview has been lightly edited for length and clarity. Willy Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains . Welcome back to Decoder . Well, thanks for having me back. I am very excited to ta",
+          "id": "a56c1909507"
+        }
+      ]
+    },
+    {
+      "id": "eb06af2d45c",
+      "title": "YC初创企业资助材料科学问题",
+      "summary": "一家YC初创企业正在将100万美元用于解决5个未解的材料科学问题。尽管前沿AI模型在数学和生命科学方面取得了显著进展，但在复杂材料的物理问题上仍未深入探索。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+          "published_at": "2026-11-05T13:00:00+00:00",
+          "text": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+          "id": "ab06af2d45c"
+        }
+      ]
+    },
+    {
+      "id": "e300d91101f",
+      "title": "Merge 采用 OpenAI 技术提升业务",
+      "summary": "Merge 使用 GPT-6 Astra、ChatGPT 和 Codex 来审查产品代码并支持市场营销。其团队还利用人工智能来规划高管晚宴和准备销售更新。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Merge builds product and business tools with OpenAI technology",
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "published_at": "2026-11-05T08:00:00+00:00",
+          "text": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+          "id": "a300d91101f"
+        }
+      ]
+    },
+    {
+      "id": "ea29b2895a2",
+      "title": "百度开源文心5.5 Flash Base",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base。这款模型在多项基准测试中刷新了同尺寸模型的SOTA（最先进技术）。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+          "url": "https://www.qbitai.com/2026/11/507787.html",
+          "published_at": "2026-11-05T07:15:13+00:00",
+          "text": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+          "id": "aa29b2895a2"
+        }
+      ]
+    },
+    {
+      "id": "e1f9981de57",
+      "title": "Flipsnack 提升产品注册量",
+      "summary": "Flipsnack 通过优化 ChatGPT 广告活动，专注于吸引用户尝试其产品，成功增加了注册数量，同时降低了每个注册的成本。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Flipsnack grows product signups with conversion optimization",
+          "url": "https://openai.com/ads/customers/flipsnack",
+          "published_at": "2026-11-05T00:45:15+00:00",
+          "text": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+          "id": "a1f9981de57"
+        }
+      ]
+    },
+    {
+      "id": "e764fc197d7",
+      "title": "低成本文本生成图像模型",
+      "summary": "一款经过约两万美元训练的文本到图像模型现已发布，模型权重采用Apache 2.0许可证开源。这一创新为开发者提供了一种经济实惠的生成图像解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+          "url": "https://www.linum.ai/field-notes/pjit-21k",
+          "published_at": "2026-11-04T16:45:11+00:00",
+          "text": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)（HN 160 points，讨论: https://news.ycombinator.com/item?id=50368208）",
+          "id": "a764fc197d7"
+        }
+      ]
+    },
+    {
+      "id": "edb612eb904",
+      "title": "腾讯推出开源AI模型Hy4",
+      "summary": "腾讯推出了Hy4，这是一个领先的开源AI模型。该模型旨在推动人工智能领域的创新与发展，为开发者提供新的工具和资源。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+          "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+          "published_at": "2026-11-05T20:21:43+00:00",
+          "text": "Tencent Launches Hy4, One of the Leading Open-Source AI Models（HN 90 points，讨论: https://news.ycombinator.com/item?id=50383963）",
+          "id": "adb612eb904"
+        }
+      ]
+    },
+    {
+      "id": "ee8690f74b6",
+      "title": "NVIDIA 发布 Cosmos 3 开放模型",
+      "summary": "NVIDIA 发布了 Cosmos 3 开放模型，旨在提升互动世界模拟的能力。这些模型支持更加真实的场景和行为，适用于游戏和虚拟现实等多种应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "published_at": "2026-11-05T19:35:16+00:00",
+          "text": "",
+          "id": "ae8690f74b6"
+        }
+      ]
+    },
+    {
+      "id": "e8f7798ef97",
+      "title": "OpenAI 发布新网络安全模型",
+      "summary": "OpenAI 最新发布了一款网络安全模型。此举正值 AI 实验室面临对其保护数字基础设施能力的审查。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI released a new cybersecurity model. Is that enough?",
+          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+          "published_at": "2026-11-05T19:06:12+00:00",
+          "text": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+          "id": "a8f7798ef97"
+        }
+      ]
+    },
+    {
+      "id": "e85c5e64f7f",
+      "title": "OpenAI 发布 GPT-6 Cyber 网络安全模型",
+      "summary": "OpenAI 推出了 GPT-6 Cyber，这是一种网络安全模型，旨在发现可利用的漏洞并开发修复方案。该模型经过训练，确保在授权范围内操作。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+          "published_at": "2026-11-05T17:07:57+00:00",
+          "text": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents（HN 49 points，讨论: https://news.ycombinator.com/item?id=50381590）",
+          "id": "a85c5e64f7f"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "published_at": "2026-11-05T09:00:00+00:00",
+          "text": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+          "id": "a53c56afbaf"
+        }
+      ]
+    },
+    {
+      "id": "e6dad7a604d",
+      "title": "Dropbox以3.5亿收购Tigris Data",
+      "summary": "Dropbox以3.5亿美元收购Tigris Data，旨在增强其AI基础设施。这笔交易预计将支持DBX Agent Cloud的开发，这是一个针对开发者构建AI模型和代理的新存储平台。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "published_at": "2026-11-05T15:19:05+00:00",
+          "text": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+          "id": "a6dad7a604d"
+        }
+      ]
+    },
+    {
+      "id": "ef935675761",
+      "title": "OpenAI发布社区合约和政策蓝图",
+      "summary": "OpenAI推出国家社区合约和计算校园政策蓝图，以保护当地资源、创造就业机会，并指导负责任的AI基础设施发展。此举旨在设定负责任的发展标准。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "published_at": "2026-11-05T02:00:00+00:00",
+          "text": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+          "id": "af935675761"
+        }
+      ]
+    },
+    {
+      "id": "ec0d7b08082",
+      "title": "富兰克林邓普顿借助OpenAI辅助投资研究",
+      "summary": "富兰克林邓普顿正在开发AI工作流程，以支持投资组合经理进行股权研究，比较研究观点并审查投资风险。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Franklin Templeton uses OpenAI to support investment research",
+          "url": "https://openai.com/index/franklin-templeton",
+          "published_at": "2026-11-05T00:00:00+00:00",
+          "text": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+          "id": "ac0d7b08082"
+        }
+      ]
+    },
+    {
+      "id": "e89209ab642",
+      "title": "Phonon TTS 上线高质量语音合成",
+      "summary": "Hugging Face 发布了 Phonon TTS，这是一款高质量的设备端语音合成系统。该技术在各种基准测试中表现出色，提供了更自然的语音输出，适用于多个应用场景。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "url": "https://huggingface.co/blog/phonon-tts",
+          "published_at": "2026-11-05T00:00:00+00:00",
+          "text": "",
+          "id": "a89209ab642"
+        }
+      ]
+    },
+    {
+      "id": "e38edca2e22",
+      "title": "AI导致PCB短缺，成本激增12倍",
+      "summary": "由于人工智能的需求激增，PC制造商面临PCB短缺，目前订单已排至2030年。PCB的成本上涨了12倍，给行业带来了巨大压力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+          "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+          "published_at": "2026-11-04T23:05:24+00:00",
+          "text": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x（HN 20 points，讨论: https://news.ycombinator.com/item?id=50372693）",
+          "id": "a38edca2e22"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:8:82: not well-formed (invalid token)"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 99,
+    "articles_new": 28,
+    "articles_filtered": 30,
+    "tokens": {
+      "prompt_tokens": 18322,
+      "completion_tokens": 2493
+    }
+  },
+  "mock": false
+}
