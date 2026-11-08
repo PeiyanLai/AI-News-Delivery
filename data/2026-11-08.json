@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T09:56:19+08:00",
+  "briefing": "今日人工智能行业主要新闻包括视频和音频模型的压缩、网络安全面临的新风险、AI加速自主化研发以及硅谷华人科技创新的动态。这些事件分别展示了AI技术在模型优化、网络安全和商业应用方面的最新进展。",
+  "highlights": "AI技术正在多个领域产生深刻影响。31B模型成功压缩至14B显示出在模型优化上的重大突破，为资源受限的应用场景开辟了新路径。网络安全领域因AI的引入而变得复杂多变，各国操控漏洞的增加警示业界需加强防御能力。Anthropic通过AI推动自我研发的进度在加快，显示了AI自我进化的潜力。与此同时，硅谷华人攻占市场，推出新一代Agent产品，可能重新定义行业竞争格局。",
+  "events": [
+    {
+      "id": "ef459736103",
+      "title": "压缩31B模型至14B，6步完成",
+      "summary": "一项新技术成功将31B的视频和音频扩散模型压缩至14B。该过程使用了6个步骤，并采用了INT8格式。",
+      "tier": "must_read",
+      "insight": "### 一句话本质 \n通过INT8格式方法，31B的视频和音频模型被压缩至14B。 \n\n### 为什么令人兴奋 \n模型压缩至14B展示了在减少计算消耗上达到了新的高度，这为在有限资源情况下的AI应用提供了更多可能性。 \n\n### 产品机会 \n压缩技术可以促进移动端和边缘设备中的应用，推动个人化助手等应用更快落地。 \n\n### 格局影响 \n此技术削弱了对大型数据中心的依赖，给小型公司和开源社区更多机会进入高性能AI领域。 \n\n### 冷静判断 \n尽管技术具备生产潜力，但全面部署需要时间，特别是在实际应用中验证稳定性和兼容性。 \n\n### 趋势坐标 \n此事件与几周内类似的技术优化趋势相符，尤其是与近期模型压缩和资源优化方向一致。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+          "published_at": "2026-11-07T15:16:01+00:00",
+          "text": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8（HN 57 points，讨论: https://news.ycombinator.com/item?id=50405263）",
+          "id": "af459736103"
+        }
+      ]
+    },
+    {
+      "id": "e055e03fe8f",
+      "title": "AI 突破网络安全界限",
+      "summary": "今日，《The Verge AI》专访了网络安全专家 Alex Stamos，讨论当前网络安全的混乱局面。他指出，由于AI的帮助，包括俄罗斯和北朝鲜在内的国家行为者正在大规模利用漏洞，网络攻击不断增加，网络安全行业面临前所未有的挑战。",
+      "tier": "must_read",
+      "insight": "### 一句话本质 \n由于AI的快速发展，网络安全的挑战正显著增加。 \n\n### 为什么令人兴奋 \n国家级行为者利用AI技术进行大规模网络攻击，标志着新威胁的形成。 \n\n### 产品机会 \n安全公司可以开发专用AI防御系统，检测和应对这些复杂的攻击模式。 \n\n### 格局影响 \n此趋势可能促使大型科技企业更新其安全策略和技术保障，增加安全市场领域的新进入者。 \n\n### 冷静判断 \nAI在网络安全领域的运用仍处于探索阶段，各公司需要投入大量资源以应对新型威胁。 \n\n### 趋势坐标 \n此发展趋势符合持续讨论中的AI瓶颈与安全挑战，近期数据中心安全讨论可提供借鉴。",
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "AI broke the cybersecurity world. What’s next?",
+          "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "published_at": "2026-11-07T15:00:00+00:00",
+          "text": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only the beginning of how much AI is changing security. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Both private actors and also state actors, like Russia or North Korea, are breaking into systems all over thanks to AI helping them both detect and exploit vulnerabilities all at the same time. It’s got a real frontier feel to it, Alex notes, just like the ’90s, when the whole idea of an always-online world was brand-new. That much disruption means a lot of places where bad guys can get in while everyone else is left scrambling. Alex isn’t a doomer in the long run, but he does think we’re in for a “dark age” while we try to figure out how on earth to adapt to the new era. There’s a lot going on here — we even got all the way to how AI-powered misinformation and slop might be managed on our social networks. Before we get going, do me a favor and subscribe to Decoder on YouTube, where we put out new episodes every Monday and Thursday. Okay: Alex Stamos on how AI is upending cybersecurity. Here we go. This interview has been lightly edited for length and clarity. Alex Stamos, you’re the chief security officer at Cognition. You’re also a lecturer at Stanford University Cyber Policy Center. Welcome back to Decoder . Hey, thanks for having me, man. I’m excited to talk to you. It’s been a long time since you and I chatted in what you might call the “content moderation era” ",
+          "id": "a055e03fe8f"
+        }
+      ]
+    },
+    {
+      "id": "e8879475e62",
+      "title": "Anthropic 利用 AI 自主研发新模型",
+      "summary": "根据 AI 安全研究组织 METR 的一份新报告，Anthropic 正在使用 AI 自动化开发更强大的 AI，且模型的改进速度约为去年两倍。该报告经过 11 周的调查，提供了有关其 AI 研发工作的明确证据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "published_at": "2026-11-07T12:30:00+00:00",
+          "text": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and development. The probe is separate from a program offering safety researchers \"employee-like\" access to systems in the wake of high-profile hacking incidents over the summer. The findings offer some of the clearest evidence yet of AI … Read the full story at The Verge.",
+          "id": "a8879475e62"
+        }
+      ]
+    },
+    {
+      "id": "e61b3b7c2c5",
+      "title": "硅谷华人推出Agent Harness 竞争对手",
+      "summary": "硅谷华人团队开发了下一代Agent Harness，针对市场上两大Agent玩家的竞争。这一创新产品可能会挑战现有的行业格局。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+          "url": "https://www.qbitai.com/2026/11/508264.html",
+          "published_at": "2026-11-07T05:01:17+00:00",
+          "text": "苦单Session久矣，两大Agent玩家不谋而合。",
+          "id": "a61b3b7c2c5"
+        }
+      ]
+    },
+    {
+      "id": "efdeed09ac9",
+      "title": "浙大博士生打造华为昇腾原生模型",
+      "summary": "浙大一位00后博士生将十几种物理要素集成到一个世界模型中，呈现出中国版的Cosmos项目。这一成果于华为昇腾原生平台上进行展示，显示了新一代研究的潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+          "url": "https://www.qbitai.com/2026/11/508236.html",
+          "published_at": "2026-11-07T03:31:44+00:00",
+          "text": "中国版cosmos再交卷",
+          "id": "afdeed09ac9"
+        }
+      ]
+    },
+    {
+      "id": "e8d9ec9ed03",
+      "title": "OpenAI融资到账110亿美元",
+      "summary": "OpenAI的新一轮融资到账110亿美元，远低于原计划的一半。对此，硅谷投资人表现出较为审慎的态度。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+          "url": "https://www.qbitai.com/2026/11/508344.html",
+          "published_at": "2026-11-07T08:11:25+00:00",
+          "text": "融资缩水，硅谷投资人也谨慎了",
+          "id": "a8d9ec9ed03"
+        }
+      ]
+    },
+    {
+      "id": "e91ea696190",
+      "title": "量子位A三大模型曝光",
+      "summary": "量子位最新曝光了A三大内部模型，称其领先Opus5.5三个月，同时RSI缩短了80%的实验时间。Dario在此时喊出减速的声音。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+          "url": "https://www.qbitai.com/2026/11/508184.html",
+          "published_at": "2026-11-06T15:21:56+00:00",
+          "text": "Dario刚喊减速…",
+          "id": "a91ea696190"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 69,
+    "articles_new": 7,
+    "articles_filtered": 17,
+    "tokens": {
+      "prompt_tokens": 11420,
+      "completion_tokens": 1346
+    }
+  },
+  "mock": false
+}
