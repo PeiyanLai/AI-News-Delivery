@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T10:11:56+08:00",
+  "briefing": "今日导读：OpenAI成功融资110亿美元，估值达1.25万亿；苹果CEO施压加速Siri AI发展。与此同时，Anthropic达成34亿美元的数据中心合作协议，旨在应对可持续发展挑战。同时，资本逐渐撤离“世界模型”项目，反映出对其前景的担忧。这些事件展示了AI发展的多方面动态。",
+  "highlights": "今日看点：OpenAI再度融资110亿美元，进一步巩固其在人工智能领域的地位，同时估值达到1.25万亿，表明资本市场对它的强烈信心。苹果则在AI领域采取更积极的策略，推进Siri的功能升级，以提升竞争力。Anthropic则通过一项数据中心合作，着眼于在满足计算需求和可持续发展间取得平衡。与此同时，资本市场对“世界模型”项目的信心下降，提示我们在高风险技术投资上须更加谨慎。总的来看，AI行业正在经历一个充满活力与挑战的时期，各大公司都磨砺着自己的竞争武器。",
+  "events": [
+    {
+      "id": "eea31161d46",
+      "title": "OpenAI 融资 110 亿美元估值 1.25 万亿",
+      "summary": "OpenAI 宣布成功融资 110 亿美元，估值达到 1.25 万亿。这一轮融资将进一步推动其在人工智能领域的发展。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI完成了新一轮巨额融资，将进一步推动AI技术的创新和应用。\n\n### 为什么令人兴奋\n这次融资规模巨大，刷新了之前的记录，预示着AI技术领域的进一步繁荣发展。\n\n### 产品机会\n充裕的资金使OpenAI可以更积极地扩展其产品线，开发出更高效和智能的AI解决方案。\n\n### 格局影响\nOpenAI的持续成长对竞争对手构成压力，可能促使其他公司加快其AI战略部署。\n\n### 冷静判断\n资金到位后，预计会有一段建设期，重要技术突破可能需要数月甚至更长时间才会呈现。\n\n### 趋势坐标\n继续印证了AI领域融资活动的高热度，与近期Hugging Face及其他公司的融资活动相呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+          "published_at": "2026-11-08T14:49:23+00:00",
+          "text": "OpenAI raises $11B at a $1.25T valuation（HN 181 points，讨论: https://news.ycombinator.com/item?id=50413822）",
+          "id": "aea31161d46"
+        }
+      ]
+    },
+    {
+      "id": "e53044e44b3",
+      "title": "苹果加速Siri AI开发",
+      "summary": "彭博社的马克·古尔曼报道，苹果CEO约翰·特纳斯正在施压AI负责人克雷格·费德里希，加快Siri的发展路线图。预计在未来几个月内，Siri将获得两个重大改进，包括对苹果自家应用程序的细粒度控制。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Apple is racing to make Siri more agentic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "published_at": "2026-11-08T19:18:19+00:00",
+          "text": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals. Two significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple's first-party apps, allowing it to do things like rotate and crop images in Photos and organize Safari tabs. Those capabilities are expected to … Read the full story at The Verge.",
+          "id": "a53044e44b3"
+        }
+      ]
+    },
+    {
+      "id": "e34520e7f74",
+      "title": "苹果CEO推动AI战略升级",
+      "summary": "苹果首席执行官要求软件部门负责人追求更具雄心的人工智能战略，以提升公司的技术竞争力。目前尚无具体的计划细节，但此举表明苹果在AI领域的追求正在加速。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "published_at": "2026-11-08T15:19:51+00:00",
+          "text": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy（HN 34 points，讨论: https://news.ycombinator.com/item?id=50414021）",
+          "id": "a34520e7f74"
+        }
+      ]
+    },
+    {
+      "id": "ed4758dafd3",
+      "title": "Anthropic 达成34亿美元协议",
+      "summary": "Anthropic 与相关方达成了一项价值34亿美元的协议，计划为数据中心生成天然气发电。这项合作旨在满足不断增长的计算需求，同时应对可持续发展的挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "published_at": "2026-11-08T12:41:25+00:00",
+          "text": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres（HN 39 points，讨论: https://news.ycombinator.com/item?id=50412760）",
+          "id": "ad4758dafd3"
+        }
+      ]
+    },
+    {
+      "id": "ee4a9449a7d",
+      "title": "资本撤离“世界模型”项目",
+      "summary": "近期，多个投资机构开始减少对“世界模型”（World Models）项目的资金投入，显示出对该领域的信心下降。业内人士指出，这一变化可能源于对技术成熟度和市场前景的担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "资本正在撤离“世界模型”",
+          "url": "https://www.qbitai.com/2026/11/508466.html",
+          "published_at": "2026-11-08T04:09:55+00:00",
+          "text": "没有永远的夏天",
+          "id": "ae4a9449a7d"
+        }
+      ]
+    },
+    {
+      "id": "ee66f4eeac8",
+      "title": "告别 Claude，迎接 Pi",
+      "summary": "一款名为 Pi 的新人工智能产品正式推出，取代了先前的 Claude。该产品旨在为用户提供更为先进的 AI 体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Goodbye Claude, hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "published_at": "2026-11-08T03:11:48+00:00",
+          "text": "Goodbye Claude, hello Pi（HN 703 points，讨论: https://news.ycombinator.com/item?id=50410107）",
+          "id": "ae66f4eeac8"
+        }
+      ]
+    },
+    {
+      "id": "ea78801b830",
+      "title": "高盛将停用Claude Code",
+      "summary": "高盛宣布将停止向其银行家和交易员提供Claude Code。这一决定表明该公司在技术应用方面的调整，可能影响其交易策略和服务。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "published_at": "2026-11-08T18:16:07+00:00",
+          "text": "Goldman Sachs is pulling Claude Code from its bankers and traders（HN 611 points，讨论: https://news.ycombinator.com/item?id=50415628）",
+          "id": "aa78801b830"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 43,
+    "articles_new": 7,
+    "articles_filtered": 11,
+    "tokens": {
+      "prompt_tokens": 10912,
+      "completion_tokens": 1090
+    }
+  },
+  "mock": false
+}
