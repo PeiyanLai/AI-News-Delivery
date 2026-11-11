@@ -1,0 +1,564 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T10:21:11+08:00",
+  "briefing": "今日导读：法律、科技、AI领域齐头并进，Gilbert + Tobin利用AI重塑法律服务，Apple简化本地AI模型，Oura收购AI初创公司，推动医疗科技，新的Mac应用与TPU芯片发布标志着本地化与硬件新潮流。",
+  "highlights": "今日看点：Apple推出的支持本地AI模型的新Mac应用和谷歌发布的新TPU芯片，表明大科技公司正在加速发展本地化AI计算能力，这可能是对数据隐私和计算效率需求的回应；同时，Oura收购AI医疗初创公司Counsel Health，意味着科技公司正着力进军医疗保健领域，结合最近AI对自由职业和商业代理功能的影响，可以看出AI在多个行业的渗透加深，驱动着行业间的重塑与创新。",
+  "events": [
+    {
+      "id": "ef28f90d289",
+      "title": "Gilbert + Tobin 利用 AI 重塑法律行业",
+      "summary": "Gilbert + Tobin 的首席执行官 Sam Nickless 在采访中讨论了如何通过 AI 技术重新思考法律业务。他强调了 AI 对提高法律服务效率和降低成本的潜力。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nGilbert + Tobin 正在使用 AI 改进法律业务流程，提高效率并降低成本。\n\n### 为什么令人兴奋\n法律行业传统上对技术采用较慢，这一变革展示了 AI 巨大的提升效率和降低法律服务成本的潜力。\n\n### 产品机会\n产生了对AI辅助法律服务平台的新需求，或许会出现法律工作自动化工具。\n\n### 格局影响\n传统法律服务的护城河可能被侵蚀，法律科技创业公司的窗口期可能正在开启。\n\n### 冷静判断\n目前更多是概念验证阶段，广泛应用可能需要更多时间来适应和验证其合规性。\n\n### 趋势坐标\n这一趋势与全球技术向各传统行业渗透的潮流一致。",
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "text": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "id": "af28f90d289"
+        }
+      ]
+    },
+    {
+      "id": "e168143ea42",
+      "title": "Apple 推出新 Mac 应用支持本地 AI 模型",
+      "summary": "Apple 将推出一款新的 Mac 应用，旨在简化本地 AI 模型的运行。这款应用将帮助用户更方便地部署和使用人工智能模型。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nApple发布新Mac应用，简化本地AI模型的运行。\n\n### 为什么令人兴奋\n这是Apple加强其设备上AI运算能力和隐私保护的标志性动作，降低用户使用AI的门槛。\n\n### 产品机会\n有助于开发新型本地AI应用，特别是在隐私敏感领域，如健康和私人数据分析。\n\n### 格局影响\n苹果的硬件带AI支持能力增强，可能削弱云计算依赖，打动隐私重视的用户群体。\n\n### 冷静判断\n作为一种新功能，尚需时间观察其实际应用效果和性能表现。\n\n### 趋势坐标\n这是对硬件公司通过本地AI处理增强用户体验的趋势的有力验证。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Apple has new Mac app coming to make running local AI models easy",
+          "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+          "published_at": "2026-11-10T21:25:03+00:00",
+          "text": "Apple has new Mac app coming to make running local AI models easy（HN 109 points，讨论: https://news.ycombinator.com/item?id=50446520）",
+          "id": "a168143ea42"
+        }
+      ]
+    },
+    {
+      "id": "efe6d70a180",
+      "title": "Oura收购AI初创公司Counsel Health",
+      "summary": "Oura宣布以6.25亿美元收购AI原生初级保健初创公司Counsel Health。此交易发生在Oura将其最高22亿美元的IPO无限期推迟之后，原因是对IPO市场的不确定性。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOura 宣布收购 AI 医疗初创公司 Counsel Health。\n\n### 为什么令人兴奋\n此举将 AI 结合于可穿戴设备，代表着医疗科技的极大创新契机及其市场潜力。\n\n### 产品机会\n可开发更智能的健康监控与管理产品，促进数字健康服务的精准化及个性化。\n\n### 格局影响\nOura 扩展了其在个人健康领域的领导地位，打破传统医疗保健产品的市场格局。\n\n### 冷静判断\n虽然组合潜力巨大，但需时间验证技术整合后实际的用户接受度和疗效。\n\n### 趋势坐标\n呼应科技公司进军健康领域的趋势，与Apple和Google在健康科技上的投入形式一致。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "published_at": "2026-11-10T19:23:34+00:00",
+          "text": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+          "id": "afe6d70a180"
+        }
+      ]
+    },
+    {
+      "id": "e91faed0650",
+      "title": "纽约AI安全法生效，需登记和报告",
+      "summary": "纽约即将实施全面的AI安全法，要求像OpenAI和Anthropic这样的主要开发者进行注册、披露安全实践，并报告重要事件，否则将面临罚款。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "published_at": "2026-11-10T20:52:13+00:00",
+          "text": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+          "id": "a91faed0650"
+        }
+      ]
+    },
+    {
+      "id": "e2800935556",
+      "title": "PSI 利用 AI 推动科学发现",
+      "summary": "PSI 使用了一种尚未发布的 Anthropic 模型，解答了科学家们近二十年来对于量子计算的一个基本问题。这一尝试表明，AI 在科学研究中的潜在应用价值。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+          "published_at": "2026-11-10T19:03:52+00:00",
+          "text": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+          "id": "a2800935556"
+        }
+      ]
+    },
+    {
+      "id": "e3588ceed41",
+      "title": "AI对自由职业的影响研究",
+      "summary": "OpenAI和Upwork的最新研究显示，自由职业工作需求正在发生变化，新的技能组合正在出现。此外，AI相关项目的预算和工作时间也在增加。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Work at the Frontier: AI's effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "published_at": "2026-11-10T18:02:54+00:00",
+          "text": "Work at the Frontier: AI's effect on freelance work（HN 36 points，讨论: https://news.ycombinator.com/item?id=50443838）",
+          "id": "a3588ceed41"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Work at the Frontier: AI’s effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "published_at": "2026-11-10T07:00:00+00:00",
+          "text": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+          "id": "a3588ceed41"
+        }
+      ]
+    },
+    {
+      "id": "e7396b577c7",
+      "title": "ChatGPT 推出认证商业代理功能",
+      "summary": "ChatGPT 将推出认证的“商业代理”功能，让用户与品牌代表进行对话，以帮助进行比较购物。该功能将首先在美国的符合条件的电子商务和在线服务企业中推出，用户可以就企业的产品和服务进行询问。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "ChatGPT is getting verified AI ‘Business Agents’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "published_at": "2026-11-10T18:00:00+00:00",
+          "text": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta . You can start talking with a Business Agent if a business that has created one appears in a response from ChatGPT. While chatting with a custom agent, you can ask about a business's offerings and ask follow-up questions, like asking about differences between two different products. Businesses can specify a Busi … Read the full story at The Verge.",
+          "id": "a7396b577c7"
+        }
+      ]
+    },
+    {
+      "id": "eec3f910d2a",
+      "title": "Anthropic 推出 AI 办公套件",
+      "summary": "Anthropic 最近在旧金山发布了全新的 AI 办公工具套件，旨在为非技术工作者提供便利。这套工具包括 Claude Meetings、Claude Sheets 和 Claude W，帮助用户处理会议、头脑风暴和数据分析等任务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Anthropic has its own AI-powered office suite now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+          "published_at": "2026-11-10T17:30:00+00:00",
+          "text": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies . Earlier this year, Claude Code went through its own particular hype cycle . And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools. At an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-technical workers who spend a lot of time attending meetings, brainstorming new ideas, and analyzing metrics: Claude Meetings, Claude Sheets, and Claude W … Read the full story at The Verge.",
+          "id": "aec3f910d2a"
+        }
+      ]
+    },
+    {
+      "id": "e0b2e1c02de",
+      "title": "Gemini 4 Carbon 发布",
+      "summary": "Google DeepMind 最近推出了 Gemini 4 Carbon，这是一款新的人工智能模型。该模型在多个基准测试中表现优异，显示出其强大的处理能力和应用潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "published_at": "2026-11-10T16:03:47+00:00",
+          "text": "",
+          "id": "a0b2e1c02de"
+        }
+      ]
+    },
+    {
+      "id": "e5ef445c1e8",
+      "title": "谷歌推出新款TPU专用芯片",
+      "summary": "谷歌推出了两款新的张量处理单元（TPU），旨在拓宽其芯片产品组合。这些新芯片支持机密模型训练并具备更大的内存容量。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "published_at": "2026-11-10T15:54:08+00:00",
+          "text": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+          "id": "a5ef445c1e8"
+        }
+      ]
+    },
+    {
+      "id": "e0504529861",
+      "title": "Meta AI助手Muse上线智能手表",
+      "summary": "Meta的AI助手Muse现已可以在Apple Watch和Android Wear OS上使用。用户可以通过语音通话、短信或口述与Muse进行互动。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+          "published_at": "2026-11-10T15:29:30+00:00",
+          "text": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+          "id": "a0504529861"
+        }
+      ]
+    },
+    {
+      "id": "ed10ce5761f",
+      "title": "Adobe发布Photoshop和Premiere新AI工具",
+      "summary": "Adobe在Photoshop、Premiere和Firefly中引入了AI代理和新的创意工具。同时，Adobe在Firefly中推出了新的原型构建工具，以与Figma竞争。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+          "published_at": "2026-11-10T14:05:10+00:00",
+          "text": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+          "id": "ad10ce5761f"
+        }
+      ]
+    },
+    {
+      "id": "e8443aece1f",
+      "title": "一键压缩 LLM 可减至 50MB RAM",
+      "summary": "一款新工具可以将任何大型语言模型（LLM）以近乎无损的方式压缩三倍，并且仅需在 50MB RAM 内运行。用户只需点击一下，即可完成这一过程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+          "url": "https://neuracryption.com/research",
+          "published_at": "2026-11-10T13:51:51+00:00",
+          "text": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM（HN 34 points，讨论: https://news.ycombinator.com/item?id=50440359）",
+          "id": "a8443aece1f"
+        }
+      ]
+    },
+    {
+      "id": "e6719652bbf",
+      "title": "Anthropic IPO 估值达1.3万亿",
+      "summary": "人工智能公司Anthropic计划在首次公开募股（IPO）中寻求1.3万亿美元的估值。这一估值反映了公司在AI领域的增长潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic to Seek $1.3T Valuation in IPO",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+          "published_at": "2026-11-10T12:49:32+00:00",
+          "text": "Anthropic to Seek $1.3T Valuation in IPO（HN 59 points，讨论: https://news.ycombinator.com/item?id=50439616）",
+          "id": "a6719652bbf"
+        }
+      ]
+    },
+    {
+      "id": "e428ac4b42c",
+      "title": "谷歌 DeepMind 发布 AlphaProof Code",
+      "summary": "谷歌 DeepMind 推出了 AlphaProof Code，这是一种突破性的复杂软件验证工具。该工具的代理编写了三百万行 Lean 证明，以验证 Signal 的核心加密。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "published_at": "2026-11-10T12:02:28+00:00",
+          "text": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+          "id": "a428ac4b42c"
+        }
+      ]
+    },
+    {
+      "id": "e46ecb159c1",
+      "title": "OpenAI 向护工提供 AI 研讨会",
+      "summary": "OpenAI Academy 正在美国五个城市为护工提供免费的 ChatGPT 研讨会，帮助他们掌握实用的 AI 技能，以便在日常生活中使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "published_at": "2026-11-10T12:00:00+00:00",
+          "text": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+          "id": "a46ecb159c1"
+        }
+      ]
+    },
+    {
+      "id": "e85a32fe124",
+      "title": "Anthropic 启动上市路演",
+      "summary": "Anthropic 公司已启动其首次公开募股（IPO）的路演。这一举措标志着其向资本市场迈出的重要一步，准备向投资者展示其业务潜力和发展战略。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic launches roadshow for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/roadshow-launch",
+          "published_at": "2026-11-10T11:38:57+00:00",
+          "text": "Anthropic launches roadshow for proposed initial public offering（HN 31 points，讨论: https://news.ycombinator.com/item?id=50438891）",
+          "id": "a85a32fe124"
+        },
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Anthropic launches roadshow for proposed initial public offering",
+          "url": "https://www.anthropic.com/news/roadshow-launch",
+          "published_at": "",
+          "text": "Anthropic launches roadshow for proposed initial public offering",
+          "id": "a85a32fe124"
+        }
+      ]
+    },
+    {
+      "id": "e5ca4dc7b6d",
+      "title": "ChatGPT 新增企业管理功能",
+      "summary": "OpenAI 在其博客中宣布，ChatGPT 现已支持企业信息管理功能。用户可以获取业务展示的洞察，并将兴趣转化为行动。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing Businesses in ChatGPT",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "published_at": "2026-11-10T10:00:00+00:00",
+          "text": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+          "id": "a5ca4dc7b6d"
+        }
+      ]
+    },
+    {
+      "id": "e01a8528fa1",
+      "title": "OpenAI 推动教育领域 AI 指引",
+      "summary": "OpenAI 发布了关于教育领域使用人工智能的新研究，强调了支持教师、提升 AI 识字率和促进独立学习的重要性。该研究基于 ThinkYoung 的调查，以及 OpenAI 在欧洲、中东和非洲的教育合作经验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "published_at": "2026-11-10T09:00:00+00:00",
+          "text": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+          "id": "a01a8528fa1"
+        }
+      ]
+    },
+    {
+      "id": "e3872694bbd",
+      "title": "蚂蚁灵波开源LingBot-Touch",
+      "summary": "11月10日，蚂蚁灵波科技推出了开源触觉基础模型LingBot-Touch。该模型标志着从“一脑多机”向“一脑多手”的技术进步。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+          "url": "https://www.qbitai.com/2026/11/508996.html",
+          "published_at": "2026-11-10T07:57:45+00:00",
+          "text": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+          "id": "a3872694bbd"
+        }
+      ]
+    },
+    {
+      "id": "e3fca741465",
+      "title": "openJiuwen发布TTSE框架",
+      "summary": "量子位报道，openJiuwen正式推出TTSE经验学习框架，标志着Agent自演进进入“双轨时代”。该框架设计旨在将每一次任务转化为下一次进步的基础，从而提升学习效率和智能决策能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+          "url": "https://www.qbitai.com/2026/11/508998.html",
+          "published_at": "2026-11-10T07:56:29+00:00",
+          "text": "让每一次任务，都成为下一次进步的起点",
+          "id": "a3fca741465"
+        }
+      ]
+    },
+    {
+      "id": "eecb9cbad4a",
+      "title": "TensorWorld融资过亿美金",
+      "summary": "成立仅四个月的TensorWorld物原科技，在一个月内成功获得超过一亿美元的融资。该公司致力于实现“物理真实”路线。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+          "url": "https://www.qbitai.com/2026/11/508991.html",
+          "published_at": "2026-11-10T07:50:26+00:00",
+          "text": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+          "id": "aecb9cbad4a"
+        }
+      ]
+    },
+    {
+      "id": "e518bcaaf99",
+      "title": "达卯科技与浦东环保能源合作",
+      "summary": "达卯科技与浦东环保能源达成战略合作，启动黎明智算中心算电协同平台。该合作旨在加速东部城市型智算中心向E-AIDC的演进，提升区域内的计算与电力协同效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+          "url": "https://www.qbitai.com/2026/11/508985.html",
+          "published_at": "2026-11-10T07:33:19+00:00",
+          "text": "加速东部城市型智算中心向E-AIDC演进",
+          "id": "a518bcaaf99"
+        }
+      ]
+    },
+    {
+      "id": "e1a803f206d",
+      "title": "蚂蚁灵波开源触觉机器人",
+      "summary": "蚂蚁灵波宣布开源其新型机器人LingBot-Touch，该机器人具备通用手感技术。此技术使机器人能够更好地感知和互动，提高了其在轻触操作中的灵敏度和精确性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Token卷到触觉了！机器人终于有了通用手感",
+          "url": "https://www.qbitai.com/2026/11/508919.html",
+          "published_at": "2026-11-10T07:26:53+00:00",
+          "text": "蚂蚁灵波开源LingBot-Touch",
+          "id": "a1a803f206d"
+        }
+      ]
+    },
+    {
+      "id": "e724fae9251",
+      "title": "Hugging Face Hub 支持 Google Cloud 账户支付",
+      "summary": "Hugging Face 宣布用户可以使用 Google Cloud 账户支付 Hugging Face Hub 的相关费用。这一改变将简化用户的支付流程，提升平台的易用性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "text": "",
+          "id": "a724fae9251"
+        }
+      ]
+    },
+    {
+      "id": "e3229de0d91",
+      "title": "Hugging Face 推出决策模型",
+      "summary": "Hugging Face 发布了决策模型（Decision Models），旨在提升在不确定性环境中的决策能力。这些模型可以处理多种输入数据，支持不同类型的输出，有助于用户在复杂场景中作出更精准的决策。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
+          "published_at": "2026-11-10T00:00:00+00:00",
+          "text": "",
+          "id": "a3229de0d91"
+        }
+      ]
+    },
+    {
+      "id": "ea98763b80c",
+      "title": "Gemini Robotics 2.5 提升机器人灵巧性",
+      "summary": "Google DeepMind 推出了 Gemini Robotics 2.5，这是其最新的视觉-语言-动作模型，旨在提高机器人在现实世界中的灵巧性、可靠性和安全性。该模型的增强能力使机器人能够更好地执行复杂任务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "published_at": "2026-11-09T19:51:47+00:00",
+          "text": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "id": "aa98763b80c"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 103,
+    "articles_new": 29,
+    "articles_filtered": 42,
+    "tokens": {
+      "prompt_tokens": 18140,
+      "completion_tokens": 2783
+    }
+  },
+  "mock": false
+}
