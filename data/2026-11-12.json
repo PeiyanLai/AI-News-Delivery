@@ -1,0 +1,525 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:29:01+08:00",
+  "briefing": "今日导读：大型语言模型工具探讨进一步揭示模型灵魂，CoreWeave推行客户预付款策略影响AI市场定价，Fractile在专用AI芯片融资中成为领先者，OpenAI季度收入创新高，行业变局在即。",
+  "highlights": "今日看点：OpenAI季度收入激增和Fractile的巨额融资显示AI领域的商业化步伐加快，同时CoreWeave的预付款策略反映了市场的不确定性和成本压力。现代网络指导1.0的发布表明网络平台专业化进一步深入，预示未来更高效的Web开发环境。以上事件共同提示AI行业在技术与商业模式上正快速进化，但也面临新的挑战与机遇。",
+  "events": [
+    {
+      "id": "e17ada74eff",
+      "title": "大型语言模型的工具探讨",
+      "summary": "一项研究介绍了探索大型语言模型（Large Language Models）内部机制的工具，这些工具旨在揭示模型的“灵魂”。该研究为理解模型的决策过程提供了新的视角，通过这些工具，研究人员能够更好地分析和解释模型的输出。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n介绍探索大型语言模型内部机制的新工具，揭示了这些模型的决策过程和输出分析。\n\n### 为什么令人兴奋\n为研究者和开发者深入理解和优化大型语言模型提供了新的方法，增强模型解读能力。\n\n### 产品机会\n有可能促使新型语言模型工具和分析应用的诞生，提高产品透明度和可靠性。\n\n### 格局影响\n对所有使用或开发LLM的玩家都有重大意义，可能导致对模型训练和优化策略的重新评估。\n\n### 冷静判断\n当前工具对研究人员有益，但实际商业应用的转化速度可能更为缓慢。\n\n### 趋势坐标\n与AI模型解释性和透明性需求增长的趋势相呼应，为近期AI技术应用的可信度提升提供了支持。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Tools for exploring the souls of large language models",
+          "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+          "published_at": "2026-11-11T20:45:50+00:00",
+          "text": "Tools for exploring the souls of large language models（HN 39 points，讨论: https://news.ycombinator.com/item?id=50458434）",
+          "id": "a17ada74eff"
+        }
+      ]
+    },
+    {
+      "id": "e29f521837a",
+      "title": "OpenAI季度收入首次超亿美元",
+      "summary": "OpenAI 在本季度的收入超过了 100 亿美元，创下新纪录。这一销售额较第二季度的 67 亿美元增长了近 50%。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI本季度收入首次超过100亿美元，标志着其商业化进程的巨大成功。\n\n### 为什么令人兴奋\n这反映了AI市场需求的强劲增长，特别是在提供复杂AI服务和产品方面的的出色表现。\n\n### 产品机会\n可望推动更多AI应用和工具的开发，特别是在消费级和企业级市场中加速创新步伐。\n\n### 格局影响\n进一步巩固了OpenAI在AI领跑者的地位，对竞争者形成更大的压力，也可能加速行业整合。\n\n### 冷静判断\n高收入代表了强劲的市场接受度，但也需关注未来收入可持续性和运营成本控制。\n\n### 趋势坐标\n印证了AI服务的逐渐普及和商业化趋势，与之前周内多个大型AI融资事件相呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "published_at": "2026-11-11T16:14:44+00:00",
+          "text": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+          "id": "a29f521837a"
+        }
+      ]
+    },
+    {
+      "id": "e4710c9847b",
+      "title": "现代网络指导 1.0 发布",
+      "summary": "Modern Web Guidance 1.0 是一项新工具，旨在为编码代理提供缺失的网络平台专业知识。这一版本包含了针对开发者的实用指导，提升了其在 web 开发中的能力和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
+          "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
+          "published_at": "2026-11-11T23:22:29+00:00",
+          "text": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing（HN 22 points，讨论: https://news.ycombinator.com/item?id=50460398）",
+          "id": "a4710c9847b"
+        }
+      ]
+    },
+    {
+      "id": "ec063829a61",
+      "title": "CoreWeave 转向客户预付款",
+      "summary": "CoreWeave 在第三季度财报中表示，公司正在越来越多地要求客户提前付款，同时借用特定合同融资，并探索短期合同以应对 AI 增长。这可能导致价格上升。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "published_at": "2026-11-11T19:54:00+00:00",
+          "text": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+          "id": "ac063829a61"
+        }
+      ]
+    },
+    {
+      "id": "eefe4ef3463",
+      "title": "激光武器 AI 潜艇机器人巡逻挪威养殖场",
+      "summary": "激光武器配备的 AI 潜艇机器人正在挪威的三文鱼养殖场巡逻，主要任务是消灭海虱。这些机器人通过使用激光技术有效地控制海虱的数量，以保护鱼类的健康和养殖业的生产。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice",
+          "url": "https://www.tomshardware.com/tech-industry/drones/3-500-ai-laser-robots-patrol-norwegian-salmon-farms-killing-sea-lice-parasites-get-zapped-by-high-tech-alternative-to-harsh-chemical-baths",
+          "published_at": "2026-11-11T18:44:23+00:00",
+          "text": "Laser-armed AI submarine robots patrol Norwegian salmon farms, killing sea lice（HN 29 points，讨论: https://news.ycombinator.com/item?id=50456926）",
+          "id": "aefe4ef3463"
+        }
+      ]
+    },
+    {
+      "id": "e62504a285b",
+      "title": "AWS模拟器与工程师职位变动",
+      "summary": "AWS推出了一款新的模拟器，旨在让开发者在本地环境中测试和运行AWS服务。在这一过程中，工程师的角色面临转变，尤其是当智能代理能够自动编写代码时。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AWS Emulator and the engineer's job when agents write the code",
+          "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+          "published_at": "2026-11-11T18:28:31+00:00",
+          "text": "AWS Emulator and the engineer's job when agents write the code（HN 111 points，讨论: https://news.ycombinator.com/item?id=50456740）",
+          "id": "a62504a285b"
+        }
+      ]
+    },
+    {
+      "id": "e05f97f1db3",
+      "title": "AI在软件工程中的应用与成果",
+      "summary": "一项关于AI在软件工程中的应用活动及其结果的研究引起了广泛关注。研究表明，AI技术正逐步改变软件开发流程，提高工程师的工作效率和输出质量。相关讨论深入探讨了AI对软件开发未来的影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI, activity, and outcomes in software engineering",
+          "url": "https://cabird.com/talks/shipping-faster/",
+          "published_at": "2026-11-11T16:33:28+00:00",
+          "text": "AI, activity, and outcomes in software engineering（HN 107 points，讨论: https://news.ycombinator.com/item?id=50455332）",
+          "id": "a05f97f1db3"
+        }
+      ]
+    },
+    {
+      "id": "e7d4c517a68",
+      "title": "Databricks 新 AI 助手 Genie 上线",
+      "summary": "Databricks 在其员工数量达到 12,000 的时刻推出了新版本的 Genie AI 助手。CEO Ali Ghodsi 承认由于员工人数众多，他无法了解每个人的情况，因此依靠 Genie 来获取真实反馈，帮助他了解公司运营中的问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+          "published_at": "2026-11-11T15:00:00+00:00",
+          "text": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+          "id": "a7d4c517a68"
+        }
+      ]
+    },
+    {
+      "id": "e41a3cad87c",
+      "title": "一键压缩 LLM 体积 3 倍",
+      "summary": "一款新工具可以在一次点击内将任何大型语言模型（LLM）压缩至原来体积的三分之一，且在内存使用上保持接近无损，运行时仅需不到 50MB 的 RAM。该工具旨在提高大型模型的效率和可用性，为开发者提供更灵活的使用选项。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM",
+          "url": "https://github.com/NeuraCryption/SPECTRA",
+          "published_at": "2026-11-11T07:39:12+00:00",
+          "text": "Compress any LLM 3x in one click, near-lossless, in under 50 MB RAM（HN 22 points，讨论: https://news.ycombinator.com/item?id=50450729）",
+          "id": "a41a3cad87c"
+        }
+      ]
+    },
+    {
+      "id": "e2d013ee6fa",
+      "title": "罗永浩直播演示TRAE AI Coding",
+      "summary": "在双11直播间，罗永浩现场演示了TRAE，展示了其AI编程功能。该产品通过降低价格和技术门槛，使更多用户能够轻松体验AI编程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+          "url": "https://www.qbitai.com/2026/11/509146.html",
+          "published_at": "2026-11-11T06:41:26+00:00",
+          "text": "价格、门槛全打穿",
+          "id": "a2d013ee6fa"
+        }
+      ]
+    },
+    {
+      "id": "ebc334f28ad",
+      "title": "大模型厂商天猫促销活动",
+      "summary": "11月11日，大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder在天猫进行促销活动，所有产品均打5折。此举旨在吸引更多用户体验其大模型技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+          "url": "https://www.qbitai.com/2026/11/509085.html",
+          "published_at": "2026-11-11T06:18:09+00:00",
+          "text": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+          "id": "abc334f28ad"
+        }
+      ]
+    },
+    {
+      "id": "eb22522d14a",
+      "title": "BotPsy：新型个人助手发布",
+      "summary": "Hugging Face 发布了 BotPsy，一款基于不到十亿参数的自主语言模型的移动个人助手。该助手旨在为用户提供个性化的帮助，支持在设备上运行，增强隐私保护。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "published_at": "2026-11-11T05:01:16+00:00",
+          "text": "",
+          "id": "ab22522d14a"
+        }
+      ]
+    },
+    {
+      "id": "e019cc9ec16",
+      "title": "Fractile获7.2亿美元融资",
+      "summary": "英国公司Fractile在为专用AI芯片的竞争中，完成了7.2亿美元的融资。这使其成为在该领域获得资金最多的参与者之一。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "published_at": "2026-11-11T19:34:55+00:00",
+          "text": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+          "id": "a019cc9ec16"
+        }
+      ]
+    },
+    {
+      "id": "e8e4104a923",
+      "title": "Gemini Decisions API 发布",
+      "summary": "Gemini Decisions API 正式发布，为用户提供决策支持的工具。该 API 能够帮助企业在数据驱动的环境中做出更智能的决策，提高运营效率和准确性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "published_at": "2026-11-11T18:32:42+00:00",
+          "text": "Gemini Decisions API（HN 302 points，讨论: https://news.ycombinator.com/item?id=50456791）",
+          "id": "a8e4104a923"
+        }
+      ]
+    },
+    {
+      "id": "e2d8f602ac5",
+      "title": "Google推出Tabletop AI协作工具",
+      "summary": "Google推出了一款名为Tabletop的实验性AI工具，旨在帮助用户生成定制的协作中心以便于与家人和朋友协调。用户可以通过描述生成个性化的互动工具，例如储蓄跟踪器、家务图表和活动计划等，简化任务管理和协作过程。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+          "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+          "published_at": "2026-11-11T16:00:00+00:00",
+          "text": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing them, such as savings trackers, chore charts, event plans, and more. \"Just add in your links, files and ideas, then prompt @tabletop - or pick a starter template - to generate custom interactive trip itineraries, dinner polls, expense splitters and tournament brackets,\" Google … Read the full story at The Verge.",
+          "id": "a2d8f602ac5"
+        }
+      ]
+    },
+    {
+      "id": "e5b916f1bea",
+      "title": "Google DeepMind 推出 AlphaGenome 2",
+      "summary": "Google DeepMind 发布了 AlphaGenome 2，旨在解读细胞如何读取 DNA，从而更好地理解疾病。该技术可以预测 DNA 序列及其变异如何影响特定人类细胞类型和疾病。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "published_at": "2026-11-11T15:00:15+00:00",
+          "text": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "id": "a5b916f1bea"
+        }
+      ]
+    },
+    {
+      "id": "e7c021a2e6c",
+      "title": "Plurai 助力 AI 代理提升性能",
+      "summary": "Plurai 希望通过与自动驾驶汽车相同的方法，提升 AI 代理的工作效率。与用于驾驶汽车的端到端模型类似，AI 代理也是在不可预测的环境中运作的概率系统。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+          "published_at": "2026-11-11T14:00:00+00:00",
+          "text": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+          "id": "a7c021a2e6c"
+        }
+      ]
+    },
+    {
+      "id": "e450a9863af",
+      "title": "Adobe发布新AI工具 Project Screen Test",
+      "summary": "Adobe在其年度Max大会上宣布了一系列实验性AI工具，包括Project Screen Test。这一工具允许用户与AI生成的角色对话，进而塑造其个性，并将照片编辑过程简化为复制粘贴。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+          "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+          "published_at": "2026-11-11T14:00:00+00:00",
+          "text": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. The first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an a … Read the full story at The Verge.",
+          "id": "a450a9863af"
+        }
+      ]
+    },
+    {
+      "id": "e80b38ea7da",
+      "title": "退伍军人免费使用 ChatGPT Plus",
+      "summary": "超过20,000名退伍军人和转型军人领取了为期一年的免费ChatGPT Plus服务。他们利用该服务为进入平民职业做好准备。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "published_at": "2026-11-11T08:00:00+00:00",
+          "text": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+          "id": "a80b38ea7da"
+        }
+      ]
+    },
+    {
+      "id": "e5b9f691915",
+      "title": "丘沃智能无人拖拉机首次下地",
+      "summary": "丘沃智能的开物™系统在新疆实现了无人拖拉机的实际应用，深翻土壤超过30厘米。这标志着L4级无人化作业进入了规模交付阶段。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+          "url": "https://www.qbitai.com/2026/11/509052.html",
+          "published_at": "2026-11-11T03:43:31+00:00",
+          "text": "L4无人化作业走向规模交付",
+          "id": "a5b9f691915"
+        }
+      ]
+    },
+    {
+      "id": "e5a85cb8e7d",
+      "title": "AI成信息通道，受众不满",
+      "summary": "AI正在逐渐成为信息的主要通道，但观众仍然希望新闻报道不由AI生成。有研究表明，受众对AI生成的新闻持保留态度，倾向于人类记者的报道风格。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+          "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+          "published_at": "2026-11-11T00:15:33+00:00",
+          "text": "AI is becoming an information gateway. Audiences still don’t want it making news（HN 57 points，讨论: https://news.ycombinator.com/item?id=50448174）",
+          "id": "a5a85cb8e7d"
+        }
+      ]
+    },
+    {
+      "id": "e8c999d6885",
+      "title": "JioStar AI 发现的经验分享",
+      "summary": "JioStar首席架构师Vijay Seshadri分享了在500万用户规模下进行AI发现的经验。他探讨了评估标准、保护措施以及将AI投入生产的过程。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "published_at": "2026-11-11T00:00:00+00:00",
+          "text": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+          "id": "a8c999d6885"
+        }
+      ]
+    },
+    {
+      "id": "ed2296a64c0",
+      "title": "Hugging Face 推出 Token Pooling-Aware 训练",
+      "summary": "Hugging Face 发布了关于 Token Pooling-Aware 训练的方法，旨在提升多向量嵌入模型的性能。该方法优化了在训练过程中对 token 进行池化的处理，为相关模型的应用提供了新的思路和工具。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "url": "https://huggingface.co/blog/token-pooling",
+          "published_at": "2026-11-11T00:00:00+00:00",
+          "text": "",
+          "id": "ad2296a64c0"
+        }
+      ]
+    },
+    {
+      "id": "e9c66210f6a",
+      "title": "删除权重在 LLM 后训练中的有效性",
+      "summary": "一项研究探讨了在 LLM（大语言模型）后训练过程中删除权重的有效性。结果表明，通过这一方法，可以显著减少模型的参数数量，同时保持或提高其性能。这一发现为后续的模型优化提供了新的思路。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+          "url": "https://arxiv.org/abs/2611.10866",
+          "published_at": "2026-11-10T22:44:49+00:00",
+          "text": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training（HN 30 points，讨论: https://news.ycombinator.com/item?id=50447363）",
+          "id": "a9c66210f6a"
+        }
+      ]
+    },
+    {
+      "id": "ed87e550313",
+      "title": "个人开发15个血糖预测模型",
+      "summary": "一位开发者分享了他自己训练的15个血糖预测模型，使用了自己的数据进行研发。这些模型旨在帮助用户更好地预测和管理血糖水平。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+          "url": "https://github.com/0xdeadf1sh/T1DMAI",
+          "published_at": "2026-11-10T19:07:53+00:00",
+          "text": "Show HN: I have trained 15 blood glucose forecasting models on my own data（HN 20 points，讨论: https://news.ycombinator.com/item?id=50444761）",
+          "id": "ad87e550313"
+        }
+      ]
+    },
+    {
+      "id": "e9a61641172",
+      "title": "TimeNet：开源数据基础设施",
+      "summary": "TimeNet 是一个为 Temporal Foundation Models 提供的开源数据基础设施。该项目旨在为时间序列数据处理和分析提供更高效的支持，推动相关技术的发展和应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
+          "url": "https://github.com/OpenTSLM/TimeNet",
+          "published_at": "2026-11-10T17:16:09+00:00",
+          "text": "TimeNet: Open-source data infrastructure for Temporal Foundation Models（HN 47 points，讨论: https://news.ycombinator.com/item?id=50443264）",
+          "id": "a9a61641172"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 86,
+    "articles_new": 26,
+    "articles_filtered": 22,
+    "tokens": {
+      "prompt_tokens": 18019,
+      "completion_tokens": 3218
+    }
+  },
+  "mock": false
+}
