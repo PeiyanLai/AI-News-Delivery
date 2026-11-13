@@ -1,0 +1,402 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T11:01:26+08:00",
+  "briefing": "今日导读：AI行业可能面临崩溃的风险，Nvidia CEO 黄仁勋被罢免可能影响AI产业。此外，OpenAI助Amplitude大幅提升开发效率，展现了AI在产品迭代上的潜力，中国AI模型则因GPU受控面临新的挑战。",
+  "highlights": "今天多项事件突显AI行业不确定性：专家预警AI行业可能崩溃，引发对市场信心的关注；NvidiaCEO变动可能影响整个AI产业，象征性重大；同时，OpenAI应用表明AI赋能产品开发的强大能力，而中国AI发展则面临出口限制的显著挑战。整体来看，AI行业正处在巨变边缘，技术扩张与政策环境的博弈尤为明显。",
+  "events": [
+    {
+      "id": "e85fb0dda3e",
+      "title": "AI 可能面临崩溃的预期",
+      "summary": "有专家预测，AI行业可能会经历一场崩溃，原因包括技术的快速发展及其实际应用遭遇的挑战和限制。这一现象可能影响投资者的信心，并导致市场动荡。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nAI行业预计将经历动荡。\n\n### 为什么令人兴奋\n表明市场对AI技术的复杂性和风险开始正视。\n\n### 产品机会\n重新评估AI产品的定位及市场策略，加强技术与需求的契合。\n\n### 格局影响\n可能削弱现有巨头的市场领导地位，创业机会增多。\n\n### 冷静判断\n风险与机遇共存，需观察未来市场反应。\n\n### 趋势坐标\n与近期AI市场情绪波动事件一致，加剧了风险评估的重要性。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Why You Should Expect an AI Crash",
+          "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+          "published_at": "2026-11-12T23:08:31+00:00",
+          "text": "Why You Should Expect an AI Crash（HN 84 points，讨论: https://news.ycombinator.com/item?id=50475735）",
+          "id": "a85fb0dda3e"
+        }
+      ]
+    },
+    {
+      "id": "e0ff22abf61",
+      "title": "黄仁勋被罢免或影响AI产业",
+      "summary": "Nvidia被罢免的CEO黄仁勋的下台并非一般的丑闻，而是其在推动AI产业过程中发挥的影响力可能受到削弱。黄仁勋曾在多个方面推动AI行业的发展，其离职可能对行业未来造成不利影响。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nNvidia 的领导层变动可能影响AI产业格局。\n\n### 为什么令人兴奋\n可能引发一系列企业调整和市场联动。\n\n### 产品机会\nAI硬件和云计算服务需再次定位和适应市场变化。\n\n### 格局影响\nNvidia如江心镜面，被这一变动打破静水，同行及竞争者或受波及。\n\n### 冷静判断\n需观察实际的战略调整及影响范围。\n\n### 趋势坐标\n体现了AI领域高层动荡与业界未来走向的紧密联系。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+          "published_at": "2026-11-12T16:32:33+00:00",
+          "text": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+          "id": "a0ff22abf61"
+        }
+      ]
+    },
+    {
+      "id": "ed096a8a420",
+      "title": "中国前沿AI模型受出口控制GPU影响",
+      "summary": "中国最新的前沿AI模型显示出受出口控制的GPU的特征。这表明，这些模型的开发可能依赖于被严格监管的技术产品，反映了该行业面临的国际贸易限制。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+          "url": "https://unemploymentlabs.com/checkpoint-forensics",
+          "published_at": "2026-11-12T21:56:11+00:00",
+          "text": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs（HN 189 points，讨论: https://news.ycombinator.com/item?id=50474883）",
+          "id": "ad096a8a420"
+        }
+      ]
+    },
+    {
+      "id": "e5b0f73df89",
+      "title": "OpenAI助力Amplitude快速迭代",
+      "summary": "Amplitude的产品代理Wave主要基于OpenAI模型，能够识别需要开发的功能，并通过编码代理帮助团队在1-2天内完成变更和交付。此外，Wave还可以衡量这些变化的影响。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "published_at": "2026-11-12T20:00:00+00:00",
+          "text": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+          "id": "a5b0f73df89"
+        }
+      ]
+    },
+    {
+      "id": "ef7effce2db",
+      "title": "Nectar推出AI代理自动化网红营销",
+      "summary": "Nectar推出了一款AI代理，旨在自动化影响者市场营销。该工具帮助品牌发现创作者、管理外展和合作关系，并跟踪活动结果。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+          "published_at": "2026-11-12T19:11:00+00:00",
+          "text": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+          "id": "af7effce2db"
+        }
+      ]
+    },
+    {
+      "id": "ea88bddb172",
+      "title": "Granite 4.1 发布 LLMON 语言",
+      "summary": "Hugging Face 发布了 Granite 4.1 版本，其中引入了 LLMON，这是一种专为大语言模型（LLM）设计的标记语言。新版本支持 3B 和 8B 两种规模的模型，使开发者能够更有效地与 LLM 进行交互。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "published_at": "2026-11-12T19:07:35+00:00",
+          "text": "",
+          "id": "aa88bddb172"
+        }
+      ]
+    },
+    {
+      "id": "ecae53ef769",
+      "title": "Expo Simulators：为智能体构建的云模拟器",
+      "summary": "Expo Simulators 是一种专为智能体设计的云模拟器，旨在提高模拟环境的可用性。该工具将帮助开发者更高效地进行训练和测试，促进智能体的性能优化。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Expo Simulators: cloud simulators built for agents",
+          "url": "https://expo.dev/blog/introducing-expo-simulators-cloud-simulators-built-for-agents",
+          "published_at": "2026-11-12T17:53:54+00:00",
+          "text": "Expo Simulators: cloud simulators built for agents（HN 24 points，讨论: https://news.ycombinator.com/item?id=50471310）",
+          "id": "acae53ef769"
+        }
+      ]
+    },
+    {
+      "id": "ed0b6d30c7e",
+      "title": "Phota Labs 利用 AI 自动编辑照片",
+      "summary": "Phota Labs 致力于利用 AI 技术，将日常照片转换为专业外观的图像。该公司希望通过自动化编辑过程，使任何人都能轻松改善自己的照片。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+          "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+          "published_at": "2026-11-12T17:00:00+00:00",
+          "text": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+          "id": "ad0b6d30c7e"
+        }
+      ]
+    },
+    {
+      "id": "e4213b9afef",
+      "title": "GDC 2026：游戏开发者增用生成式AI",
+      "summary": "根据2026年GDC游戏节的最新行业调查，40%的游戏开发者表示在工作中使用生成式AI，较2025年的36%有所增加。在从事免费游戏的开发者中，使用率为58%，而仅专注于移动游戏的工作室则高达70%。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "More game developers are starting to use generative AI",
+          "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+          "published_at": "2026-11-12T17:00:00+00:00",
+          "text": "A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey . Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025 . Usage was higher with game developers that work on free-to-play games at 58 percent and mobile-only studio workers at 70 percent. The survey is being published as the game industry continues to reckon with generative AI tools. While many game developers, particularly indie developers , have spoken out strongly against the technology, AI is at the center of indie awa … Read the full story at The Verge.",
+          "id": "a4213b9afef"
+        }
+      ]
+    },
+    {
+      "id": "e90d7922370",
+      "title": "Gondola 利用 Codex 实现收入翻倍",
+      "summary": "Gondola 帮助创意人士获得认可并找到工作，使用 Codex 提高了首席工程师的工作效率 50%。同时，ChatGPT 简化了日常工作流程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "published_at": "2026-11-12T12:00:00+00:00",
+          "text": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+          "id": "a90d7922370"
+        }
+      ]
+    },
+    {
+      "id": "e51f5443e5e",
+      "title": "银河智学AI进课堂主题演讲",
+      "summary": "银河智学首席科学家邓澍军博士发表了主题演讲，探讨了人工智能如何从通用大模型发展到智能学习过程。这一演讲旨在推动AI在教育领域的实际应用，促进课堂学习的变革。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+          "url": "https://www.qbitai.com/2026/11/509404.html",
+          "published_at": "2026-11-12T10:45:33+00:00",
+          "text": "银河智学首席科学家邓澍军博士发表主题演讲",
+          "id": "a51f5443e5e"
+        }
+      ]
+    },
+    {
+      "id": "ee1c841be3d",
+      "title": "璇玑打造企业AI语义基础设施",
+      "summary": "璇玑正在致力于解决企业中AI应用的语义理解问题，认为单纯依靠强大的模型并不足以满足企业需求。通过构建语义基础设施，璇玑旨在让AI更好地理解和服务于企业业务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+          "url": "https://www.qbitai.com/2026/11/509349.html",
+          "published_at": "2026-11-12T09:34:06+00:00",
+          "text": "企业 AI 的难题，不只是模型够不够强",
+          "id": "ae1c841be3d"
+        }
+      ]
+    },
+    {
+      "id": "e0990939c7d",
+      "title": "Holiday Extras 借助 Codex 优化应用",
+      "summary": "Holiday Extras 正在利用 Codex 重新思考其应用开发，通过将客户的专业知识转化为更好的应用，提升了预订转化率，并为未来的增长开辟了新可能性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Holiday Extras is rethinking what it can build with Codex",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "published_at": "2026-11-12T09:30:00+00:00",
+          "text": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+          "id": "a0990939c7d"
+        }
+      ]
+    },
+    {
+      "id": "e56dac742ff",
+      "title": "Hugging Face 发布3D生成模型微调指南",
+      "summary": "Hugging Face 博客发布了一篇详尽的微调指南，专注于3D生成模型的应用与优化。这篇指南包括了技术细节和最佳实践，以帮助研究人员和开发者更好地利用3D生成技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "text": "",
+          "id": "a56dac742ff"
+        }
+      ]
+    },
+    {
+      "id": "ef980cc1f1e",
+      "title": "Edge0-145B：边缘AI能力发布",
+      "summary": "Edge0-145B 是一款在个人电脑上实现前沿 AI 能力的工具。该产品旨在让用户能够在本地运行高性能的人工智能模型，增强个人和小型团队的计算能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+          "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "published_at": "2026-11-12T23:06:17+00:00",
+          "text": "Edge0-145B: Frontier AI Capabilities on Your Own Computer（HN 79 points，讨论: https://news.ycombinator.com/item?id=50475713）",
+          "id": "af980cc1f1e"
+        }
+      ]
+    },
+    {
+      "id": "ee8d3e41a70",
+      "title": "Relate：代理原生图数据库",
+      "summary": "Relate 是一款新发布的代理原生图数据库，旨在提升数据的关联性和可视化能力。该数据库专注于简化与图形数据交互的过程，支持更高效的数据处理与分析。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Relate – the agent-native graph database",
+          "url": "https://relatedb.ai/",
+          "published_at": "2026-11-12T19:21:00+00:00",
+          "text": "Relate – the agent-native graph database（HN 21 points，讨论: https://news.ycombinator.com/item?id=50472738）",
+          "id": "ae8d3e41a70"
+        }
+      ]
+    },
+    {
+      "id": "e0ae9d7e5db",
+      "title": "Google DeepMind 发布 Gemini 4 Hydrogen",
+      "summary": "Google DeepMind 宣布推出 Gemini 4 Hydrogen，这是该公司最新的 AI 模型。该模型在多个基准测试中表现出色，展示了其在复杂任务处理方面的强大能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen",
+          "published_at": "2026-11-12T18:03:14+00:00",
+          "text": "Gemini 4 Hydrogen（HN 20 points，讨论: https://news.ycombinator.com/item?id=50471455）",
+          "id": "a0ae9d7e5db"
+        },
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "published_at": "2026-11-12T18:00:50+00:00",
+          "text": "",
+          "id": "a4bad5afe01"
+        }
+      ]
+    },
+    {
+      "id": "ebaf44ce1f3",
+      "title": "MiniMax开源SOTA生图模型",
+      "summary": "MiniMax发布了名为“源神”的多模态生图模型，具有原生4K分辨率。该模型以最低两毛的价格进行开源。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+          "url": "https://www.qbitai.com/2026/11/509440.html",
+          "published_at": "2026-11-12T11:36:20+00:00",
+          "text": "「CAD拆解」",
+          "id": "abaf44ce1f3"
+        }
+      ]
+    },
+    {
+      "id": "eb06379671e",
+      "title": "OpenAI 投资儿童安全研究",
+      "summary": "OpenAI 投资200万美元用于AI和儿童安全的研究。这项工作旨在支持共享工具，以评估年轻人面临的风险和机会。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Supporting research on AI and children’s safety",
+          "url": "https://openai.com/index/children-first-declaration",
+          "published_at": "2026-11-12T00:00:00+00:00",
+          "text": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+          "id": "ab06379671e"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 92,
+    "articles_new": 20,
+    "articles_filtered": 44,
+    "tokens": {
+      "prompt_tokens": 15531,
+      "completion_tokens": 2166
+    }
+  },
+  "mock": false
+}
