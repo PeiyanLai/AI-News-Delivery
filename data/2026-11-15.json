@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:15:43+08:00",
+  "briefing": "今日导读，AI 领域关注焦点包括黄仁勋离职背后的AI GPU走私事件，以及OpenAI 董事会对其 CEO 的信任危机。此外，DeepSeek 和 Nvidia 的市场策略继续引发讨论，多项新技术和政策在推动产业前进。",
+  "highlights": "今日看点，黄仁勋的离职事件揭示了AI硬件市场操作的潜在风险，加上Nvidia的市场操纵指控，这暗示行业可能面临监管加强。而OpenAI的内部信任危机反映了AI公司在快速扩张过程中治理结构的挑战。这些事件共同预示了行业成长过程中可能遇到的复杂监管和治理问题。",
+  "events": [
+    {
+      "id": "e8a429aeabf",
+      "title": "黄仁勋离职或因150万AI GPU走私",
+      "summary": "最新报道指出，黄仁勋的离职可能与150万块AI GPU的走私事件有关。这一事件引发了行业内部的广泛关注和讨论。",
+      "tier": "must_read",
+      "insight": "{'### 一句话本质': '黄仁勋的离职和AI GPU走私丑闻曝光，引发对企业伦理和合规的质疑。', '### 为什么令人兴奋': '其离职透露出AI硬件市场中巨大的权力影响和潜在的违规风险，可能会引发行业对治理透明化的重大关注。', '### 产品机会': '监管加强背景下，AI芯片市场可能需要开发新的合规工具和透明化方案，以应对法律和市场审查。', '### 格局影响': '这对Nvidia是一次重大的信誉打击，可能削弱其市场领导地位，为竞争者提供机会窗口。', '### 冷静判断': '如果调查属实，短期内Nvidia的市场表现或将受到影响，但长远来看，其需调整治理架构并改善合规机制。', '### 趋势坐标': '此事件与近期AI领域对伦理规范日益增强的关注趋势相呼应，类似事件可能驱使监管政策的出台。'}",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+          "published_at": "2026-11-14T15:58:57+00:00",
+          "text": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure（HN 48 points，讨论: https://news.ycombinator.com/item?id=50498051）",
+          "id": "a8a429aeabf"
+        }
+      ]
+    },
+    {
+      "id": "e7134e7e1ad",
+      "title": "AI 领域的失败项目汇总",
+      "summary": "本文统计了多个未能成功的 AI 项目和初创公司，包括苹果多次推迟的 Siri AI 和 OpenAI 混乱的“超级应用”发布。这些项目因未达预期或直接关闭而被列入 AI 墓地记录。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "published_at": "2026-11-14T17:30:00+00:00",
+          "text": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "id": "a7134e7e1ad"
+        }
+      ]
+    },
+    {
+      "id": "ed46b516a4c",
+      "title": "OpenAI 董事会对 AI CEO 的信任危机",
+      "summary": "OpenAI 董事会成员 Helen Toner 表示，仍然无法完全信任 AI CEO。她曾参与投票解雇 Sam Altman，但最终 Altman 又重新回到 CEO 职位，董事会也进行了重组。此事件反映出当初设立董事会的责任机制在危机时刻未能有效运作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "published_at": "2026-11-14T15:00:00+00:00",
+          "text": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO, Helen resigning, and a new board of directors. OpenAI has since restructured entirely . But it’s worth remembering what Helen and the board were supposed to do: OpenAI’s nonprofit board existed specifically to make sure the company didn’t betray its mission to build safe AI by prioritizing profit and growth over safety. When the board actually tried to pull the lever, that accountability mechanism broke, and here we are. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Now, the question of AI safety is everywhere . This summer, AI models from OpenAI and Anthropic broke out of their testing environments and hacked real companies. The CEOs of these frontier labs have since called for a slowdown and asked Washington for help, but the White House’s answer was a voluntary accord — one that relies in part on the kind of board accountability that failed at OpenAI. Anthropic is also about to go public, which will put a whole new set of market pressures on OpenAI’s biggest competitor. Helen has seen up close what happens when safety commitments run headlong into commercial incentives. And as she put it to me, if our hopes for the future depend on any one person being trustworthy, we’re in big trouble. So we talked about what we might do instead: what the labs are actually trying to build, whether AI alignment is a problem that can be solved, and what a smarter approach to AI",
+          "id": "ad46b516a4c"
+        }
+      ]
+    },
+    {
+      "id": "e4d0c29e8f5",
+      "title": "Hacker News：独立学习AI技能问询",
+      "summary": "Hacker News上发起了一个讨论，询问哪些AI技能最有用且可以独立学习。参与者分享了各自的见解和建议。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+          "url": "https://news.ycombinator.com/item?id=50494696",
+          "published_at": "2026-11-14T06:56:42+00:00",
+          "text": "Ask HN: What are the most useful, concrete AI skills to independently learn?（HN 79 points，讨论: https://news.ycombinator.com/item?id=50494696）",
+          "id": "a4d0c29e8f5"
+        }
+      ]
+    },
+    {
+      "id": "ec6caa4d4f0",
+      "title": "Nvidia涉嫌通过资金制造稀缺",
+      "summary": "Nvidia被指控通过资助AI初创公司来购买其GPU，从而制造市场稀缺。这一策略引发了对其商业行为的讨论和关注。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "published_at": "2026-11-14T02:52:59+00:00",
+          "text": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs（HN 1037 points，讨论: https://news.ycombinator.com/item?id=50493251）",
+          "id": "ac6caa4d4f0"
+        }
+      ]
+    },
+    {
+      "id": "e67049349b5",
+      "title": "DeepSeek 全家桶 API 正式开放",
+      "summary": "DeepSeek 宣布开放全家桶 API，用户可以自由组合调用官方App中的各项功能。这一举措将为开发者提供更大的灵活性和便利性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "突发！DeepSeek开放全家桶API",
+          "url": "https://www.qbitai.com/2026/11/510003.html",
+          "published_at": "2026-11-14T02:39:56+00:00",
+          "text": "官方App功能均可自由组合调用",
+          "id": "a67049349b5"
+        }
+      ]
+    },
+    {
+      "id": "ec481d3ae1b",
+      "title": "量子计算湿实验基准发布",
+      "summary": "由斯坦福、哈佛、康奈尔等十余家顶尖团队共同发布了新的湿实验预测基准。该基准在推理上达到了最高水平，并且计算能力提升了五倍。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+          "url": "https://www.qbitai.com/2026/11/510232.html",
+          "published_at": "2026-11-14T09:58:22+00:00",
+          "text": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+          "id": "ac481d3ae1b"
+        }
+      ]
+    },
+    {
+      "id": "ea9dc79e6aa",
+      "title": "Anthropic 更新 Claude Code 项目",
+      "summary": "Anthropic 对其 Claude Code 项目进行了升级，新增了并行 AI 工作者功能。这一改进旨在提高多任务处理能力和工作效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "published_at": "2026-11-14T00:28:11+00:00",
+          "text": "Anthropic upgrades Claude Code Projects to run parallel AI workers（HN 98 points，讨论: https://news.ycombinator.com/item?id=50492141）",
+          "id": "aa9dc79e6aa"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 63,
+    "articles_new": 8,
+    "articles_filtered": 15,
+    "tokens": {
+      "prompt_tokens": 11809,
+      "completion_tokens": 1161
+    }
+  },
+  "mock": false
+}
