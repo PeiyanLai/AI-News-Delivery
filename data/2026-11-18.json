@@ -1,0 +1,509 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T11:55:59+08:00",
+  "briefing": "今日导读：Google AI 的新功能使其搜索流量锐减 40%，这对用户行为产生深远影响。同日，Cerebras 推出分散推理技术，提升 AI 模型推理效率。OpenAI 发布最新 GPT-6.2 Astra 和 Sol，进一步提高专业输出和程序效率。这些进展展现了 AI 技术在多个领域的深度应用和发展方向。",
+  "highlights": "今日看点：Google AI 的发展导致搜索引擎流量大幅下降，标志着用户获取信息方式的剧烈变化，这表明 AI 正在前所未有地塑造互联网使用习惯。同时，Cerebras 和 OpenAI 的新技术推动大规模 AI 模型的应用效率，体现了 AI 技术在计算资源优化和应用性能提升上的重要突破。这些趋势表明，AI 不断在更多领域替代传统技术，提高效率和用户体验。",
+  "events": [
+    {
+      "id": "ef2df59b272",
+      "title": "Google AI 答案减少搜索流量40%",
+      "summary": "Google 的 AI 答案功能使得搜索流量下降了 40%。这一变化可能影响用户使用搜索引擎的习惯和行为。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nGoogle AI 的增强功能有效减少了用户需要通过搜索引擎获取信息的频次。\n\n### 为什么令人兴奋\n这标志着信息获取效率和方式的转变，互联网搜索行为或将发生深刻变化。\n\n### 产品机会\n可以出现新的信息展示和整理工具，让用户以更直接和有条理的方式获取所需信息。\n\n### 格局影响\n削弱了传统搜索引擎的市场主导地位，Google 的核心业务模式可能需要调整。\n\n### 冷静判断\n这一功能已在实际中应用，但大范围影响还需观察，涉及行为习惯改变。\n\n### 趋势坐标\n与 AI 在自然语言处理领域的持续发展密切相关，也与社交媒体和信息聚合平台拓展需求相呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Google's AI answers reducing search traffic by 40%",
+          "url": "https://revscope.co/blog/search-seo-geo-2026/",
+          "published_at": "2026-11-18T00:17:58+00:00",
+          "text": "Google's AI answers reducing search traffic by 40%（HN 164 points，讨论: https://news.ycombinator.com/item?id=50540178）",
+          "id": "af2df59b272"
+        }
+      ]
+    },
+    {
+      "id": "e2d0ef2ca98",
+      "title": "Cerebras 推出分散推理技术",
+      "summary": "Cerebras 宣布推出其分散推理（Disaggregated Inference）技术。这项技术旨在提升大规模AI模型的推理效率，使其能够在不同设备上进行协同工作，从而优化资源利用和计算速度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Cerebras Disaggregated Inference",
+          "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+          "published_at": "2026-11-18T00:56:23+00:00",
+          "text": "Cerebras Disaggregated Inference（HN 40 points，讨论: https://news.ycombinator.com/item?id=50540472）",
+          "id": "a2d0ef2ca98"
+        }
+      ]
+    },
+    {
+      "id": "e5c441d6861",
+      "title": "哈佛研究：AI编码代理使代码审查成为瓶颈",
+      "summary": "哈佛大学的研究人员发现，使用AI编码代理后，编程的瓶颈已转移至代码审查阶段。研究表明，虽然AI提升了代码生成效率，但人类审查仍需要大量时间和精力，从而影响整体开发速度。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+          "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+          "published_at": "2026-11-17T21:16:12+00:00",
+          "text": "Harvard researchers find AI coding agents shifted the bottleneck to code review（HN 86 points，讨论: https://news.ycombinator.com/item?id=50538303）",
+          "id": "a5c441d6861"
+        }
+      ]
+    },
+    {
+      "id": "e859fe7425c",
+      "title": "Sam Altman 深受 AI 损失",
+      "summary": "OpenAI CEO Sam Altman 近日在一个由 Meta 首席 AI 官 Alexandr Wang 发布的深度伪造视频中现身。视频中，Altman 以可爱的角色装扮出现在与 Meta CEO 马克·扎克伯格的四人视频通话中，视频标题为 \"当好友们讨论 OpenAI 产品战略\"。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+          "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+          "published_at": "2026-11-17T21:00:55+00:00",
+          "text": "Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Jolly, the anthropomorphic mascot of Muse, are on a four-way video call. When Altman joins the call he's dressed like Jolly, wearing a furry hooded suit and face paint to look like the cutesy character. The clip is captioned \"When the homies meet about openai product strategy,\" a reference to the AI ag … Read the full story at The Verge.",
+          "id": "a859fe7425c"
+        }
+      ]
+    },
+    {
+      "id": "ed9a047affb",
+      "title": "Model ML 完成 2.5 亿美元融资",
+      "summary": "初创公司 Model ML 完成 2.5 亿美元融资，旨在自动化投资银行的基础工作。该公司的代理能够理解银行家和顾问在处理的交易的完整背景，并在新发展影响其分析时自动更新财务模型和演示文稿。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Model ML raises $250M to automate investment banking grunt work",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+          "published_at": "2026-11-17T19:32:11+00:00",
+          "text": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+          "id": "ad9a047affb"
+        }
+      ]
+    },
+    {
+      "id": "e549a77347d",
+      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol",
+      "summary": "OpenAI 推出了 GPT-6.2 Astra 和 Sol，强调其在专业输出、编程、计算机使用和效率方面的提升。新版本能够以更低的成本在 ChatGPT Work、Codex 和 API 中提供更好的服务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "published_at": "2026-11-17T17:45:00+00:00",
+          "text": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+          "id": "a549a77347d"
+        }
+      ]
+    },
+    {
+      "id": "e42c4fd05f3",
+      "title": "Proton推出Lumo桌面应用",
+      "summary": "Proton推出了新的Lumo桌面应用，适用于Windows、Mac和Linux。该应用重点关注隐私，允许用户在文件和连接的应用之间自动化任务，并可以细致控制AI可访问的内容。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+          "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+          "published_at": "2026-11-17T17:32:25+00:00",
+          "text": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+          "id": "a42c4fd05f3"
+        }
+      ]
+    },
+    {
+      "id": "e39e9943447",
+      "title": "TrnRT: 开源 LLM 推理引擎",
+      "summary": "TrnRT 是一个针对 AWS Trainium 的开源大型语言模型推理引擎。该项目旨在为开发者提供高效的模型推理解决方案。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+          "url": "https://github.com/RunanywhereAI/trnrt",
+          "published_at": "2026-11-17T16:01:04+00:00",
+          "text": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium（HN 46 points，讨论: https://news.ycombinator.com/item?id=50533270）",
+          "id": "a39e9943447"
+        }
+      ]
+    },
+    {
+      "id": "ed03672f589",
+      "title": "A.I. 颠覆计算机科学基本原则",
+      "summary": "一项新的 A.I. 研究挑战了计算机科学的基本理论，为传统算法和知识表示带来了新的思考。研究结果显示，A.I. 系统在某些任务中的表现超出了人类专家的预期。此发现引发了学术界对智能和计算本质的深入讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "A.I. Just Blew Up a Key Tenet of Computer Science",
+          "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+          "published_at": "2026-11-17T15:33:48+00:00",
+          "text": "A.I. Just Blew Up a Key Tenet of Computer Science（HN 26 points，讨论: https://news.ycombinator.com/item?id=50532786）",
+          "id": "ad03672f589"
+        }
+      ]
+    },
+    {
+      "id": "e3ddd561d3d",
+      "title": "Isomorphic Labs 获 50 亿美元融资",
+      "summary": "AI 药物发现平台 Isomorphic Labs 在 2021 年从 Google 的 DeepMind 分拆出来，最近完成了 50 亿美元的 C 轮融资，旨在将其药物候选物推向临床试验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+          "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "published_at": "2026-11-17T14:50:58+00:00",
+          "text": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+          "id": "a3ddd561d3d"
+        }
+      ]
+    },
+    {
+      "id": "e83b8de21db",
+      "title": "李飞飞加盟AMD并购完成",
+      "summary": "AMD以82亿美元的股票收购完成，李飞飞正式率队加入AMD。此次并购在46天内快速交割，苏妈亲自欢迎新团队的加入。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+          "url": "https://www.qbitai.com/2026/11/510695.html",
+          "published_at": "2026-11-17T14:15:20+00:00",
+          "text": "82亿美元股票，46天闪电交割",
+          "id": "a83b8de21db"
+        }
+      ]
+    },
+    {
+      "id": "e51ac6b135f",
+      "title": "韩国发出紧急警报阻止高考作弊",
+      "summary": "韩国将向全国发送紧急通知，以应对大学入学考试中的作弊行为。政府希望通过这一举措确保考试的公正性和透明度，引导考生遵循规定。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "S. Korea to send nationwide emergency alerts over college entrance exam cheating",
+          "url": "https://apnews.com/article/south-korea-exam-cheating-ai-college-e25b5612dbf4bd09fdf9197254c4547e",
+          "published_at": "2026-11-17T14:00:47+00:00",
+          "text": "S. Korea to send nationwide emergency alerts over college entrance exam cheating（HN 67 points，讨论: https://news.ycombinator.com/item?id=50531484）",
+          "id": "a51ac6b135f"
+        }
+      ]
+    },
+    {
+      "id": "e2991c89a77",
+      "title": "李沐加盟Aimotion，聚焦世界模型",
+      "summary": "李沐加入Aimotion，这是一家专注于产业级世界模型的人工智能公司。Aimotion致力于推动工业应用的智能化发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+          "url": "https://www.qbitai.com/2026/11/510688.html",
+          "published_at": "2026-11-17T11:40:37+00:00",
+          "text": "瞄准「产业级世界模型」",
+          "id": "a2991c89a77"
+        }
+      ]
+    },
+    {
+      "id": "ec6c361c53b",
+      "title": "OpenAI推出ChatGPT销售插件",
+      "summary": "OpenAI发布了新的销售插件以及30多个新扩展的合作伙伴插件，用于在ChatGPT中研究潜在客户、准备推介、更新客户关系管理系统（CRM）并推进交易。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing ChatGPT for Sales",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "published_at": "2026-11-17T08:00:00+00:00",
+          "text": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+          "id": "ac6c361c53b"
+        }
+      ]
+    },
+    {
+      "id": "eb032a95fdf",
+      "title": "MatOS 开源提升材料研发成功率",
+      "summary": "材料科学智能体MatOS正式开源。该平台可以筛选材料、寻找配方以及开发新模型，显著提高材料研发任务的成功率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+          "url": "https://www.qbitai.com/2026/11/510652.html",
+          "published_at": "2026-11-17T06:09:40+00:00",
+          "text": "筛材料、找配方、开发新模型…拿下多项科研任务",
+          "id": "ab032a95fdf"
+        }
+      ]
+    },
+    {
+      "id": "edeee7f6a93",
+      "title": "光轮智能推出RoboFinals RL Envs",
+      "summary": "光轮智能推出了RoboFinals RL Envs，这是一个用于物理AI的强化学习仿真环境。该环境旨在为研究人员和开发者提供高效的实验基础，以推动强化学习技术的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+          "url": "https://www.qbitai.com/2026/11/510561.html",
+          "published_at": "2026-11-17T02:03:22+00:00",
+          "text": "",
+          "id": "adeee7f6a93"
+        }
+      ]
+    },
+    {
+      "id": "e590cb0b9c5",
+      "title": "OpenAI助力北约网络防御",
+      "summary": "OpenAI 正在与北约及其盟国网络机构合作，帮助可信的防御者发现系统漏洞、测试修复方案，并保护关键系统。通过这一合作，旨在加强网络安全防御能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Strengthening NATO and allied cyber defenses with AI",
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "text": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+          "id": "a590cb0b9c5"
+        }
+      ]
+    },
+    {
+      "id": "e0604bc2b50",
+      "title": "Astra for Law 获法律智能评估第一",
+      "summary": "Astra for Law 在一次涵盖24个法律领域的评估中排名第一。现在，所有 ChatGPT Enterprise 客户均可申请访问该服务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Astra for Law leads in legal intelligence",
+          "url": "https://openai.com/index/astra-law-6-2",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "text": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+          "id": "a0604bc2b50"
+        }
+      ]
+    },
+    {
+      "id": "e58da9c66b1",
+      "title": "OpenAI与智利政府携手",
+      "summary": "OpenAI与智利政府达成合作，支持负责任的人工智能应用。此次合作旨在提升公共部门技能，并帮助当地创业公司开发AI应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Introducing OpenAI for Chile",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "published_at": "2026-11-17T00:00:00+00:00",
+          "text": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+          "id": "a58da9c66b1"
+        }
+      ]
+    },
+    {
+      "id": "e2966dcb08c",
+      "title": "Kubernetes 加强 AI 平台地位",
+      "summary": "Kubernetes 正在巩固其作为人工智能首选平台的地位。越来越多的企业和开发者开始依赖 Kubernetes 来管理和部署 AI 应用，显示出其在这一领域的重要性和普遍采用的趋势。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+          "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+          "published_at": "2026-11-16T20:48:53+00:00",
+          "text": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice（HN 26 points，讨论: https://news.ycombinator.com/item?id=50523037）",
+          "id": "a2966dcb08c"
+        }
+      ]
+    },
+    {
+      "id": "e8a34bad4fe",
+      "title": "小红书校招沙龙聚焦AI人才",
+      "summary": "小红书举办了校招沙龙，吸引了诸多技术高手参与，积极讨论AI时代的技术和人才现状。年轻求职者在沙龙中表达了他们的野心和未来的职业规划。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+          "url": "https://www.qbitai.com/2026/11/510737.html",
+          "published_at": "2026-11-18T02:49:23+00:00",
+          "text": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+          "id": "a8a34bad4fe"
+        }
+      ]
+    },
+    {
+      "id": "e72284a47c9",
+      "title": "Google Spark AI更名为Tasks并免费使用",
+      "summary": "Google将其Spark AI代理重新命名为“Tasks”，并提供免费使用。该功能由新的Gemini 4 Hydrogen AI模型驱动，能够创建膳食计划、管理日历以及查找递归支出。美国用户还可以使用AI代理拨打电话比较产品价格，使用Google Pay购买商品等。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+          "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+          "published_at": "2026-11-17T18:58:01+00:00",
+          "text": "You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. US users can also assign Gemini tasks by emailing gemini@google.com or texting it. Video: Google Google f … Read the full story at The Verge.",
+          "id": "a72284a47c9"
+        }
+      ]
+    },
+    {
+      "id": "ef9f203e067",
+      "title": "推进医疗团队计算机使用代理",
+      "summary": "一项新的研究介绍了计算机使用代理在医疗团队中的应用，旨在提升工作效率和协作能力。该技术通过优化信息流动和任务管理，帮助医疗专业人士更好地分配资源和时间。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Advancing computer-use agents for healthcare teams",
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+          "published_at": "2026-11-17T18:26:05+00:00",
+          "text": "Advancing computer-use agents for healthcare teams（HN 45 points，讨论: https://news.ycombinator.com/item?id=50535898）",
+          "id": "af9f203e067"
+        }
+      ]
+    },
+    {
+      "id": "eb145ab91c0",
+      "title": "Pedestal AI 获 470 万美元融资",
+      "summary": "Pedestal AI 公司获得 470 万美元融资，旨在利用代理 AI 技术提高供应链的速度和可靠性。该技术将推动供应链的智能化发展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+          "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+          "published_at": "2026-11-17T18:04:16+00:00",
+          "text": "The company uses agentic AI to make supply chains faster and more reliable.",
+          "id": "ab145ab91c0"
+        }
+      ]
+    },
+    {
+      "id": "e27f55ceac5",
+      "title": "Voyage Labs获1200万美元融资",
+      "summary": "Voyage Labs完成1200万美元融资，推出其旗舰产品Atlas。Atlas是一款专为旅行规划设计的个人助理，目前已进入私人测试阶段。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+          "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+          "published_at": "2026-11-17T15:00:00+00:00",
+          "text": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+          "id": "a27f55ceac5"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 104,
+    "articles_new": 25,
+    "articles_filtered": 44,
+    "tokens": {
+      "prompt_tokens": 18109,
+      "completion_tokens": 2469
+    }
+  },
+  "mock": false
+}
