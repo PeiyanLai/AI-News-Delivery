@@ -1,0 +1,820 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T11:54:11+08:00",
+  "briefing": "今日导读：Google DeepMind 发布新的人工智能模型，展现突破性性能；Hugging Face 推出多项产品以提升模型训练和推理效率；Anthropic 宣布 IPO 定价，扩大其市场影响力。",
+  "highlights": "今日看点：Google DeepMind 和 Hugging Face 分别推出新模型和技术，表明在多模态模型和高效推理上的竞争愈演愈烈。Anthropic 的 IPO 公布投标价进一步展示了资本市场对 AI 公司的信心。同时，AI 在逆向工程中的应用研究指出了可能的技术革新方向。总体来看，行业持续发展新技术，提高性能和可用性，但并未出现对行业格局的重大冲击。",
+  "events": [
+    {
+      "id": "e0c3c8b23c6",
+      "title": "Google DeepMind 推出 Gemini 4 Neon",
+      "summary": "Google DeepMind 发布了其最新的人工智能模型 Gemini 4 Neon。该模型在多项基准测试中实现了突破性的性能提升，并且支持多种语言和任务，使其在自然语言处理和图像识别领域具有更强的适应性。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nGoogle DeepMind推出了新的AI模型Gemini 4 Neon，性能大幅提升。\n\n### 为什么令人兴奋\n该模型在多个基准中的表现大幅领先，标志着AI在处理多任务、多语言问题上的巨大进步。\n\n### 产品机会\n这种跨语言、跨任务的能力极大扩展了AI的应用场景，可在翻译、内容生成等领域推出新型产品。\n\n### 格局影响\nGoogle在AI领域的领导地位进一步巩固，同时给竞争对手带来压力，特别是那些专注于单一任务的模型。\n\n### 冷静判断\n尽管性能卓越，但大规模应用仍需时间。开发者和企业需要观望技术整合的进展。\n\n### 趋势坐标\n延续了大型模型在多任务性能上的改进趋势，与之前的多模态模型发展形成呼应。",
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Introducing Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "published_at": "2026-11-18T21:35:43+00:00",
+          "text": "",
+          "id": "a0c3c8b23c6"
+        }
+      ]
+    },
+    {
+      "id": "e6f3e4fa758",
+      "title": "国产算力训练双模型同步亮相",
+      "summary": "在范式下，国产算力实现了全链路训练，展现出强大的性能。新的语言模型在单张3090显卡上即可运行，显示了其高效的计算能力和可操作性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+          "url": "https://www.qbitai.com/2026/11/511071.html",
+          "published_at": "2026-11-19T03:01:45+00:00",
+          "text": "语言模型单张3090卡即可运行",
+          "id": "a6f3e4fa758"
+        }
+      ]
+    },
+    {
+      "id": "e909b75797c",
+      "title": "Anthropic 定价首次公开募股",
+      "summary": "Anthropic 宣布其首次公开募股的定价。该公司计划通过此次募股筹集资金，以支持其人工智能技术的发展和扩展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic prices initial public offering",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "published_at": "2026-11-18T23:30:09+00:00",
+          "text": "Anthropic prices initial public offering（HN 126 points，讨论: https://news.ycombinator.com/item?id=50553843）",
+          "id": "a909b75797c"
+        },
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Anthropic prices initial public offering",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "published_at": "",
+          "text": "Anthropic prices initial public offering",
+          "id": "a909b75797c"
+        }
+      ]
+    },
+    {
+      "id": "ef00d83341f",
+      "title": "LLM辅助逆向工程研究",
+      "summary": "一项研究探讨了大型语言模型（LLM）在逆向工程中的应用。研究表明，LLM能够帮助程序员分析和理解复杂代码，提高逆向工程的效率和准确性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "LLM assisted reverse engineering",
+          "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+          "published_at": "2026-11-18T22:29:13+00:00",
+          "text": "LLM assisted reverse engineering（HN 99 points，讨论: https://news.ycombinator.com/item?id=50553225）",
+          "id": "af00d83341f"
+        }
+      ]
+    },
+    {
+      "id": "e93ec3dad35",
+      "title": "Snapchat 开放 AI 助手构建 AR Lens",
+      "summary": "Snapchat 现在允许开发者使用 AI 助手，如 Claude Code 和 Cursor，来构建增强现实 Lens。Lens 创建者可以用自然语言描述他们想要的 Lens，AI 助手将从头到尾处理该过程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+          "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+          "published_at": "2026-11-18T19:56:39+00:00",
+          "text": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+          "id": "a93ec3dad35"
+        }
+      ]
+    },
+    {
+      "id": "e66574755f6",
+      "title": "特朗普在菲律宾设立AI中心",
+      "summary": "2026年11月17日，特朗普总统抵达菲律宾马尼拉的维拉莫尔空军基地，受到热情迎接。当地欢迎活动中，特朗普受到多个美丽女士的陪伴，同时抗议者在机场外集会，表达对其政策的不满。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Trump’s latest land grab is an AI hub in the Philippines",
+          "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+          "published_at": "2026-11-18T19:40:36+00:00",
+          "text": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler . As he stepped onto the tarmac , a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional bell-sleeved blouses and young men in wide-brimmed hats danced to the song. Outside the airport, hundreds of protesters packed streets bearing signs - and at least one prop casket - saying \"Trump out.\" Others say \"Reject Pax Silica,\" the name for the US-led international initiative to secure chips and critical minerals used in the … Read the full story at The Verge.",
+          "id": "a66574755f6"
+        }
+      ]
+    },
+    {
+      "id": "ed7174b90d1",
+      "title": "Nvidia 新任CEO面临挑战",
+      "summary": "Nvidia 前CEO Jensen Huang 的重要性引发讨论，Elon Musk 称其与供应商的交易是口头协议而非书面合同。在首席财务官 Colette Kress 的首次财报电话会议上，对公司未来的领导能力提出了质疑。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "What is Nvidia without AI’s sugar daddy in charge?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+          "published_at": "2026-11-18T18:34:15+00:00",
+          "text": "Building a successful company means that it can run smoothly without you. Did Jensen Huang actually build a successful company? | Image: The Verge; Getty Images; Adobe If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth , then Jensen Huang (the former CEO of Nvidia, a company with a market cap of about $3 trillion) has been making deals that were \"a handshake with Jensen\" with suppliers - \"not a written contract,\" Musk wrote. Fascinating stuff to tell shareholders. But after listening to Nvidia's first earnings call with its new CEO, Colette Kress, I do think something may have sh … Read the full story at The Verge.",
+          "id": "ad7174b90d1"
+        }
+      ]
+    },
+    {
+      "id": "e652211f5c0",
+      "title": "Google DeepMind 发布 Genie 4",
+      "summary": "Google DeepMind 最新推出的 Genie 4 现已正式上线。该版本在性能和易用性上进行了改进，旨在提供更为智能的用户体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Genie 4 is now available",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+          "published_at": "2026-11-18T18:13:42+00:00",
+          "text": "",
+          "id": "a652211f5c0"
+        }
+      ]
+    },
+    {
+      "id": "e890e2f7b3a",
+      "title": "Google Search 新增 AI 无痕模式",
+      "summary": "Google 在搜索中推出了一项新的 AI 功能，允许用户在 AI 模式下进行对话，同时不会将这些对话添加到搜索历史中或影响未来的推荐。用户可以体验临时线程，以保护隐私。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google’s AI feature in Search gets its own incognito mode",
+          "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+          "published_at": "2026-11-18T18:04:05+00:00",
+          "text": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+          "id": "a890e2f7b3a"
+        }
+      ]
+    },
+    {
+      "id": "e7c40c39183",
+      "title": "AI回答不稳定，84%答案变化",
+      "summary": "一项实验中，研究人员对同一组210个购买问题进行了两天的提问，结果发现84%的答案发生了变化。这显示了AI在处理相同问题时可能存在不一致性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
+          "url": "https://supercite.ai/blog/ai-answers-change-every-day",
+          "published_at": "2026-11-18T17:58:00+00:00",
+          "text": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed（HN 22 points，讨论: https://news.ycombinator.com/item?id=50549677）",
+          "id": "a7c40c39183"
+        }
+      ]
+    },
+    {
+      "id": "e0d576c5fe8",
+      "title": "OpenAI 模型助力芯片设计",
+      "summary": "OpenAI 的模型被应用于芯片设计领域，推动了相关技术的进步。这一创新有望提高设计效率和性能，改变传统芯片开发方式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Advancing chip design with OpenAI models",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+          "published_at": "2026-11-18T17:45:47+00:00",
+          "text": "Advancing chip design with OpenAI models（HN 170 points，讨论: https://news.ycombinator.com/item?id=50549493）",
+          "id": "a0d576c5fe8"
+        }
+      ]
+    },
+    {
+      "id": "e3439be5ca6",
+      "title": "Sam Altman 警告 AI 超越人类的风险",
+      "summary": "Sam Altman 和 Greg Brockman 对硅谷日益增长的 AI 接管辩论提出反对，同时承认保持先进模型在人类控制之下的挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+          "published_at": "2026-11-18T16:59:00+00:00",
+          "text": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+          "id": "a3439be5ca6"
+        }
+      ]
+    },
+    {
+      "id": "eeccc011a6e",
+      "title": "联盟质疑Anthropic安全性",
+      "summary": "一个联盟对AI公司Anthropic提出挑战，声称其并非一个安全的AI公司。该联盟强调了安全和监管的重要性，并对Anthropic的实际安全措施表示担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
+          "url": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
+          "published_at": "2026-11-18T16:41:22+00:00",
+          "text": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety（HN 129 points，讨论: https://news.ycombinator.com/item?id=50548485）",
+          "id": "aeccc011a6e"
+        }
+      ]
+    },
+    {
+      "id": "e208b7ebb3c",
+      "title": "七款新模型以可扩展性上市",
+      "summary": "Hacker News 发布消息，推出七款新模型，针对可扩展的价格和性能进行优化。这些新模型旨在满足不同用户的需求，提升行业标准。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Seven new models at scalable price-performance",
+          "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "published_at": "2026-11-18T16:08:24+00:00",
+          "text": "Seven new models at scalable price-performance（HN 471 points，讨论: https://news.ycombinator.com/item?id=50548021）",
+          "id": "a208b7ebb3c"
+        }
+      ]
+    },
+    {
+      "id": "ed4ec482048",
+      "title": "Nvidia推Vera Rubin NVL72新品",
+      "summary": "今年夏天，OpenAI因AI代理意外入侵Hugging Face而暂停了最大规模的前沿训练。9月，Anthropic CEO Dario Amodei呼吁放缓强大AI模型的发展，因其可能被用于网络攻击。与此同时，Nvidia推出了其最先进的AI计算系统Vera Rubin NVL72，称这是公司历史上最快的产品发布。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Remember the frontier AI pause? Chip companies don’t either",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+          "published_at": "2026-11-18T15:44:02+00:00",
+          "text": "Nvidia began shipping its most advanced AI computing system, the Vera Rubin NVL72, calling it the “fastest product ramp in the company’s history.” | Image: Nvidia This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models , warning that they could be used to launch cyberattacks or become harder for their own creators to control. It was a strange moment for the AI boom. The people building the most powerful models were warning about what those models might be capable of, and investors were suddenly wondering what would happen to chip demand i … Read the full story at The Verge.",
+          "id": "ad4ec482048"
+        }
+      ]
+    },
+    {
+      "id": "e7064e35195",
+      "title": "低成本高效TTS模型发布",
+      "summary": "一款参数为450万的TTS模型在CPU上运行速度达实时的70倍，训练成本仅为10美元。该模型在语音合成领域展现出高效能与低成本的优势。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
+          "url": "https://huggingface.co/n4ze3m/tiny-voca",
+          "published_at": "2026-11-18T15:01:14+00:00",
+          "text": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train（HN 42 points，讨论: https://news.ycombinator.com/item?id=50547122）",
+          "id": "a7064e35195"
+        }
+      ]
+    },
+    {
+      "id": "ebf1424b145",
+      "title": "Hugging Face 推出时间序列模型",
+      "summary": "Hugging Face 博客介绍了其新推出的时间序列模型，以及在 Streamhouse 中的应用场景。文章涵盖了模型的潜在用例和未来发展方向，展示了时间序列分析在AI领域的新前沿。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "published_at": "2026-11-18T15:00:23+00:00",
+          "text": "",
+          "id": "abf1424b145"
+        }
+      ]
+    },
+    {
+      "id": "e84d2fa603e",
+      "title": "威尔·赖特新作 MyMems 采用 AI 技术",
+      "summary": "传奇游戏设计师威尔·赖特正在开发一款新游戏 MyMems，基于玩家的记忆进行世界构建。该移动游戏旨在将玩家的自传转化为一个社交模拟的玩具世界，玩家可以通过手机加入自己的“记忆”。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Will Wright’s next game uses AI to map your memories",
+          "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+          "published_at": "2026-11-18T14:00:00+00:00",
+          "text": "Will Wright, the creator of legendary franchises like SimCity and The Sims , is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems . Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. \"We want to take your autobiography and turn it into a toy world,\" he tells The Verge . The MyMems website describes the mobile game as a \"social simulation\" with worlds \"built from your memories and the people who shaped you.\" You can add \"memories\" to your game, like speaking a short story to your phone, and those memories are ge … Read the full story at The Verge.",
+          "id": "a84d2fa603e"
+        }
+      ]
+    },
+    {
+      "id": "ece416493db",
+      "title": "Nvidia 停止向中国出售 AI 芯片",
+      "summary": "Nvidia 已停止向中国发送其先进的 AI 芯片，尽管去年12月获白宫批准继续销售。公司临时CEO Colette Kress 在周二的财报电话会议中宣布，未来的指引中不再包括授权的 Hopper 数据中心产品，也不再向中国发货 H200 处理器。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Nvidia isn’t selling any more AI chips to China",
+          "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+          "published_at": "2026-11-18T13:01:05+00:00",
+          "text": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday , marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China. \"Our guidance ⁠does not have any licensed Hopper data center products included, and we are no longer shipping ​licenced Hopper data center products to China,\" Kress said . She did not explain why Nvidia was ceasing its H200 processor shipments or … Read the full story at The Verge.",
+          "id": "ace416493db"
+        }
+      ]
+    },
+    {
+      "id": "e5d3a453ab0",
+      "title": "Nvidia 确认数据中心贷款政策",
+      "summary": "Nvidia 进一步澄清了其在支持数据中心贷款方面的立场。临时首席执行官 Colette Kress 表示，只有在 neocloud 拥有独立融资并完成设施建设、安装 Nvidia 设备的情况下，Nvidia 才会承担责任。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+          "published_at": "2026-11-18T13:00:00+00:00",
+          "text": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+          "id": "a5d3a453ab0"
+        }
+      ]
+    },
+    {
+      "id": "e620756f297",
+      "title": "Unsiloed AI获750万美元融资",
+      "summary": "Unsiloed AI获得Felicis领投的750万美元融资，旨在使企业文档可以被AI代理使用。该公司团队仅有七人，计划在竞争激烈的AI文档处理市场与科技巨头和专业初创公司展开竞争。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+          "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+          "published_at": "2026-11-18T12:00:00+00:00",
+          "text": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+          "id": "a620756f297"
+        }
+      ]
+    },
+    {
+      "id": "e996c920e2c",
+      "title": "Humyn Labs 成功融资 4700 万美元",
+      "summary": "Humyn Labs成立于2月，主要为美国机器人公司提供所需数据。此次融资总额达4700万美元，该公司与Mecka AI和XDOF等初创企业竞争，约90%的收入来自美国市场。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+          "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "published_at": "2026-11-18T11:30:00+00:00",
+          "text": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+          "id": "a996c920e2c"
+        }
+      ]
+    },
+    {
+      "id": "eda6c827add",
+      "title": "Suno 推出 AI 视频生成功能",
+      "summary": "Suno 最新推出名为“Visuals”的功能，允许用户将其 AI 音乐转换为自动同步歌词的 AI 生成视频片段，或通过提示描述生成图像，用作缩略图和专辑封面。该功能可在网页版、iOS 和 Android 平台上使用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Suno now lets you make AI videos for your AI music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+          "published_at": "2026-11-18T11:16:53+00:00",
+          "text": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals is available on web, iOS, and Android. The exact layout differs across Suno's desktop and mobile interfaces, but users will find a new Visuals tab under Create mode on each version. Web users can also access Visuals by selecting the three dot menu on a song in their library. From there, users can selec … Read the full story at The Verge.",
+          "id": "ada6c827add"
+        }
+      ]
+    },
+    {
+      "id": "ee683d40fba",
+      "title": "OpenAI探索AI与社会的关系",
+      "summary": "OpenAI战略未来负责人Dean Ball探讨了更强大的人工智能如何重塑社会，以及人们如何能够保持对其机构的控制。文章强调在不断发展的人工智能技术中，社会各界需要达成共识，以确保技术的安全和可控。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "The Silent Consensus",
+          "url": "https://openai.com/index/the-silent-consensus",
+          "published_at": "2026-11-18T10:00:00+00:00",
+          "text": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+          "id": "ae683d40fba"
+        }
+      ]
+    },
+    {
+      "id": "e20c4aa4e38",
+      "title": "Gemini新模型Neon即将发布",
+      "summary": "Gemini的新模型Neon即将推出，网友们对此表示期待，猜测该模型是否会遍历元素周期表。氖的象征意义引发了讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+          "url": "https://www.qbitai.com/2026/11/510922.html",
+          "published_at": "2026-11-18T09:41:55+00:00",
+          "text": "氖人寻味！",
+          "id": "a20c4aa4e38"
+        }
+      ]
+    },
+    {
+      "id": "eb527b6f0dd",
+      "title": "住友生命采用ChatGPT Enterprise",
+      "summary": "住友生命利用ChatGPT Enterprise进行保险研究、准备提案和投资分析代码的编写。高层管理人员的早期使用推动了该工具的普及。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "url": "https://openai.com/business/customer-stories/sumitomo-life",
+          "published_at": "2026-11-18T08:00:00+00:00",
+          "text": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "id": "ab527b6f0dd"
+        }
+      ]
+    },
+    {
+      "id": "e53f2a14376",
+      "title": "OpenAI Codex 沙盒功能揭秘",
+      "summary": "OpenAI 发表了一篇博文，介绍了 Codex 沙盒如何在 macOS、Linux 和 Windows 上运行命令，同时执行由用户控制的文件系统和网络限制。这一功能旨在保障用户的机器安全，提供可靠的开发环境。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Inside the Codex sandbox",
+          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "published_at": "2026-11-18T08:00:00+00:00",
+          "text": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+          "id": "a53f2a14376"
+        }
+      ]
+    },
+    {
+      "id": "ed1c7ca3122",
+      "title": "InclusionMed 医疗健康AI平台上线",
+      "summary": "全球首个医疗健康 AI 独立评测与分析平台 InlcusionMed 最近正式上线。该平台旨在提供专业的评测与分析服务，推动医疗健康领域的 AI 应用发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+          "url": "https://www.qbitai.com/2026/11/510916.html",
+          "published_at": "2026-11-18T07:24:50+00:00",
+          "text": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+          "id": "ad1c7ca3122"
+        }
+      ]
+    },
+    {
+      "id": "e8b6ac2940f",
+      "title": "OpenAI 风险管理策略",
+      "summary": "OpenAI 解释了如何在训练和部署过程中管理前沿 AI 风险，包括模型对齐、沙盒测试、阻断安全措施和监控等策略。这些措施旨在确保 AI 系统的安全和有效运作。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Managing frontier AI risk: From training to deployment",
+          "url": "https://openai.com/index/managing-frontier-ai-risk",
+          "published_at": "2026-11-18T06:00:00+00:00",
+          "text": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+          "id": "a8b6ac2940f"
+        }
+      ]
+    },
+    {
+      "id": "eeaeeeaef9f",
+      "title": "英伟达与AMD联手投资Genesis",
+      "summary": "英伟达和AMD首次联手投资，目标是推动Genesis的发展。该公司成功完成A轮融资，估值超过230亿人民币，标志着在具身计算领域的重要进展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+          "url": "https://www.qbitai.com/2026/11/510821.html",
+          "published_at": "2026-11-18T04:28:57+00:00",
+          "text": "具身全栈玩家",
+          "id": "aeaeeeaef9f"
+        }
+      ]
+    },
+    {
+      "id": "e9ab622ee82",
+      "title": "Claude 在蛋白质序列训练上取得进展",
+      "summary": "Claude 在大规模蛋白质序列上进行了训练。此举旨在推动生物信息学领域的研究和应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude was trained on protein sequences at scale",
+          "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+          "published_at": "2026-11-18T03:47:43+00:00",
+          "text": "Claude was trained on protein sequences at scale（HN 165 points，讨论: https://news.ycombinator.com/item?id=50541619）",
+          "id": "a9ab622ee82"
+        }
+      ]
+    },
+    {
+      "id": "e6cab9c8cd3",
+      "title": "OpenAI与Le Figaro合作",
+      "summary": "Le Groupe Figaro与OpenAI达成合作，将Le Figaro的新闻通过摘要和摘录的形式整合到ChatGPT中，并提供原始报道的链接。这一合作旨在增强用户对Le Figaro新闻内容的访问和理解。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "text": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "id": "a6cab9c8cd3"
+        }
+      ]
+    },
+    {
+      "id": "ec7d3ecb006",
+      "title": "OpenAI 推进芯片设计技术",
+      "summary": "OpenAI 模型优化了 Jalapeño 硅片中的电路，并改进了 RISC-V 核心设计，展示了在 AI 辅助芯片设计方面的进展。这些成就得益于 GPT-6 Astra 的应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Advancing chip design with OpenAI models",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "text": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+          "id": "ac7d3ecb006"
+        }
+      ]
+    },
+    {
+      "id": "eaf1852b4c4",
+      "title": "Hugging Face 推出 MoE 推理技术",
+      "summary": "Hugging Face 博客发布了一篇文章，介绍了他们在 MoE（混合专家）推理技术上的最新进展，模型参数达到了 180 亿。该模型在 32GB 的内存下运行，展示了大型变换器模型的最新应用。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+          "url": "https://huggingface.co/blog/moe-expert-streaming",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "text": "",
+          "id": "aaf1852b4c4"
+        }
+      ]
+    },
+    {
+      "id": "e679cee5ea1",
+      "title": "Hugging Face 发布 Rumble-2-Flash 模型",
+      "summary": "Hugging Face 发布了 Rumble-2-Flash，这是一款开放的 0.5B 语音模型，支持 40 种以上的语言。该模型旨在为多语言语音处理提供支持，促进相关技术的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "published_at": "2026-11-18T00:00:00+00:00",
+          "text": "",
+          "id": "a679cee5ea1"
+        }
+      ]
+    },
+    {
+      "id": "e3c24d42061",
+      "title": "SRE-1: 用于生产调查的27B模型",
+      "summary": "SRE-1是一个拥有270亿参数的模型，专注于生产环境中的调查与分析。该模型旨在提高对生产问题的识别与解决能力，推动运维自动化。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "SRE-1: 27B model for Production Investigations",
+          "url": "https://resolve.ai/labs/sre-1/paper",
+          "published_at": "2026-11-18T20:10:26+00:00",
+          "text": "SRE-1: 27B model for Production Investigations（HN 30 points，讨论: https://news.ycombinator.com/item?id=50551487）",
+          "id": "a3c24d42061"
+        }
+      ]
+    },
+    {
+      "id": "ef689168723",
+      "title": "DaisyRose-27B 推动后训练效率前沿",
+      "summary": "Hugging Face 发布了名为 DaisyRose-27B 的新模型，旨在提升后训练效率。该模型在多个基准测试中表现出色，显示出相较于现有模型更低的资源消耗和更高的性能。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "published_at": "2026-11-18T19:54:56+00:00",
+          "text": "",
+          "id": "af689168723"
+        }
+      ]
+    },
+    {
+      "id": "e75623b38e6",
+      "title": "Hugging Face 细调作业耗时原因解析",
+      "summary": "Hugging Face 博客探讨了为什么细调作业所需时间超过计算能力（FLOPs）所预期的情况。文章分析了各种因素，包括数据加载、模型架构和计算环境等，导致实际运行时间的差异。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "published_at": "2026-11-18T18:53:43+00:00",
+          "text": "",
+          "id": "a75623b38e6"
+        }
+      ]
+    },
+    {
+      "id": "e00a34e9a7f",
+      "title": "迪士尼推出AI互动星战机器人",
+      "summary": "迪士尼的沃尔特·迪士尼想象工程研发团队发布了三款新型音频动画机器人，利用亚马逊AWS云和AI技术与游客实时互动。新机器人Vilo Vele、Kado Bre'a和Jibu Bre'a均基于《曼达洛人》中的外星角色Anzellans。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+          "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+          "published_at": "2026-11-18T17:50:57+00:00",
+          "text": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has revealed three new Audio-Animatronic prototypes that rely on Amazon's AWS cloud and AI capabilities to respond in unique ways to guest interactions in real-time. The three animatronics, named Vilo Vele, Kado Bre'a, and Jibu Bre'a, are based on the Star Wars alien characters called the Anzellans that were featured in The Mandalorian and Grogu film … Read the full story at The Verge.",
+          "id": "a00a34e9a7f"
+        }
+      ]
+    },
+    {
+      "id": "e724823e096",
+      "title": "Maritime：AI 代理的云服务",
+      "summary": "Maritime (YC F26) 是一个为生产环境中的 AI 代理提供托管云服务的平台。该平台旨在简化 AI 代理的部署和管理，提升其稳定性和效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+          "url": "https://news.ycombinator.com/item?id=50549188",
+          "published_at": "2026-11-18T17:26:28+00:00",
+          "text": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents（HN 45 points，讨论: https://news.ycombinator.com/item?id=50549188）",
+          "id": "a724823e096"
+        }
+      ]
+    },
+    {
+      "id": "e9fa731b0ef",
+      "title": "OpenAI 研究加速：不平坦的前沿",
+      "summary": "OpenAI 对编码代理加速 AI 研究的能力进行了测量，发现其表现存在不均衡的情况。该现象表明了递归自我改进的潜力与挑战。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Research acceleration: The jagged frontier",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "published_at": "2026-11-18T08:00:00+00:00",
+          "text": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+          "id": "a9fa731b0ef"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 121,
+    "articles_new": 42,
+    "articles_filtered": 42,
+    "tokens": {
+      "prompt_tokens": 23956,
+      "completion_tokens": 3792
+    }
+  },
+  "mock": false
+}
