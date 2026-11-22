@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T10:44:13+08:00",
+  "briefing": "今日导读：联合国关于无人武器的谈判显露国际分歧，但未能达成具体协议；Signal限制截图功能，焦点转向隐私保护；Pandex推出新法律框架以规范欧洲AI代理。AI行业多元动态，保持关注趋势演进。",
+  "highlights": "今日看点：无人武器控制谈判的失败表明国际社会在AI军事化上的巨大分歧，反映出对AI武器使用的法律和道德框架的迫切需求。同时，Signal加强隐私保护应对AI监控风险，是对当前隐私安全形势的迅速回应。Pandex的AI代理法案将影响欧洲范围内对AI技术的监管，反映出各国在AI监管上的不同步发展。这些事件共同勾勒出AI技术与国家政策间复杂的互动图景。",
+  "events": [
+    {
+      "id": "e158994b8ae",
+      "title": "联合国无人武器控制谈判破裂",
+      "summary": "国际联合作谈关于控制无人武器的讨论未能取得进展。这次会议未能达成任何具体协议，反映出各国在这一关键问题上的分歧依然严重。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n联合国关于无人武器的控制谈判破裂，各国未达成具体协议。\n\n### 为什么令人兴奋\n显示国际社会在关于AI军事化的问题上存在深刻分歧，对未来技术战争的法律和道德框架构成挑战。\n\n### 产品机会\n在无人武器的使用治理上有巨大潜力，独立企业或政府机构可开发相关评估工具或建议框架。\n\n### 格局影响\n为Google/Anthropic等限制技术扩散的企业提供护城河，同时对开源和创业者提出更高合作与创新要求。\n\n### 冷静判断\n法律框架的制定可能需要多年，此类产品或研究尚在早期阶段，商用尚需时日。\n\n### 趋势坐标\n表明国防层面AJ法律发展缓慢，呼应过去两周内关于AI监管和策略评估的讨论。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "published_at": "2026-11-21T23:10:21+00:00",
+          "text": "International UN talks on controlling use of autonomous weapons collapse（HN 39 points，讨论: https://news.ycombinator.com/item?id=50594564）",
+          "id": "a158994b8ae"
+        }
+      ]
+    },
+    {
+      "id": "e12eb3c771b",
+      "title": "GPT-6.2 Astra 具身模型突破",
+      "summary": "GPT-6.2 Astra在具身模型任务上取得显著提升，16项任务的成功率相比GPT-6 Astra翻倍。此外，它还实现了可变形物体的操控，成为全球首个达到此功能的模型。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI的GPT-6.2 Astra在具身模型任务上取得突破性提升。\n\n### 为什么令人兴奋\n模型在16个任务的成功率提升100%，并能够操控可变形物体，是全球首个实现该功能的模型。\n\n### 产品机会\n为机器人与触觉AI系统开发新功能，促进医用机器人、柔性生产线的智能化升级。\n\n### 格局影响\n巩固OpenAI在AI模型研发中的领先地位，可能进一步逼迫Anthropic及其他对手提升技术实力。\n\n### 冷静判断\n仍处于实验验证阶段，距离商用需要更多场景测试和优化。\n\n### 趋势坐标\n与OpenAI近期在专业领域AI应用中的成功呼应，如医疗和法律领域技术扩展。",
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+          "url": "https://www.qbitai.com/2026/11/511779.html",
+          "published_at": "2026-11-21T06:35:59+00:00",
+          "text": "还实现可变形物体操控全球首通",
+          "id": "a12eb3c771b"
+        }
+      ]
+    },
+    {
+      "id": "e8d54d4add3",
+      "title": "Signal 限制手机截图功能",
+      "summary": "Signal 在其安卓和 iOS 应用中限制用户截图功能，以应对 AI 监控带来的“生存威胁”。这项措施旨在保护用户隐私和数据安全。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+          "published_at": "2026-11-21T21:37:10+00:00",
+          "text": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+          "id": "a8d54d4add3"
+        }
+      ]
+    },
+    {
+      "id": "ecfea722a56",
+      "title": "Pandex 发布欧洲AI代理法案",
+      "summary": "Pandex提出了针对AI代理的正式欧洲法律，旨在规范AI的使用和管理。该法案主要关注AI的责任与透明度，促进法律框架的建立以应对AI技术的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "published_at": "2026-11-21T20:47:41+00:00",
+          "text": "Pandex – Official European Law for AI Agents, over MCP（HN 39 points，讨论: https://news.ycombinator.com/item?id=50593481）",
+          "id": "acfea722a56"
+        }
+      ]
+    },
+    {
+      "id": "e4cb075a556",
+      "title": "DeepSeek V1 开源 Agent 项目曝光",
+      "summary": "DeepSeek V1 的作者如今曝光了他们的新创业项目，推出了一款专为本地部署而生的开源 Agent。这一新产品旨在满足用户对本地部署解决方案的需求。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+          "url": "https://www.qbitai.com/2026/11/511570.html",
+          "published_at": "2026-11-21T06:32:31+00:00",
+          "text": "专为本地部署而生",
+          "id": "a4cb075a556"
+        }
+      ]
+    },
+    {
+      "id": "e234da3fc18",
+      "title": "联合国未能达成无人武器协议",
+      "summary": "本周在日内瓦举行的联合国会议上，代表们未能就自主武器（即所谓的“杀手机器人”）的使用达成一致规则。国际红十字会曾呼吁在一年内制定具有法律约束力的规则，得到联合国秘书长和教皇的支持，但最终仅达成了“开始讨论选择”的妥协。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "The UN fails to agree on rules regulating ‘killer robots’",
+          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "published_at": "2026-11-21T20:03:37+00:00",
+          "text": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR : Before the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be drafted within a year. That call was backed by the U.N. secretary-general and by Pope Leo. The compromise reached was that countries would inste … Read the full story at The Verge.",
+          "id": "a234da3fc18"
+        }
+      ]
+    },
+    {
+      "id": "ec1a70eb7e7",
+      "title": "Anthropic IPO 银行关闭仓位",
+      "summary": "Anthropic 的首次公开募股（IPO）银行关闭了一个仓位，以稳定股价。这一措施旨在应对市场波动，保障公司股票的稳定性。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic's IPO bank closed position meant to stabilize stock",
+          "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20",
+          "published_at": "2026-11-21T12:43:24+00:00",
+          "text": "Anthropic's IPO bank closed position meant to stabilize stock（HN 32 points，讨论: https://news.ycombinator.com/item?id=50588647）",
+          "id": "ac1a70eb7e7"
+        }
+      ]
+    },
+    {
+      "id": "ed989f10691",
+      "title": "姚顺雨回应Hy小模型进展",
+      "summary": "姚顺雨与混元团队在Reddit上回答网友提问，透露了Hy小模型已进入开发路线图。此外，团队分享了许多关于模型训练背后的关键秘诀。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+          "url": "https://www.qbitai.com/2026/11/511757.html",
+          "published_at": "2026-11-21T06:30:55+00:00",
+          "text": "还透露了不少训练背后的秘诀",
+          "id": "ad989f10691"
+        }
+      ]
+    },
+    {
+      "id": "ed5eeee1878",
+      "title": "ClawDOS：AI 编程工具进入 DOS时代",
+      "summary": "ClawDOS 是一款针对 DOS 系统的 AI 编程代理，旨在帮助开发者更高效地编写代码。该工具利用人工智能技术，提高了在传统操作系统上进行编程的便利性。”}  filósofo 2010-06-20 19:57:34 1 0 0 29 1 0 0 0 0 1 6 0 29 0 15 27 0 3 0 0 0 0 0 6 0 0 0 0 0 3 0 1 0 1 8 0 0 8 0 0 0 0 0 0 1 1 0 0 0 0 5-8-9 6 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 5 6 0 0 0 0 0 0 0 5 0 2 2 0 0 1 0 0 0 5 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2 1 0 1 0 0 0 0 0 0 0 0 1 0 0 6 0 0 0 0 0 0 0 5 0 6 0 0 0 0 0 1 1 0 0 4 1 1 0 0 0 0 0 1 0 0 0 2 0 2 0 2 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 5 0 8 9 10 1 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "ClawDOS – An AI coding agent for DOS",
+          "url": "http://ricapar.net/ClawDOS/",
+          "published_at": "2026-11-21T05:38:01+00:00",
+          "text": "ClawDOS – An AI coding agent for DOS（HN 159 points，讨论: https://news.ycombinator.com/item?id=50586292）",
+          "id": "ad5eeee1878"
+        }
+      ]
+    },
+    {
+      "id": "e99727b65c2",
+      "title": "AI 供应链泄露用户数据",
+      "summary": "AI 供应链出现泄漏，导致用户的机密数据以惊人的频率暴露。该问题引发了对数据安全和隐私保护的广泛关注，许多用户对此表示担忧。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "published_at": "2026-11-20T21:53:39+00:00",
+          "text": "Leaky AI supply chain is exposing secret user data at an alarming rate（HN 52 points，讨论: https://news.ycombinator.com/item?id=50582794）",
+          "id": "a99727b65c2"
+        }
+      ]
+    },
+    {
+      "id": "e9e7df998d6",
+      "title": "米哈游发布VLA论文",
+      "summary": "米哈游发布了其最新的VLA论文，介绍了一款具有8B参数的模型。该模型经过50小时的自主运行，展现了其在人工智能领域的进展。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "米哈游发了个VLA论文",
+          "url": "https://www.qbitai.com/2026/11/511740.html",
+          "published_at": "2026-11-20T16:25:26+00:00",
+          "text": "8B参数，50小时自主运行",
+          "id": "a9e7df998d6"
+        }
+      ]
+    },
+    {
+      "id": "e10310c2093",
+      "title": "Anthropic 发布新功能",
+      "summary": "Anthropic宣布推出关键新功能，旨在提升用户体验并增强产品性能。此次更新包含多项技术改进，为用户提供更可靠的服务。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Announcements",
+          "url": "https://www.anthropic.com/news/announcements",
+          "published_at": "",
+          "text": "Announcements",
+          "id": "a10310c2093"
+        }
+      ]
+    },
+    {
+      "id": "e31508cd64d",
+      "title": "Anthropic 宣布新合作伙伴关系",
+      "summary": "人工智能公司 Anthropic 最近宣布与多家企业建立了新的合作伙伴关系。这些合作旨在加强公司的 AI 技术研发，并推动行业技术的进步。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Partnerships",
+          "url": "https://www.anthropic.com/news/partnerships",
+          "published_at": "",
+          "text": "Partnerships",
+          "id": "a31508cd64d"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 51,
+    "articles_new": 13,
+    "articles_filtered": 8,
+    "tokens": {
+      "prompt_tokens": 17814,
+      "completion_tokens": 6954
+    }
+  },
+  "mock": false
+}
