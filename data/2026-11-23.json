@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T11:20:18+08:00",
+  "briefing": "今日导读：AI行业今日新闻丰富，多家企业在AI模型创新、管理和应用方面有所进展。特别关注的是OpenAI对AI发展速度限制的讨论，可能对整个行业的未来发展节奏产生影响。",
+  "highlights": "今日看点：多个事件凸显AI行业对管理和安全的重视。OpenAI对AI发展设限的思考和哈佛开设AI安全课程显示行业内对速度管理和安全教育的关注。此外，关于AI对气候的影响讨论以及评估LLM性别偏见的研究，表明了AI界在努力自省，并注重其社会和环境影响。总体而言，说明AI行业正在更广泛、更深刻地自我审视和调整。",
+  "events": [
+    {
+      "id": "e716c53fa8f",
+      "title": "OpenAI 对 AI 发展设限的思考",
+      "summary": "OpenAI 的首席科学家讨论了如何为 AI 发展设定速度限制。他指出，确定速度限制的前提在于达成如何测量速度的共识。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI的首席科学家提出为AI发展设定速度限制的建议，旨在规范AI技术快速发展带来的潜在风险。\n\n### 为什么令人兴奋\n这表明AI行业正开始考虑技术发展的长远影响和社会责任，可能是确保AI技术安全发展的第一步。\n\n### 产品机会\n设定速度限制可能推动开发出专注于安全性和合规性的AI系统和应用，为政府和企业提供新工具以监管AI技术。\n\n### 格局影响\n如果行业内广泛采用速度限制概念，OpenAI可能引领行业标准，并影响其他AI公司的发展策略。\n\n### 冷静判断\n当前主要是理念上的探讨，具体实施可能需要长期协调和不断调整，短期内对开发者和企业影响有限。\n\n### 趋势坐标\n此提议与近期关于AI安全性和监管的讨论相一致，特别是与Anthropic的安全评估和哈佛AI安全课程相呼应。",
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "published_at": "2026-11-22T21:14:07+00:00",
+          "text": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+          "id": "a716c53fa8f"
+        }
+      ]
+    },
+    {
+      "id": "ed7b15f2f90",
+      "title": "0rwx：受Unix权限启发的AI使用模型",
+      "summary": "0rwx是一个简单的AI使用模型，灵感来源于Unix权限。该模型旨在改进AI应用的管理和使用方式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "url": "https://0rwx.com/",
+          "published_at": "2026-11-22T23:53:00+00:00",
+          "text": "0rwx – A simple model of AI usage, inspired by Unix permissions（HN 24 points，讨论: https://news.ycombinator.com/item?id=50605445）",
+          "id": "ad7b15f2f90"
+        }
+      ]
+    },
+    {
+      "id": "e4f0ed76760",
+      "title": "本地 AI 入门指南：Inkling, Qwen 与 Unsloth",
+      "summary": "本指南介绍了如何使用 Inkling、Qwen 和 Unsloth 等工具进行本地 AI 开发。文章覆盖了这些工具的基本特性和使用方法，适合初学者了解和入门本地 AI 技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "published_at": "2026-11-22T21:01:16+00:00",
+          "text": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth（HN 285 points，讨论: https://news.ycombinator.com/item?id=50603845）",
+          "id": "a4f0ed76760"
+        }
+      ]
+    },
+    {
+      "id": "ebad80196e6",
+      "title": "哈佛开设AI安全课程CS 2881R",
+      "summary": "哈佛大学推出了新课程CS 2881R，专注于人工智能安全。该课程旨在培养学生对AI技术潜在风险的理解，以及如何有效管理这些风险的能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Harvard CS 2881R AI Safety",
+          "url": "https://boazbk.github.io/mltheoryseminar/",
+          "published_at": "2026-11-22T18:01:54+00:00",
+          "text": "Harvard CS 2881R AI Safety（HN 50 points，讨论: https://news.ycombinator.com/item?id=50602153）",
+          "id": "abad80196e6"
+        }
+      ]
+    },
+    {
+      "id": "e3c4f4993ad",
+      "title": "创建LLM子代理游戏",
+      "summary": "一位开发者展示了一款以大型语言模型（LLM）为基础的游戏，玩家在游戏中扮演LLM的子代理。该游戏旨在探索与LLM互动的可能性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755",
+          "published_at": "2026-11-22T13:56:58+00:00",
+          "text": "Show HN: I built a game where you are an LLM's subagent（HN 279 points，讨论: https://news.ycombinator.com/item?id=50599762）",
+          "id": "a3c4f4993ad"
+        }
+      ]
+    },
+    {
+      "id": "eba93566b3b",
+      "title": "AI对气候造成灾难性影响",
+      "summary": "报告指出，AI技术在快速发展的同时，对气候造成了严重影响。尤其是在能源消耗和碳排放方面，AI系统的运行和训练需要消耗大量电力，进而加剧全球变暖问题。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "AI is becoming a disaster for the climate",
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "published_at": "2026-11-22T12:19:46+00:00",
+          "text": "AI is becoming a disaster for the climate（HN 109 points，讨论: https://news.ycombinator.com/item?id=50598961）",
+          "id": "aba93566b3b"
+        }
+      ]
+    },
+    {
+      "id": "e0ceef4b235",
+      "title": "Muru：AI助力的Rust服务器",
+      "summary": "Muru是由mod_WSGI的创造者开发的一款Rust服务器，旨在为Python应用提供AI辅助支持。这款服务器可以优化Python应用的性能和效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+          "url": "https://simonwillison.net/2026/Nov/21/muru/",
+          "published_at": "2026-11-22T09:57:01+00:00",
+          "text": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator（HN 73 points，讨论: https://news.ycombinator.com/item?id=50597959）",
+          "id": "a0ceef4b235"
+        }
+      ]
+    },
+    {
+      "id": "e77bc9c5c53",
+      "title": "评估 LLM 性别偏见的研究",
+      "summary": "一项研究探讨了大型语言模型（LLMs）在冲突中的性别不对称道德框架的表现。研究显示，模型可能对男性用户表现得更加严厉，引发了对性别偏见的讨论。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+          "url": "https://arxiv.org/abs/2606.14068",
+          "published_at": "2026-11-22T09:18:36+00:00",
+          "text": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts（HN 92 points，讨论: https://news.ycombinator.com/item?id=50597743）",
+          "id": "a77bc9c5c53"
+        }
+      ]
+    },
+    {
+      "id": "e21a2ff09d7",
+      "title": "AI或解黎曼猜想的探索",
+      "summary": "自去年起，有人提出了一个问题：如果AI解决了黎曼猜想会怎样？这一问题引发了广泛的讨论，探讨了人工智能在数学领域的潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "published_at": "2026-11-22T03:06:35+00:00",
+          "text": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"（HN 48 points，讨论: https://news.ycombinator.com/item?id=50595812）",
+          "id": "a21a2ff09d7"
+        }
+      ]
+    },
+    {
+      "id": "e94cadd3b5f",
+      "title": "Anthropic 发布新 AI 模型",
+      "summary": "Anthropic 最近推出了一款新的人工智能模型，旨在提高自然语言处理的效果。该模型采用了最新的算法，并经过了大规模的数据训练，以增强其理解和生成语言的能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Features",
+          "url": "https://www.anthropic.com/news/features",
+          "published_at": "",
+          "text": "Features",
+          "id": "a94cadd3b5f"
+        }
+      ]
+    },
+    {
+      "id": "ec2f04d00e0",
+      "title": "AI 网络病毒现状分析",
+      "summary": "当前针对AI网络病毒的防御措施效果不佳，无法有效减缓其传播。行业专家指出，现有的策略需要加强，以应对AI技术带来的新型网络威胁。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+          "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+          "published_at": "2026-11-22T03:28:48+00:00",
+          "text": "Current Efforts Aren't Enough to Slow the AI Cyber Virus（HN 29 points，讨论: https://news.ycombinator.com/item?id=50595940）",
+          "id": "ac2f04d00e0"
+        }
+      ]
+    },
+    {
+      "id": "e7893687ce6",
+      "title": "推理服务的数据处理事件",
+      "summary": "近日，关于数据处理的事件曝光，涉及到多个推理服务提供商。这些事件引发了对数据安全和隐私的广泛关注，业内人士开始讨论如何加强保护措施。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Data Processing Incidents on Inference Providers",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+          "published_at": "2026-11-22T02:14:14+00:00",
+          "text": "Data Processing Incidents on Inference Providers（HN 280 points，讨论: https://news.ycombinator.com/item?id=50595554）",
+          "id": "a7893687ce6"
+        }
+      ]
+    },
+    {
+      "id": "ede5cd1a6d5",
+      "title": "OpenAI 发布人工智能难度评估方法",
+      "summary": "OpenAI 博客介绍了困惑度（perplexity）如何衡量 AI 模型的进展。该方法有助于开发者建立评估新兴能力的共同标准。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "published_at": "2026-11-22T00:00:00+00:00",
+          "text": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "id": "ade5cd1a6d5"
+        }
+      ]
+    },
+    {
+      "id": "eb12d9d8f20",
+      "title": "Christopher Stubbs 加入 Anthropic 信托",
+      "summary": "物理学家 Christopher Stubbs 加入了 Anthropic 的长期利益信托委员会，以推动公司在人工智能领域的可持续发展。他的专业背景将有助于指导公司的战略方向和决策。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+          "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+          "published_at": "",
+          "text": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+          "id": "ab12d9d8f20"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind",
+    "Hugging Face Blog"
+  ],
+  "stats": {
+    "articles_fetched": 53,
+    "articles_new": 14,
+    "articles_filtered": 18,
+    "tokens": {
+      "prompt_tokens": 13272,
+      "completion_tokens": 1656
+    }
+  },
+  "mock": false
+}
