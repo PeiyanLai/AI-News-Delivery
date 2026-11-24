@@ -1,0 +1,497 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T14:34:21+08:00",
+  "briefing": "今日导读：AI领域继续频繁活动，来自蚂蚁集团的OceanLake平台和OpenAI与Cisco合作推出的Shirudo开源工具显示出技术开放趋势。Google 深入 AI 应用个性化，Hugging Face 发布工具提升机器人效能。值得关注的是 Anthropic 在 IPO 中的表现，将影响市场对AI投资的信心。",
+  "highlights": "值得关注的是 AI 技术的开放性和全球影响力正在增强。蚂蚁集团的 OceanLake 和 OpenAI 的 Shirudo 推动了技术开源，显示了中国和西方公司在技术共享上的联动。另外，Anthropic 在 IPO 中遇到的挑战则提醒我们，AI市场依然面临着投资者信心问题。在技术层面，Google 和 Hugging Face 的动作显示了个性化应用的崛起，这为业界带来新的产品创新机遇。",
+  "events": [
+    {
+      "id": "e8dc9facacc",
+      "title": "蚂蚁OceanBase发布OceanLake平台",
+      "summary": "蚂蚁集团推出了湖库一体的AI数据平台OceanLake，其核心引擎将向全球开源。这标志着中国AI数据平台的发展加速。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n蚂蚁集团推出了一个湖库一体化的AI数据平台，并计划核心引擎开源。\n\n### 为什么令人兴奋\n中国AI数据平台的加速发展，能效提升速度有望大幅增加。\n\n### 产品机会\n开放引擎可以催生更多细分行业的定制数据解决方案，并增强大数据分析能力。\n\n### 格局影响\n标志着中国企业对AI数据基础设施的重大进展，可能威胁西方同类产品的市场份额。\n\n### 冷静判断\n虽然开源计划可以吸引开发者社区，但实际对产业的渗透可能需要一个长期过程。\n\n### 趋势坐标\n开放与共享逐渐成为AI发展趋势，这与OpenAI等公司的开源策略形成呼应。",
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+          "url": "https://www.qbitai.com/2026/11/512330.html",
+          "published_at": "2026-11-24T03:30:46+00:00",
+          "text": "中国AI数据平台加速崛起",
+          "id": "a8dc9facacc"
+        }
+      ]
+    },
+    {
+      "id": "eaa1f85516e",
+      "title": "MEET2027 活动报名开启",
+      "summary": "MEET2027 活动将于 12 月 9 日在北京举行，旨在汇聚 AI 前沿实践者，分享他们的见解与判断。参与者可通过报名参加此次重要的行业交流活动。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+          "url": "https://www.qbitai.com/2026/11/512329.html",
+          "published_at": "2026-11-24T03:33:48+00:00",
+          "text": "12.9 北京，来MEET2027现场",
+          "id": "aaa1f85516e"
+        }
+      ]
+    },
+    {
+      "id": "e66daef5c73",
+      "title": "2026奇点智能技术大会圆满落幕",
+      "summary": "2026奇点智能技术大会与2026 C++及系统软件技术大会在北京万达文华酒店成功举办。此次大会聚集了70多位技术专家，共同探讨AI技术的演进和生态变革。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
+          "url": "https://www.qbitai.com/2026/11/512297.html",
+          "published_at": "2026-11-24T02:36:08+00:00",
+          "text": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
+          "id": "a66daef5c73"
+        }
+      ]
+    },
+    {
+      "id": "e8f20e5199f",
+      "title": "LLMs可检测概念注入",
+      "summary": "研究表明，LLMs（大型语言模型）能够识别先前的概念注入。这一发现揭示了LLMs在处理输入时的潜在内省能力，为了解模型的工作机制提供了新思路。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+          "url": "https://arxiv.org/abs/2602.20031",
+          "published_at": "2026-11-23T22:29:48+00:00",
+          "text": "Latent Introspection: LLMs Can Detect Prior Concept Injections（HN 51 points，讨论: https://news.ycombinator.com/item?id=50620328）",
+          "id": "a8f20e5199f"
+        }
+      ]
+    },
+    {
+      "id": "e27065c561f",
+      "title": "Anthropic 推出 Claude Ship 代码审核工具",
+      "summary": "Anthropic推出了新的Claude Ship产品，使其AI代理能够独立审查、修复和批准代码变更。新增的PR Steward和Claude Approvals代理能够处理CI检查失败、合并冲突和团队反馈等问题，旨在提高软件工程师的工作效率。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "published_at": "2026-11-23T22:05:50+00:00",
+          "text": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+          "id": "a27065c561f"
+        },
+        {
+          "source_id": "theverge_ai",
+          "source_name": "The Verge AI",
+          "category": "英文媒体",
+          "title": "Claude AI can review pull requests and ship fixes on its own now",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+          "published_at": "2026-11-23T20:00:00+00:00",
+          "text": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was announced in March and became generally available in October . What's new alongside Claude Ship are the PR Steward and Claude Approvals agents, which are launching in beta today. PR Steward \"jumps in on failing CI checks, merge conflicts, and review feedback from Code Review, other review tools, or team member … Read the full story at The Verge.",
+          "id": "a49ef9cf508"
+        }
+      ]
+    },
+    {
+      "id": "e1d0c151fef",
+      "title": "OpenAI 和 Cisco 推出 Shirudo",
+      "summary": "OpenAI 和 Cisco 联合推出 Shirudo，这是一款针对 Linux 的开源运行时。它帮助团队在发布补丁时保护正在运行的系统。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "published_at": "2026-11-23T21:20:00+00:00",
+          "text": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+          "id": "a1d0c151fef"
+        }
+      ]
+    },
+    {
+      "id": "eca38829e73",
+      "title": "Hugging Face 发布 RoboTrack",
+      "summary": "Hugging Face 发布了 RoboTrack，这是一种用于现实世界机器人操作的点跟踪技术。该技术旨在提高机器人在复杂环境中的操作精度和效能，并支持多种任务。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "published_at": "2026-11-23T17:20:37+00:00",
+          "text": "",
+          "id": "aca38829e73"
+        }
+      ]
+    },
+    {
+      "id": "e6a7990e1ad",
+      "title": "亚马逊以75亿美元收购Decart",
+      "summary": "亚马逊以75亿美元收购了Decart的AI优化技术和研究团队。此次交易旨在支持亚马逊即将推出的Trainium芯片。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "published_at": "2026-11-23T17:14:23+00:00",
+          "text": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+          "id": "a6a7990e1ad"
+        }
+      ]
+    },
+    {
+      "id": "e9dddeb89e4",
+      "title": "Google DeepMind 量子算法突破",
+      "summary": "Google DeepMind 正在使用代理团队和形式验证的方法来提高量子算法，特别是在融合和化学领域。这项研究旨在加快量子算法的寻找过程。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "deepmind_blog",
+          "source_name": "Google DeepMind",
+          "category": "官方",
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "published_at": "2026-11-23T16:59:40+00:00",
+          "text": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+          "id": "a9dddeb89e4"
+        }
+      ]
+    },
+    {
+      "id": "e213cd23b5b",
+      "title": "国产端侧大模型实测突破",
+      "summary": "一款具备1450亿参数的国产端侧大模型在笔记本电脑上实现每秒超过80个Token的处理速度。该模型支持零Token成本的离线编程，用户在断网情况下仍可自由进行Vibe Coding。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+          "url": "https://www.qbitai.com/2026/11/512195.html",
+          "published_at": "2026-11-23T11:01:15+00:00",
+          "text": "零Token成本，断网也能自由Vibe Coding",
+          "id": "a213cd23b5b"
+        }
+      ]
+    },
+    {
+      "id": "e680b35173b",
+      "title": "Richpanel 助力支持自动化提升",
+      "summary": "Richpanel 使用 GPT-6 Astra 和 GPT-6.1 Sol 为其 AI 支持代理提供工具和流程，GPT-6 Luna 用于对话。该公司在 30 天内实现了 50% 的支持自动化。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "published_at": "2026-11-23T08:00:00+00:00",
+          "text": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+          "id": "a680b35173b"
+        }
+      ]
+    },
+    {
+      "id": "eab2f6e9843",
+      "title": "AI驱动的科学论文发布平台",
+      "summary": "一个由936个智能体组成的科学家社会在12周内发布近千篇论文，并实现了同行评议。这一成果被称为‘Agent版arXiv’，展示了AI在科学领域的潜力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+          "url": "https://www.qbitai.com/2026/11/512004.html",
+          "published_at": "2026-11-23T06:59:38+00:00",
+          "text": "一个完全由AI组成的科学家社会，是什么样？",
+          "id": "aab2f6e9843"
+        }
+      ]
+    },
+    {
+      "id": "e6fd4c32fe3",
+      "title": "Hugging Face 代理评估构建指南",
+      "summary": "Hugging Face 发布了关于如何构建和维护代理评估的指南。文章深入探讨了代理评估的重要性，以及如何在不同情境中有效利用该评估方法，提供了实用的建议和框架。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "How to build and maintain an agentic evaluation",
+          "url": "https://huggingface.co/blog/agentic-evals",
+          "published_at": "2026-11-23T00:00:00+00:00",
+          "text": "",
+          "id": "a6fd4c32fe3"
+        }
+      ]
+    },
+    {
+      "id": "e86405d6d1e",
+      "title": "将Agent技能捐赠给Agentic AI基金会",
+      "summary": "该事件涉及将Agent技能捐赠给Agentic AI基金会。此举旨在推动人工智能的研究和应用，促进AI技术的发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Donating Agent Skills to the Agentic AI Foundation",
+          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "published_at": "",
+          "text": "Donating Agent Skills to the Agentic AI Foundation",
+          "id": "a86405d6d1e"
+        }
+      ]
+    },
+    {
+      "id": "e98d45c75b1",
+      "title": "Anthropic 招募生命科学领域研究员",
+      "summary": "Anthropic 正在招聘生命科学领域的来宾研究员，旨在推动相关领域的研究与创新。该计划为不同背景的科学家提供参与项目的机会，鼓励跨学科合作与探索。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "anthropic_news",
+          "source_name": "Anthropic News",
+          "category": "官方",
+          "title": "Open call for guest investigators in the life sciences",
+          "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+          "published_at": "",
+          "text": "Open call for guest investigators in the life sciences",
+          "id": "a98d45c75b1"
+        }
+      ]
+    },
+    {
+      "id": "eb6b7396fed",
+      "title": "亿邦产业互联网年会与智能体大会合办",
+      "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合并举行。本次大会吸引了近1500人参与，展示了AI与出海的强劲发展预期。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
+          "url": "https://www.qbitai.com/2026/11/512305.html",
+          "published_at": "2026-11-24T03:21:12+00:00",
+          "text": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
+          "id": "ab6b7396fed"
+        }
+      ]
+    },
+    {
+      "id": "e9b8ffb980e",
+      "title": "Declare: AI 的用户界面语言",
+      "summary": "Declare 是一种旨在为用户和他们的 AI 提供交互的用户界面语言。该语言的设计目标是简化与 AI 的沟通，使用户能够更有效地表达需求和指令。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Declare is a UI language for you and your AI",
+          "url": "https://davidtemkin.github.io/declarelang/",
+          "published_at": "2026-11-24T02:36:56+00:00",
+          "text": "Declare is a UI language for you and your AI（HN 34 points，讨论: https://news.ycombinator.com/item?id=50622854）",
+          "id": "a9b8ffb980e"
+        }
+      ]
+    },
+    {
+      "id": "ebfcbbc5c44",
+      "title": "具身行业迎来通用智能新进展",
+      "summary": "经过多年的期待，具身行业的预训练通用智能终于有了明确突破。相关研究揭示了该领域在智能化水平上的重大进展，可能改变未来人工智能的发展方向。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "具身行业，终于等来了自己的通用智能时刻",
+          "url": "https://www.qbitai.com/2026/11/512264.html",
+          "published_at": "2026-11-24T01:51:56+00:00",
+          "text": "行业苦等多年的预训练通用智能，终于有了答案",
+          "id": "abfcbbc5c44"
+        }
+      ]
+    },
+    {
+      "id": "e0d63fb1e6c",
+      "title": "Supertake 获 2000 万美元融资",
+      "summary": "一家名为 Supertake 的初创公司筹集了 2000 万美元资金，以便让 AI 代理能够将用户的市场预测转化为股票投资组合。用户可以根据自己的市场看法进行投资，而无需自己挑选股票。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "published_at": "2026-11-23T22:02:05+00:00",
+          "text": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+          "id": "a0d63fb1e6c"
+        }
+      ]
+    },
+    {
+      "id": "ea7839ae95a",
+      "title": "16岁少年创办 AI 导弹初创公司",
+      "summary": "一名16岁的少年创办了名为 AI Missile 的初创公司，专注于开发人工智能导弹。他的目标是降低每次击杀的成本，推动军事技术的创新。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+          "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+          "published_at": "2026-11-23T21:56:44+00:00",
+          "text": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'（HN 24 points，讨论: https://news.ycombinator.com/item?id=50619973）",
+          "id": "aa7839ae95a"
+        }
+      ]
+    },
+    {
+      "id": "e7601f68fa2",
+      "title": "Google Search AI 模式新功能",
+      "summary": "Google 在其 AI 模式中加入了对 Drive 和 Wallet 的支持，以提供更个性化的回答。通过在 Gemini 应用中引入个人智能，Google 利用其生态系统中已有的大量用户数据。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "published_at": "2026-11-23T19:14:46+00:00",
+          "text": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+          "id": "a7601f68fa2"
+        }
+      ]
+    },
+    {
+      "id": "ed6a5b08e3f",
+      "title": "Sierra 融资 17.5 亿美元，估值达 300 亿",
+      "summary": "企业客户体验公司 Sierra 宣布完成 17.5 亿美元的 F 轮融资，将其估值提升至 300 亿美元。该公司由前 Salesforce 联合首席执行官 Bret Taylor 共同创立，随着 AI 在客户体验领域的需求激增，Sierra 迅速成长。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "published_at": "2026-11-23T14:43:03+00:00",
+          "text": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+          "id": "ad6a5b08e3f"
+        }
+      ]
+    },
+    {
+      "id": "ef8a4e02f42",
+      "title": "OpenAI助力企业法律团队",
+      "summary": "OpenAI的Stacey Wang和Craig Bruney与LECG的Mary O’Carroll以及Cooley的Richard Segal探讨了AI如何帮助企业法律团队连接业务背景，构建可重用的工作流程，并从外部顾问那里获得更多支持。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Connected intelligence for in-house legal",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "published_at": "2026-11-23T08:00:00+00:00",
+          "text": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+          "id": "af8a4e02f42"
+        }
+      ]
+    },
+    {
+      "id": "e5987e77937",
+      "title": "蚂蚁医疗推出多项AI新功能",
+      "summary": "蚂蚁医疗发布了五项AI相关的功能，包括开源和本地部署选项，帮助用户在数据隐私方面提供更多保障。此外，新升级的阿福模型能够模仿医生思考，通过整合望闻问切的传统中医理念，提升诊断能力。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+          "url": "https://www.qbitai.com/2026/11/512017.html",
+          "published_at": "2026-11-23T07:42:01+00:00",
+          "text": "阿福大升级：让模型像医生一样思考",
+          "id": "a5987e77937"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [],
+  "stats": {
+    "articles_fetched": 76,
+    "articles_new": 25,
+    "articles_filtered": 29,
+    "tokens": {
+      "prompt_tokens": 17233,
+      "completion_tokens": 2817
+    }
+  },
+  "mock": false
+}
