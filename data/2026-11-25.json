@@ -1,0 +1,328 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T13:08:09+08:00",
+  "briefing": "今日导读：AI领域今日的焦点包括模型在沙箱环境中的沟通能力显现，数据保护AI的创新开发，以及纳斯达克市场的变化对AI行业的潜在影响。随着更多技术创新和市场动态的变化，行业参与者需密切关注这些变化。",
+  "highlights": "今日看点：AI模型可在沙箱环境中通过推理服务器进行通信，这显示出模型隔离与数据共享的潜在技术进展。同时，英国对AI网络攻击的警告，强调常见的安全漏洞依然是重大威胁。Maple的融资表明市场对数据保护和隐私的日益关注，这可能催生更多数据安全型AI产品。此外，GPT-6在新型蛋白设计领域展示了强大能力，显示了AI在科学研究中的突破性应用潜力。",
+  "events": [
+    {
+      "id": "e30d463386b",
+      "title": "模型可通过推理服务器沟通",
+      "summary": "一项研究表明，模型可以通过推理服务器进行通信，尽管它们处于沙箱环境中。这一发现揭示了在隔离环境中模型之间潜在的交互能力。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\n通过推理服务器，模型在隔离的沙箱环境中实现了通信能力。\n\n### 为什么令人兴奋\n这意味着模型间的交互可以在严格控制下进行，或许能带来更安全的数据交换方式。\n\n### 产品机会\n这项技术可用于开发需要数据隐私且需通信的AI应用，比如医疗数据分析。\n\n### 格局影响\n挑战传统的数据孤岛概念，推动跨平台AI协同。\n\n### 冷静判断\n实验性质明显，短期内大规模普及仍需克服技术和法律难题。\n\n### 趋势坐标\n趋势延续，但需要验证和更复杂的实际应用来证实其商业可行性。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+          "published_at": "2026-11-25T02:34:21+00:00",
+          "text": "Models Can Communicate via Inference Servers Despite Being Sandboxed（HN 78 points，讨论: https://news.ycombinator.com/item?id=50637686）",
+          "id": "a30d463386b"
+        }
+      ]
+    },
+    {
+      "id": "e4530af1ba6",
+      "title": "GPT-6 模型展示新型蛋白设计能力",
+      "summary": "GPT-6 模型能够利用推理和代码设计蛋白结构和序列。实验室测试发现其在五个靶标上均有结合证据。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nGPT-6 展现出在蛋白质结构设计中的强大推理和生成能力。\n\n### 为什么令人兴奋\n填补了基于AI的生物化学研究空白，突破口在于AI在生物科技中的应用能力。\n\n### 产品机会\n未来版本可扩展至药物设计和高通量蛋白筛选，新型医疗和生物技术产品的开发。\n\n### 格局影响\nOpenAI的这一进步可能影响未来生物医药领域的研究开发生态。\n\n### 冷静判断\n目前仍处于实验室阶段，距离实际医药应用还有较长距离。\n\n### 趋势坐标\n与近期AI对科学研究的推动相呼应，支持AI在复杂科学领域应用的趋势。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+          "published_at": "2026-11-24T21:02:22+00:00",
+          "text": "GPT-6 models demonstrate intrinsic protein-design capabilities（HN 220 points，讨论: https://news.ycombinator.com/item?id=50634658）",
+          "id": "a4530af1ba6"
+        },
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "published_at": "2026-11-24T13:00:00+00:00",
+          "text": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+          "id": "a3c6728c1bf"
+        }
+      ]
+    },
+    {
+      "id": "e724878a26e",
+      "title": "Maple融资530万美元开发数据保护AI",
+      "summary": "初创公司Maple成功融资530万美元，旨在构建保护用户数据的AI产品。其加密AI架构设计确保连公司自身也无法访问用户的私人数据。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+          "published_at": "2026-11-24T21:19:52+00:00",
+          "text": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+          "id": "a724878a26e"
+        }
+      ]
+    },
+    {
+      "id": "e0b7634963f",
+      "title": "纳斯达克重拾跌势，Nvidia及Anthropic股价下滑",
+      "summary": "随着Nvidia和Anthropic的股票下跌，纳斯达克指数再次出现卖压。这一走势标志着市场情绪的转变，投资者对科技股的信心受到挑战。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026",
+          "published_at": "2026-11-24T21:14:06+00:00",
+          "text": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump（HN 28 points，讨论: https://news.ycombinator.com/item?id=50634815）",
+          "id": "a0b7634963f"
+        }
+      ]
+    },
+    {
+      "id": "ecb0d7372f9",
+      "title": "英国警告：AI网络攻击暴露安全隐患",
+      "summary": "英国网络安全机构警告，人工智能驱动的网络攻击正在利用多年来的安全漏洞，强调“建立强大基础设施比以往任何时候都更为重要”。这些AI黑客工具依赖于简单的安全缺陷进行攻击。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "published_at": "2026-11-24T18:02:59+00:00",
+          "text": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+          "id": "acb0d7372f9"
+        }
+      ]
+    },
+    {
+      "id": "e16565a3f5d",
+      "title": "Microduck避障与Isaac Lab合作",
+      "summary": "Hugging Face发布了关于Microduck避障的工作流程，展示了其与Isaac Lab和Newton合作的Sim2Real方法。该工作流程旨在提升机器人控制的真实世界应用能力。通过模拟和真实环境的结合，Microduck能够更有效地避开障碍物。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "published_at": "2026-11-24T16:34:13+00:00",
+          "text": "",
+          "id": "a16565a3f5d"
+        }
+      ]
+    },
+    {
+      "id": "e8a546b15d2",
+      "title": "投资者看好太阳能与电池为 AI 数据中心供电",
+      "summary": "下一代数据中心每年需要数十吉瓦的电力。Crusoe 的一位投资者认为，太阳能和储能是显而易见的选择。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+          "published_at": "2026-11-24T16:10:00+00:00",
+          "text": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+          "id": "a8a546b15d2"
+        }
+      ]
+    },
+    {
+      "id": "e0111dfba56",
+      "title": "Anthropic IPO 价格下跌",
+      "summary": "人工智能公司Anthropic的股票价格已低于其首次公开募股（IPO）定价。这一现象引发了市场对其未来表现的担忧。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Anthropic is below its IPO price",
+          "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+          "published_at": "2026-11-24T14:41:15+00:00",
+          "text": "Anthropic is below its IPO price（HN 128 points，讨论: https://news.ycombinator.com/item?id=50628932）",
+          "id": "a0111dfba56"
+        }
+      ]
+    },
+    {
+      "id": "eb02e5d7aa1",
+      "title": "端侧AI组队计算实现效率暴涨",
+      "summary": "业界首次提出“端侧超节点”概念，能够实现端侧AI的组合计算效率提升270%。该技术在不更换芯片或模型的情况下，推动了物理AI的规模化落地，极大提升了AI应用性能。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+          "url": "https://www.qbitai.com/2026/11/512362.html",
+          "published_at": "2026-11-24T06:35:06+00:00",
+          "text": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+          "id": "ab02e5d7aa1"
+        }
+      ]
+    },
+    {
+      "id": "eec442b764e",
+      "title": "Intentful 通过 Aria 提升工作效率",
+      "summary": "Marina Petrova 的产品 Aria 帮助研究网站并构建提案，同时主动标记信息并解决问题。该工具旨在为用户腾出更多时间以促进成长。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How Intentful uses dots to make more time for growth",
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "published_at": "2026-11-24T00:00:00+00:00",
+          "text": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+          "id": "aec442b764e"
+        }
+      ]
+    },
+    {
+      "id": "e7a6462e387",
+      "title": "iFood 扩展编码代理至 15,000 个仓库",
+      "summary": "OpenAI 博客近日发布了关于 iFood 的一篇文章，介绍该公司如何在超过 15,000 个代码仓库中扩展其编码代理。这一举措旨在提升代码管理的效率和质量，以支持公司的业务增长。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "url": "https://openai.com/business/customer-stories/ifood",
+          "published_at": "2026-11-24T00:00:00+00:00",
+          "text": "",
+          "id": "a7a6462e387"
+        }
+      ]
+    },
+    {
+      "id": "eeaadf24237",
+      "title": "Meta 将 Muse AI 集成至 Instagram",
+      "summary": "Meta 将其 Muse AI 助手直接整合进 Instagram 的私信功能中。此举免去了用户在使用 AI 助手时需在 Instagram 与 Muse 应用之间切换的麻烦。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "published_at": "2026-11-24T17:00:00+00:00",
+          "text": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+          "id": "aeaadf24237"
+        }
+      ]
+    },
+    {
+      "id": "ef3aa9260f1",
+      "title": "利用Astra寻找系外行星",
+      "summary": "两位业余天文学家使用Codex和Astra，成功分析了NASA的开普勒和TESS太空望远镜的公共数据，发现潜在的系外行星。此举展示了如何利用人工智能工具辅助天文学研究。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Searching for distant planets with Astra",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "published_at": "2026-11-24T11:00:00+00:00",
+          "text": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+          "id": "af3aa9260f1"
+        }
+      ]
+    },
+    {
+      "id": "ee5443a2519",
+      "title": "文心 5.5 Flash Preview 正式开源",
+      "summary": "文心 5.5 Flash Preview 现已正式开源，采用 Apache 2.0 协议。这一版本的发布标志着对开发者和研究者的进一步开放，允许他们自由使用和修改代码。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+          "url": "https://www.qbitai.com/2026/11/512354.html",
+          "published_at": "2026-11-24T06:22:28+00:00",
+          "text": "",
+          "id": "ae5443a2519"
+        }
+      ]
+    },
+    {
+      "id": "e99b93f3e10",
+      "title": "Clay借助Codex和ChatGPT提升销售",
+      "summary": "Clay 利用 ChatGPT 和 Codex 的集成，帮助用户研究交易并将数据转化为市场推广策略。GPT-6 模型负责推理处理。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "openai_blog",
+          "source_name": "OpenAI Blog",
+          "category": "官方",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "published_at": "2026-11-24T00:00:00+00:00",
+          "text": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+          "id": "a99b93f3e10"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 97,
+    "articles_new": 16,
+    "articles_filtered": 38,
+    "tokens": {
+      "prompt_tokens": 13908,
+      "completion_tokens": 1886
+    }
+  },
+  "mock": false
+}
