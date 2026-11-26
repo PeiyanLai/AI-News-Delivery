@@ -1,0 +1,376 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T12:34:38+08:00",
+  "briefing": "今日AI领域动态，OpenAI限制GPT-6.2使用影响开发者体验，蔚来智驾引入模型3.0提高效率；AI影视基地建设及AI短片制作工具推出，推动影视行业变革；商汤发布新产品，显示图像处理领域创新。事件凸显AI在各行业快速渗透。",
+  "highlights": "今天的事件反映了AI技术在各领域的持续渗透和整合。OpenAI限制GPT-6.2的使用，可能会影响开发者的日常工作流程，迫使他们寻求替代方案或优化现有资源，这表明AI技术发展带来的资源管理挑战正在加剧。此外，商汤推出的SenseNova U1.6展示了AI在图像处理方面的领先地位，结合蔚来在自动驾驶方面的效率提升，体现出AI技术在创新应用上的持续突破。整体来看，AI正以前所未有的速度推动着各行业的创新和生产力提升。",
+  "events": [
+    {
+      "id": "e244a3e8cb4",
+      "title": "OpenAI 限制 GPT-6.2 使用",
+      "summary": "OpenAI 对 GPT-6.2 的使用进行了限制，导致 Astra 达到使用限制的速度加快了 40%，而 Sol 的速度也提高了 25%。这一变化可能会影响开发者和用户的使用体验。",
+      "tier": "must_read",
+      "insight": "### 一句话本质\nOpenAI对其最新版本GPT-6.2实施了使用限制，可能会影响用户和开发者。\n\n### 为什么令人兴奋\n这种限制让开发者不得不更有效地利用他们的资源，迫使技术使用和开发的变革。\n\n### 产品机会\n有可能会激发市场需求导向开发新的AI模型和工具，更专注于资源优化和管理。\n\n### 格局影响\n对于OpenAI来说，这是保持其基础设施的稳定和可用性的一种策略，但也可能削弱其对开发者的吸引力。\n\n### 冷静判断\n这些限制可能只是目前的阶段性措施，未必会长期实施，未来视用户反馈会有调整。\n\n### 趋势坐标\n反映了AI系统复杂度增加带来的资源管理挑战，与最近AI模型效率优化的趋势相呼应。",
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "published_at": "2026-11-26T03:36:58+00:00",
+          "text": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster（HN 22 points，讨论: https://news.ycombinator.com/item?id=50651117）",
+          "id": "a244a3e8cb4"
+        }
+      ]
+    },
+    {
+      "id": "e0976266106",
+      "title": "蔚来智驾引入模型3.0 提效显著",
+      "summary": "任少卿宣布推出世界模型3.0，蔚来智驾训练效率提高了5倍。同时，座舱也将应用强化学习技术。李斌表示，如果不进行AI变革，公司可能难以生存。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+          "url": "https://www.qbitai.com/2026/11/512897.html",
+          "published_at": "2026-11-26T03:23:35+00:00",
+          "text": "李斌坦言：不做AI变革可能活不下去",
+          "id": "a0976266106"
+        }
+      ]
+    },
+    {
+      "id": "e095ccea1df",
+      "title": "AI影视高地在北影海淀崛起",
+      "summary": "北影海淀一带正在建设AI影视产业基地，形成了一人制片厂的基础设施。这一地区汇聚了多项强大的人工智能资源，推动影视创作的新模式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+          "url": "https://www.qbitai.com/2026/11/512828.html",
+          "published_at": "2026-11-26T02:53:14+00:00",
+          "text": "叠满海淀最强AI Buff。",
+          "id": "a095ccea1df"
+        }
+      ]
+    },
+    {
+      "id": "edc85126b0a",
+      "title": "OpenAI 合并 ChatGPT 使用模式",
+      "summary": "OpenAI 将在合并 ChatGPT 的聊天和工作体验时引入单一使用计量器。重度使用者可能会较早达到使用限制。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "published_at": "2026-11-25T20:03:27+00:00",
+          "text": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+          "id": "adc85126b0a"
+        }
+      ]
+    },
+    {
+      "id": "e00d3c793ba",
+      "title": "Anthropic CEO 回应 AI 控制争议",
+      "summary": "Anthropic 首席执行官 Dario Amodei 反驳了竞争对手的指控，称其支持将人类控制权交给 AI 的说法“荒谬”。尽管如此，领先的 AI 公司仍在不断自动化自己的研究和模型开发。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "published_at": "2026-11-25T19:44:24+00:00",
+          "text": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+          "id": "a00d3c793ba"
+        }
+      ]
+    },
+    {
+      "id": "e37b5c9ba93",
+      "title": "科学家对AI代理的界限",
+      "summary": "Hugging Face Blog 讨论了科学家们在 AI 代理应用中的道德边界。随着 AI 技术的发展，研究人员对其在决策过程中的作用及潜在影响表示担忧，并强调了设定明确界限的重要性。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Where scientists draw the line on AI agents",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "published_at": "2026-11-25T18:52:55+00:00",
+          "text": "",
+          "id": "a37b5c9ba93"
+        }
+      ]
+    },
+    {
+      "id": "e3043f56e6b",
+      "title": "商汤发布SenseNova U1.6 AI产品",
+      "summary": "商汤科技推出了最新的AI产品SenseNova U1.6，展示了其在图像处理领域的创新能力。许多观众在初次看到产品时，误以为这是摄影作品，显示出其图像生成的高质量。此款AI产品旨在推动智能应用的进一步发展。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+          "url": "https://www.qbitai.com/2026/11/512748.html",
+          "published_at": "2026-11-25T16:34:09+00:00",
+          "text": "商汤SenseNova U1.6",
+          "id": "a3043f56e6b"
+        }
+      ]
+    },
+    {
+      "id": "eb47f021e12",
+      "title": "AI 数据中心建设面临挑战",
+      "summary": "Nvidia 表示，只有在 AI 数据中心几乎准备就绪时才会提供支持，而这正值 neoclouds 报告建设延误和融资成本上升之际。对于开发者而言，土地、电力和完成的建筑比商业计划书更为重要。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "published_at": "2026-11-25T15:41:43+00:00",
+          "text": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+          "id": "ab47f021e12"
+        }
+      ]
+    },
+    {
+      "id": "e61cb6e1f95",
+      "title": "亚马逊与Meta洽谈解除Muse封锁",
+      "summary": "亚马逊和Meta正在讨论一项潜在协议，以结束对AI代理Muse的为期两个月的封锁。此举可能为Muse的运营和发展带来新的机遇。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "techcrunch_ai",
+          "source_name": "TechCrunch AI",
+          "category": "英文媒体",
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "published_at": "2026-11-25T14:10:18+00:00",
+          "text": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+          "id": "a61cb6e1f95"
+        }
+      ]
+    },
+    {
+      "id": "eb4817ec40d",
+      "title": "中国团队破解Loop架构",
+      "summary": "一支中国团队成功解析了Loop架构，使得General Looped Model在9400万参数的情况下，对抗50亿参数的模型，实现了权重显存直降98%。这一技术的突破可能会改变未来模型的训练和部署方式。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+          "url": "https://www.qbitai.com/2026/11/512565.html",
+          "published_at": "2026-11-25T11:07:14+00:00",
+          "text": "揭秘General Looped Model",
+          "id": "ab4817ec40d"
+        }
+      ]
+    },
+    {
+      "id": "ed0a3a7f662",
+      "title": "Hugging Face 推出 CUGA 语音助手",
+      "summary": "Hugging Face 发布了一个名为 CUGA 的印度语音助手，旨在增强印度用户的互动体验。该助手支持多种地区语言，并集成了先进的自然语言处理技术。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "An Indic Voice Agent with CUGA",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "published_at": "2026-11-25T10:22:09+00:00",
+          "text": "",
+          "id": "ad0a3a7f662"
+        }
+      ]
+    },
+    {
+      "id": "ed8d6777ecf",
+      "title": "Hugging Face 推出 Inkling 2 Mini 推理",
+      "summary": "Hugging Face 发布了在一台 RTX PRO 6000 上进行 Hill-climbing Inkling 2 Mini 推理的技术细节。这一实现展示了如何利用高性能显卡优化 AI 模型的推理能力。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hf_blog",
+          "source_name": "Hugging Face Blog",
+          "category": "官方",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "published_at": "2026-11-25T00:00:00+00:00",
+          "text": "",
+          "id": "ad8d6777ecf"
+        }
+      ]
+    },
+    {
+      "id": "e38f3d822d5",
+      "title": "Claude 可作为桌面应用安装",
+      "summary": "Claude artifacts 现在可以在 Mac 和 Windows 系统上作为桌面应用安装。这一新功能为用户提供了更方便的使用体验。",
+      "tier": "worth_reading",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Claude artifacts can now be installed as desktop apps on Mac and Windows",
+          "url": "https://claude.com/resources/articles/install-as-app",
+          "published_at": "2026-11-24T20:39:15+00:00",
+          "text": "Claude artifacts can now be installed as desktop apps on Mac and Windows（HN 29 points，讨论: https://news.ycombinator.com/item?id=50634369）",
+          "id": "a38f3d822d5"
+        }
+      ]
+    },
+    {
+      "id": "e3cb2871a2d",
+      "title": "AI短片制作工具上线",
+      "summary": "一款新的AI制作工具可以在15分钟内生成短片，用户只需提供一个故事。该工具旨在让普通用户，例如家里的二舅，也能轻松上手制作影片。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+          "url": "https://www.qbitai.com/2026/11/512727.html",
+          "published_at": "2026-11-25T14:51:06+00:00",
+          "text": "",
+          "id": "a3cb2871a2d"
+        }
+      ]
+    },
+    {
+      "id": "e45e2e7f383",
+      "title": "智元灵心平台孵化超3万智能体",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA。该平台一年内孵化超过3万个机器人智能体，实现了零基础用户也能进行开发。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+          "url": "https://www.qbitai.com/2026/11/512715.html",
+          "published_at": "2026-11-25T14:32:57+00:00",
+          "text": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+          "id": "a45e2e7f383"
+        }
+      ]
+    },
+    {
+      "id": "e2203f5966a",
+      "title": "九章云极发布物理AI工厂",
+      "summary": "11月25日，九章云极在深圳举办了以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨智算生态大会。会议宣布了物理AI工厂与生态开放计划，旨在提升算力对现实世界的影响和应用。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+          "url": "https://www.qbitai.com/2026/11/512582.html",
+          "published_at": "2026-11-25T14:21:20+00:00",
+          "text": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
+          "id": "a2203f5966a"
+        }
+      ]
+    },
+    {
+      "id": "eb59a8f2fd2",
+      "title": "逐际动⼒与商汤达成合作",
+      "summary": "逐际动⼒与商汤科技达成合作，提供高质量计算能力，全面支持机器⼈仿真训练与测试。这一合作旨在贯通智能研发流程，提高研发效率。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "qbitai",
+          "source_name": "量子位",
+          "category": "中文媒体",
+          "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+          "url": "https://www.qbitai.com/2026/11/512683.html",
+          "published_at": "2026-11-25T14:20:24+00:00",
+          "text": "贯通具⾝智能研发流程",
+          "id": "ab59a8f2fd2"
+        }
+      ]
+    },
+    {
+      "id": "e1f336605a0",
+      "title": "AI驱动漫画页面特征一致性探讨",
+      "summary": "一位开发者展示了如何在24页AI驱动的漫画中保持角色面孔和特征的一致性。该项目利用人工智能技术，确保角色在不同情节中的外观协调，提升了漫画的整体视觉体验。",
+      "tier": "skim",
+      "insight": null,
+      "articles": [
+        {
+          "source_id": "hackernews",
+          "source_name": "Hacker News",
+          "category": "英文社区",
+          "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+          "url": "https://joonoo.art/create-comic",
+          "published_at": "2026-11-24T17:53:53+00:00",
+          "text": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages（HN 20 points，讨论: https://news.ycombinator.com/item?id=50631791）",
+          "id": "a1f336605a0"
+        }
+      ]
+    }
+  ],
+  "failed_sources": [
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "error": "RSS 解析失败: <unknown>:18:14: mismatched tag"
+    },
+    {
+      "id": "meta_ai_blog",
+      "name": "Meta AI Blog",
+      "error": "400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss.xml"
+    }
+  ],
+  "empty_sources": [
+    "OpenAI Blog",
+    "Google DeepMind"
+  ],
+  "stats": {
+    "articles_fetched": 83,
+    "articles_new": 18,
+    "articles_filtered": 21,
+    "tokens": {
+      "prompt_tokens": 15062,
+      "completion_tokens": 2068
+    }
+  },
+  "mock": false
+}
